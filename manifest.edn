@@ -1,0 +1,87 @@
+#:rendering{:label "Српски",
+            :source
+            {:text :oshb-wlc,
+             :corpus :tanakh,
+             :verses 23213,
+             :tokens 305507},
+            :provenance
+            {:derived
+             [:lang
+              :version
+              :label
+              :status
+              :lineage
+              :source
+              :rails
+              :rails-commit
+              :name-seat
+              :models
+              :tiers
+              :produced
+              :license
+              :catalog],
+             :declared
+             [:role :open-questions :rendering/adjudication]},
+            :role :served,
+            :produced {:from "2026-09-05", :to "2026-09-05"},
+            :id "sr.v1",
+            :catalog {:ui "resources/i18n/ui/sr.edn"},
+            :license "CC BY-SA 4.0 (The Selah Serbian Rendering)",
+            :model
+            {:provider :z.ai,
+             :models {"glm-5.3" 23161, "fable-5-hand" 52},
+             :tiers {"glm-5.2" 23213},
+             :prompt "selah.translate.prompt",
+             :canonical-forms "data/translation/canonical-forms.edn"},
+            :discipline
+            {:rails "docs/methodology/translation-discipline/sr.md",
+             :rails-commit "dd1dd94a",
+             :foundation
+             [:hebrew-first
+              :deut-6-4-double-fidelity
+              :no-foreknowledge
+              :aleph-tav-total
+              :fills-bracketed
+              :no-translator-notes
+              :tough-verse-lay-it-bare],
+             :name-seat
+             {"אדני" "Адонај",
+              "אל" "Ел",
+              "אלהים" "Елохим",
+              "אלוה" "Елоах",
+              "יה" "Јах",
+              "יהוה" "Јахве",
+              "צבאות" "Цеваот",
+              "שדי" "Шадај"},
+             :open-questions
+             ["digraphia: Latin-script Serbian lens PENDING SCOTT"
+              "paren-shadows 3,705 files / 1,830 instances ((Mojsije) 284) — one posture ruling with ms/kk/hu; incl Isus-Navin shadow 85 verses"
+              "case-suffix six-chair ratification (ro+hu+kk+sr+hy+ka) incl Djordje-paradigm restorations 229"
+              "Mashijah 25 vs pomazanik 14 drift at mashiach seats"
+              "Isa 6:3 Cevaot paren renders D1-rejected form"
+              "et flow arithmetic ~1,185 token-markers not reaching flow — no baseline"]},
+            :status :rendering,
+            :adjudication
+            {:chair 61,
+             :date "2026-09-05",
+             :first :two-alphabet,
+             :seal
+             {:jahve 5799,
+              :elohim 2093,
+              :et-verses 7368,
+              :aleph-tav [0 0 0 0],
+              :nt-leak 0},
+             :tekoa {:class-a 7, :repaired 7},
+             :transliteration
+             {:files 555, :words 1015, :bijection :gaj-vuk},
+             :stem-restorations 229},
+            :version "v1",
+            :lineage
+            {:git
+             {:repo nil,
+              :ref "v1-final",
+              :commit "b965d77c",
+              :tags ["v1-final"],
+              :branches ["main"]},
+             :parents []},
+            :lang :sr}
