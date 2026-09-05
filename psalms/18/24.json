@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 18:24",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "И биох непорочан с њим, и чувах се од кривице своје.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "И биох"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "непорочан"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "с њим"
+    },
+    {
+      "surface": "ואשתמר",
+      "gloss": "и чувах се"
+    },
+    {
+      "surface": "מעוני",
+      "gloss": "од кривице своје"
+    }
+  ],
+  "timestamp": "2026-09-05T15:53:52.277843510Z",
+  "model": "glm-5.3"
+}

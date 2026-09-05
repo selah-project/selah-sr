@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 6:25",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "Обасја Јахве лицем својим ⟨тебе⟩ и милост ти уздај.",
+  "tokens": [
+    {
+      "surface": "יאר",
+      "gloss": "Обасја"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "лицем својим"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "⟨тебе⟩"
+    },
+    {
+      "surface": "ויחנך",
+      "gloss": "и милост ти уздај"
+    }
+  ],
+  "timestamp": "2026-09-05T10:29:22.848371854Z",
+  "model": "glm-5.3"
+}

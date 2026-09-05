@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 8:2",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "На врху висина, поред пута, на раскршћу стаза стоји;",
+  "tokens": [
+    {
+      "surface": "בראש",
+      "gloss": "на врху"
+    },
+    {
+      "surface": "מרומים",
+      "gloss": "висина"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "поред"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "пута"
+    },
+    {
+      "surface": "בית",
+      "gloss": "место"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "стаза"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "стоји"
+    }
+  ],
+  "timestamp": "2026-09-05T13:47:56.230781923Z",
+  "model": "glm-5.3"
+}

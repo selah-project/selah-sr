@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 24:29",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "Не говори: као што учини мени, тако ћу учинити њему; вратићу човеку по делу његовом.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "говори"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "као што"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "учини"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мени"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тако"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ћу учинити"
+    },
+    {
+      "surface": "לו",
+      "gloss": "њему"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "вратићу"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "човеку"
+    },
+    {
+      "surface": "כפעלו",
+      "gloss": "по делу његовом"
+    }
+  ],
+  "timestamp": "2026-09-05T16:01:36.290785749Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 10:28",
+  "book": "2-kings",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "И истреби Јеху ⟨את⟩ Ваала из Израиља.",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "И истреби"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Јеху"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ваала"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "Ваала"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "из Израиља"
+    }
+  ],
+  "timestamp": "2026-09-05T11:52:58.085245233Z",
+  "model": "glm-5.3"
+}

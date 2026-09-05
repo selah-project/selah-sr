@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 3:9",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Јахвеу ⟨је⟩ спасење; на народ твој благослов твој. Села.",
+  "tokens": [
+    {
+      "surface": "ליהוה",
+      "gloss": "Јахвеу"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "спасење"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "народ твој"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "благослов твој"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Села"
+    }
+  ],
+  "timestamp": "2026-09-05T13:16:02.993576497Z",
+  "model": "glm-5.3"
+}

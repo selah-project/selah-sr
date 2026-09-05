@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "haggai 2:6",
+  "book": "haggai",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Јер овако рече Јахве Цеваот: још један‿мало ⟨је⟩, и ја потресам ⟨את⟩ небеса и ⟨את⟩ земљу и ⟨את⟩ море и ⟨את⟩ сушу.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "כה",
+      "gloss": "овако"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "још"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "један"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "мало"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨је⟩"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "и ја"
+    },
+    {
+      "surface": "מרעיש",
+      "gloss": "потресам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "небеса"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небеса"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "земљу"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земљу"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "море"
+    },
+    {
+      "surface": "הים",
+      "gloss": "море"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "сушу"
+    },
+    {
+      "surface": "החרבה",
+      "gloss": "сушу"
+    }
+  ],
+  "timestamp": "2026-09-05T15:51:49.112113532Z",
+  "model": "glm-5.3"
+}

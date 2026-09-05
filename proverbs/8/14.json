@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 8:14",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "Мени ⟨је⟩ савет и крепка мудрост; ја ⟨сам⟩ разум; мени ⟨је⟩ снага.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "мени"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "савет"
+    },
+    {
+      "surface": "ותושיה",
+      "gloss": "и крепка мудрост"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "разум"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мени"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "снага"
+    }
+  ],
+  "timestamp": "2026-09-05T13:47:36.148694235Z",
+  "model": "glm-5.3"
+}

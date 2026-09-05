@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 27:8",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 27,
+  "translation": "И написаћеш на камењу ⟨את⟩ све речи Торе ове, јасно и разложно.",
+  "tokens": [
+    {
+      "surface": "וכתבת",
+      "gloss": "и написаћеш"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "камењу"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "све речи Торе ове"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "речи"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Торе"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ове"
+    },
+    {
+      "surface": "באר",
+      "gloss": "јасно и разложно"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "врло"
+    }
+  ],
+  "timestamp": "2026-09-05T10:52:53.674581503Z",
+  "model": "glm-5.3"
+}

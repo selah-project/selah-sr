@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 1:19",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "Као што заповеди Јахве ⟨את⟩ Мошеа, тако их изброји у пустињи Синај.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "као што"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповеди"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мошеа"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошеа"
+    },
+    {
+      "surface": "ויפקדם",
+      "gloss": "тако их изброји"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "у пустињи"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Синај"
+    }
+  ],
+  "timestamp": "2026-09-05T10:28:04.519622108Z",
+  "model": "glm-5.3"
+}

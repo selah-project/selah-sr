@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 11:24",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "Ово учини Бенајаху, син Јехојадин, и ⟨имаде⟩ име међу три јунака.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ово"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "учини"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "Бенајаху"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Јехојадин"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "и-њему"
+    },
+    {
+      "surface": "שם",
+      "gloss": "име"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "међу-три"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "јунака"
+    }
+  ],
+  "timestamp": "2026-09-05T14:38:46.808657466Z",
+  "model": "glm-5.3"
+}

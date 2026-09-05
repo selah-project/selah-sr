@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 10:23",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "И над војском племена синова Менашеа (Манасија) Гамлиел, син Педахцура.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "и над"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "војском"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "племена"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синова"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Менашеа"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "Гамлиел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "Педах"
+    },
+    {
+      "surface": "צור",
+      "gloss": "цура"
+    }
+  ],
+  "timestamp": "2026-09-05T10:31:25.393922202Z",
+  "model": "glm-5.3"
+}

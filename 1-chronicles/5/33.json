@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 5:33",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Мерајот роди ⟨את⟩ Амарију, а Амарија роди ⟨את⟩ Ахитува.",
+  "tokens": [
+    {
+      "surface": "מריות",
+      "gloss": "Мерајот"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Амарију"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Амарију"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "а Амарија"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ахитува"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Ахитува"
+    }
+  ],
+  "timestamp": "2026-09-05T16:14:14.327591799Z",
+  "model": "glm-5.3"
+}

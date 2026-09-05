@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 37:28",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 37,
+  "translation": "И начини ⟨את⟩ полуге од дрвета шитим и обложи ⟨את⟩ њих златом.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "И начини"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "полуге"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "полуге"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "од дрвета"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "шитим"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "и обложи"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ њих",
+      "marks": "златом"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "златом"
+    }
+  ],
+  "timestamp": "2026-09-05T10:13:40.432867192Z",
+  "model": "glm-5.3"
+}

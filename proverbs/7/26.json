@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 7:26",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Јер многе прободене оборила је, и моћни сви побијени су ⟨од⟩ ње.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "многе"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "прободене"
+    },
+    {
+      "surface": "הפילה",
+      "gloss": "оборила је"
+    },
+    {
+      "surface": "ועצמים",
+      "gloss": "и моћни"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сви"
+    },
+    {
+      "surface": "הרגיה",
+      "gloss": "побијени су ⟨од⟩ ње"
+    }
+  ],
+  "timestamp": "2026-09-05T13:47:28.920825121Z",
+  "model": "glm-5.3"
+}

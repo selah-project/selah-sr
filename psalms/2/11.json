@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 2:11",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Служите ⟨את⟩ Јахве са страхом, и радујте се са дрхтањем.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "Служите"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јахве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ביראה",
+      "gloss": "са страхом"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "и радујте се"
+    },
+    {
+      "surface": "ברעדה",
+      "gloss": "са дрхтањем"
+    }
+  ],
+  "timestamp": "2026-09-05T15:52:33.417539827Z",
+  "model": "glm-5.3"
+}

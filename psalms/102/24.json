@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 102:24",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 102,
+  "translation": "Понижти је на путу снагу моју; скратио је дане моје.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "Понижти је"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "на путу"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "снагу моју"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "скратио је"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дане моје"
+    }
+  ],
+  "timestamp": "2026-09-05T13:36:13.350771664Z",
+  "model": "glm-5.3"
+}

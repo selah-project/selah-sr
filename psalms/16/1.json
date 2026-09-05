@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 16:1",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 16,
+  "translation": "Михтам Давидов (Давидов): чувај ме, Еле, јер сам се у тебе склонио.",
+  "tokens": [
+    {
+      "surface": "מכתם",
+      "gloss": "Михтам"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидов"
+    },
+    {
+      "surface": "שמרני",
+      "gloss": "чувај ме"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Еле"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "склонио сам се"
+    },
+    {
+      "surface": "בך",
+      "gloss": "у тебе"
+    }
+  ],
+  "timestamp": "2026-09-05T13:18:35.838147163Z",
+  "model": "glm-5.3"
+}

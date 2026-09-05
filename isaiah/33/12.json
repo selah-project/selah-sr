@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 33:12",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 33,
+  "translation": "И биће народи спаљивање креча; трње исечено — у ватри изгореће.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "И биће"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "народи"
+    },
+    {
+      "surface": "משרфות",
+      "gloss": "спаљивање"
+    },
+    {
+      "surface": "שיד",
+      "gloss": "креча"
+    },
+    {
+      "surface": "קוצים",
+      "gloss": "трње"
+    },
+    {
+      "surface": "כסוחים",
+      "gloss": "исечено"
+    },
+    {
+      "surface": "באש",
+      "gloss": "у ватри"
+    },
+    {
+      "surface": "יצתו",
+      "gloss": "изгореће"
+    }
+  ],
+  "timestamp": "2026-09-05T12:08:51.419518266Z",
+  "model": "glm-5.3"
+}

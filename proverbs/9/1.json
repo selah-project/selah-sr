@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 9:1",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "Мудрост сазида ⟨ѕвој⟩ дом, изврже ⟨ѕвоје⟩ стубове — седам.",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "Мудрост"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "сазида"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "дом њен"
+    },
+    {
+      "surface": "חצבה",
+      "gloss": "изврже"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "стубове њене"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "седам"
+    }
+  ],
+  "timestamp": "2026-09-05T13:47:54.048409120Z",
+  "model": "glm-5.3"
+}

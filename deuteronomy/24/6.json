@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 24:6",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "Неће узети у залог жрвње ни горњи камен, јер душу ⟨то јест⟩ узима у залог.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Неће"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "узети у залог"
+    },
+    {
+      "surface": "רחים",
+      "gloss": "жрвње"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "ни горњи камен"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "душу"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨то јест⟩"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "узима у залог"
+    }
+  ],
+  "timestamp": "2026-09-05T10:52:31.819655554Z",
+  "model": "glm-5.3"
+}

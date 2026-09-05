@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "amos 7:16",
+  "book": "amos",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "А сада чуј реч Јахвеову: ти велиш: не сме се пророковати на Израиља, ни капати на дом Исаков.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "а сада"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "чуј"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "реч"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "велиш"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תנבא",
+      "gloss": "сме се пророковати"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиља"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ни"
+    },
+    {
+      "surface": "תטיף",
+      "gloss": "капати"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "Исаков"
+    }
+  ],
+  "timestamp": "2026-09-05T15:49:46.493483647Z",
+  "model": "glm-5.3"
+}

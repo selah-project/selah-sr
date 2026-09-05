@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 12:8",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "Постаде ми наслеђе моје као лав у шуми: заори на ме гласом својим — зато је замрзех.",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "Постаде"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "נחלתי",
+      "gloss": "наслеђе моје"
+    },
+    {
+      "surface": "כאריה",
+      "gloss": "као лав"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "у шуми"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "заори"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "на ме"
+    },
+    {
+      "surface": "בקולה",
+      "gloss": "гласом својим"
+    },
+    {
+      "surface": "על",
+      "gloss": "ради"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тога"
+    },
+    {
+      "surface": "שנאתיה",
+      "gloss": "замрзех је"
+    }
+  ],
+  "timestamp": "2026-09-05T12:26:28.897171617Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 28:20",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "И дође на њега Тиглат Пилнесер, краљ Ашура, и стега га — али га не ојача.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "и дође"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "на њега"
+    },
+    {
+      "surface": "תלגת",
+      "gloss": "Тиглат"
+    },
+    {
+      "surface": "פלנאסר",
+      "gloss": "Пилнесер"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "краљ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашура"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "и стега"
+    },
+    {
+      "surface": "לו",
+      "gloss": "га"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "али не"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "ојача"
+    }
+  ],
+  "timestamp": "2026-09-05T14:53:13.448674464Z",
+  "model": "glm-5.3"
+}

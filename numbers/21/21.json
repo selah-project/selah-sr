@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 21:21",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "И посла Израије посланике Сихону, краљу аморске, да каже:",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "И посла"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиље"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "посланике"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ка"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Сихону"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "краљу"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "аморског"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "да каже"
+    }
+  ],
+  "timestamp": "2026-09-05T17:53:04.597488546Z",
+  "model": "glm-5.3"
+}

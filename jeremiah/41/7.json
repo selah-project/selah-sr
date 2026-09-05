@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 41:7",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 41,
+  "translation": "И би, када уђоше у сред града, покла их Ишмаел син Нетаније, ⟨у⟩ сред бунара, он и људи који беху са њим.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И би"
+    },
+    {
+      "surface": "כבואם",
+      "gloss": "када уђоше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "сред"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "града"
+    },
+    {
+      "surface": "וישחטם",
+      "gloss": "покла их"
+    },
+    {
+      "surface": "ישмעאל",
+      "gloss": "Ишмаел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "נתניה",
+      "gloss": "Нетаније"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "сред"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "бунара"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "והאנשים",
+      "gloss": "и људи"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "са њим"
+    }
+  ],
+  "timestamp": "2026-09-05T15:41:17.843573583Z",
+  "model": "glm-5.3"
+}

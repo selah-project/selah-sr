@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 24:10",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "Обесхрабрио си се у дан невоље — тесна ⟨је⟩ снага твоја.",
+  "tokens": [
+    {
+      "surface": "התרפית",
+      "gloss": "Обесхрабрио си се"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "у дан"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "невоље"
+    },
+    {
+      "surface": "צר",
+      "gloss": "тесна"
+    },
+    {
+      "surface": "כחכה",
+      "gloss": "снага твоја"
+    }
+  ],
+  "timestamp": "2026-09-05T13:51:53.006234699Z",
+  "model": "glm-5.3"
+}

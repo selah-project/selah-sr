@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 91:8",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 91,
+  "translation": "Само очима својим гледаћеш, плату злих видети.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "само"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "очима својим"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "гледаћеш"
+    },
+    {
+      "surface": "ושלמת",
+      "gloss": "плату"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "злих"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "видети"
+    }
+  ],
+  "timestamp": "2026-09-05T13:35:38.394252537Z",
+  "model": "glm-5.3"
+}

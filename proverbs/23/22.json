@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 23:22",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "Чуј оца свога, који те родио, и не презири матере своје кад остари.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Чуј"
+    },
+    {
+      "surface": "לאביך",
+      "gloss": "оца свога"
+    },
+    {
+      "surface": "זה",
+      "gloss": "онај"
+    },
+    {
+      "surface": "ילדך",
+      "gloss": "те родио"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "презири"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "остари"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "матер твоја"
+    }
+  ],
+  "timestamp": "2026-09-05T13:51:51.957338211Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 63:11",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 63,
+  "translation": "Преточиће га у руке мача, биће најам шакала.",
+  "tokens": [
+    {
+      "surface": "יגירהו",
+      "gloss": "Преточиће га"
+    },
+    {
+      "surface": "על",
+      "gloss": "у"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "руке"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "мача"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "најам\/део"
+    },
+    {
+      "surface": "שעלים",
+      "gloss": "шакала"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "биће"
+    }
+  ],
+  "timestamp": "2026-09-05T13:28:35.537391181Z",
+  "model": "glm-5.3"
+}

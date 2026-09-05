@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 22:17",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "Ено, Јахве те обалá, обалење снажника, и увија те увијањем.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ено"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "מטלטלך",
+      "gloss": "те обалá"
+    },
+    {
+      "surface": "טלטלה",
+      "gloss": "обалење"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "снажника"
+    },
+    {
+      "surface": "ועטך",
+      "gloss": "и увија те"
+    },
+    {
+      "surface": "עטה",
+      "gloss": "увијањем"
+    }
+  ],
+  "timestamp": "2026-09-05T12:07:20.976744559Z",
+  "model": "glm-5.3"
+}

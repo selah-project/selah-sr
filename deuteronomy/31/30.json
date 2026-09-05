@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 31:30",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 31,
+  "translation": "И говори Моше у уши свега сабора Израиљевог ⟨את⟩ речи ове песме, до потпуна свршетка.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "И говори"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "у уши"
+    },
+    {
+      "surface": "כל",
+      "gloss": "свега"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "сабора"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљевог"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "речи ове песме"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "речи"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "песме"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ове"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "потпуна свршетка"
+    }
+  ],
+  "timestamp": "2026-09-05T10:55:29.529411815Z",
+  "model": "glm-5.3"
+}

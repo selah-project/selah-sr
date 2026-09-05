@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezekiel 27:28",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 27,
+  "translation": "Од гласа вике кормилара твојих задрхташе предграђа.",
+  "tokens": [
+    {
+      "surface": "לקול",
+      "gloss": "од гласа"
+    },
+    {
+      "surface": "זעקת",
+      "gloss": "вике"
+    },
+    {
+      "surface": "חבליך",
+      "gloss": "кормилара твојих"
+    },
+    {
+      "surface": "ירעשו",
+      "gloss": "задрхташе"
+    },
+    {
+      "surface": "מגרשות",
+      "gloss": "предграђа"
+    }
+  ],
+  "timestamp": "2026-09-05T12:51:51.011958028Z",
+  "model": "glm-5.3"
+}

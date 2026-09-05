@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 25:11",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 25,
+  "translation": "Ради имена твојега, Јахве, опрости преступ мој, јер ⟨је⟩ велик ⟨он⟩.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ради"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "имена твојега"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "וסלחת",
+      "gloss": "и опрости"
+    },
+    {
+      "surface": "לעוני",
+      "gloss": "преступ мој"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "רב",
+      "gloss": "велик"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨он⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T15:53:54.512975514Z",
+  "model": "glm-5.3"
+}

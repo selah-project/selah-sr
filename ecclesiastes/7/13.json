@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 7:13",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Гледај ⟨את⟩ дело Елохима, јер ко може да исправи ⟨את⟩ оно што је он искривио?",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Гледај"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дело Елохима"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "дело"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елохима"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ко"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "може"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "да исправи"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "оно што је искривио"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "עותו",
+      "gloss": "искривио"
+    }
+  ],
+  "timestamp": "2026-09-05T16:08:50.623810851Z",
+  "model": "glm-5.3"
+}

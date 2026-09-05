@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 47:6",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 47,
+  "translation": "И рече ми: „Виде ли, сине човечји?“ И поведе ме и врати ме на обалу потока.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "הראית",
+      "gloss": "виде ли"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сине"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човечји"
+    },
+    {
+      "surface": "ויולכני",
+      "gloss": "и поведе ме"
+    },
+    {
+      "surface": "וישבני",
+      "gloss": "и врати ме"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "на обалу"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "потока"
+    }
+  ],
+  "timestamp": "2026-09-05T12:57:56.449919144Z",
+  "model": "glm-5.3"
+}

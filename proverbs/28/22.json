@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 28:22",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "Ужурбан према богатству ⟨је⟩ човек рђавога ока, и не зна да ће га снаћи оскудица.",
+  "tokens": [
+    {
+      "surface": "נבהל",
+      "gloss": "Ужурбан"
+    },
+    {
+      "surface": "להון",
+      "gloss": "према богатству"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "רע",
+      "gloss": "рђавог"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ока"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "зна"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "оскудица"
+    },
+    {
+      "surface": "יבאנו",
+      "gloss": "да ће га снаћи"
+    }
+  ],
+  "timestamp": "2026-09-05T16:02:48.339290658Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 48:7",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 48,
+  "translation": "Сад створени ⟨су⟩, а не од тада; и пре дана ниси их чуо — да не кажеш: ево, знао сам их.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "сад"
+    },
+    {
+      "surface": "נבראו",
+      "gloss": "створени"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "од тада"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "и пре"
+    },
+    {
+      "surface": "יום",
+      "gloss": "дана"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "чуо си их"
+    },
+    {
+      "surface": "פן",
+      "gloss": "да не"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "кажеш"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ево"
+    },
+    {
+      "surface": "ידעתין",
+      "gloss": "знао сам"
+    }
+  ],
+  "timestamp": "2026-09-05T12:15:03.300185956Z",
+  "model": "glm-5.3"
+}

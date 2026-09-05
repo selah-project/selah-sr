@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "isaiah 14:26",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "Ово ⟨је⟩ савет осмишљен над свом земљом, и ово ⟨је⟩ рука пружена над свим народима.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ово"
+    },
+    {
+      "surface": "העצה",
+      "gloss": "савет"
+    },
+    {
+      "surface": "היעוצה",
+      "gloss": "осмишљен"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "כל",
+      "gloss": "свом"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земљом"
+    },
+    {
+      "surface": "וזאת",
+      "gloss": "и ово"
+    },
+    {
+      "surface": "היד",
+      "gloss": "рука"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "пружена"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "כל",
+      "gloss": "свим"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "народима"
+    }
+  ],
+  "timestamp": "2026-09-05T12:04:50.807715752Z",
+  "model": "glm-5.3"
+}

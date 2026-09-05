@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 16:10",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 16,
+  "translation": "Јер нећеш оставити душу моју ⟨у⟩ Шеол, нећеш дати хасида свог да види јаму.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "оставиш"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душу моју"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Шеолу"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "тתן",
+      "gloss": "даш"
+    },
+    {
+      "surface": "חסידך",
+      "gloss": "хасида свог"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "да види"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "јаму"
+    }
+  ],
+  "timestamp": "2026-09-05T13:17:52.624772827Z",
+  "model": "glm-5.3"
+}

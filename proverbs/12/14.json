@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 12:14",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "Од рода уста својих човек ⟨се⟩ насити добра, и дело руку човекових вратиће му се.",
+  "tokens": [
+    {
+      "surface": "מפרי",
+      "gloss": "Од рода"
+    },
+    {
+      "surface": "פי",
+      "gloss": "уста"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "⟨се⟩ насити"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добра"
+    },
+    {
+      "surface": "וגמול",
+      "gloss": "и платa"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "руку"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човекових"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "вратиће се"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    }
+  ],
+  "timestamp": "2026-09-05T13:48:41.342440269Z",
+  "model": "glm-5.3"
+}

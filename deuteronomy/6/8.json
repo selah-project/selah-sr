@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 6:8",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "И везаћеш их за знак на руци својој, и нека буду ⟨као⟩ тотафот између очију твојих.",
+  "tokens": [
+    {
+      "surface": "וקשרתם",
+      "gloss": "И везаћеш их"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "за знак"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "руци својој"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "и нека буду"
+    },
+    {
+      "surface": "לטטפת",
+      "gloss": "тотафот"
+    },
+    {
+      "surface": "בין",
+      "gloss": "између"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "очију твојих"
+    }
+  ],
+  "timestamp": "2026-09-05T10:44:42.290103018Z",
+  "model": "glm-5.3"
+}

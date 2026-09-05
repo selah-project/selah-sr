@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 13:2",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "Према знању вашем знам и ја; не падам ја ⟨ниже⟩ од вас.",
+  "tokens": [
+    {
+      "surface": "כדעתכם",
+      "gloss": "према знању вашему"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "знам"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "падам"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ја"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "од вас"
+    }
+  ],
+  "timestamp": "2026-09-05T13:57:57.536963020Z",
+  "model": "glm-5.3"
+}

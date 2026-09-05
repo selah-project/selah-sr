@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 22:15",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "И зовне анђео Јахвеов Аврахама други пут са небеса.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "и зовне"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "анђео"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеов"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨к⟩"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврахама"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "други пут"
+    },
+    {
+      "surface": "מן",
+      "gloss": "са"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небеса"
+    }
+  ],
+  "timestamp": "2026-09-05T09:46:05.497681018Z",
+  "model": "glm-5.3"
+}

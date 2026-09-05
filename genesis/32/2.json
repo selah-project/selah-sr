@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 32:2",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 32,
+  "translation": "И пође Јааков путем својим, и сретоше га весници Елохимови.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "И Јааков"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "пође"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "путем својим"
+    },
+    {
+      "surface": "ויפגעו",
+      "gloss": "и сретоше"
+    },
+    {
+      "surface": "בו",
+      "gloss": "га"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "весници"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    }
+  ],
+  "timestamp": "2026-09-05T09:51:05.018299686Z",
+  "model": "glm-5.3"
+}

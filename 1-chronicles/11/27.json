@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 11:27",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "Шамот (Шамот) Хароритa (Харорита), Хелец (Хелец) Пелонита (Пелонита).",
+  "tokens": [
+    {
+      "surface": "שמות",
+      "gloss": "Шамот"
+    },
+    {
+      "surface": "ההרורי",
+      "gloss": "Хароритa"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "Хелец"
+    },
+    {
+      "surface": "הפלוני",
+      "gloss": "Пелонитa"
+    }
+  ],
+  "timestamp": "2026-09-05T14:37:23.164978566Z",
+  "model": "glm-5.3"
+}

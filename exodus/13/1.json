@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 13:1",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "И рече Јахве Мошеу (Мојсију), говорећи:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Мошеу"
+    },
+    {
+      "surface": "משה",
+      "gloss": "(Мојсију)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорећи"
+    }
+  ],
+  "timestamp": "2026-09-05T15:03:16.246451159Z",
+  "model": "glm-5.3"
+}

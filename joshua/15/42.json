@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 15:42",
+  "book": "joshua",
+  "lang": "sr",
+  "chapter": 15,
+  "translation": "Ливна, и Етер, и Ашан;",
+  "tokens": [
+    {
+      "surface": "לבנה",
+      "gloss": "Ливна"
+    },
+    {
+      "surface": "ועתר",
+      "gloss": "и Етер"
+    },
+    {
+      "surface": "ועשן",
+      "gloss": "и Ашан"
+    }
+  ],
+  "timestamp": "2026-09-05T11:02:28.771926882Z",
+  "model": "glm-5.3"
+}

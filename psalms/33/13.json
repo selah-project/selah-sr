@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 33:13",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 33,
+  "translation": "Из небеса погледа Јахве, виде ⟨את⟩ све синове човека.",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "Из небеса"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "погледа"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "виде"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "све синове човека"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синове"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "човека"
+    }
+  ],
+  "timestamp": "2026-09-05T13:22:21.789740329Z",
+  "model": "glm-5.3"
+}

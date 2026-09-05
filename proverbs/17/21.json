@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 17:21",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 17,
+  "translation": "Рађа глупана за тугу његову, и неће се обрадовати отац ниткова.",
+  "tokens": [
+    {
+      "surface": "ילד",
+      "gloss": "рађа"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "глупана"
+    },
+    {
+      "surface": "לתוגה",
+      "gloss": "за тугу"
+    },
+    {
+      "surface": "לו",
+      "gloss": "његову"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и неће"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "обрадовати се"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "отац"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ниткова"
+    }
+  ],
+  "timestamp": "2026-09-05T13:49:47.764788160Z",
+  "model": "glm-5.3"
+}

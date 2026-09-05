@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 9:30",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "Ако сам се умио снегом и очистио лугом руке своје",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ако"
+    },
+    {
+      "surface": "התרחצתי",
+      "gloss": "умио сам се"
+    },
+    {
+      "surface": "במו",
+      "gloss": "⟨са⟩"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "снегом"
+    },
+    {
+      "surface": "והזכותИ",
+      "gloss": "и очистио сам"
+    },
+    {
+      "surface": "בבר",
+      "gloss": "лугом"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "руке своје"
+    }
+  ],
+  "timestamp": "2026-09-05T16:49:29.969622525Z",
+  "model": "glm-5.3"
+}

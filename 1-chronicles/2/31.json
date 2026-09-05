@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 2:31",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "А синови Апаимови: Иши; а синови Ишијеви: Шешан; а синови Шешанови: Ахлај.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "А синови"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "Апаима"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "Иши"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "а синови"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "Ишијеви"
+    },
+    {
+      "surface": "ששן",
+      "gloss": "Шешан"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "а синови"
+    },
+    {
+      "surface": "ששן",
+      "gloss": "Шешанови"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "Ахлај"
+    }
+  ],
+  "timestamp": "2026-09-05T14:33:53.728556003Z",
+  "model": "glm-5.3"
+}

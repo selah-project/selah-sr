@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 16:11",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 16,
+  "translation": "Ел ме преда безаконитима и на руке злих ме обори.",
+  "tokens": [
+    {
+      "surface": "יסגירני",
+      "gloss": "преда ме"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨к⟩"
+    },
+    {
+      "surface": "עויל",
+      "gloss": "безаконитима"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "руке"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "злих"
+    },
+    {
+      "surface": "ירטני",
+      "gloss": "ме обори"
+    }
+  ],
+  "timestamp": "2026-09-05T13:58:47.824635697Z",
+  "model": "glm-5.3"
+}

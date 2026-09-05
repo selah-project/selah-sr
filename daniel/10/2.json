@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "daniel 10:2",
+  "book": "daniel",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "У те дане ја, Даниел, бејах у жалости три недеље данâ.",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "У дане"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "те"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Даниел"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "бејах"
+    },
+    {
+      "surface": "מתאבל",
+      "gloss": "у жалости"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "три"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "недеље"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "данâ"
+    }
+  ],
+  "timestamp": "2026-09-05T14:21:58.947684161Z",
+  "model": "glm-5.3"
+}

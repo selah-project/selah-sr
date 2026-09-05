@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 27:29",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 27,
+  "translation": "Сваки херем који се посвети херемом од људи неће се откупити: смрћу ће бити убијен.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "сваки"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "херем"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "יחרם",
+      "gloss": "посвети херемом"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "људи"
+    },
+    {
+      "surface": "לא",
+      "gloss": "неће"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "откупити се"
+    },
+    {
+      "surface": "מות",
+      "gloss": "смрћу"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "биће убијен"
+    }
+  ],
+  "timestamp": "2026-09-05T10:27:30.972607700Z",
+  "model": "glm-5.3"
+}

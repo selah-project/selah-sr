@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 17:25",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 17,
+  "translation": "Јада је оцу син безумник, и огорчење родитељици његовој.",
+  "tokens": [
+    {
+      "surface": "כעס",
+      "gloss": "јада"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "оцу његовом"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "безумник"
+    },
+    {
+      "surface": "וממר",
+      "gloss": "и огорчење"
+    },
+    {
+      "surface": "ליולדתו",
+      "gloss": "родитељици његовој"
+    }
+  ],
+  "timestamp": "2026-09-05T13:50:12.210837191Z",
+  "model": "glm-5.3"
+}

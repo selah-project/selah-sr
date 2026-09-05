@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "proverbs 8:36",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "А ко ме греши, чини насиље души својој; сви мрзитељи моји љубе смрт.",
+  "tokens": [
+    {
+      "surface": "וחטאי",
+      "gloss": "А ко ме греши"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "чини насиље"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "души својој"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сви"
+    },
+    {
+      "surface": "משנאי",
+      "gloss": "мрзитељи моји"
+    },
+    {
+      "surface": "אהבו",
+      "gloss": "љубе"
+    },
+    {
+      "surface": "מות",
+      "gloss": "смрт"
+    }
+  ],
+  "timestamp": "2026-09-05T13:47:36.439808442Z",
+  "model": "glm-5.3"
+}

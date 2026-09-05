@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 43:17",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 43,
+  "translation": "И учини човек како рече Јосеф, па доведе човек ⟨את⟩ људе у дом Јосефов.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "и учини"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "како"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Јосеф"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "и доведе"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "људе"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "људе"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "у дом"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Јосефов"
+    }
+  ],
+  "timestamp": "2026-09-05T09:55:54.135243648Z",
+  "model": "glm-5.3"
+}

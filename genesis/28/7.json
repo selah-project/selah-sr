@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 28:7",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "И послуша Јааков оца свога и матер своју, и отиде у Падан-Арам.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "и послуша"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Јааков"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "оца свога"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и к"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "матер своју"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "и отиде"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "Падан"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Арам"
+    }
+  ],
+  "timestamp": "2026-09-05T09:48:32.709822779Z",
+  "model": "glm-5.3"
+}

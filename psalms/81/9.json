@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 81:9",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 81,
+  "translation": "Чуј, народе мој, и ја ћу сведочити теби, Израиле, ако слушаш мене.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Чуј"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "народе мој"
+    },
+    {
+      "surface": "ואעידה",
+      "gloss": "и ја ћу сведочити"
+    },
+    {
+      "surface": "בך",
+      "gloss": "теби"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиле"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "слушаш"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мене"
+    }
+  ],
+  "timestamp": "2026-09-05T15:56:37.130066069Z",
+  "model": "glm-5.3"
+}

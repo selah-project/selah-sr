@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 33:3",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 33,
+  "translation": "и види ⟨את⟩ мач ⟨како⟩ долази на земљу, и затруби у шофар и упозори ⟨את⟩ народ,",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "и види"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "мач"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "мач"
+    },
+    {
+      "surface": "באה",
+      "gloss": "⟨како⟩ долази"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земљу"
+    },
+    {
+      "surface": "ותקע",
+      "gloss": "и затруби"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "у шофар"
+    },
+    {
+      "surface": "והזהיר",
+      "gloss": "и упозори"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "народ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    }
+  ],
+  "timestamp": "2026-09-05T12:53:17.719556128Z",
+  "model": "glm-5.3"
+}

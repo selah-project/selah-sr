@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 8:11",
+  "book": "zechariah",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "А сада — нисам као први дани према остатку овог народа, рече Јахве Цеваот.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "А сада"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нисам"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "као дани"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "први"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "לשארית",
+      "gloss": "остатку"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народа"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овог"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    }
+  ],
+  "timestamp": "2026-09-05T13:12:59.015653728Z",
+  "model": "glm-5.3"
+}

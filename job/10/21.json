@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 10:21",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "Пре него што одем и не вратим се, у земљу мрака и смртне сене,",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "пре"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "одем"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "вратим се"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земљу"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "мрака"
+    },
+    {
+      "surface": "וצלמות",
+      "gloss": "и смртне сене"
+    }
+  ],
+  "timestamp": "2026-09-05T13:57:13.718836836Z",
+  "model": "glm-5.3"
+}

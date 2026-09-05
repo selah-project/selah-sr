@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 3:14",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Амон син његов, Јошијаху (Јосија) син његов.",
+  "tokens": [
+    {
+      "surface": "אמון",
+      "gloss": "Амон"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син његов"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Јошијаху"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син његов"
+    }
+  ],
+  "timestamp": "2026-09-05T14:34:47.652660699Z",
+  "model": "glm-5.3"
+}

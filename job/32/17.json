@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 32:17",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 32,
+  "translation": "Одговорићу и ја своју долу, изјавићу своје знање и ја.",
+  "tokens": [
+    {
+      "surface": "אענה",
+      "gloss": "Одговорићу"
+    },
+    {
+      "surface": "אף",
+      "gloss": "и"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "своју долу"
+    },
+    {
+      "surface": "אחוה",
+      "gloss": "изјавићу"
+    },
+    {
+      "surface": "דעי",
+      "gloss": "своје знање"
+    },
+    {
+      "surface": "אף",
+      "gloss": "и"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    }
+  ],
+  "timestamp": "2026-09-05T14:02:25.021417007Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 4:12",
+  "book": "song-of-songs",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "Врт закључан ⟨је⟩ сестра моја, невесто; извор затворен, чесма запечаћена.",
+  "tokens": [
+    {
+      "surface": "גן",
+      "gloss": "врт"
+    },
+    {
+      "surface": "נעול",
+      "gloss": "закључан"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "сестра моја"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "невесто"
+    },
+    {
+      "surface": "גל",
+      "gloss": "извор"
+    },
+    {
+      "surface": "נעול",
+      "gloss": "затворен"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "чесма"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "запечаћена"
+    }
+  ],
+  "timestamp": "2026-09-05T16:06:20.708687555Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "judges 9:42",
+  "book": "judges",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "И би сутрадан, и изађе народ у поље, и јавише Авимелеху.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И би"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "сутрадан"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "и изађе"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "у поље"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "и јавише"
+    },
+    {
+      "surface": "לאבימלך",
+      "gloss": "Авимелеху"
+    }
+  ],
+  "timestamp": "2026-09-05T11:09:54.866868793Z",
+  "model": "glm-5.3"
+}

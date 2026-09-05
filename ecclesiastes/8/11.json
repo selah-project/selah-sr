@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 8:11",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "Пошто се пресуда над делом зла не бива брзо, ради тога срце синâ људских напуни се њима да чине зло.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "пошто"
+    },
+    {
+      "surface": "אין",
+      "gloss": "не"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "бива"
+    },
+    {
+      "surface": "פתגם",
+      "gloss": "пресуда"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "делу"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "зла"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "брзо"
+    },
+    {
+      "surface": "על",
+      "gloss": "ради"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тога"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "напуни се"
+    },
+    {
+      "surface": "לב",
+      "gloss": "срце"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синâ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "људских"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "њима"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "да чине"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зло"
+    }
+  ],
+  "timestamp": "2026-09-05T14:13:32.565881445Z",
+  "model": "glm-5.3"
+}

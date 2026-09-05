@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "Неће узети човек ⟨את⟩ жену оца својега, и неће открити крило оца својега.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "неће"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "узети"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жену"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "жену"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "оца својега"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и неће"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "открити"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "крыло"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "оца својега"
+    }
+  ],
+  "timestamp": "2026-09-05T10:53:13.713714504Z",
+  "model": "glm-5.3"
+}

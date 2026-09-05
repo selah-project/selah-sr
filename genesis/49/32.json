@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 49:32",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 49,
+  "translation": "Купљено поље и пећина која је у њему ⟨את⟩ ⟨од⟩ синова Хетових.”",
+  "tokens": [
+    {
+      "surface": "мקנה",
+      "gloss": "Купљено"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "поље"
+    },
+    {
+      "surface": "והמערה",
+      "gloss": "и пећина"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "која"
+    },
+    {
+      "surface": "בו",
+      "gloss": "је у њему"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ ⟨од⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синова"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Хетових"
+    }
+  ],
+  "timestamp": "2026-09-05T09:59:17.298917320Z",
+  "model": "glm-5.3"
+}

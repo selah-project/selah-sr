@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-chronicles 2:49",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "И роди Шааф, оца Мадмане, ⟨את⟩ Шеву, оца Махбене, и оца Гиве; а кћи Калевова беше Аксах.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "И роди"
+    },
+    {
+      "surface": "שעף",
+      "gloss": "Шааф"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "оца"
+    },
+    {
+      "surface": "מדמנה",
+      "gloss": "Мадмане"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Шеву"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "Шеву"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "оца"
+    },
+    {
+      "surface": "מכבנה",
+      "gloss": "Махбене"
+    },
+    {
+      "surface": "ואבי",
+      "gloss": "и оца"
+    },
+    {
+      "surface": "גבעא",
+      "gloss": "Гиве"
+    },
+    {
+      "surface": "ובת",
+      "gloss": "а кћи"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Калевова"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "Аксах"
+    }
+  ],
+  "timestamp": "2026-09-05T14:33:37.068433998Z",
+  "model": "glm-5.3"
+}

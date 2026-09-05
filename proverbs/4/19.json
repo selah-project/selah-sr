@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 4:19",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "Пут раша ⟨је⟩ као тама; не знају у чему ће се спотакнути.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "Пут"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "раша"
+    },
+    {
+      "surface": "כאפלה",
+      "gloss": "као тама"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "знају"
+    },
+    {
+      "surface": "במה",
+      "gloss": "у чему"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "ће се спотакнути"
+    }
+  ],
+  "timestamp": "2026-09-05T13:46:31.699864897Z",
+  "model": "glm-5.3"
+}

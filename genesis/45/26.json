@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 45:26",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 45,
+  "translation": "И јавише му говорећи: још је Јосеф жив, и он влада свом земљом Мицрајима. А срце му клону, јер им не поверова.",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "и јавише"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорећи"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "још"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Јосеф"
+    },
+    {
+      "surface": "חי",
+      "gloss": "жив"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "и да"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "משל",
+      "gloss": "влада"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "свом"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земљом"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрајима"
+    },
+    {
+      "surface": "ויפג",
+      "gloss": "а клону"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "срце му"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "האמין",
+      "gloss": "поверова"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    }
+  ],
+  "timestamp": "2026-09-05T09:57:46.892920482Z",
+  "model": "glm-5.3"
+}

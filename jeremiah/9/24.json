@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 9:24",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "Ево, дани долазе, рече Јахве, и посетићу сваког обрезаног у необрезаности његовој.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ево"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дани"
+    },
+    {
+      "surface": "באים",
+      "gloss": "долазе"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ופקדתי",
+      "gloss": "и посетићу"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сваког"
+    },
+    {
+      "surface": "מול",
+      "gloss": "обрезаног"
+    },
+    {
+      "surface": "בערלה",
+      "gloss": "у необрезаности"
+    }
+  ],
+  "timestamp": "2026-09-05T12:24:38.399732491Z",
+  "model": "glm-5.3"
+}

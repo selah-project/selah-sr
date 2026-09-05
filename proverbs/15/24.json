@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 15:24",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 15,
+  "translation": "Стаза живота ⟨води⟩ навише разумноме, да би се одвратио од Шеола доле.",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "Стаза"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "живота"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "навише"
+    },
+    {
+      "surface": "למשכיל",
+      "gloss": "разумноме"
+    },
+    {
+      "surface": "למען",
+      "gloss": "да би"
+    },
+    {
+      "surface": "סור",
+      "gloss": "одвратио се"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "од Шеола"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "доле"
+    }
+  ],
+  "timestamp": "2026-09-05T13:49:42.098400685Z",
+  "model": "glm-5.3"
+}

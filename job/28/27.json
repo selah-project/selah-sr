@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "job 28:27",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "Тад ју је видио и казао, утврдио ју је и испитао.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Тад"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "видио"
+    },
+    {
+      "surface": "ויספרה",
+      "gloss": "и казао ју"
+    },
+    {
+      "surface": "הכינה",
+      "gloss": "утврдио ју"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "и још"
+    },
+    {
+      "surface": "חקרה",
+      "gloss": "испитао ју"
+    }
+  ],
+  "timestamp": "2026-09-05T14:01:46.997866492Z",
+  "model": "glm-5.3"
+}

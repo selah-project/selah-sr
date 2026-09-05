@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 10:24",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "И роди Арфахшад ⟨את⟩ Шелаха; и Шелах роди ⟨את⟩ Евера.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "И Арфахшад"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Шелаха"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Шелаха"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "и Шелах"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Евера"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Евера"
+    }
+  ],
+  "timestamp": "2026-09-05T09:41:46.130127104Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 8:8",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "И рече ми: сине човечји, пробуши, молим, у зиду; и пробуших у зиду, и ено, један улаз.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сине"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човечји"
+    },
+    {
+      "surface": "חתר",
+      "gloss": "пробуши"
+    },
+    {
+      "surface": "נא",
+      "gloss": "молим"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "у зиду"
+    },
+    {
+      "surface": "ואחתר",
+      "gloss": "и пробуших"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "у зиду"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и ено"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "улаз"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "један"
+    }
+  ],
+  "timestamp": "2026-09-05T15:43:49.523268858Z",
+  "model": "glm-5.3"
+}

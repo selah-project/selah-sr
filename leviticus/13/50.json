@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "И погледа свештеник ⟨את⟩ рану, и затвори ⟨את⟩ рану седам дана.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "и погледа"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "свештеник"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "рану"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "рану"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "и затвори"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "рану"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "рану"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "седам"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дана"
+    }
+  ],
+  "timestamp": "2026-09-05T10:21:06.824999635Z",
+  "model": "glm-5.3"
+}

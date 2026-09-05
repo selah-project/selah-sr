@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 5:1",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Ако душа сагреши те чује глас клетве, а он ⟨је⟩ сведок — или ⟨је⟩ видео или зна — ако не објави, носиће безакоње своје.",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "Ако душа"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ако"
+    },
+    {
+      "surface": "תחטא",
+      "gloss": "сагреши"
+    },
+    {
+      "surface": "ושמעה",
+      "gloss": "те чује"
+    },
+    {
+      "surface": "קול",
+      "gloss": "глас"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "клетве"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "а он"
+    },
+    {
+      "surface": "עד",
+      "gloss": "сведок"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "видео"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "зна"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "објави"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "носиће"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "безакоње своје"
+    }
+  ],
+  "timestamp": "2026-09-05T10:17:42.354759323Z",
+  "model": "glm-5.3"
+}

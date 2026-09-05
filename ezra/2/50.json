@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "ezra 2:50",
+  "book": "ezra",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Синови Асне, синови Меунима, синови Нефисима.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "אסנה",
+      "gloss": "Асне"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "מעינים",
+      "gloss": "Меунима"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "נפיסים",
+      "gloss": "Нефисима"
+    }
+  ],
+  "timestamp": "2026-09-05T14:25:07.970871749Z",
+  "model": "glm-5.3"
+}

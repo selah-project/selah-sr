@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 27:2",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 27,
+  "translation": "Овако рече Јахве мени: начини себи окове и јарме, и метни их на свој врат.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Овако"
+    },
+    {
+      "surface": "амר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мени"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "начини"
+    },
+    {
+      "surface": "לך",
+      "gloss": "себи"
+    },
+    {
+      "surface": "מוסרות",
+      "gloss": "окове"
+    },
+    {
+      "surface": "ומטות",
+      "gloss": "и јарме"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "и метни"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "врат свој"
+    }
+  ],
+  "timestamp": "2026-09-05T12:30:44.389286344Z",
+  "model": "glm-5.3"
+}

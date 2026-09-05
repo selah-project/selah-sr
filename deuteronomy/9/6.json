@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 9:6",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "И знај да не за правду своју Јахве, Елохим твој, даје ти ⟨את⟩ земљу добру ову да је наследиш; јер народ тврда врата си ти.",
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "и знај"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "בצדקתך",
+      "gloss": "за правду своју"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Елохим твој"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "даје"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "земљу"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земљу"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "добру"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ову"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "да је наследиш"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "тврда"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "врата"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "си ти"
+    }
+  ],
+  "timestamp": "2026-09-05T10:47:20.880499256Z",
+  "model": "glm-5.3"
+}

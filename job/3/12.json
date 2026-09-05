@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 3:12",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Зашто ме дочекаше колена? И које груди ⟨то⟩ − да сисам?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "Зашто"
+    },
+    {
+      "surface": "קדמוני",
+      "gloss": "дочекаше ме"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "колена"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "и које"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "груди"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "אינק",
+      "gloss": "сисам"
+    }
+  ],
+  "timestamp": "2026-09-05T16:02:31.616854976Z",
+  "model": "glm-5.3"
+}

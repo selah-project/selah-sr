@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 7:9",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Два по два дођоше к Ноаху (Нои), у ковчег, мужјак и женка, као што заповеди Елохим ⟨את⟩ Ноаха.",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "два"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "по два"
+    },
+    {
+      "surface": "באו",
+      "gloss": "дођоше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ноаху"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ковчег"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "мужјак"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "и женка"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "као што"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповеди"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ноаха"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ноаха"
+    }
+  ],
+  "timestamp": "2026-09-05T09:40:29.602351160Z",
+  "model": "glm-5.3"
+}

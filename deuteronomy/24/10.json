@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 24:10",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "Кад позајмиш ближњему својему зајам ичега, не улази у кућу његову да узмеш залог његов.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Кад"
+    },
+    {
+      "surface": "תשה",
+      "gloss": "позајмиш"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "ближњему својему"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "зајам"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "ичега"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "улази"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "кућу његову"
+    },
+    {
+      "surface": "לעבט",
+      "gloss": "да узмеш"
+    },
+    {
+      "surface": "עבטו",
+      "gloss": "залог његов"
+    }
+  ],
+  "timestamp": "2026-09-05T10:52:18.126018641Z",
+  "model": "glm-5.3"
+}

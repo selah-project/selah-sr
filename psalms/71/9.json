@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 71:9",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 71,
+  "translation": "Не одбаци ме у време старости; кад моја снага клоне, не остави ме.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשליכני",
+      "gloss": "одбаци ме"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "у време"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "старости"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "кад клоне"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "моја снага"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "остави ме"
+    }
+  ],
+  "timestamp": "2026-09-05T13:29:57.838021872Z",
+  "model": "glm-5.3"
+}

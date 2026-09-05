@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 11:5",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "И сиђе Јахве да види ⟨את⟩ град и ⟨את⟩ кула-на-коју-саградише синови човечји.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "И сиђе"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "да види"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "град"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "град"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "кула"
+    },
+    {
+      "surface": "המגדל",
+      "gloss": "кула"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "коју"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "саградише"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "човечји"
+    }
+  ],
+  "timestamp": "2026-09-05T16:47:45.107874831Z",
+  "model": "glm-5.3"
+}

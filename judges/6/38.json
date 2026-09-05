@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "judges 6:38",
+  "book": "judges",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "И би тако; устаде рано сутрадан, истисну ⟨את⟩ руно и исцеди росу из рунка — пуну чашу воде.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И би"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тако"
+    },
+    {
+      "surface": "וישכם",
+      "gloss": "устаде рано"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "сутрадан"
+    },
+    {
+      "surface": "ויזר",
+      "gloss": "истисну"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "руно"
+    },
+    {
+      "surface": "הגזה",
+      "gloss": "руно"
+    },
+    {
+      "surface": "וימץ",
+      "gloss": "исцеди"
+    },
+    {
+      "surface": "טל",
+      "gloss": "росу"
+    },
+    {
+      "surface": "מן",
+      "gloss": "из"
+    },
+    {
+      "surface": "הגזה",
+      "gloss": "рунка"
+    },
+    {
+      "surface": "מלוא",
+      "gloss": "пуну"
+    },
+    {
+      "surface": "הספל",
+      "gloss": "чашу"
+    },
+    {
+      "surface": "מים",
+      "gloss": "воде"
+    }
+  ],
+  "timestamp": "2026-09-05T11:07:59.796605292Z",
+  "model": "glm-5.3"
+}

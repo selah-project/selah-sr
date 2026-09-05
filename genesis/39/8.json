@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 39:8",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 39,
+  "translation": "И одби, и рече жени господара свог: Ето, господар мој не зна ⟨את⟩ са мном шта је у дому, и све што има даде у руку моју.",
+  "tokens": [
+    {
+      "surface": "וימאן",
+      "gloss": "и одби"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ка"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "жени"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "господара свог"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Ето"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "господар мој"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "зна"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "са мном"
+    },
+    {
+      "surface": "מה",
+      "gloss": "шта"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "у дому"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и све"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "יש",
+      "gloss": "има"
+    },
+    {
+      "surface": "לו",
+      "gloss": "он"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "даде"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "у руку моју"
+    }
+  ],
+  "timestamp": "2026-09-05T09:54:38.362810895Z",
+  "model": "glm-5.3"
+}

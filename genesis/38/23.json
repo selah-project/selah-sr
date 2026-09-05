@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 38:23",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 38,
+  "translation": "А Јехуда рече: нека узме себи, да не будемо на подсмех; ето, послах јаре овога, а ти не нађе је.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јехуда"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "нека узме"
+    },
+    {
+      "surface": "לה",
+      "gloss": "себи"
+    },
+    {
+      "surface": "פן",
+      "gloss": "да не"
+    },
+    {
+      "surface": "נהיה",
+      "gloss": "будемо"
+    },
+    {
+      "surface": "לבוז",
+      "gloss": "на подсмех"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ето"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "послах"
+    },
+    {
+      "surface": "הגדי",
+      "gloss": "јаре"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овога"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "а ти"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "מצאתה",
+      "gloss": "нађе је"
+    }
+  ],
+  "timestamp": "2026-09-05T09:54:53.726777835Z",
+  "model": "glm-5.3"
+}

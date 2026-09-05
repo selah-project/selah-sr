@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 19:14",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 19,
+  "translation": "Не псуј глувога, и пред слепим не стављај спотицање; и бој се Елохима својега: ја сам Јахве.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "псуј"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "глувога"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "и пред"
+    },
+    {
+      "surface": "עור",
+      "gloss": "слепим"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "стављаш"
+    },
+    {
+      "surface": "מכשל",
+      "gloss": "спотицање"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "и бој се"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "Елохима својега"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-09-05T10:24:30.882853580Z",
+  "model": "glm-5.3"
+}

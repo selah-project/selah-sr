@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 2:10",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Емимци су пре становали у њој — народ велик и мног и висок, као Анакимци.",
+  "tokens": [
+    {
+      "surface": "האמים",
+      "gloss": "Емимци"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "пре"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "становаху"
+    },
+    {
+      "surface": "בה",
+      "gloss": "у њој"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "велик"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "и мног"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "и висок"
+    },
+    {
+      "surface": "כענקים",
+      "gloss": "као Анакимци"
+    }
+  ],
+  "timestamp": "2026-09-05T10:43:29.763513672Z",
+  "model": "glm-5.3"
+}

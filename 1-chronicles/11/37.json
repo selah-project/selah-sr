@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 11:37",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "Хецро Кармелац, Наарај син Езбајев.",
+  "tokens": [
+    {
+      "surface": "חצרו",
+      "gloss": "Хецро"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "Кармелац"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "Наарај"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אזבי",
+      "gloss": "Езбајев"
+    }
+  ],
+  "timestamp": "2026-09-05T14:37:07.963082366Z",
+  "model": "glm-5.3"
+}

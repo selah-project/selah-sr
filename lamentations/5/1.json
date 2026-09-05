@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 5:1",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Сети се, Јахве, шта нам се догодило; погледај и види ⟨את⟩ срамоту нашу.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Сети се"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "מה",
+      "gloss": "шта"
+    },
+    {
+      "surface": "היה",
+      "gloss": "догодило"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "нам"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "погледај"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "и види"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "срамоту нашу"
+    },
+    {
+      "surface": "חרפתנו",
+      "gloss": "срамоту нашу"
+    }
+  ],
+  "timestamp": "2026-09-05T14:10:53.359255237Z",
+  "model": "glm-5.3"
+}

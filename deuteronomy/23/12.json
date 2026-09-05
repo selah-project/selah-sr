@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 23:12",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "И буде: кад се окрене вече, окупа се водом, и по заласку сунца уђе ⟨опет⟩ у сред логора.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "И буде"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "кад се окрене"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "вече"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "окупа се"
+    },
+    {
+      "surface": "במים",
+      "gloss": "водом"
+    },
+    {
+      "surface": "וכבא",
+      "gloss": "и по заласку"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "сунца"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "уђе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "сред"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "логора"
+    }
+  ],
+  "timestamp": "2026-09-05T10:52:33.801417246Z",
+  "model": "glm-5.3"
+}

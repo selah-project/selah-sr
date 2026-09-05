@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "psalms 89:38",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 89,
+  "translation": "Као месец утврђен ⟨је⟩ довека, и сведок у облаку ⟨је⟩ веран. Села.",
+  "tokens": [
+    {
+      "surface": "כירח",
+      "gloss": "као месец"
+    },
+    {
+      "surface": "יכון",
+      "gloss": "утврђен"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "довека"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и сведок"
+    },
+    {
+      "surface": "בשחק",
+      "gloss": "у облаку"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "веран"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Села"
+    }
+  ],
+  "timestamp": "2026-09-05T13:34:09.264102166Z",
+  "model": "glm-5.3"
+}

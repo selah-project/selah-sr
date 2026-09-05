@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "И сазида Шеломо (Соломон) ⟨את⟩ Гезер и ⟨את⟩ Бет Хорон доњи.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "и сазида"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Гезер"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Гезер"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Бет Хорон"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Хорон"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "доњи"
+    }
+  ],
+  "timestamp": "2026-09-05T11:42:41.477275817Z",
+  "model": "glm-5.3"
+}

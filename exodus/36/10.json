@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 36:10",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 36,
+  "translation": "И споји ⟨את⟩ пет завеса једну с другом, и пет завеса споји једну с другом.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "и споји"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "пет завеса"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "пет"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "завеса"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "једну"
+    },
+    {
+      "surface": "אל",
+      "gloss": "с"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "другом"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "и пет"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "завеса"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "споји"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "једну"
+    },
+    {
+      "surface": "אל",
+      "gloss": "с"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "другом"
+    }
+  ],
+  "timestamp": "2026-09-05T10:13:58.358760688Z",
+  "model": "glm-5.3"
+}

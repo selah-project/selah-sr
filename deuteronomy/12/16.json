@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 12:16",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "Једино крв не једите; на земљу је изли као воду.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Једино"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "крв"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "једите"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земљу"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "изли је"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "као воду"
+    }
+  ],
+  "timestamp": "2026-09-05T16:35:33.253317933Z",
+  "model": "glm-5.3"
+}

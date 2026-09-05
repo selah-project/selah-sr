@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 10:3",
+  "book": "1-kings",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "И каза јој Шеломо ⟨את⟩ све речи њене; не беше речи скрыте од краља коју јој не каза.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "И каза"
+    },
+    {
+      "surface": "לה",
+      "gloss": "јој"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "све речи њене"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "דבריה",
+      "gloss": "речи њене"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "היה",
+      "gloss": "беше"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "речи"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "скрыте"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "краља"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "коју"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "каза"
+    },
+    {
+      "surface": "לה",
+      "gloss": "јој"
+    }
+  ],
+  "timestamp": "2026-09-05T11:43:00.643312675Z",
+  "model": "glm-5.3"
+}

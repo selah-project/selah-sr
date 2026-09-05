@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 22:18",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "И узму старешине града онога ⟨את⟩ човека и казне њега ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "и узму"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "старешине"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "града"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "онога"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "човека"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "човека"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "и казне"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ њега",
+      "marks": "човек (суфикс на самом את)"
+    }
+  ],
+  "timestamp": "2026-09-05T15:15:15.604491865Z",
+  "model": "glm-5.3"
+}

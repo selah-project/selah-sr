@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 26:6",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 26,
+  "translation": "тада ћу дати дом овај ⟨את⟩ као Шило, и град овај ⟨את⟩ даћу за клетву свим народима земље.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "тада ћу дати"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дом овај"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овај"
+    },
+    {
+      "surface": "כשלה",
+      "gloss": "као Шило"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "град овај"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "град"
+    },
+    {
+      "surface": "הזאתה",
+      "gloss": "овај"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "даћу"
+    },
+    {
+      "surface": "לקללה",
+      "gloss": "за клетву"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "свим"
+    },
+    {
+      "surface": "גויי",
+      "gloss": "народима"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земље"
+    }
+  ],
+  "timestamp": "2026-09-05T12:30:15.117103967Z",
+  "model": "glm-5.3"
+}

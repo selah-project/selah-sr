@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 25:1",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 25,
+  "translation": "И додаде Аврахам (Аврам) ⟨још⟩, и узе жену, и име њено Кетура.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "и додаде"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврахам"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "и узе"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "жену"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "и име њено"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "Кетура"
+    }
+  ],
+  "timestamp": "2026-09-05T09:46:55.077606011Z",
+  "model": "glm-5.3"
+}

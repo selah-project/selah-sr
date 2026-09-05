@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 55:7",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 55,
+  "translation": "И рекох: ко ће ми дати крило као голуб — да полетим и починем?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "и рекох"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ко"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ће дати"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "אבר",
+      "gloss": "крило"
+    },
+    {
+      "surface": "כיונה",
+      "gloss": "као голуб"
+    },
+    {
+      "surface": "אעופה",
+      "gloss": "да полетим"
+    },
+    {
+      "surface": "ואשכנה",
+      "gloss": "и починем"
+    }
+  ],
+  "timestamp": "2026-09-05T13:27:22.288655593Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 3:26",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "И раздражи се Јахве на ме ради вас, и не послуша ме; и рече Јахве мени: Доста ти је; не додај говорити мени још о ствари овој.",
+  "tokens": [
+    {
+      "surface": "ויתעבר",
+      "gloss": "и раздражи се"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "בי",
+      "gloss": "на ме"
+    },
+    {
+      "surface": "למענכם",
+      "gloss": "ради вас"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "послуша"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мене"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мени"
+    },
+    {
+      "surface": "רב",
+      "gloss": "доста"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тије"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "додај"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говорити"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мени"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "још"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "о ствари"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овој"
+    }
+  ],
+  "timestamp": "2026-09-05T10:44:49.352006356Z",
+  "model": "glm-5.3"
+}

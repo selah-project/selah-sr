@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 10:10",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "Ко трепће оком, задаваће бол, а глупан уснама својим биће оборен.",
+  "tokens": [
+    {
+      "surface": "קרץ",
+      "gloss": "ко трепће"
+    },
+    {
+      "surface": "עין",
+      "gloss": "оком"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "задаваће"
+    },
+    {
+      "surface": "עצבת",
+      "gloss": "бол"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "а глупан"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "уснама"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "биће оборен"
+    }
+  ],
+  "timestamp": "2026-09-05T13:47:53.545971178Z",
+  "model": "glm-5.3"
+}

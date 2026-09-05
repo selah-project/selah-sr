@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 22:1",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "И би реч Јахвеова мени ⟨говорећи⟩:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И би"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "реч"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеова"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мени"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨говорећи⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T12:49:06.535267241Z",
+  "model": "glm-5.3"
+}

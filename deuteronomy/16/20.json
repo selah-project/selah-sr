@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 16:20",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 16,
+  "translation": "Правду, правду гони, да живиш и наследиш ⟨את⟩ земљу коју ти даје Јахве Елохим твој.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "правду"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "правду"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "гони"
+    },
+    {
+      "surface": "למען",
+      "gloss": "да"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "живиш"
+    },
+    {
+      "surface": "וירשת",
+      "gloss": "и наследиш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "земљу"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земљу"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "коју"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Елохим твој"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "даје"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    }
+  ],
+  "timestamp": "2026-09-05T10:49:28.579161516Z",
+  "model": "glm-5.3"
+}

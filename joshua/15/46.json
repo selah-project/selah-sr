@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "joshua 15:46",
+  "book": "joshua",
+  "lang": "sr",
+  "chapter": 15,
+  "translation": "од Екрона и према мору, све што је на руку Ашдода, и насеља њихова;",
+  "tokens": [
+    {
+      "surface": "מעקרון",
+      "gloss": "од Екрона"
+    },
+    {
+      "surface": "וימה",
+      "gloss": "и према мору"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "יד",
+      "gloss": "руку"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Ашдода"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "и насеља њихова"
+    }
+  ],
+  "timestamp": "2026-09-05T11:02:33.367225867Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 12:9",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "Сине човечји, нису ли ти говорили ⟨дома› Израиљевог, дома бунтовног: шта ти то чиниш?",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "сине"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човечји"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "нису ли"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "говорили"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљевог"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "המרי",
+      "gloss": "бунтовног"
+    },
+    {
+      "surface": "מה",
+      "gloss": "шта"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "чиниш"
+    }
+  ],
+  "timestamp": "2026-09-05T12:44:23.790504450Z",
+  "model": "glm-5.3"
+}

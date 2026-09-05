@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 24:23",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "И рече: Кћери чија си ти? Кажи ми, молим ⟨те⟩: има ли у кући оца твога места нама да ноћимо?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Кћери"
+    },
+    {
+      "surface": "מי",
+      "gloss": "чија"
+    },
+    {
+      "surface": "את",
+      "gloss": "си ти"
+    },
+    {
+      "surface": "הגידי",
+      "gloss": "Кажи"
+    },
+    {
+      "surface": "נא",
+      "gloss": "молим"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "היש",
+      "gloss": "има ли"
+    },
+    {
+      "surface": "בית",
+      "gloss": "кући"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "оца твога"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "места"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "нама"
+    },
+    {
+      "surface": "ללין",
+      "gloss": "да ноћимо"
+    }
+  ],
+  "timestamp": "2026-09-05T09:47:14.862925389Z",
+  "model": "glm-5.3"
+}

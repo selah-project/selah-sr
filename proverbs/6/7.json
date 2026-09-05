@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 6:7",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "који нема ни заповедника, ни надзорника ни владара,",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨себе⟩"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "ни заповедника"
+    },
+    {
+      "surface": "שטר",
+      "gloss": "ни надзорника"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "ни владара"
+    }
+  ],
+  "timestamp": "2026-09-05T13:47:11.237835341Z",
+  "model": "glm-5.3"
+}

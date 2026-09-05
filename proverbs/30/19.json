@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 30:19",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 30,
+  "translation": "пут орла у небесима, пут змије по стени, пут лађе усред мора, и пут човека у девојци.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "пут"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "орла"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "у небесима"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "пут"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "змије"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "по"
+    },
+    {
+      "surface": "צור",
+      "gloss": "стени"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "пут"
+    },
+    {
+      "surface": "אניה",
+      "gloss": "лађе"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "усред"
+    },
+    {
+      "surface": "ים",
+      "gloss": "мора"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "и пут"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "човека"
+    },
+    {
+      "surface": "בעלמה",
+      "gloss": "у девојци"
+    }
+  ],
+  "timestamp": "2026-09-05T16:02:56.925470759Z",
+  "model": "glm-5.3"
+}

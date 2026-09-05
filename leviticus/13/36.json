@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "leviticus 13:36",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "И погледа га свештеник, и ето прошири ледица у кожу — не тражи свештеник за кос жути: нечист он.",
+  "tokens": [
+    {
+      "surface": "וראהו",
+      "gloss": "погледа га"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "свештеник"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и ето"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "прошири"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "ледица"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "у кожу"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יבקר",
+      "gloss": "тражи"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "свештеник"
+    },
+    {
+      "surface": "לשער",
+      "gloss": "за кос"
+    },
+    {
+      "surface": "הצהב",
+      "gloss": "жути"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "нечист"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    }
+  ],
+  "timestamp": "2026-09-05T10:20:36.938200233Z",
+  "model": "glm-5.3"
+}

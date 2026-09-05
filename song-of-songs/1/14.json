@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 1:14",
+  "book": "song-of-songs",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "Грозд хене ⟨јесте⟩ драгани мој мени, у виноградима Ен-Гедија.",
+  "tokens": [
+    {
+      "surface": "אשכל",
+      "gloss": "грозд"
+    },
+    {
+      "surface": "הכפר",
+      "gloss": "хене"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "драгани мој"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мени"
+    },
+    {
+      "surface": "בכרמי",
+      "gloss": "у виноградима"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Ен"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Геди"
+    }
+  ],
+  "timestamp": "2026-09-05T14:06:12.095180699Z",
+  "model": "glm-5.3"
+}

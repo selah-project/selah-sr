@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 14:5",
+  "book": "2-samuel",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "И рече јој краљ: „Шта ти је?“ А она рече: „Зачудо, жена сам удовица, и умре муж мој.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "לה",
+      "gloss": "јој"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "краљ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "шта"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти је"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "а она рече"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "зачудо"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "жена"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "удовица"
+    },
+    {
+      "surface": "אני",
+      "gloss": "сам"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "и умре"
+    },
+    {
+      "surface": "אישי",
+      "gloss": "муж мој"
+    }
+  ],
+  "timestamp": "2026-09-05T11:32:30.014468963Z",
+  "model": "glm-5.3"
+}

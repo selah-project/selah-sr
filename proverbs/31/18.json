@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 31:18",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 31,
+  "translation": "Окусила је да добар је добит њен; ноћу се не гаси светиљка њена.",
+  "tokens": [
+    {
+      "surface": "טעמה",
+      "gloss": "окусила је"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добар"
+    },
+    {
+      "surface": "סחרה",
+      "gloss": "добит њен"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יכבה",
+      "gloss": "гаси се"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "ноћу"
+    },
+    {
+      "surface": "נרה",
+      "gloss": "светиљка њена"
+    }
+  ],
+  "timestamp": "2026-09-05T13:54:30.284693578Z",
+  "model": "glm-5.3"
+}

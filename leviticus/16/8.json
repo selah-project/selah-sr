@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 16:8",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 16,
+  "translation": "И даће Арон на два јарца жребове: жреб један за Јахвеа, и жреб један за Азазела.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "и даће"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Арон"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "שני",
+      "gloss": "два"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "јарца"
+    },
+    {
+      "surface": "גורלות",
+      "gloss": "жребове"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "жреб"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "један"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "за Јахвеа"
+    },
+    {
+      "surface": "וגורל",
+      "gloss": "и жреб"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "један"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "за Азазела"
+    }
+  ],
+  "timestamp": "2026-09-05T10:22:25.036236863Z",
+  "model": "glm-5.3"
+}

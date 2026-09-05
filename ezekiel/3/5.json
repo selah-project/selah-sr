@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 3:5",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Јер не к народу дубоких усана и тешког језика ти си послан — ⟨него⟩ к дому Израиља.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народу"
+    },
+    {
+      "surface": "עמקי",
+      "gloss": "дубоких"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "усана"
+    },
+    {
+      "surface": "וכבדי",
+      "gloss": "и тешких"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "језика"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "שלוח",
+      "gloss": "послан"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дому"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиља"
+    }
+  ],
+  "timestamp": "2026-09-05T12:43:41.344831661Z",
+  "model": "glm-5.3"
+}

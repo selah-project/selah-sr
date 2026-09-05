@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 9:12",
+  "book": "judges",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "И рекоше дрвета лози: хајд, ти царуј над нама.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "И рекоше"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "дрвета"
+    },
+    {
+      "surface": "לגפן",
+      "gloss": "лози"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "хајд"
+    },
+    {
+      "surface": "את",
+      "gloss": "ти"
+    },
+    {
+      "surface": "מלוכי",
+      "gloss": "царуј"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "над нама"
+    }
+  ],
+  "timestamp": "2026-09-05T11:09:07.046164516Z",
+  "model": "glm-5.3"
+}

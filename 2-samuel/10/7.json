@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 10:7",
+  "book": "2-samuel",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "И чу Давид (Давид), па посла ⟨את⟩ Јоава (Јоав) и ⟨את⟩ сву војску, јунаке.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "и чу"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "и посла"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јоава"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Јоава"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "сву војску"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сву"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "војску"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "јунаке"
+    }
+  ],
+  "timestamp": "2026-09-05T11:30:24.777761332Z",
+  "model": "glm-5.3"
+}

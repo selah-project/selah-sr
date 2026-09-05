@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 12:26",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "Само светиње своје што имаш и завете своје понеси, и дођи на место које изабере Јахве.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Само"
+    },
+    {
+      "surface": "קדשיך",
+      "gloss": "светиње своје"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "имаш"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨себи⟩"
+    },
+    {
+      "surface": "ונדריך",
+      "gloss": "и завете своје"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "понеси"
+    },
+    {
+      "surface": "ובאת",
+      "gloss": "и дођи"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "место"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "које"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "изабере"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-09-05T15:14:06.397495285Z",
+  "model": "glm-5.3"
+}

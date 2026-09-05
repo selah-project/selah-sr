@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 31:9",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 31,
+  "translation": "Отвори уста своја, суди правду, и суди ⟨за⟩ сиромаха и убогога.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "отвори"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "уста своја"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "суди"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "правду"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "и суди"
+    },
+    {
+      "surface": "עני",
+      "gloss": "сиромаха"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "и убогога"
+    }
+  ],
+  "timestamp": "2026-09-05T13:54:24.004260408Z",
+  "model": "glm-5.3"
+}

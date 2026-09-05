@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 25:16",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 25,
+  "translation": "Јер гадост Јахвеа, Елохима твојег, ⟨јесте⟩ свак ко чини ово, свак ко чини неправду.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "гадост"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Елохима твојег"
+    },
+    {
+      "surface": "כל",
+      "gloss": "свак"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ко чини"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ово"
+    },
+    {
+      "surface": "כל",
+      "gloss": "свак"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ко чини"
+    },
+    {
+      "surface": "עול",
+      "gloss": "неправду"
+    }
+  ],
+  "timestamp": "2026-09-05T10:52:14.449368108Z",
+  "model": "glm-5.3"
+}

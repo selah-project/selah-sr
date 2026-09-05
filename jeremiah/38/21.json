@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 38:21",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 38,
+  "translation": "А ако ти одбијеш да изађеш, ово ⟨је⟩ реч коју ми показа Јахве:",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "а ако"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "одбијеш"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "да изађеш"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ово"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "реч"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "коју"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "ми показа"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-09-05T15:40:59.947798251Z",
+  "model": "glm-5.3"
+}

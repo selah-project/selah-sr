@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 25:3",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 25,
+  "translation": "Зато ће те славити народ силни, градови народâ грозних бојаће се тебе.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "На"
+    },
+    {
+      "surface": "כן",
+      "gloss": "томе"
+    },
+    {
+      "surface": "יכבדוך",
+      "gloss": "славиће те"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "силни"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "град"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "народâ"
+    },
+    {
+      "surface": "עריצים",
+      "gloss": "грозних"
+    },
+    {
+      "surface": "ייראוך",
+      "gloss": "бојаће се тебе"
+    }
+  ],
+  "timestamp": "2026-09-05T12:08:21.649563666Z",
+  "model": "glm-5.3"
+}

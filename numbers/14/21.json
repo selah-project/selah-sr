@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 14:21",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "Али, жив ја ⟨јесам⟩, и напуниће се слава Јахвеова ⟨את⟩ сву земљу.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "али"
+    },
+    {
+      "surface": "חי",
+      "gloss": "жив"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "и напуниће се"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "слава"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сву земљу"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сву"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земљу"
+    }
+  ],
+  "timestamp": "2026-09-05T10:34:10.196101147Z",
+  "model": "glm-5.3"
+}

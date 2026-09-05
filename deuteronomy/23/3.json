@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 23:3",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "Неће ући копиле у скупштину Јахвеову; чак ни десето поколење његово неће ући ⟨му⟩ у скупштину Јахвеову.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "неће"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ући"
+    },
+    {
+      "surface": "ממזר",
+      "gloss": "копиле"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "у скупштину"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеову"
+    },
+    {
+      "surface": "גם",
+      "gloss": "чак"
+    },
+    {
+      "surface": "דור",
+      "gloss": "поколење"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "десето"
+    },
+    {
+      "surface": "לא",
+      "gloss": "неће"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ући"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨му⟩"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "у скупштину"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеову"
+    }
+  ],
+  "timestamp": "2026-09-05T10:53:13.714176473Z",
+  "model": "glm-5.3"
+}

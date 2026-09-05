@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 20:17",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 20,
+  "translation": "Јер не умори ме из утробе, и мати моја постаде ми гроб, и утроба њена трудноћа вечна.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "מותתני",
+      "gloss": "умори ме"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "из утробе"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "и постаде"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "мати моја"
+    },
+    {
+      "surface": "קברי",
+      "gloss": "гроб"
+    },
+    {
+      "surface": "ורחמה",
+      "gloss": "и утроба њена"
+    },
+    {
+      "surface": "הרת",
+      "gloss": "трудноћа"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "вечна"
+    }
+  ],
+  "timestamp": "2026-09-05T12:26:49.783680830Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 7:16",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Не буди превише праведан, нити се чини премудрим: зашто би се сам запустео?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "буди"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "праведан"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "превише"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "нити"
+    },
+    {
+      "surface": "תתחכם",
+      "gloss": "се чини премудрим"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "премудрим ⟨превише⟩"
+    },
+    {
+      "surface": "למה",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "תשומם",
+      "gloss": "би се сам запустео"
+    }
+  ],
+  "timestamp": "2026-09-05T16:08:48.072933690Z",
+  "model": "glm-5.3"
+}

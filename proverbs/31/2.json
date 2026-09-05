@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 31:2",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 31,
+  "translation": "Шта, сине мој? и шта, сине утробе моје? и шта, сине завета мојих?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Шта"
+    },
+    {
+      "surface": "ברי",
+      "gloss": "сине мој"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "и шта"
+    },
+    {
+      "surface": "בר",
+      "gloss": "сине"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "утробе моје"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "и шта"
+    },
+    {
+      "surface": "בר",
+      "gloss": "сине"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "завета мојих"
+    }
+  ],
+  "timestamp": "2026-09-05T13:55:03.429205174Z",
+  "model": "glm-5.3"
+}

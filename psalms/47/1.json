@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 47:1",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 47,
+  "translation": "Вођу хора, синовима Кораховим, псалам.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "вођи хора"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "синовима"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Кораховим"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "псалам"
+    }
+  ],
+  "timestamp": "2026-09-05T16:43:46.597317364Z",
+  "model": "glm-5.3"
+}

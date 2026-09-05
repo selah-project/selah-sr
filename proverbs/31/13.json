@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 31:13",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 31,
+  "translation": "Потражи вуну и лан, и ради вољом дланова својих.",
+  "tokens": [
+    {
+      "surface": "דרשה",
+      "gloss": "Потражи"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "вуну"
+    },
+    {
+      "surface": "ופשתים",
+      "gloss": "и лан"
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "и ради"
+    },
+    {
+      "surface": "בחפץ",
+      "gloss": "вољом"
+    },
+    {
+      "surface": "כפיה",
+      "gloss": "дланова својих"
+    }
+  ],
+  "timestamp": "2026-09-05T13:54:31.268768422Z",
+  "model": "glm-5.3"
+}

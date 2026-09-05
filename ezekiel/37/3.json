@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 37:3",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 37,
+  "translation": "И рече ми: „Сине човечји, ће ли оживети кости ове?“ А ја рекох: „Адонај Јахве, ти знаш.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Сине"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човечји"
+    },
+    {
+      "surface": "התחיינה",
+      "gloss": "ће ли оживети"
+    },
+    {
+      "surface": "העצמות",
+      "gloss": "кости"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ове"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "А ја рекох"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "знаш"
+    }
+  ],
+  "timestamp": "2026-09-05T15:47:59.627377090Z",
+  "model": "glm-5.3"
+}

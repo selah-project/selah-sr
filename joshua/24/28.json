@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 24:28",
+  "book": "joshua",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "И отпусти Јехошуа ⟨את⟩ народ, свакога на наслеђе његово.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "И отпусти"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Јехошуа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "народ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "свакога"
+    },
+    {
+      "surface": "לנחלתו",
+      "gloss": "на наслеђе његово"
+    }
+  ],
+  "timestamp": "2026-09-05T11:05:18.709730637Z",
+  "model": "glm-5.3"
+}

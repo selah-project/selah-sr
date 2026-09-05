@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 80:15",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 80,
+  "translation": "Елохим Цеваот, врати се, молимо! Погледај с неба и види, и походи лозу ову:",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "врати се"
+    },
+    {
+      "surface": "נא",
+      "gloss": "молимо"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "погледај"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "с неба"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "и види"
+    },
+    {
+      "surface": "ופקד",
+      "gloss": "и походи"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "лозу"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ову"
+    }
+  ],
+  "timestamp": "2026-09-05T13:33:09.001283084Z",
+  "model": "glm-5.3"
+}

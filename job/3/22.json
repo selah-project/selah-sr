@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 3:22",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "који се радују до усхићења, веселе се кад нађу гроб.",
+  "tokens": [
+    {
+      "surface": "השמחים",
+      "gloss": "који се радују"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "до"
+    },
+    {
+      "surface": "גיל",
+      "gloss": "ушхићења"
+    },
+    {
+      "surface": "ישישו",
+      "gloss": "веселе се"
+    },
+    {
+      "surface": "כי",
+      "gloss": "кад"
+    },
+    {
+      "surface": "ימצאו",
+      "gloss": "нађу"
+    },
+    {
+      "surface": "קבר",
+      "gloss": "гроб"
+    }
+  ],
+  "timestamp": "2026-09-05T17:11:28.292088982Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 24:20",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "јер нема будућности зломе, светиљка ће се безбожника догасити.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "биће"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "будућност"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "зломе"
+    },
+    {
+      "surface": "נר",
+      "gloss": "светиљка"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "безбожника"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "догасиће се"
+    }
+  ],
+  "timestamp": "2026-09-05T16:01:28.639073630Z",
+  "model": "glm-5.3"
+}

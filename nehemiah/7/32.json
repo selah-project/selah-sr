@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "nehemiah 7:32",
+  "book": "nehemiah",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Људи Бет-Ела и Хајаја: сто двадесет и три.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "Људи"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ела"
+    },
+    {
+      "surface": "והעי",
+      "gloss": "и Хајаја"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двадесет"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "и три"
+    }
+  ],
+  "timestamp": "2026-09-05T14:30:53.925119666Z",
+  "model": "glm-5.3"
+}

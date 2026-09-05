@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 11:9",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "Дужа ⟨је⟩ од земље мера њезина, и шира од мора.",
+  "tokens": [
+    {
+      "surface": "ארכה",
+      "gloss": "Дужа"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "од земље"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "мера"
+    },
+    {
+      "surface": "ורחבה",
+      "gloss": "и шира"
+    },
+    {
+      "surface": "מני",
+      "gloss": "од"
+    },
+    {
+      "surface": "ים",
+      "gloss": "мора"
+    }
+  ],
+  "timestamp": "2026-09-05T13:57:33.238420054Z",
+  "model": "glm-5.3"
+}

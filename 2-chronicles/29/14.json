@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 29:14",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 29,
+  "translation": "И од синова Хеманових: Јехиел и Шимеи; и од синова Једутунових: Шемаја и Узиил.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "и од"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синова"
+    },
+    {
+      "surface": "הימן",
+      "gloss": "Хемана"
+    },
+    {
+      "surface": "יחואל",
+      "gloss": "Јехиел"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "и Шимеи"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "и од"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синова"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "Једутуна"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Шемаја"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "и Узиил"
+    }
+  ],
+  "timestamp": "2026-09-05T14:54:08.085539582Z",
+  "model": "glm-5.3"
+}

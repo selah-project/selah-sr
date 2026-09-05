@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 116:4",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 116,
+  "translation": "И у Име Јахвеово зовем: „ах, Јахве, избави нефеш моју!“",
+  "tokens": [
+    {
+      "surface": "ובשם",
+      "gloss": "и у Имену"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "зовем"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ах"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "מלטה",
+      "gloss": "избави"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "нефеш моју"
+    }
+  ],
+  "timestamp": "2026-09-05T13:39:48.694498871Z",
+  "model": "glm-5.3"
+}

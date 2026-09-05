@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 5:32",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "И чувајте да чините као што заповеди Јахве, Елохим ваш, ⟨את⟩ вас; не скрећите ни десно ни лево.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "И чувајте"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "да чините"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "као што"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповеди"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Елохим ваш"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "вас"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תסרו",
+      "gloss": "скрећите"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "десно"
+    },
+    {
+      "surface": "ושמאל",
+      "gloss": "ни лево"
+    }
+  ],
+  "timestamp": "2026-09-05T10:45:01.590686969Z",
+  "model": "glm-5.3"
+}

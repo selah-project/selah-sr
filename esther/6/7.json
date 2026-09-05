@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 6:7",
+  "book": "esther",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "И рече Хаман цару: за човека којега цар жели да почасти —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Хаман"
+    },
+    {
+      "surface": "אל",
+      "gloss": "цару"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човека"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "којега"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "жели"
+    },
+    {
+      "surface": "ביקרו",
+      "gloss": "да почасти"
+    }
+  ],
+  "timestamp": "2026-09-05T16:09:12.317590725Z",
+  "model": "glm-5.3"
+}

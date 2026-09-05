@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 38,
+  "translation": "И би зло у очима Јахвеа што учини; и умори и њега ⟨את⟩.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "и би зло"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "у очима"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "учини"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "и умори"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "њега"
+    }
+  ],
+  "timestamp": "2026-09-05T15:01:10.185238292Z",
+  "model": "glm-5.3"
+}

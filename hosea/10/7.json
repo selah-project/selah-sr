@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 10:7",
+  "book": "hosea",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "Неста ⟨је⟩ Шомрон, краљ њен, као пена на лицу вода.",
+  "tokens": [
+    {
+      "surface": "נדמה",
+      "gloss": "Неста"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Шомрон"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "краљ њен"
+    },
+    {
+      "surface": "כקצף",
+      "gloss": "као пена"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицу"
+    },
+    {
+      "surface": "מים",
+      "gloss": "вода"
+    }
+  ],
+  "timestamp": "2026-09-05T17:52:56.879019702Z",
+  "model": "glm-5.3"
+}

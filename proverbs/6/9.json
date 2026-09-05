@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 6:9",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "Докле ћеш, лењивче, лежати? Докле ћеш устати од сна свога ⟨од сна⟩?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "докле"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "докле"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "лењивче"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "ћеш лежати"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "докле"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "ћеш устати"
+    },
+    {
+      "surface": "משנתך",
+      "gloss": "од сна свога"
+    }
+  ],
+  "timestamp": "2026-09-05T13:47:04.157799821Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 30:15",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 30,
+  "translation": "Пијавици ⟨има⟩ две кћери: дај, дај. Три — ето их — неће се наситити, четири не рекоше: доста.",
+  "tokens": [
+    {
+      "surface": "לעלוקה",
+      "gloss": "пијавици"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "две"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "кћери"
+    },
+    {
+      "surface": "הב",
+      "gloss": "дај"
+    },
+    {
+      "surface": "הב",
+      "gloss": "дај"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "три"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ето их"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשבענה",
+      "gloss": "насите се"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "четири"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "рекоше"
+    },
+    {
+      "surface": "הון",
+      "gloss": "доста"
+    }
+  ],
+  "timestamp": "2026-09-05T16:02:36.966924501Z",
+  "model": "glm-5.3"
+}

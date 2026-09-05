@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 94:2",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 94,
+  "translation": "Дигни се, судиоце земље; врати плату надразнима!",
+  "tokens": [
+    {
+      "surface": "הנשא",
+      "gloss": "Дигни се"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "судиоце"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земље"
+    },
+    {
+      "surface": "השב",
+      "gloss": "врати"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "плату"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "надразнима"
+    }
+  ],
+  "timestamp": "2026-09-05T13:35:31.432878971Z",
+  "model": "glm-5.3"
+}

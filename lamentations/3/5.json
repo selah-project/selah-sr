@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 3:5",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Сазида против мене и опколи ⟨ме⟩ горчином и невољом.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "Сазида"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "против мене"
+    },
+    {
+      "surface": "ויקף",
+      "gloss": "и опколи"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "горчином"
+    },
+    {
+      "surface": "ותלאה",
+      "gloss": "и невољом"
+    }
+  ],
+  "timestamp": "2026-09-05T14:09:09.192273550Z",
+  "model": "glm-5.3"
+}

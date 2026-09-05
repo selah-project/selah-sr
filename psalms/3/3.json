@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 3:3",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Многи говоре души мојој: нема му спасења у Елохиму. Села.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "Многи"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "говоре"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "души мојој"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "ישועתה",
+      "gloss": "спасења"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "у Елохиму"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Села."
+    }
+  ],
+  "timestamp": "2026-09-05T15:52:26.051776131Z",
+  "model": "glm-5.3"
+}

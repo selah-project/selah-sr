@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 24:12",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "Остала ⟨је⟩ у граду пустош, и опустошеношћу разбијенa врата.",
+  "tokens": [
+    {
+      "surface": "נשאר",
+      "gloss": "остала"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "у граду"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "пустош"
+    },
+    {
+      "surface": "ושאיה",
+      "gloss": "и опустошеност"
+    },
+    {
+      "surface": "יכת",
+      "gloss": "разбијена"
+    },
+    {
+      "surface": "שער",
+      "gloss": "врата"
+    }
+  ],
+  "timestamp": "2026-09-05T12:07:38.281491919Z",
+  "model": "glm-5.3"
+}

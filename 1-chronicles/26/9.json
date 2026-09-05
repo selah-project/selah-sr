@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 26:9",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 26,
+  "translation": "А Мешелемији (Мешелемија) — синови и браћа, синови јунаштва, осамнаест.",
+  "tokens": [
+    {
+      "surface": "ולמשלמיהו",
+      "gloss": "А Мешелемији"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "синови"
+    },
+    {
+      "surface": "ואחים",
+      "gloss": "и браћа"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "јунаштва"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "осам"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "наест"
+    }
+  ],
+  "timestamp": "2026-09-05T14:42:21.041948499Z",
+  "model": "glm-5.3"
+}

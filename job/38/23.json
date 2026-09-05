@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 38:23",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 38,
+  "translation": "које сачувах за време невоље, за дан боја и рата.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "које"
+    },
+    {
+      "surface": "חשכתי",
+      "gloss": "сачувах"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "за време"
+    },
+    {
+      "surface": "צר",
+      "gloss": "невоље"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "за дан"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "боја"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "и рата"
+    }
+  ],
+  "timestamp": "2026-09-05T16:06:00.748187279Z",
+  "model": "glm-5.3"
+}

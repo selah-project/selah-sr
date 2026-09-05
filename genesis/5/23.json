@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 5:23",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "И бише сви дани Ханохови шездесет и пет година и триста година.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И бише"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сви"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дани"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Ханохови"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "пет"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "и шездесет"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "година"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "и три"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сто"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "година"
+    }
+  ],
+  "timestamp": "2026-09-05T09:41:01.149452886Z",
+  "model": "glm-5.3"
+}

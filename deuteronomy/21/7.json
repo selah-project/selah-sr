@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 21:7",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "и одговоре и реку: „Руке наше не пролиле су ⟨את⟩ крв ову, и очи наше нису је виделе.",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "и одговоре"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "и реку"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "руке наше"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "пролиле су"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "крв ову"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "крв"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ову"
+    },
+    {
+      "surface": "ועינינו",
+      "gloss": "и очи наше"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нису"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "виделе"
+    }
+  ],
+  "timestamp": "2026-09-05T10:50:52.053803864Z",
+  "model": "glm-5.3"
+}

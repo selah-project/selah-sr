@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 22:22",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "Не пљачкај сиромаха, јер је сиромах, и не гази бедника на вратима.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "пљачкај"
+    },
+    {
+      "surface": "דל",
+      "gloss": "сиромаха"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "דל",
+      "gloss": "сиромах"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "јесте"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תדכא",
+      "gloss": "гази"
+    },
+    {
+      "surface": "עני",
+      "gloss": "бедника"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "на вратима"
+    }
+  ],
+  "timestamp": "2026-09-05T13:51:48.993221858Z",
+  "model": "glm-5.3"
+}

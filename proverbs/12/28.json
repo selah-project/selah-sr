@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 12:28",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "У стази правде ⟨је⟩ живот, а на путу стазе ⟨нема⟩ смрти.",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "у стази"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "правде"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "живот"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "а на путу"
+    },
+    {
+      "surface": "נתיבה",
+      "gloss": "стазе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨нема⟩"
+    },
+    {
+      "surface": "מות",
+      "gloss": "смрти"
+    }
+  ],
+  "timestamp": "2026-09-05T13:48:45.727928814Z",
+  "model": "glm-5.3"
+}

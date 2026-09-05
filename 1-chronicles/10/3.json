@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 10:3",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "И усили се бој против Шаула, и нађоше га стрелци из лука, и изнеможе од стрелаца.",
+  "tokens": [
+    {
+      "surface": "ותכבד",
+      "gloss": "усили се"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "бој"
+    },
+    {
+      "surface": "על",
+      "gloss": "против"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаула"
+    },
+    {
+      "surface": "וימצאהו",
+      "gloss": "нађоше га"
+    },
+    {
+      "surface": "המורים",
+      "gloss": "стрелци"
+    },
+    {
+      "surface": "בקשת",
+      "gloss": "из лука"
+    },
+    {
+      "surface": "ויחל",
+      "gloss": "изнеможе"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "היורים",
+      "gloss": "стрелаца"
+    }
+  ],
+  "timestamp": "2026-09-05T14:38:21.359149608Z",
+  "model": "glm-5.3"
+}

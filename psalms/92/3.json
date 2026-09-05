@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 92:3",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 92,
+  "translation": "јављати ујутру хесед твој и верност твоју ноћима —",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "јављати"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ујутру"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "хесед твој"
+    },
+    {
+      "surface": "ואמונתך",
+      "gloss": "и верност твоју"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "ноћима"
+    }
+  ],
+  "timestamp": "2026-09-05T13:35:20.942327318Z",
+  "model": "glm-5.3"
+}

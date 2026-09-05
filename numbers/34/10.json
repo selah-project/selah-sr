@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 34:10",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 34,
+  "translation": "и одредите себи ⟨за⟩ међу источно⟨м⟩: од Хацар-Енана до Шефама.",
+  "tokens": [
+    {
+      "surface": "והתאויתם",
+      "gloss": "и одредите"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "себи"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "за међу"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "источно"
+    },
+    {
+      "surface": "מחצר",
+      "gloss": "од Хацар"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "Енана"
+    },
+    {
+      "surface": "שפמה",
+      "gloss": "Шефама"
+    }
+  ],
+  "timestamp": "2026-09-05T15:12:10.744306455Z",
+  "model": "glm-5.3"
+}

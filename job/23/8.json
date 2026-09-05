@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 23:8",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "Ето, исток пођем — и нема га; и назад — и не разумем га.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ето"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "исток(напред)"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "пођем"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "и нема га"
+    },
+    {
+      "surface": "ואחור",
+      "gloss": "и назад"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "разумем"
+    },
+    {
+      "surface": "לו",
+      "gloss": "га"
+    }
+  ],
+  "timestamp": "2026-09-05T16:04:21.993793058Z",
+  "model": "glm-5.3"
+}

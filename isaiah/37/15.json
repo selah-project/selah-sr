@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 37:15",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 37,
+  "translation": "И помоли се Хизкијаху Јахвеу, говорећи:",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "И помоли се"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Хизкијаху"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ка \/ Јахвеу"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеу"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорећи"
+    }
+  ],
+  "timestamp": "2026-09-05T12:11:54.819661217Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 33:9",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 33,
+  "translation": "И рече Есав (Исав): „Има мени у изобилу, брате мој; нека буде теби што је твоје.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Есав (Исав)"
+    },
+    {
+      "surface": "יש",
+      "gloss": "има"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мени"
+    },
+    {
+      "surface": "רב",
+      "gloss": "у изобилу"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "брате мој"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "нека буде"
+    },
+    {
+      "surface": "לך",
+      "gloss": "теби"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "לך",
+      "gloss": "је твоје"
+    }
+  ],
+  "timestamp": "2026-09-05T09:50:33.997429505Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 22:4",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "и кедрових дрва без броја, јер донесоше Сидонци и Тирци кедрових дрва у изобиљу Давиду.",
+  "tokens": [
+    {
+      "surface": "ועצי",
+      "gloss": "и дрва"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "кедрова"
+    },
+    {
+      "surface": "לאין",
+      "gloss": "без"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "броја"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "донесоше"
+    },
+    {
+      "surface": "הצידנים",
+      "gloss": "Сидонци"
+    },
+    {
+      "surface": "והצרים",
+      "gloss": "и Тирци"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "дрва"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "кедрова"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "у изобиљу"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Давиду"
+    }
+  ],
+  "timestamp": "2026-09-05T14:41:50.963734172Z",
+  "model": "glm-5.3"
+}

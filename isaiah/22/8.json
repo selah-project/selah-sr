@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 22:8",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "И откри ⟨את⟩ завесу Јудине, и погледа ⟨ти⟩ у дан онај на оружје дома Шуме.",
+  "tokens": [
+    {
+      "surface": "ויגל",
+      "gloss": "и откри"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "завесу Јудине"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "завесу"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јудине"
+    },
+    {
+      "surface": "ותבט",
+      "gloss": "и погледа"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "у дан"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "онај"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "נשק",
+      "gloss": "оружје"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "היער",
+      "gloss": "Шуме"
+    }
+  ],
+  "timestamp": "2026-09-05T16:48:36.460467126Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 38:16",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 38,
+  "translation": "И скрену к њој на пут, и рече: хајде, молим, да уђем к теби — јер не знаше да му је снаха — а она рече: шта ћеш дати мени да уђеш к мени?",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "И скрену"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "к њој"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "пут"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "хајде"
+    },
+    {
+      "surface": "נא",
+      "gloss": "молим"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "да уђем"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "к теби"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "_yדע",
+      "gloss": "знаше"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "му је снаха"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨јесте⟩"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "а она рече"
+    },
+    {
+      "surface": "מה",
+      "gloss": "шта"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ћеш дати"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мени"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "уђеш"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "к мени"
+    }
+  ],
+  "timestamp": "2026-09-05T09:54:06.364786225Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 4:8",
+  "book": "judges",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "И рече јој Варак: „Ако пођеш са мном, поћи ћу; а ако не пођеш са мном, нећу поћи.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "јој"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Варак"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Ако"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "пођеш"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "са мном"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "поћи ћу"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "а ако"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "пођеш"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "са мном"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ћу поћи"
+    }
+  ],
+  "timestamp": "2026-09-05T11:08:22.606325934Z",
+  "model": "glm-5.3"
+}

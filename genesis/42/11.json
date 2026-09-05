@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 42:11",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 42,
+  "translation": "Сви ми синови једнога човека смо; поштени смо, слуге твоје нису извидници.",
+  "tokens": [
+    {
+      "surface": "כלנו",
+      "gloss": "Сви ми"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човека"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "једнога"
+    },
+    {
+      "surface": "נחנו",
+      "gloss": "смо"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "поштени"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "смо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "היו",
+      "gloss": "нису"
+    },
+    {
+      "surface": "עבדיך",
+      "gloss": "слуге твоје"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "извидници"
+    }
+  ],
+  "timestamp": "2026-09-05T09:55:21.117794176Z",
+  "model": "glm-5.3"
+}

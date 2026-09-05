@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 1:6",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "И рече Елохим: нека буде свод усред вода, и нека дели воде од вода.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "нека буде"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "свод"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "усред"
+    },
+    {
+      "surface": "המים",
+      "gloss": "вода"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и нека буде"
+    },
+    {
+      "surface": "мבדיל",
+      "gloss": "дели"
+    },
+    {
+      "surface": "בין",
+      "gloss": "између"
+    },
+    {
+      "surface": "מים",
+      "gloss": "воде"
+    },
+    {
+      "surface": "למים",
+      "gloss": "од вода"
+    }
+  ],
+  "timestamp": "2026-09-05T09:39:36.444363154Z",
+  "model": "glm-5.3"
+}

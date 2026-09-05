@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-samuel 25:38",
+  "book": "1-samuel",
+  "lang": "sr",
+  "chapter": 25,
+  "translation": "И би као десет дана ⟨после⟩, и удари Јахве ⟨את⟩ Навала, и умре.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "и би"
+    },
+    {
+      "surface": "כעשרת",
+      "gloss": "као десет"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "дана"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "удари"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Навала"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Навала"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "и умре"
+    }
+  ],
+  "timestamp": "2026-09-05T15:23:09.547258483Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 3:30",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "А кнез дома оца за породице Кехатових ⟨биће⟩ Елицафан, син Узилов.",
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "А кнез"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "אב",
+      "gloss": "оца"
+    },
+    {
+      "surface": "למשפחת",
+      "gloss": "за породице"
+    },
+    {
+      "surface": "הקהתי",
+      "gloss": "Кехатових"
+    },
+    {
+      "surface": "אליצפן",
+      "gloss": "Елицафан"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "Узилов"
+    }
+  ],
+  "timestamp": "2026-09-05T10:28:49.996790354Z",
+  "model": "glm-5.3"
+}

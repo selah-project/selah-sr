@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 17:18",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 17,
+  "translation": "Човек лишен срца плешће дланом, јемство постаје пред пријатељем својим.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "Човек"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "лишен"
+    },
+    {
+      "surface": "לב",
+      "gloss": "срца"
+    },
+    {
+      "surface": "תוקע",
+      "gloss": "плешће"
+    },
+    {
+      "surface": "כף",
+      "gloss": "дланом"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "⟨јемчи⟩"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "јемство"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "пријатељем својим"
+    }
+  ],
+  "timestamp": "2026-09-05T13:50:08.163595761Z",
+  "model": "glm-5.3"
+}

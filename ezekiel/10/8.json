@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 10:8",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "И показа се на херувима облик руке човечје под крилима њиховим.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "и показа се"
+    },
+    {
+      "surface": "לכרבים",
+      "gloss": "на херувима"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "облик"
+    },
+    {
+      "surface": "יד",
+      "gloss": "руке"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човечје"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "крилима њиховим"
+    }
+  ],
+  "timestamp": "2026-09-05T15:44:12.118412864Z",
+  "model": "glm-5.3"
+}

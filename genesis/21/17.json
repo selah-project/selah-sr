@@ -1,0 +1,126 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 21:17",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "И чу Елохим ⟨את⟩ глас дечака, и зовну анђео Елохимов Агару с небеса, и рече јој: „Што је теби, Агаро? Не бој се, јер чу Елохим глас дечака тамо где јесте.“",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "И чу"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "глас"
+    },
+    {
+      "surface": "קול",
+      "gloss": "глас"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "дечака"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "и зовну"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "анђео"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохимов"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Агару"
+    },
+    {
+      "surface": "מן",
+      "gloss": "с"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небеса"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "לה",
+      "gloss": "јој"
+    },
+    {
+      "surface": "מה",
+      "gloss": "што"
+    },
+    {
+      "surface": "לך",
+      "gloss": "је теби"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Агаро"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "бој се"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "чу"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "קול",
+      "gloss": "глас"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "дечака"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "тамо где"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "שם",
+      "gloss": "јесте"
+    }
+  ],
+  "timestamp": "2026-09-05T09:45:45.173374539Z",
+  "model": "glm-5.3"
+}

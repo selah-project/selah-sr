@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 5:11",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Жене су у Циону поништаване, девице у градовима Јехуде.",
+  "tokens": [
+    {
+      "surface": "נשים",
+      "gloss": "жене"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "у Циону"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "поништаване"
+    },
+    {
+      "surface": "בתלת",
+      "gloss": "девице"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "у градовима"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јехуде"
+    }
+  ],
+  "timestamp": "2026-09-05T14:10:49.640612408Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 28:23",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "И биће небеса твоја која су над главом твојом бакар, а земља која је под тобом гвожђе.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "И биће"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "небеса твоја"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "која"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "главом твојом"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "бакар"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "а земља"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "која"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "под тобом"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "гвожђе"
+    }
+  ],
+  "timestamp": "2026-09-05T10:54:41.740117818Z",
+  "model": "glm-5.3"
+}

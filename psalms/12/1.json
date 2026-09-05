@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 12:1",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "Надзорнику, за осму ⟨песму⟩, мизмор Давидов.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Надзорнику"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "осму"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мизмор"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидов"
+    }
+  ],
+  "timestamp": "2026-09-05T13:18:20.155263051Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 29:23",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 29,
+  "translation": "Охолост човека понижиће га, а смирен духом добиће част.",
+  "tokens": [
+    {
+      "surface": "גאות",
+      "gloss": "Охолост"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човека"
+    },
+    {
+      "surface": "תשפילנו",
+      "gloss": "понижиће га"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "а смирен"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "духом"
+    },
+    {
+      "surface": "יתמך",
+      "gloss": "добиће"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "част"
+    }
+  ],
+  "timestamp": "2026-09-05T13:53:24.557476713Z",
+  "model": "glm-5.3"
+}

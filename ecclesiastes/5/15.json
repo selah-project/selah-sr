@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 5:15",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "И и ово је зла болест: сасвим како ⟨је⟩ дошао, тако ће отићи; а каква ⟨је⟩ корист њему што се труди за ветар?",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "И и"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ово"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зла"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "болест"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сасвим"
+    },
+    {
+      "surface": "עמת",
+      "gloss": "како"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "дође"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тако"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ће отићи"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "а каква"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "корист"
+    },
+    {
+      "surface": "לו",
+      "gloss": "њему"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "што се труди"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "за ветар"
+    }
+  ],
+  "timestamp": "2026-09-05T16:08:17.463952776Z",
+  "model": "glm-5.3"
+}

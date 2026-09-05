@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 49,
+  "translation": "Долази до поколења отаца својих; до века неће видети светлост.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "долази"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "דור",
+      "gloss": "поколења"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "отаца својих"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "века"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "виде"
+    },
+    {
+      "surface": "אור",
+      "gloss": "светлост"
+    }
+  ],
+  "timestamp": "2026-09-05T13:26:38.911243685Z",
+  "model": "glm-5.3"
+}

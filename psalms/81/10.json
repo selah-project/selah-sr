@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 81,
+  "translation": "Нека не буде у теби Ела страног, и не клањај се Елу туђем.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Нека не"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "буде"
+    },
+    {
+      "surface": "בך",
+      "gloss": "у теби"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "זר",
+      "gloss": "страног"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "клањај се"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "Елу"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "туђем"
+    }
+  ],
+  "timestamp": "2026-09-05T15:56:37.130295586Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 44:7",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 44,
+  "translation": "Јер не у лук свој уздам се, и мач мој неће ме спасти.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "у лук свој"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "уздам се"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "и мач мој"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תושיעני",
+      "gloss": "спасти ме"
+    }
+  ],
+  "timestamp": "2026-09-05T13:25:25.923702775Z",
+  "model": "glm-5.3"
+}

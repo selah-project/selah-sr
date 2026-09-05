@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 11:26",
+  "book": "nehemiah",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "и у Јешуи, и у Молади, и у Бејт-Фалету.",
+  "tokens": [
+    {
+      "surface": "ובישוע",
+      "gloss": "и у Јешуи"
+    },
+    {
+      "surface": "ובמולדה",
+      "gloss": "и у Молади"
+    },
+    {
+      "surface": "ובבית",
+      "gloss": "и у Бејт-"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "Фалету"
+    }
+  ],
+  "timestamp": "2026-09-05T14:32:03.308967036Z",
+  "model": "glm-5.3"
+}

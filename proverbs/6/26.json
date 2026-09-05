@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 6:26",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "Јер заради жене блуднице ⟨доведен је⟩ до комада хлеба, а жена човекова драгоцену душу лови.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "заради"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "жене"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "блуднице"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "комада"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хлеба"
+    },
+    {
+      "surface": "ואשת",
+      "gloss": "а жена"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човекова"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "душу"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "драгоцену"
+    },
+    {
+      "surface": "תצוד",
+      "gloss": "лови"
+    }
+  ],
+  "timestamp": "2026-09-05T13:47:40.120682426Z",
+  "model": "glm-5.3"
+}

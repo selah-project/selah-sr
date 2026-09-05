@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 1:7",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "А синови Јаванови: Елиша, и Таршиша, Китимај и Роданимај.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "А синови"
+    },
+    {
+      "surface": "יון",
+      "gloss": "Јаванови"
+    },
+    {
+      "surface": "אלישה",
+      "gloss": "Елиша"
+    },
+    {
+      "surface": "ותרשישה",
+      "gloss": "и Таршиша"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "Китимај"
+    },
+    {
+      "surface": "ורודנים",
+      "gloss": "и Роданимај"
+    }
+  ],
+  "timestamp": "2026-09-05T14:33:23.915188344Z",
+  "model": "glm-5.3"
+}

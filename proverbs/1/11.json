@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 1:11",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "Ако кажу: Ходи с ⟨את⟩ нама, да вребамо на крв, да заседнемо за невине — низашто.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ако"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "кажу"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Ходи"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "с ⟨את⟩ нама",
+      "marks": "нас"
+    },
+    {
+      "surface": "נארבה",
+      "gloss": "да вребамо"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "на крв"
+    },
+    {
+      "surface": "נצפנה",
+      "gloss": "да заседнемо"
+    },
+    {
+      "surface": "לנקי",
+      "gloss": "за невине"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "низашто"
+    }
+  ],
+  "timestamp": "2026-09-05T13:45:20.139126311Z",
+  "model": "glm-5.3"
+}

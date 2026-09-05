@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 25:6",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 25,
+  "translation": "Камоли смртник — црв, и син човечји — црвић!",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Камоли"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨јер⟩"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "смртник"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "црв"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "и син"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човечји"
+    },
+    {
+      "surface": "תולעה",
+      "gloss": "црвић"
+    }
+  ],
+  "timestamp": "2026-09-05T14:00:56.771964859Z",
+  "model": "glm-5.3"
+}

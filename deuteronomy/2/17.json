@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 2:17",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "И рече Јахве мени ⟨да каже⟩:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мени"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨да каже⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T10:43:38.769588930Z",
+  "model": "glm-5.3"
+}

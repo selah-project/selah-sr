@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 36:21",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 36,
+  "translation": "Десет лаката ⟨је⟩ дужина даске, а лакат и по ⟨је⟩ ширина једне даске.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "Десет"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "лаката"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "дужина"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "даске"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "а лакат"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "и по"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "⟨лакат⟩"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ширина"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "даске"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "једне"
+    }
+  ],
+  "timestamp": "2026-09-05T10:14:01.027827423Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 20:12",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 20,
+  "translation": "А ако не склапи мир с тобом него поведе с тобом рат, опседнућеш га.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "А ако"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשלים",
+      "gloss": "склапи мир"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "с тобом"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "поведе"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "с тобом"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "рат"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "опседнућеш"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "га"
+    }
+  ],
+  "timestamp": "2026-09-05T10:50:25.351732434Z",
+  "model": "glm-5.3"
+}

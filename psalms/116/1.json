@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 116:1",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 116,
+  "translation": "Возљубих, јер чу Јахве ⟨את⟩ глас мој, мољбе моје.",
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "Возљубих"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "чу"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "глас мој"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "глас мој"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "мољбе моје"
+    }
+  ],
+  "timestamp": "2026-09-05T13:39:48.693962306Z",
+  "model": "glm-5.3"
+}

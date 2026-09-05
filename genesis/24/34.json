@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 24:34",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "И рече: слуга Аврахамов (Аврамов) сам ја.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "слуга"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврахамов (Аврамов)"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "сам ја"
+    }
+  ],
+  "timestamp": "2026-09-05T09:47:12.499583587Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 28:3",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "Ено, мудрији си од Данила; ниједна тајна није скривена од тебе.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ено"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мудар"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти си"
+    },
+    {
+      "surface": "מדנאל",
+      "gloss": "мудрији од Данила"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ниједна \/ свака"
+    },
+    {
+      "surface": "סתום",
+      "gloss": "тајна"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "עממוך",
+      "gloss": "скривена од тебе"
+    }
+  ],
+  "timestamp": "2026-09-05T12:52:31.460495244Z",
+  "model": "glm-5.3"
+}

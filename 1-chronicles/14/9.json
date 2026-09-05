@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 14:9",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "И дођоше Плиштимљеви и разлише се у долини Рефаима.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "и Плиштимљеви"
+    },
+    {
+      "surface": "באו",
+      "gloss": "дођоше"
+    },
+    {
+      "surface": "ויפשטו",
+      "gloss": "и разлише се"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "у долини"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "Рефаима"
+    }
+  ],
+  "timestamp": "2026-09-05T14:38:54.511475005Z",
+  "model": "glm-5.3"
+}

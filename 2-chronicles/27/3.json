@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 27:3",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 27,
+  "translation": "Он сагради ⟨את⟩ горња врата дома Јахвеовог, и на зиду Офела много сагради.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Он"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "сагради"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "горња врата"
+    },
+    {
+      "surface": "שער",
+      "gloss": "врата"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеовог"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "горња"
+    },
+    {
+      "surface": "ובחומת",
+      "gloss": "и на зиду"
+    },
+    {
+      "surface": "העפל",
+      "gloss": "Офела"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "сагради"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "много"
+    }
+  ],
+  "timestamp": "2026-09-05T14:52:39.810248141Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 24:6",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "Ово ⟨је⟩ поколење тражилаца лица твог — Јааков (Јаков). Села.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "ово"
+    },
+    {
+      "surface": "דור",
+      "gloss": "поколење"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "траже га"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "тражиоци"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "лица твог"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Јааков"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Села"
+    }
+  ],
+  "timestamp": "2026-09-05T15:54:06.505440423Z",
+  "model": "glm-5.3"
+}

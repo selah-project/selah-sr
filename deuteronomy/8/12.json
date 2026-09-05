@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 8:12",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "Да не би, кад најеш се и наситиш се, и добре куће саградиш и уселиш се ⟨у њих⟩,",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "да не би"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "најеш се"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "и наситиш се"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "и куће"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "добре"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "саградиш"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "уселиш се ⟨у њих⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T17:15:50.341152848Z",
+  "model": "glm-5.3"
+}

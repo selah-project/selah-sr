@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 19:28",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 19,
+  "translation": "И погледа на лице Сдома и Аморе, и на све лице земље равнице, и виде, и гле — диже се дим земље као дим пећи.",
+  "tokens": [
+    {
+      "surface": "וישקף",
+      "gloss": "и погледа"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лице"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Сдома"
+    },
+    {
+      "surface": "ועמרה",
+      "gloss": "и Аморе"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лице"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земље"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "равнице"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "и виде"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и гле"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "диже се"
+    },
+    {
+      "surface": "קיטר",
+      "gloss": "дим"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земље"
+    },
+    {
+      "surface": "כקיטר",
+      "gloss": "као дим"
+    },
+    {
+      "surface": "הכבשן",
+      "gloss": "пећи"
+    }
+  ],
+  "timestamp": "2026-09-05T09:43:52.519833824Z",
+  "model": "glm-5.3"
+}

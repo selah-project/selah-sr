@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 92,
+  "translation": "Човек зверски не зна, и глупак не разуме ⟨את⟩ ово.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Човек"
+    },
+    {
+      "surface": "בער",
+      "gloss": "зверски"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "зна"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "и глупак"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "разуме"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ово"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ово"
+    }
+  ],
+  "timestamp": "2026-09-05T13:35:36.128186128Z",
+  "model": "glm-5.3"
+}

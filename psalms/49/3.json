@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 49,
+  "translation": "И синови људски и синови људи, заједно богаташ и сиромах.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "И"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "људски"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "איש",
+      "gloss": "људи"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "заједно"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "богаташ"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "и сиромах"
+    }
+  ],
+  "timestamp": "2026-09-05T13:26:31.453477836Z",
+  "model": "glm-5.3"
+}

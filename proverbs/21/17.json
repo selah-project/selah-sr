@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 21:17",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "Човек оскудице — љуби весеље; љуби вино и уље — неће обогатети.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "оскудице"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "љуби"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "весеље"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "љуби"
+    },
+    {
+      "surface": "יין",
+      "gloss": "вино"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "и уље"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יעשיר",
+      "gloss": "обогатиће се"
+    }
+  ],
+  "timestamp": "2026-09-05T13:51:28.626097098Z",
+  "model": "glm-5.3"
+}

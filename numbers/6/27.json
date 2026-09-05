@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 6:27",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "И нанесу ⟨את⟩ Име моје на синове Израиљеве, и ја ћу их благословити.",
+  "tokens": [
+    {
+      "surface": "ושמו",
+      "gloss": "И нанесу"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Име моје"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Име моје"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синове"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљеве"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "и ја"
+    },
+    {
+      "surface": "אברכם",
+      "gloss": "ћу их благословити"
+    }
+  ],
+  "timestamp": "2026-09-05T10:29:22.848798619Z",
+  "model": "glm-5.3"
+}

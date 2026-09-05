@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 22:32",
+  "book": "2-samuel",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "Јер ко ⟨је⟩ Ел осим Јахвеа? И ко стена осим Елохима наших?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ко"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "осим"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "и ко"
+    },
+    {
+      "surface": "צור",
+      "gloss": "стена"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "осим"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Елохима наших"
+    }
+  ],
+  "timestamp": "2026-09-05T11:36:50.809111520Z",
+  "model": "glm-5.3"
+}

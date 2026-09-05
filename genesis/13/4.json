@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 13:4",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "к месту ⟨о⟩лтара који начини онде у почетку; и зовну тамо Аврам (Аврам) у Имену Јахвеа.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "месту"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "олтара"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "начини"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ондe"
+    },
+    {
+      "surface": "בראשנה",
+      "gloss": "у почетку"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "и зовну"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тамо"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Аврам (Аврам)"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "у Имену"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    }
+  ],
+  "timestamp": "2026-09-05T16:54:10.766918550Z",
+  "model": "glm-5.3"
+}

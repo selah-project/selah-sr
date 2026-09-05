@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 34:5",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 34,
+  "translation": "И сиђе Јахве у облаку, и стави се са њим тамо, и прозова Именом Јахве.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "и сиђе"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "у облаку"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "и стави се"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "са њим"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тамо"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "и прозова"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "Именом"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-09-05T10:12:43.110679722Z",
+  "model": "glm-5.3"
+}

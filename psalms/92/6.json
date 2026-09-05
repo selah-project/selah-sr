@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 92:6",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 92,
+  "translation": "Како су велика дела твоја, Јахве! Врло дубоке мисли твоје.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Како"
+    },
+    {
+      "surface": "גדלו",
+      "gloss": "су велика"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "дела твоја"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "Врло"
+    },
+    {
+      "surface": "עמקו",
+      "gloss": "дубоке"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "мисли твоје"
+    }
+  ],
+  "timestamp": "2026-09-05T13:35:36.128028203Z",
+  "model": "glm-5.3"
+}

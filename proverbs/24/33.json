@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 24:33",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "Мало сна, мало дремежа, мало склапања руку — па легање.",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "мало"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "сна"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "мало"
+    },
+    {
+      "surface": "תנומות",
+      "gloss": "дремежа"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "мало"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "склапања"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "руку"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "легање"
+    }
+  ],
+  "timestamp": "2026-09-05T13:51:32.885970978Z",
+  "model": "glm-5.3"
+}

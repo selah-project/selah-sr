@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 5:10",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Даје кишу на лице земље и шаље воде на лице поља.",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "даје"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "кишу"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лице"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земље"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "и шаље"
+    },
+    {
+      "surface": "מים",
+      "gloss": "воде"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лице"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "поља"
+    }
+  ],
+  "timestamp": "2026-09-05T13:56:05.170969299Z",
+  "model": "glm-5.3"
+}

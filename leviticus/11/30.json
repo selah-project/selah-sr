@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 11:30",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "и гекон, и варан, и гуштер, и пешчар, и камелеон.",
+  "tokens": [
+    {
+      "surface": "והאנקה",
+      "gloss": "и гекон"
+    },
+    {
+      "surface": "והכח",
+      "gloss": "и варан"
+    },
+    {
+      "surface": "והלטאה",
+      "gloss": "и гуштер"
+    },
+    {
+      "surface": "והחמט",
+      "gloss": "и пешчар"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "и камелеон"
+    }
+  ],
+  "timestamp": "2026-09-05T15:06:51.670396048Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 18:6",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "А Јехошафат рече: „Нема ли још овде пророка Јахвеа, па да питамо њега?“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "А рече"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Јехошафат"
+    },
+    {
+      "surface": "האין",
+      "gloss": "нема ли"
+    },
+    {
+      "surface": "פה",
+      "gloss": "овде"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "пророка"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "још"
+    },
+    {
+      "surface": "ונדרשה",
+      "gloss": "па да питамо"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "њега ⟨את⟩",
+      "marks": "њега"
+    }
+  ],
+  "timestamp": "2026-09-05T16:46:55.164120846Z",
+  "model": "glm-5.3"
+}

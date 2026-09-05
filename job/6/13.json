@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 6:13",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "Зар ⟨нема⟩ помоћи у мени, и зар успех није одбачен од мене?",
+  "tokens": [
+    {
+      "surface": "האם",
+      "gloss": "Зар"
+    },
+    {
+      "surface": "אין",
+      "gloss": "⟨нема⟩"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "помоћи"
+    },
+    {
+      "surface": "בי",
+      "gloss": "у мени"
+    },
+    {
+      "surface": "ותשיה",
+      "gloss": "и успех"
+    },
+    {
+      "surface": "נדחה",
+      "gloss": "одбачен"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "од мене"
+    }
+  ],
+  "timestamp": "2026-09-05T13:56:27.141349457Z",
+  "model": "glm-5.3"
+}

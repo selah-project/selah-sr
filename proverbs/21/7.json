@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 21:7",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "Насиље безбожника вуче их ⟨у пропаст⟩, јер одбише да чине право.",
+  "tokens": [
+    {
+      "surface": "שד",
+      "gloss": "насиље"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "безбожника"
+    },
+    {
+      "surface": "יגורם",
+      "gloss": "вуче их"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "одбише"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "да чине"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "право"
+    }
+  ],
+  "timestamp": "2026-09-05T13:51:13.755410713Z",
+  "model": "glm-5.3"
+}

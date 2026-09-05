@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 102:8",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 102,
+  "translation": "Бдех, и био сам као птица сама на крову.",
+  "tokens": [
+    {
+      "surface": "שקדתי",
+      "gloss": "Бдех"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "и био сам"
+    },
+    {
+      "surface": "кצפור",
+      "gloss": "као птица"
+    },
+    {
+      "surface": "בודד",
+      "gloss": "сама"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "גג",
+      "gloss": "крову"
+    }
+  ],
+  "timestamp": "2026-09-05T13:36:17.759475627Z",
+  "model": "glm-5.3"
+}

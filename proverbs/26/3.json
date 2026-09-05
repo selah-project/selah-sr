@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 26:3",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 26,
+  "translation": "Бич коњу, узда магарцу, и штап за леђа лудима.",
+  "tokens": [
+    {
+      "surface": "שוט",
+      "gloss": "бич"
+    },
+    {
+      "surface": "לסוס",
+      "gloss": "коњу"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "узда"
+    },
+    {
+      "surface": "לחמור",
+      "gloss": "магарцу"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "и штап"
+    },
+    {
+      "surface": "לגו",
+      "gloss": "за леђа"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "лудима"
+    }
+  ],
+  "timestamp": "2026-09-05T13:52:38.842244865Z",
+  "model": "glm-5.3"
+}

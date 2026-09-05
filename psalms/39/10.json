@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 39,
+  "translation": "Онемех, не отворих уста своја, јер Ти ⟨то⟩ учини.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "онемех"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "отворих"
+    },
+    {
+      "surface": "פי",
+      "gloss": "уста своја"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "учини"
+    }
+  ],
+  "timestamp": "2026-09-05T13:24:58.891422168Z",
+  "model": "glm-5.3"
+}

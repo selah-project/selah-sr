@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 34:12",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 34,
+  "translation": "Умножите ми веома мираз и дар, и дати ћу како рекнете мени; а дајте мени ⟨את⟩ девојку за жену.",
+  "tokens": [
+    {
+      "surface": "הרבו",
+      "gloss": "умножите"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "веома"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "мираз"
+    },
+    {
+      "surface": "ומתן",
+      "gloss": "и дар"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "и дати ћу"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "како"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "рекнете"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мени"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "а дајте"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мени"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "девојку"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "девојку"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "за жену"
+    }
+  ],
+  "timestamp": "2026-09-05T09:52:11.787872314Z",
+  "model": "glm-5.3"
+}

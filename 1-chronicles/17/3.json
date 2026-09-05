@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 17:3",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 17,
+  "translation": "И би те ноћи, и би реч Елохима Натану, говорећи:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И би"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "те ноћи"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨те⟩"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и би"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "реч"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохима"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Натану"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "⟨Натану⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорећи"
+    }
+  ],
+  "timestamp": "2026-09-05T16:15:45.621336641Z",
+  "model": "glm-5.3"
+}

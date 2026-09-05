@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 9:13",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "И одсече Јахве од Израиља главу и реп, палмин лист и трску, дан један.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "И одсече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "од Израиља"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "главу"
+    },
+    {
+      "surface": "וזנב",
+      "gloss": "и реп"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "палмин лист"
+    },
+    {
+      "surface": "ואגמון",
+      "gloss": "и трску"
+    },
+    {
+      "surface": "יום",
+      "gloss": "дан"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "један"
+    }
+  ],
+  "timestamp": "2026-09-05T15:32:41.770629538Z",
+  "model": "glm-5.3"
+}

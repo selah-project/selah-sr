@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 45:14",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 45,
+  "translation": "И одредба уља: бат уља ⟨је⟩ десетина бата од кора — десет батâ ⟨је⟩ хомер, јер десет батâ ⟨је⟩ хомер.",
+  "tokens": [
+    {
+      "surface": "וחק",
+      "gloss": "И одредба"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "уља"
+    },
+    {
+      "surface": "הבת",
+      "gloss": "бат"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "уља"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "десетина"
+    },
+    {
+      "surface": "הבת",
+      "gloss": "бата"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "הכר",
+      "gloss": "кора"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "десет"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "батâ"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "хомер"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "десет"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "батâ"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "хомер"
+    }
+  ],
+  "timestamp": "2026-09-05T15:49:30.136918183Z",
+  "model": "glm-5.3"
+}

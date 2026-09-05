@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 33:25",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 33,
+  "translation": "Тако рече Јахве: ако завет мој не стоји дању и ноћу, уредбе небеса и земље не поставих —",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Тако"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "завет мој"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "дању"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "и ноћу"
+    },
+    {
+      "surface": "חקות",
+      "gloss": "уредбе"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "небеса"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "и земље"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שמתי",
+      "gloss": "поставих"
+    }
+  ],
+  "timestamp": "2026-09-05T12:32:43.123254520Z",
+  "model": "glm-5.3"
+}

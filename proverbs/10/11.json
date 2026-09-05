@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 10:11",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "Извор живота ⟨је⟩ уста праведника, а уста безбожника покривају насиље.",
+  "tokens": [
+    {
+      "surface": "מקור",
+      "gloss": "извор"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "живота"
+    },
+    {
+      "surface": "פי",
+      "gloss": "уста"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "праведника"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "а уста"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "безбожника"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "покривају"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "насиље"
+    }
+  ],
+  "timestamp": "2026-09-05T13:47:53.546100954Z",
+  "model": "glm-5.3"
+}

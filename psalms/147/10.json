@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 147:10",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 147,
+  "translation": "Не у јунаштву коња му је драго, не у листовима човека му је мило.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "בגבורת",
+      "gloss": "у јунаштву"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "коња"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "му је драго"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "בשוקי",
+      "gloss": "у листовима"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "човека"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "му је мило"
+    }
+  ],
+  "timestamp": "2026-09-05T13:44:53.071609520Z",
+  "model": "glm-5.3"
+}

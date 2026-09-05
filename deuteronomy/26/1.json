@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 26:1",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 26,
+  "translation": "И биће: кад дођеш у земљу коју ти даје Јахве, Елохим твој, у наслеђе, и наследиш је и населиш се у њој —",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "И биће"
+    },
+    {
+      "surface": "כי",
+      "gloss": "кад"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "дођеш"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земљу"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "коју"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Елохим твој"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "даје"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "у наслеђе"
+    },
+    {
+      "surface": "וירשתה",
+      "gloss": "и наследиш ју"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "и населиш се"
+    },
+    {
+      "surface": "בה",
+      "gloss": "у њој"
+    }
+  ],
+  "timestamp": "2026-09-05T16:58:29.382679919Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 22:29",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "И кад закољете жртву хвале Јахвеу, по својој вољи закољите ⟨је⟩.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "и кад"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "закољете"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "жртву"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "хвале"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Јахвеу"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "по својој вољи"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "закољете"
+    }
+  ],
+  "timestamp": "2026-09-05T10:24:06.729580253Z",
+  "model": "glm-5.3"
+}

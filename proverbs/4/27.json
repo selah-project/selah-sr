@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 4:27",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "Не скрећи надесно ни лево; уклони ногу своју од зла.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תט",
+      "gloss": "скрећи"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "надесно"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "ни лево"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "уклони"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "ногу своју"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "од зла"
+    }
+  ],
+  "timestamp": "2026-09-05T13:46:02.289158068Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 15:19",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 15,
+  "translation": "⟨את⟩ Кенеја и ⟨את⟩ Кенезеја и ⟨את⟩ Кедмонеја —",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Кенеја"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "Кенеја"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Кенезеја"
+    },
+    {
+      "surface": "הקנזי",
+      "gloss": "Кенезеја"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Кедмонеја"
+    },
+    {
+      "surface": "הקדמני",
+      "gloss": "Кедмонеја"
+    }
+  ],
+  "timestamp": "2026-09-05T09:44:00.858706066Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 8:3",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "Не жури да одеш од лица његовога; не стој у ствари злој; јер све што хоће, учиниће.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "жури"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "од лица његовога"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "да одеш"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעמод",
+      "gloss": "стој"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "у ствари"
+    },
+    {
+      "surface": "רע",
+      "gloss": "злој"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "хоће"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "учиниће"
+    }
+  ],
+  "timestamp": "2026-09-05T16:08:23.400123583Z",
+  "model": "glm-5.3"
+}

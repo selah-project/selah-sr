@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 25:10",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 25,
+  "translation": "и надене му се име у Израиљу: дом онога коме је скинута обућа.",
+  "tokens": [
+    {
+      "surface": "ונקרא",
+      "gloss": "и надене се"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "име"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "у Израиљу"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "חלוץ",
+      "gloss": "скоме је скинута"
+    },
+    {
+      "surface": "הנעל",
+      "gloss": "обућа"
+    }
+  ],
+  "timestamp": "2026-09-05T10:52:17.192967845Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "lamentations 4:17",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "Још су нам се очи исцрпле ⟨за⟩ помоћи нашом узалудном; чекујући чекасмо ⟨на⟩ народ који не спасава.",
+  "tokens": [
+    {
+      "surface": "עודינה",
+      "gloss": "још"
+    },
+    {
+      "surface": "תכלינה",
+      "gloss": "исцрпле су се"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "очи наше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "за"
+    },
+    {
+      "surface": "עזרתנו",
+      "gloss": "помоћ нашу"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "узалудну"
+    },
+    {
+      "surface": "בצפיתנו",
+      "gloss": "чекујући"
+    },
+    {
+      "surface": "צפינו",
+      "gloss": "чекасмо"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "народ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יושע",
+      "gloss": "спасава"
+    }
+  ],
+  "timestamp": "2026-09-05T14:10:56.199528740Z",
+  "model": "glm-5.3"
+}

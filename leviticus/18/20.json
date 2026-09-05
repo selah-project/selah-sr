@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 18:20",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "И с женом блискога свога не дај лијегање своје за сјеме, да се оскрнавиш с њом.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "И с"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "женом"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "блискога свога"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "дај"
+    },
+    {
+      "surface": "שכבתך",
+      "gloss": "лијегање своје"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "за сјеме"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "да се оскрнавиш"
+    },
+    {
+      "surface": "בה",
+      "gloss": "с њом"
+    }
+  ],
+  "timestamp": "2026-09-05T10:22:13.572512815Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 8:4",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "Вама, људи, зовем, и глас мој ⟨је⟩ к синовима људским.",
+  "tokens": [
+    {
+      "surface": "אליכם",
+      "gloss": "вама"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "људи"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "зовем"
+    },
+    {
+      "surface": "וקולי",
+      "gloss": "и глас мој"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовима"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "људским"
+    }
+  ],
+  "timestamp": "2026-09-05T13:47:56.231074513Z",
+  "model": "glm-5.3"
+}

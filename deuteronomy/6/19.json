@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 6:19",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "да истера ⟨את⟩ све непријатеље твоје испред тебе, као што је рекао Јахве.",
+  "tokens": [
+    {
+      "surface": "להדף",
+      "gloss": "да истера"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "све непријатеље"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "непријатеље твоје"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "испред тебе"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "као што"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "рекао"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-09-05T10:45:26.920005606Z",
+  "model": "glm-5.3"
+}

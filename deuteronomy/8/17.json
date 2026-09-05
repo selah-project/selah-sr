@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 8:17",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "и речео ⟨у⟩ срцу свом: снага моја и моћ руке моје начинили су мени ⟨את⟩ ово благо.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "и речео"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "у срцу свом"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "снага моја"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "и моћ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "руке моје"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "начинише"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мени"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ово благо"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "благо"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ово"
+    }
+  ],
+  "timestamp": "2026-09-05T15:11:57.788153634Z",
+  "model": "glm-5.3"
+}

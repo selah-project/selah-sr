@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 11:30",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "И врати се Моше у логор, он и старешине Израиљеве.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "И врати се"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "логор"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "и старешине"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљеве"
+    }
+  ],
+  "timestamp": "2026-09-05T10:33:55.748809320Z",
+  "model": "glm-5.3"
+}

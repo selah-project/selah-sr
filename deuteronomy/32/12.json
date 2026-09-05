@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 32,
+  "translation": "Јахве сам га води, и није с њим бога страног.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "сам"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "води га"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и није"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "с њим"
+    },
+    {
+      "surface": "אל",
+      "gloss": "бога"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "страног"
+    }
+  ],
+  "timestamp": "2026-09-05T10:55:54.036140157Z",
+  "model": "glm-5.3"
+}

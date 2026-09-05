@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 6:22",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "Зар рекох: Дајте ми, или: изwealth силе ваше подмитите за ме?",
+  "tokens": [
+    {
+      "surface": "הכי",
+      "gloss": "Зар"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "рекох"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "дајте"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "ומכחכם",
+      "gloss": "из силе ваше"
+    },
+    {
+      "surface": "שחדו",
+      "gloss": "подмитите"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "за ме"
+    }
+  ],
+  "timestamp": "2026-09-05T16:44:55.759803010Z",
+  "model": "glm-5.3"
+}

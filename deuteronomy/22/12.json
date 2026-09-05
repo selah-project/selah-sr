@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 22:12",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "Плетенице да направиш себи на четири краја покривача твог којим се покриваш.",
+  "tokens": [
+    {
+      "surface": "גדלים",
+      "gloss": "плетенице"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "да направиш"
+    },
+    {
+      "surface": "לך",
+      "gloss": "себи"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "четири"
+    },
+    {
+      "surface": "כנפות",
+      "gloss": "краја"
+    },
+    {
+      "surface": "כסותך",
+      "gloss": "покривача твог"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "којим"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "се покриваш"
+    },
+    {
+      "surface": "בה",
+      "gloss": "⟨њиме⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T16:35:16.400248865Z",
+  "model": "glm-5.3"
+}

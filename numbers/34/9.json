@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 34:9",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 34,
+  "translation": "и изађе међа Зифрону, и биће изласци његови Хацар-Енан; то ће бити вам међа северна.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "и изађе"
+    },
+    {
+      "surface": "הגבל",
+      "gloss": "међа"
+    },
+    {
+      "surface": "זפרנה",
+      "gloss": "Зифрону"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "и биће"
+    },
+    {
+      "surface": "תוצאתיו",
+      "gloss": "изласци његови"
+    },
+    {
+      "surface": "חצר",
+      "gloss": "Хацар"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "Енан"
+    },
+    {
+      "surface": "זה",
+      "gloss": "то"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ће бити"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "међа"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "северна"
+    }
+  ],
+  "timestamp": "2026-09-05T15:12:10.744057031Z",
+  "model": "glm-5.3"
+}

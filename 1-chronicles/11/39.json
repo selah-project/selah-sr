@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 11:39",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "Целек Амонац, Нахрај Беротaц, носилац оружја Јоава сина Церујиног.",
+  "tokens": [
+    {
+      "surface": "צלק",
+      "gloss": "Целек"
+    },
+    {
+      "surface": "העמוני",
+      "gloss": "Амонац"
+    },
+    {
+      "surface": "נחרי",
+      "gloss": "Нахрај"
+    },
+    {
+      "surface": "הברתי",
+      "gloss": "Беротац"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "носилац"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "опреме"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Јоава"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Церујиног"
+    }
+  ],
+  "timestamp": "2026-09-05T14:37:07.963412044Z",
+  "model": "glm-5.3"
+}

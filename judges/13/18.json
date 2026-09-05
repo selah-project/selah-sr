@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 13:18",
+  "book": "judges",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "И рече му анђео Јахвеов: „Зашто то питаш за име моје? А оно ⟨је⟩ чудесно.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "анђео"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеов"
+    },
+    {
+      "surface": "למה",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "זה",
+      "gloss": "то"
+    },
+    {
+      "surface": "תשאל",
+      "gloss": "питаш"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "за име моје"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "а оно"
+    },
+    {
+      "surface": "פלאי",
+      "gloss": "чудесно"
+    }
+  ],
+  "timestamp": "2026-09-05T11:11:14.315778692Z",
+  "model": "glm-5.3"
+}

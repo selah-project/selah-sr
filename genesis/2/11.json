@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 2:11",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Име једнога ⟨је⟩ Пишон — то ⟨је⟩ онај који обилази ⟨את⟩ сву земљу Хавила, где онде ⟨је⟩ злато.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Име"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "једнога"
+    },
+    {
+      "surface": "פישון",
+      "gloss": "Пишон"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "то"
+    },
+    {
+      "surface": "הסבב",
+      "gloss": "који обилази"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сву земљу Хавила"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сву"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земљу"
+    },
+    {
+      "surface": "החוילה",
+      "gloss": "Хавила"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "где"
+    },
+    {
+      "surface": "שם",
+      "gloss": "онде"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "злато"
+    }
+  ],
+  "timestamp": "2026-09-05T14:58:18.583365687Z",
+  "model": "glm-5.3"
+}

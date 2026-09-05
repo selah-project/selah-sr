@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 24:19",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "И рекоше ми људи: хоћеш ли нам казати шта су нама ово, што ти чињаш?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "И рекоше"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "העם",
+      "gloss": "људи"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "хоћеш ли"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "казати"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "нам"
+    },
+    {
+      "surface": "מה",
+      "gloss": "шта"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ово"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "нама"
+    },
+    {
+      "surface": "כי",
+      "gloss": "што"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "чињаш"
+    }
+  ],
+  "timestamp": "2026-09-05T12:49:50.956228526Z",
+  "model": "glm-5.3"
+}

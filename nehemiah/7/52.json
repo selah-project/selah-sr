@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "nehemiah 7:52",
+  "book": "nehemiah",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "синови Бесаје, синови Меунићана, синови Нефушесима,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "בסי",
+      "gloss": "Бесаје"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "מעונים",
+      "gloss": "Меунићана"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "נפושסים",
+      "gloss": "Нефушесима"
+    }
+  ],
+  "timestamp": "2026-09-05T14:30:52.349048921Z",
+  "model": "glm-5.3"
+}

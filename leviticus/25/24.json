@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 25:24",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 25,
+  "translation": "И у свему земљишту поседа вашег откуп да дате земљи.",
+  "tokens": [
+    {
+      "surface": "ובכל",
+      "gloss": "и у свему"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земљишту"
+    },
+    {
+      "surface": "אחזתכם",
+      "gloss": "поседа вашег"
+    },
+    {
+      "surface": "גאלה",
+      "gloss": "откуп"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "да дате"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "земљи"
+    }
+  ],
+  "timestamp": "2026-09-05T10:25:16.932775383Z",
+  "model": "glm-5.3"
+}

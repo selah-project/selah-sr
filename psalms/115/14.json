@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 115:14",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 115,
+  "translation": "Додаће Јахве вама, вама и деци вашој.",
+  "tokens": [
+    {
+      "surface": "יסף",
+      "gloss": "Додаће"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "вама"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "вама"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "деци вашој"
+    }
+  ],
+  "timestamp": "2026-09-05T16:44:17.996512888Z",
+  "model": "glm-5.3"
+}

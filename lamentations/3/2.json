@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "⟨את⟩ ме одведе и даде ми да идем у таму, а не у светлост.",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ ме",
+      "marks": "ме"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "одведе"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "и даде ми да идем"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "у таму"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "а не"
+    },
+    {
+      "surface": "אור",
+      "gloss": "у светлост"
+    }
+  ],
+  "timestamp": "2026-09-05T14:09:29.363539686Z",
+  "model": "glm-5.3"
+}

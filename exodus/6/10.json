@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 6:10",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "И говораше Јахве Мошеу, рекавши:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "И говораше"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Мошеу"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошеу"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "рекавши"
+    }
+  ],
+  "timestamp": "2026-09-05T10:00:00.771011695Z",
+  "model": "glm-5.3"
+}

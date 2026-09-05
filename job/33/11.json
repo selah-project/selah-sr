@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 33:11",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 33,
+  "translation": "Стави у клинце ноге моје, чува све стазе моје.",
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "стави"
+    },
+    {
+      "surface": "בסד",
+      "gloss": "у клинце"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ноге моје"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "чува"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "ארחתי",
+      "gloss": "стазе моје"
+    }
+  ],
+  "timestamp": "2026-09-05T16:05:05.097080246Z",
+  "model": "glm-5.3"
+}

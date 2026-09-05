@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 10:19",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "И над војском племена синова Шимонових ⟨бејаше⟩ Шелумиел син Цури-Шадајев.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "и над"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "војском"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "племена"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синова"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Шимонових"
+    },
+    {
+      "surface": "שלמיאל",
+      "gloss": "Шелумиел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "Цури-"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Шадајев"
+    }
+  ],
+  "timestamp": "2026-09-05T10:31:38.481625767Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 2:26",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "И послах гласнике из пустиње Кедемот Сихону, краљу хешбонском, речи мирне ⟨говорећи⟩:",
+  "tokens": [
+    {
+      "surface": "ואשלח",
+      "gloss": "И послах"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "гласнике"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "из пустиње"
+    },
+    {
+      "surface": "קדמות",
+      "gloss": "Кедемот"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ка"
+    },
+    {
+      "surface": "סיחון",
+      "gloss": "Сихону"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "краљу"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "хешбонском"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "речи"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мирне"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорећи"
+    }
+  ],
+  "timestamp": "2026-09-05T10:43:33.406848929Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 22:29",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "Земљо, земљо, земљо, чуји реч Јахвеову!",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "Земљо"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земљо"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земљо"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "чуји"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "реч"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеову"
+    }
+  ],
+  "timestamp": "2026-09-05T15:40:10.404257806Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 8:23",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "и Авдон, и Зихри, и Ханан",
+  "tokens": [
+    {
+      "surface": "ועבדון",
+      "gloss": "и Авдон"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "и Зихри"
+    },
+    {
+      "surface": "וחנן",
+      "gloss": "и Ханан"
+    }
+  ],
+  "timestamp": "2026-09-05T14:35:58.780420018Z",
+  "model": "glm-5.3"
+}

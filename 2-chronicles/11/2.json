@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 11:2",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "И би реч Јахвеова Шемаји, човеку Елохимовом, ⟨речећи⟩:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И би"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "реч"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеова"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Шемаји"
+    },
+    {
+      "surface": "שמעיהו",
+      "gloss": "Шемаји"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елохимов"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨речећи⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T16:16:45.395262131Z",
+  "model": "glm-5.3"
+}

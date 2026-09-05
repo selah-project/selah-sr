@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 31:4",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 31,
+  "translation": "И посла Јааков и дозва Рахиљу и Леју ⟨у⟩ поље, к стаду своме.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "И посла"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Јааков"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "и дозва"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Рахиљу"
+    },
+    {
+      "surface": "וללאה",
+      "gloss": "и Леју"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "⟨у⟩ поље"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "стаду своме"
+    }
+  ],
+  "timestamp": "2026-09-05T09:49:48.816850472Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 25:11",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 25,
+  "translation": "И извршићу пресуде у Моаву, и знаће да сам ја Јахве.",
+  "tokens": [
+    {
+      "surface": "ובמואב",
+      "gloss": "и-у-Моаву"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "извршићу"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "пресуде"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "и-знаће"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-09-05T12:49:45.877822438Z",
+  "model": "glm-5.3"
+}

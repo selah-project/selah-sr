@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 9:18",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "А он не зна да су тамо Рефаими, у дубинама Шеола позваници њени.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "а не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "зна"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "Рефаими"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тамо"
+    },
+    {
+      "surface": "בעמקי",
+      "gloss": "у дубинама"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шеола"
+    },
+    {
+      "surface": "קראיה",
+      "gloss": "позваници њени"
+    }
+  ],
+  "timestamp": "2026-09-05T13:47:01.087033517Z",
+  "model": "glm-5.3"
+}

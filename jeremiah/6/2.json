@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 6:2",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "Лепу и нежну — уподобих ⟨је⟩, кћер Цион.",
+  "tokens": [
+    {
+      "surface": "הנוה",
+      "gloss": "Лепу"
+    },
+    {
+      "surface": "והמענגה",
+      "gloss": "и нежну"
+    },
+    {
+      "surface": "דמיתי",
+      "gloss": "уподобих"
+    },
+    {
+      "surface": "בת",
+      "gloss": "кћер"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Цион"
+    }
+  ],
+  "timestamp": "2026-09-05T12:22:47.190161315Z",
+  "model": "glm-5.3"
+}

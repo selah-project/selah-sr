@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 16:5",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 16,
+  "translation": "Не можеш заклати ⟨את⟩ пасху у једном од вратâ твојих, које ти даје Јахве, Елохим твој.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "можеш"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "заклати"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "пасху"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "пасху"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "у једном"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "од вратâ твојих"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "које"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Елохим твој"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "даје"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    }
+  ],
+  "timestamp": "2026-09-05T10:49:42.208565633Z",
+  "model": "glm-5.3"
+}

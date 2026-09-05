@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 7:11",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Добра је мудрост уз наслеђе, и ⟨јесте⟩ добитак онима који гледају сунце.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "добра"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мудрост"
+    },
+    {
+      "surface": "עם",
+      "gloss": "уз"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "наслеђе"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "и добитак"
+    },
+    {
+      "surface": "לראי",
+      "gloss": "онима који гледају"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "сунце"
+    }
+  ],
+  "timestamp": "2026-09-05T14:12:23.544146353Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 21:28",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "Сведок лажни погинути ће, а човек који слуша заувек ће говорити.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Сведок"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "лажни"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "погинути ће"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "а човек"
+    },
+    {
+      "surface": "שומע",
+      "gloss": "који слуша"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "завек"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "говорити"
+    }
+  ],
+  "timestamp": "2026-09-05T13:51:08.271261501Z",
+  "model": "glm-5.3"
+}

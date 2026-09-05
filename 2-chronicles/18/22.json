@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 18:22",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "Зато, ето, даде Јахве дух лажи у уста ових пророка твојих; а Јахве изрече на тебе зло.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "Зато"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ето"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "даде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "дух"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "лажи"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "у уста"
+    },
+    {
+      "surface": "נביאיך",
+      "gloss": "пророка твојих"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ових"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "а Јахве"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "изрече"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "на тебе"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зло"
+    }
+  ],
+  "timestamp": "2026-09-05T14:49:10.625450190Z",
+  "model": "glm-5.3"
+}

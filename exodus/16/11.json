@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 16:11",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 16,
+  "translation": "И говори Јахве Мошеу, рекавши:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "И говори"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ка"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошеу"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "рекавши"
+    }
+  ],
+  "timestamp": "2026-09-05T10:05:18.128487190Z",
+  "model": "glm-5.3"
+}

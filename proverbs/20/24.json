@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 20:24",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 20,
+  "translation": "Од Јахвеа су кораке човека — а човек, како ће разумети пут свој?",
+  "tokens": [
+    {
+      "surface": "מיהוה",
+      "gloss": "од Јахвеа"
+    },
+    {
+      "surface": "מצעדי",
+      "gloss": "кораке"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "човека"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "а човек"
+    },
+    {
+      "surface": "מה",
+      "gloss": "како"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "ће разумети"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "пут свој"
+    }
+  ],
+  "timestamp": "2026-09-05T16:01:28.227710935Z",
+  "model": "glm-5.3"
+}

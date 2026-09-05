@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 13:11",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "И би тешко Давиду (Давиду) што учини Јахве пробој на Узи; и назва то место Перец-Уза, до дана овог.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "би тешко"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Давиду"
+    },
+    {
+      "surface": "כי",
+      "gloss": "што"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "учини пробој"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "пробој"
+    },
+    {
+      "surface": "בעזא",
+      "gloss": "на Узи"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "назва"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "то место"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨то⟩"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Перец"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Уза"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "היום",
+      "gloss": "дана"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овог"
+    }
+  ],
+  "timestamp": "2026-09-05T14:39:30.829063585Z",
+  "model": "glm-5.3"
+}

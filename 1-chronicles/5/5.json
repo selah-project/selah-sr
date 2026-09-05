@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 5:5",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Мика син његов, Реаја син његов, Баал син његов.",
+  "tokens": [
+    {
+      "surface": "מיכה",
+      "gloss": "Мика"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син његов"
+    },
+    {
+      "surface": "ראיה",
+      "gloss": "Реаја"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син његов"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Баал"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син његов"
+    }
+  ],
+  "timestamp": "2026-09-05T14:34:57.014697983Z",
+  "model": "glm-5.3"
+}

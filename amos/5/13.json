@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "amos 5:13",
+  "book": "amos",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Зато разборит ће ћутати у време оно, јер зло време оно ⟨је⟩.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Зато"
+    },
+    {
+      "surface": "המשכיל",
+      "gloss": "разборит"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "у време"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "оно"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ћутаће"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "עת",
+      "gloss": "време"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зло"
+    },
+    {
+      "surface": "היא",
+      "gloss": "оно"
+    }
+  ],
+  "timestamp": "2026-09-05T13:06:39.936675403Z",
+  "model": "glm-5.3"
+}

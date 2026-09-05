@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 113,
+  "translation": "Нек ⟨је⟩ благословено име Јахвеово одсад и до века!",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "нек буде"
+    },
+    {
+      "surface": "שם",
+      "gloss": "име"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеово"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "благословено"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "одсад"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и до"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "века"
+    }
+  ],
+  "timestamp": "2026-09-05T13:38:29.615626906Z",
+  "model": "glm-5.3"
+}

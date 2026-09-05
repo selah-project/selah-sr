@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "genesis 41:41",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 41,
+  "translation": "И рече Фараон Јосефу (Јосиф): Гледај, дадох тебе ⟨את⟩ над свом земљом Мицрајима.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Фараон"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Јосефу-"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Јосеф (Јосиф)"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "Гледај"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "дадох"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "тебе"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "כל",
+      "gloss": "свом"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земљом"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрајима"
+    }
+  ],
+  "timestamp": "2026-09-05T09:55:33.704350152Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 12:14",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "Јермјаху десети, Макбанаји једанаести.",
+  "tokens": [
+    {
+      "surface": "ירמיהו",
+      "gloss": "Јермјаху"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "десети"
+    },
+    {
+      "surface": "מכבני",
+      "gloss": "Макбанаји"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "једана(ести)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(де)сет"
+    }
+  ],
+  "timestamp": "2026-09-05T14:39:24.566141191Z",
+  "model": "glm-5.3"
+}

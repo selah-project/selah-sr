@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 25:15",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 25,
+  "translation": "У прстенова ковчега биће полутке; неће се одвући од њега.",
+  "tokens": [
+    {
+      "surface": "בטבעת",
+      "gloss": "у прстенова"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ковчега"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "биће"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "полутке"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יסרו",
+      "gloss": "одвући се"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "од њега"
+    }
+  ],
+  "timestamp": "2026-09-05T10:08:58.643790702Z",
+  "model": "glm-5.3"
+}

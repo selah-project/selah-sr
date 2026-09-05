@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 38:3",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 38,
+  "translation": "И реци: Тако рече Адонај Јахве: Ено ме на тебе, Гоже, кнеже, поглавару Мешеха и Тувала.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "И реци"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Тако"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ено ме"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "на тебе"
+    },
+    {
+      "surface": "Гוג",
+      "gloss": "Гоже"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "кнеже"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "поглавару"
+    },
+    {
+      "surface": "משך",
+      "gloss": "Мешеха"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "и Тувала"
+    }
+  ],
+  "timestamp": "2026-09-05T12:55:23.297166531Z",
+  "model": "glm-5.3"
+}

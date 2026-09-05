@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 29:23",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 29,
+  "translation": "И рекоше сви народи: зашто учини Јахве тако земљи овој? Шта ⟨је⟩ жар гнева великога овог?",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "и рекоше"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сви"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "народи"
+    },
+    {
+      "surface": "על",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "מה",
+      "gloss": "⟨што⟩"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "учини"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "тако"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "земљи"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "овој"
+    },
+    {
+      "surface": "מה",
+      "gloss": "шта"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "жар"
+    },
+    {
+      "surface": "האף",
+      "gloss": "гнева"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "великога"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овог"
+    }
+  ],
+  "timestamp": "2026-09-05T10:54:49.280483173Z",
+  "model": "glm-5.3"
+}

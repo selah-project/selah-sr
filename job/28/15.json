@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 28:15",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "Не даје се злато за њу, ни сребро се не вага као вредност њена.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "даје се"
+    },
+    {
+      "surface": "סגור",
+      "gloss": "злато"
+    },
+    {
+      "surface": "תחתיה",
+      "gloss": "за њу"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ни"
+    },
+    {
+      "surface": "ישקל",
+      "gloss": "не вага се"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "сребро"
+    },
+    {
+      "surface": "מחירה",
+      "gloss": "вредност њена"
+    }
+  ],
+  "timestamp": "2026-09-05T14:01:23.035044018Z",
+  "model": "glm-5.3"
+}

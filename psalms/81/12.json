@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 81:12",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 81,
+  "translation": "Али народ мој не послуша глас мој, и Израиљ не хтеде мене.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "Али не"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "послуша"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "народ мој"
+    },
+    {
+      "surface": "לקולי",
+      "gloss": "глас мој"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "и Израиљ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "хтеде"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мене"
+    }
+  ],
+  "timestamp": "2026-09-05T15:57:04.693841177Z",
+  "model": "glm-5.3"
+}

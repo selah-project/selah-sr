@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "nehemiah 7:34",
+  "book": "nehemiah",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Синови Елама другог, хиљаду двеста педесет и четири.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синови"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Елама"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "другог"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "хиљаду"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "двеста"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "педесет"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "и четири"
+    }
+  ],
+  "timestamp": "2026-09-05T17:30:57.278517819Z",
+  "model": "glm-5.3"
+}

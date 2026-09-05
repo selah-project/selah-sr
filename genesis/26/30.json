@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 26:30",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 26,
+  "translation": "И припреми им ⟨а он⟩ гозбу, и једоше и пише.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "и припреми"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "гозбу"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "и једоше"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "и пише"
+    }
+  ],
+  "timestamp": "2026-09-05T14:59:52.202906841Z",
+  "model": "glm-5.3"
+}

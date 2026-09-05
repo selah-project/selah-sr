@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 8:35",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "И синови Микини: Питон, и Мелех, и Таареа, и Ахаз.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "И синови"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Микини"
+    },
+    {
+      "surface": "פיתון",
+      "gloss": "Питон"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "и Мелех"
+    },
+    {
+      "surface": "ותארע",
+      "gloss": "и Таареа"
+    },
+    {
+      "surface": "ואחז",
+      "gloss": "и Ахаз"
+    }
+  ],
+  "timestamp": "2026-09-05T14:37:15.757876013Z",
+  "model": "glm-5.3"
+}

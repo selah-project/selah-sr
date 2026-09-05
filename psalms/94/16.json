@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 94:16",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 94,
+  "translation": "Ко ће устати за ме против злочинаца? Ко ће стајати за ме против чинилаца безакоња?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ко"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "устати"
+    },
+    {
+      "surface": "לי",
+      "gloss": "за ме"
+    },
+    {
+      "surface": "עם",
+      "gloss": "против"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "злочинаца"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ко"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "стајати"
+    },
+    {
+      "surface": "לי",
+      "gloss": "за ме"
+    },
+    {
+      "surface": "עם",
+      "gloss": "против"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "чинилаца"
+    },
+    {
+      "surface": "און",
+      "gloss": "безакоња"
+    }
+  ],
+  "timestamp": "2026-09-05T13:35:43.482462712Z",
+  "model": "glm-5.3"
+}

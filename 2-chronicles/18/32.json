@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-chronicles 18:32",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "И би, кад видеше заповедници кола да није ⟨то⟩ био цар Израиљев, вратише се од њега.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "и би"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "кад видеше"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "заповедници"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "кола"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "לא",
+      "gloss": "није"
+    },
+    {
+      "surface": "היה",
+      "gloss": "био"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљев"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "и вратише се"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "од њега"
+    }
+  ],
+  "timestamp": "2026-09-05T14:51:02.642781840Z",
+  "model": "glm-5.3"
+}

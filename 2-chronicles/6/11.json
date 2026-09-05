@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 6:11",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "И ставих онде ⟨את⟩ ковчег ⟨са⟩ заветом Јахвеовим, који склопи са синовима Израиљевим.",
+  "tokens": [
+    {
+      "surface": "ואשים",
+      "gloss": "и ставих"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ондве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ковчег"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "ковчег"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ондве ⟨је⟩"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "завет"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеов"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "склопи"
+    },
+    {
+      "surface": "עם",
+      "gloss": "са"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовима"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљевим"
+    }
+  ],
+  "timestamp": "2026-09-05T14:45:36.075075614Z",
+  "model": "glm-5.3"
+}

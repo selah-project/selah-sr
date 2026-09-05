@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 14:28",
+  "book": "1-kings",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "И би, кад год цар уђе у дом Јахвеов, тркачи их понесу и врате их у собу тркача.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И би"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "кад год"
+    },
+    {
+      "surface": "בא",
+      "gloss": "уђе"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеов"
+    },
+    {
+      "surface": "ישאום",
+      "gloss": "понесу их"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "тркачи"
+    },
+    {
+      "surface": "והשיבום",
+      "gloss": "и врате их"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "תא",
+      "gloss": "собу"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "тркача"
+    }
+  ],
+  "timestamp": "2026-09-05T11:46:05.282643874Z",
+  "model": "glm-5.3"
+}

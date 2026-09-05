@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 96:7",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 96,
+  "translation": "Дајте Јахвеу, породице народâ, дајте Јахвеу славу и снагу.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "Дајте"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Јахвеу"
+    },
+    {
+      "surface": "мשפחות",
+      "gloss": "породице"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "народâ"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "дајте"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Јахвеу"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "славу"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "и снагу"
+    }
+  ],
+  "timestamp": "2026-09-05T15:57:25.668522839Z",
+  "model": "glm-5.3"
+}

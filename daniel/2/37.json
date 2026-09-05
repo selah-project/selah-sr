@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "daniel 2:37",
+  "book": "daniel",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Ти, краљу, ⟨си⟩ краљ краљева, јер Елоах небеса даде теби царство, снагу, моћ и славу.",
+  "tokens": [
+    {
+      "surface": "אנתה",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "краљу"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "краљ"
+    },
+    {
+      "surface": "מלכיא",
+      "gloss": "краљева"
+    },
+    {
+      "surface": "די",
+      "gloss": "јер"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Елоах"
+    },
+    {
+      "surface": "שמיא",
+      "gloss": "небеса"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "царство"
+    },
+    {
+      "surface": "חסנא",
+      "gloss": "снагу"
+    },
+    {
+      "surface": "ותקפא",
+      "gloss": "и моћ"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "и славу"
+    },
+    {
+      "surface": "יהב",
+      "gloss": "даде"
+    },
+    {
+      "surface": "לך",
+      "gloss": "теби"
+    }
+  ],
+  "timestamp": "2026-09-05T14:18:39.372807475Z",
+  "model": "glm-5.3"
+}

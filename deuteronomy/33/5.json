@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 33:5",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 33,
+  "translation": "И би краљ у Јешуруну, кад се скупише главе народа, заједно племена Израиљева.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И би"
+    },
+    {
+      "surface": "בישרון",
+      "gloss": "у Јешуруну"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "краљ"
+    },
+    {
+      "surface": "בהתאסף",
+      "gloss": "при сабирању"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "главе"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народа"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "заједно"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "племена"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљева"
+    }
+  ],
+  "timestamp": "2026-09-05T10:56:30.947742047Z",
+  "model": "glm-5.3"
+}

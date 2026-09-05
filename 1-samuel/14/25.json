@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 14:25",
+  "book": "1-samuel",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "И сви од земље дођоше у шуму, и би мед по лицу поља.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "и сви"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "од земље"
+    },
+    {
+      "surface": "באו",
+      "gloss": "дођоше"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "у шуму"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и би"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "мед"
+    },
+    {
+      "surface": "על",
+      "gloss": "по"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицу"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "поља"
+    }
+  ],
+  "timestamp": "2026-09-05T11:21:13.465953884Z",
+  "model": "glm-5.3"
+}

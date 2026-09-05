@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 21:11",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "И дође Гад к Давиду и рече му: „Тако рече Јахве: узми себи ⟨избор⟩“.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "И дође"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гад"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давиду"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Тако"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "узми"
+    },
+    {
+      "surface": "לך",
+      "gloss": "себи"
+    }
+  ],
+  "timestamp": "2026-09-05T16:16:07.627016875Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 4:24",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "Јер Јахве, Елохим твој, огањ ⟨је⟩ что прождирује — Ел ревнителњи ⟨је⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Елохим твој"
+    },
+    {
+      "surface": "אש",
+      "gloss": "огањ"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "что прождирује"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨је⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "ревнителњи"
+    }
+  ],
+  "timestamp": "2026-09-05T10:45:32.422464984Z",
+  "model": "glm-5.3"
+}

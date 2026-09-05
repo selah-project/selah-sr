@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 7:4",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Не уздајте се у речи лажи говорећи: Храм Јахвеов, храм Јахвеов, храм Јахвеов — то су они.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תבטחו",
+      "gloss": "уздајте се"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "⟨себи⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "речи"
+    },
+    {
+      "surface": "השקר",
+      "gloss": "лажи"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорећи"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "Храм"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеов"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "храм"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеов"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "храм"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеов"
+    },
+    {
+      "surface": "המה",
+      "gloss": "то су они"
+    }
+  ],
+  "timestamp": "2026-09-05T12:22:58.514979770Z",
+  "model": "glm-5.3"
+}

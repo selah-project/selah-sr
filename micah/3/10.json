@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 3:10",
+  "book": "micah",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Граде Цион крвљу и Јерушалајим безакоњем.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "Граде"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Цион"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "крвљу"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "и Јерушалајим"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "безакоњем"
+    }
+  ],
+  "timestamp": "2026-09-05T13:07:18.718985954Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 10:17",
+  "book": "1-samuel",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "И сазва Шемуел ⟨את⟩ народ ка Јахвеу у ха-Мицпи.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "И сазва"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шемуел"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "народ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ка"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеу"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "у ха-Мицпи"
+    }
+  ],
+  "timestamp": "2026-09-05T15:20:37.945841692Z",
+  "model": "glm-5.3"
+}

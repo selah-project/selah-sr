@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 26:6",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 26,
+  "translation": "гол је Шеол пред Њим ⟨и⟩ нема покривача Авадон.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "гол"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шеол"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "пред Њим"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и нема"
+    },
+    {
+      "surface": "כסות",
+      "gloss": "покривача"
+    },
+    {
+      "surface": "לאבדון",
+      "gloss": "Авадону"
+    }
+  ],
+  "timestamp": "2026-09-05T14:01:34.284162965Z",
+  "model": "glm-5.3"
+}

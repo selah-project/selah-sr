@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 8:11",
+  "book": "nehemiah",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "И Левити утишаваху сав народ говорећи: тихо! јер свет ⟨је⟩ дан; и не жалостите се.",
+  "tokens": [
+    {
+      "surface": "והלוים",
+      "gloss": "И Левити"
+    },
+    {
+      "surface": "מחשים",
+      "gloss": "утишаваху"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "свему"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народу"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорећи"
+    },
+    {
+      "surface": "הסו",
+      "gloss": "тихо!"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "היום",
+      "gloss": "дан"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "свет"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תעצבו",
+      "gloss": "жалостите се"
+    }
+  ],
+  "timestamp": "2026-09-05T14:32:27.158673046Z",
+  "model": "glm-5.3"
+}

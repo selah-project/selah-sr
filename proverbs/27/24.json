@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 27:24",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 27,
+  "translation": "јер не за вечност ⟨је⟩ благо, нити дијадема од поколења до поколења.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "за вечност"
+    },
+    {
+      "surface": "חסן",
+      "gloss": "благо"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "нити"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "дијадема"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "до поколења"
+    },
+    {
+      "surface": "דור",
+      "gloss": "поколења"
+    }
+  ],
+  "timestamp": "2026-09-05T13:53:24.729231973Z",
+  "model": "glm-5.3"
+}

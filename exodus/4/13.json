@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 4:13",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "И рече: „Молим, Адонај, пошаљи, молим, руком ⟨онога кога⟩ ћеш послати.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "בי",
+      "gloss": "Молим"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "пошаљи"
+    },
+    {
+      "surface": "נא",
+      "gloss": "молим"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "руком"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "ћеш послати"
+    }
+  ],
+  "timestamp": "2026-09-05T16:32:52.709852321Z",
+  "model": "glm-5.3"
+}

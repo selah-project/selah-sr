@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 7:7",
+  "book": "song-of-songs",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Колико си лепа и колико си пријатна, љубави, у насладама!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "колико"
+    },
+    {
+      "surface": "יפית",
+      "gloss": "си лепа"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "и колико"
+    },
+    {
+      "surface": "נעמת",
+      "gloss": "си пријатна"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "љубави"
+    },
+    {
+      "surface": "בתענוגים",
+      "gloss": "у насладама"
+    }
+  ],
+  "timestamp": "2026-09-05T16:06:13.182512324Z",
+  "model": "glm-5.3"
+}

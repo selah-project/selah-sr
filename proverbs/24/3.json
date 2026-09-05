@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 24:3",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "Мудрошћу гради се дом, и разумом учвршћује се.",
+  "tokens": [
+    {
+      "surface": "בחכמה",
+      "gloss": "мудрошћу"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "гради се"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "и разумом"
+    },
+    {
+      "surface": "יתכונן",
+      "gloss": "учвршћује се"
+    }
+  ],
+  "timestamp": "2026-09-05T13:52:22.218514599Z",
+  "model": "glm-5.3"
+}

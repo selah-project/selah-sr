@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 31:27",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 31,
+  "translation": "Осматра путеве дома свог, и хлеб лењости не једе.",
+  "tokens": [
+    {
+      "surface": "צופיה",
+      "gloss": "осматра"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "путеве"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "дома свог"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "и хлеб"
+    },
+    {
+      "surface": "עצלות",
+      "gloss": "лењости"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "једе"
+    }
+  ],
+  "timestamp": "2026-09-05T13:53:58.331097678Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 104:14",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 104,
+  "translation": "Погласи траву стоки и биље за службу човеку — да изводи хлеб из земље.",
+  "tokens": [
+    {
+      "surface": "מצמיח",
+      "gloss": "Погласи"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "траву"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "стоки"
+    },
+    {
+      "surface": "ועשב",
+      "gloss": "и биље"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "за службу"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "човеку"
+    },
+    {
+      "surface": "להוציא",
+      "gloss": "да изводи"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хлеб"
+    },
+    {
+      "surface": "מן",
+      "gloss": "из"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земље"
+    }
+  ],
+  "timestamp": "2026-09-05T13:36:53.175364724Z",
+  "model": "glm-5.3"
+}

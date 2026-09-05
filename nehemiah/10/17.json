@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 10:17",
+  "book": "nehemiah",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "Адонија, Бигвај, Адин,",
+  "tokens": [
+    {
+      "surface": "אדניה",
+      "gloss": "Адонија"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "Бигвај"
+    },
+    {
+      "surface": "עדין",
+      "gloss": "Адин"
+    }
+  ],
+  "timestamp": "2026-09-05T14:31:58.780432479Z",
+  "model": "glm-5.3"
+}

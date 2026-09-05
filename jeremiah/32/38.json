@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "jeremiah 32:38",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 32,
+  "translation": "и биће ми ⟨за⟩ народ, а ја ћу бити њима ⟨за⟩ Елохима.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "и биће"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "⟨за⟩ народ"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "а ја"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ћу бити"
+    },
+    {
+      "surface": "להם",
+      "gloss": "њима"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "⟨за⟩ Елохима"
+    }
+  ],
+  "timestamp": "2026-09-05T12:32:49.921758167Z",
+  "model": "glm-5.3"
+}

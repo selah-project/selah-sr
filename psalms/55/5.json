@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 55:5",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 55,
+  "translation": "Срце ми се превија у мени, и страхови смрти падоше на ме.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "срце ми"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "се превија"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "у мени"
+    },
+    {
+      "surface": "ואימות",
+      "gloss": "и страхови"
+    },
+    {
+      "surface": "מות",
+      "gloss": "смрти"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "падоше"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "на ме"
+    }
+  ],
+  "timestamp": "2026-09-05T13:27:22.288201795Z",
+  "model": "glm-5.3"
+}

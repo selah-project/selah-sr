@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 4:9",
+  "book": "esther",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "И дође Хатах (Хатак) и јави Естери ⟨את⟩ речи Мордехаја.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "И дође"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Хатах (Хатак)"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "и јави"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "Естери"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "реки"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "речи"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Мордехаја"
+    }
+  ],
+  "timestamp": "2026-09-05T14:14:26.272915799Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "Зашто, Јахве, стојиш у даљини, скриваш се у временима невоље?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Зашто"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "стојиш"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "у даљини"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "скриваш се"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "у временима"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "невоље"
+    }
+  ],
+  "timestamp": "2026-09-05T13:18:32.531601160Z",
+  "model": "glm-5.3"
+}

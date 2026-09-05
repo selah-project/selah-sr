@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 31:23",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 31,
+  "translation": "Јер страх ⟨је⟩ за ме беда од Ела, и висине Његове не могу поднети.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "страх"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "за ме"
+    },
+    {
+      "surface": "איד",
+      "gloss": "беда"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "ומשאתו",
+      "gloss": "и висина Његова"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "могу поднети"
+    }
+  ],
+  "timestamp": "2026-09-05T14:02:05.082650128Z",
+  "model": "glm-5.3"
+}

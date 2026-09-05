@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 2:20",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "да би ходио путем добрих и стазе праведних чувао;",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "да би"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ходио"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "путем"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "добрих"
+    },
+    {
+      "surface": "וארחות",
+      "gloss": "и стазе"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "праведних"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "чуваш"
+    }
+  ],
+  "timestamp": "2026-09-05T13:46:20.528747101Z",
+  "model": "glm-5.3"
+}

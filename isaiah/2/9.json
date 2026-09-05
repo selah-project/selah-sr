@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "И сави се човек, и понижен би муж — и не подноси их.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "и сави се"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човек"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "и понижен би"
+    },
+    {
+      "surface": "איש",
+      "gloss": "муж"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "подноси"
+    },
+    {
+      "surface": "להם",
+      "gloss": "их"
+    }
+  ],
+  "timestamp": "2026-09-05T12:00:13.818088945Z",
+  "model": "glm-5.3"
+}

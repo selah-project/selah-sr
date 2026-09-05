@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 15:1",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 15,
+  "translation": "И на Атарију (Азарију), сина Одедовог, дође дух Елохимов.",
+  "tokens": [
+    {
+      "surface": "ועזריהו",
+      "gloss": "и на Атарију"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "עודד",
+      "gloss": "Одедовог"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "дође"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "на њега"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "дух"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохимов"
+    }
+  ],
+  "timestamp": "2026-09-05T14:49:31.085842085Z",
+  "model": "glm-5.3"
+}

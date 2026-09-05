@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 36:13",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 36,
+  "translation": "И ово су синови Реуелови: Нахат и Зерах, Шама и Миза; ово су били синови Басмат, жене Есавље.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "и ово"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Реуелови"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "Нахат"
+    },
+    {
+      "surface": "וזרח",
+      "gloss": "и Зерах"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "Шама"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "и Миза"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ово"
+    },
+    {
+      "surface": "היו",
+      "gloss": "били су"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Басмат"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "жене"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Есавље"
+    }
+  ],
+  "timestamp": "2026-09-05T09:52:17.278855967Z",
+  "model": "glm-5.3"
+}

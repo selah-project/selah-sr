@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 21:8",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "И народу овом реци: тако рече Јахве: ено ме, стављам пред вас ⟨את⟩ пут живота и ⟨את⟩ пут смрти.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "и"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народу"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овом"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "реци"
+    },
+    {
+      "surface": "כה",
+      "gloss": "тако"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ено ме"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "стављам"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "пред вас"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "пут"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "пут"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "живота"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "пут"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "пут"
+    },
+    {
+      "surface": "המות",
+      "gloss": "смрти"
+    }
+  ],
+  "timestamp": "2026-09-05T12:28:38.246604041Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "song-of-songs 4:5",
+  "book": "song-of-songs",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "Две дојке твоје као два јелена, близанци срне, који пасу међу љиљанима.",
+  "tokens": [
+    {
+      "surface": "שני",
+      "gloss": "две"
+    },
+    {
+      "surface": "שדיך",
+      "gloss": "дојке твоје"
+    },
+    {
+      "surface": "כשני",
+      "gloss": "као два"
+    },
+    {
+      "surface": "עפרים",
+      "gloss": "јелена"
+    },
+    {
+      "surface": "תאומי",
+      "gloss": "близанци"
+    },
+    {
+      "surface": "צביה",
+      "gloss": "срне"
+    },
+    {
+      "surface": "הרועים",
+      "gloss": "који пасу"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "међу љиљанима"
+    }
+  ],
+  "timestamp": "2026-09-05T14:07:11.578308054Z",
+  "model": "glm-5.3"
+}

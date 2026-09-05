@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 6:8",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "Јер шта има више мудар од лудака? Шта сиромаху што зна ходити пред живима?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "מה",
+      "gloss": "шта"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "више"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "мудар"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "лудака"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Шта"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "сиромаху"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "зна"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "ходити"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "пред"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "живима"
+    }
+  ],
+  "timestamp": "2026-09-05T14:13:17.269442335Z",
+  "model": "glm-5.3"
+}

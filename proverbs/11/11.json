@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 11:11",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "Благословом правих град се диже, а устима злих би разрушен.",
+  "tokens": [
+    {
+      "surface": "בברכת",
+      "gloss": "благословом"
+    },
+    {
+      "surface": "ישרим",
+      "gloss": "правих"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "се диже"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "град"
+    },
+    {
+      "surface": "ובפי",
+      "gloss": "а устима"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "злих"
+    },
+    {
+      "surface": "תהרס",
+      "gloss": "би разрушен"
+    }
+  ],
+  "timestamp": "2026-09-05T13:48:25.561750648Z",
+  "model": "glm-5.3"
+}

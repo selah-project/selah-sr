@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 83:13",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 83,
+  "translation": "који рекоше: заузећмо за ⟨את⟩ пасишта Елохимова.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "рекоше"
+    },
+    {
+      "surface": "נירשה",
+      "gloss": "заузећмо"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "за себе"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "пасишта"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "пасишта"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохимова"
+    }
+  ],
+  "timestamp": "2026-09-05T15:56:32.161931545Z",
+  "model": "glm-5.3"
+}

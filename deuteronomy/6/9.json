@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 6:9",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "И напиши их на дверним стубовима дома својега и на вратима својим.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "И напиши их"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "дверним стубовима"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "дома својега"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "и на вратима својим"
+    }
+  ],
+  "timestamp": "2026-09-05T10:45:09.963483396Z",
+  "model": "glm-5.3"
+}

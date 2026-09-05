@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 53:1",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 53,
+  "translation": "Управнику, на Махалат, поука Давидова.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Управнику"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "Махалат"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "поука"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидова"
+    }
+  ],
+  "timestamp": "2026-09-05T13:27:47.589957106Z",
+  "model": "glm-5.3"
+}

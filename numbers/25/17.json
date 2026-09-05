@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 25:17",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 25,
+  "translation": "Тискајте ⟨את⟩ Мидјанце и ударите ⟨את⟩ ⟨њих⟩.",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "Тискајте"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мидјанце"
+    },
+    {
+      "surface": "המדינים",
+      "gloss": "Мидјанце"
+    },
+    {
+      "surface": "והכיתם",
+      "gloss": "и ударите"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "њих"
+    }
+  ],
+  "timestamp": "2026-09-05T15:11:00.026968941Z",
+  "model": "glm-5.3"
+}

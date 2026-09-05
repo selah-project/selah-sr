@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 25:20",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 25,
+  "translation": "Ко скида одело у дан хладноће, ⟨то је као⟩ сирће на соду — и ко пева песме срцу тужном.",
+  "tokens": [
+    {
+      "surface": "מעדה",
+      "gloss": "скида"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "одело"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "у дан"
+    },
+    {
+      "surface": "קרה",
+      "gloss": "хладноће"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "сирће"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "נתר",
+      "gloss": "соду"
+    },
+    {
+      "surface": "ושר",
+      "gloss": "и ко пева"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "песме"
+    },
+    {
+      "surface": "על",
+      "gloss": "срцу"
+    },
+    {
+      "surface": "לב",
+      "gloss": "срцу"
+    },
+    {
+      "surface": "רע",
+      "gloss": "тужном"
+    }
+  ],
+  "timestamp": "2026-09-05T13:52:22.367108426Z",
+  "model": "glm-5.3"
+}

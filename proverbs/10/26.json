@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 10:26",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "Као оцат зубима и као дим очима, тако лењивац онима што га шаљу.",
+  "tokens": [
+    {
+      "surface": "כחמץ",
+      "gloss": "као оцат"
+    },
+    {
+      "surface": "לשנים",
+      "gloss": "зубима"
+    },
+    {
+      "surface": "וכעשן",
+      "gloss": "и као дим"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "очима"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тако"
+    },
+    {
+      "surface": "העצל",
+      "gloss": "лењивац"
+    },
+    {
+      "surface": "לשלחיו",
+      "gloss": "онима што га шаљу"
+    }
+  ],
+  "timestamp": "2026-09-05T13:48:07.502685990Z",
+  "model": "glm-5.3"
+}

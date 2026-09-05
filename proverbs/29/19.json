@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 29:19",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 29,
+  "translation": "Речима неће бити искаран слуга, јер разуме а нема одговора.",
+  "tokens": [
+    {
+      "surface": "בדברים",
+      "gloss": "Речима"
+    },
+    {
+      "surface": "לא",
+      "gloss": "неће"
+    },
+    {
+      "surface": "יוסר",
+      "gloss": "бити искаран"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "слуга"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "разуме"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "а нема"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "одговора"
+    }
+  ],
+  "timestamp": "2026-09-05T13:52:49.050775155Z",
+  "model": "glm-5.3"
+}

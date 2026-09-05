@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 30:11",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 30,
+  "translation": "Јер заповест ова коју ја заповедам теби данас није недокучива ⟨она⟩ од тебе, нити је далеко она.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "заповест"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ова"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "коју"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ја"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "заповедам"
+    },
+    {
+      "surface": "היום",
+      "gloss": "данас"
+    },
+    {
+      "surface": "לא",
+      "gloss": "није"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "недокучива"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨она⟩"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "од тебе"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "нити"
+    },
+    {
+      "surface": "רחקה",
+      "gloss": "далеко"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "она"
+    }
+  ],
+  "timestamp": "2026-09-05T15:15:38.168857648Z",
+  "model": "glm-5.3"
+}

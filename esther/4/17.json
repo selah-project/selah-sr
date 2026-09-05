@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "esther 4:17",
+  "book": "esther",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "И прође Мордехај, и учини по свему што му заповеди Естер.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "и прође"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Мордехај"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "и учини"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "по свему"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "צותה",
+      "gloss": "заповеди"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "му"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Естер"
+    }
+  ],
+  "timestamp": "2026-09-05T14:13:57.857562477Z",
+  "model": "glm-5.3"
+}

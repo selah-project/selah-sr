@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 76:8",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 76,
+  "translation": "Ти си страшан, ти, и ко ће стаћи пред тобом од×кад ⟨се×гневиш⟩, гневе свој?",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "си страшан"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "и ко"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ће стаћи"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "пред тобом"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "од×кад"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "гневе свој"
+    }
+  ],
+  "timestamp": "2026-09-05T13:31:30.638500316Z",
+  "model": "glm-5.3"
+}

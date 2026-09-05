@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 3:23",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Тада ходићеш безбедно путем својим, и нога твоја неће се спотакнути.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Тада"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ходићеш"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "безбедно"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "путем својим"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "и нога твоја"
+    },
+    {
+      "surface": "לא",
+      "gloss": "неће"
+    },
+    {
+      "surface": "תגוף",
+      "gloss": "се спотакнути"
+    }
+  ],
+  "timestamp": "2026-09-05T13:45:42.439312366Z",
+  "model": "glm-5.3"
+}

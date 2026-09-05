@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "ezra 10:34",
+  "book": "ezra",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "Од синова Банија: Маадај, Амрам и Уел.",
+  "tokens": [
+    {
+      "surface": "מבני",
+      "gloss": "Од синова"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Банија"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "Маадај"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Амрам"
+    },
+    {
+      "surface": "ואואל",
+      "gloss": "и Уел"
+    }
+  ],
+  "timestamp": "2026-09-05T14:27:04.654901842Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 9:24",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "На четири стране беху вратари: према истоку, мору, северу и југу.",
+  "tokens": [
+    {
+      "surface": "לארבע",
+      "gloss": "на четири"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "стране"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "беху"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "вратари"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "према истоку"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "мору"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "северу"
+    },
+    {
+      "surface": "ונגבה",
+      "gloss": "и југу"
+    }
+  ],
+  "timestamp": "2026-09-05T14:37:45.536991165Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 22:10",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "И никакав туђин неће јести светињу; стални гост свештеника и најамник неће јести светињу.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "и никакав"
+    },
+    {
+      "surface": "זר",
+      "gloss": "туђин"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "јести"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "светињу"
+    },
+    {
+      "surface": "תושב",
+      "gloss": "стални гост"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "свештеника"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "и најамник"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "јести"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "светињу"
+    }
+  ],
+  "timestamp": "2026-09-05T10:23:27.022309365Z",
+  "model": "glm-5.3"
+}

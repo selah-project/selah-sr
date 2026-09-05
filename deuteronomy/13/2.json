@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 13:2",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "Кад устане усред тебе пророк или снивач сна, и да теби знак или чудо,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Кад"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "устане"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "усред тебе"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "пророк"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "снивач"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "сна"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "и да"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "теби"
+    },
+    {
+      "surface": "אות",
+      "gloss": "знак"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "מופת",
+      "gloss": "чудо"
+    }
+  ],
+  "timestamp": "2026-09-05T15:14:10.289917706Z",
+  "model": "glm-5.3"
+}

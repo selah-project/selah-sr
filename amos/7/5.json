@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 7:5",
+  "book": "amos",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "И рекох: Адонај Јахве, престани, молим ⟨те⟩; ко ће подићи Јаакова? јер ⟨је⟩ мален он.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "и рекох"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "престани"
+    },
+    {
+      "surface": "נא",
+      "gloss": "молим"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ко"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ће подићи"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Јаакова"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "мален"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    }
+  ],
+  "timestamp": "2026-09-05T13:06:38.555765939Z",
+  "model": "glm-5.3"
+}

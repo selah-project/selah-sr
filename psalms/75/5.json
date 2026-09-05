@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 75:5",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 75,
+  "translation": "Рекох лудилима: не лудујте, а безбожницима: не дижите рог.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Рекох"
+    },
+    {
+      "surface": "להוללים",
+      "gloss": "лудилима"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תהלו",
+      "gloss": "лудујте"
+    },
+    {
+      "surface": "ולרשעים",
+      "gloss": "а безбожницима"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "дижите"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "рог"
+    }
+  ],
+  "timestamp": "2026-09-05T16:43:35.946559256Z",
+  "model": "glm-5.3"
+}

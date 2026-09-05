@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 12:24",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "Не једи га; на земљу га изли као воду.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "једи га"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земљу"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "изли га"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "као воду"
+    }
+  ],
+  "timestamp": "2026-09-05T10:48:47.979010376Z",
+  "model": "glm-5.3"
+}

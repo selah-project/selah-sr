@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 19:7",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 19,
+  "translation": "А ако се будуће једе дана трећега, гнустина је то, неће бити примљен.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "А ако"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "се будуће"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "једе"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "дана"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "трећега"
+    },
+    {
+      "surface": "פגול",
+      "gloss": "гнустина"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "је то"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "ће бити примљен"
+    }
+  ],
+  "timestamp": "2026-09-05T10:22:48.208704752Z",
+  "model": "glm-5.3"
+}

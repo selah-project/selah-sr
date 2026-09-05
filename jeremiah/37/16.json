@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 37:16",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 37,
+  "translation": "Кад уђе Јирмијах у дом јаме и у ћелије, и седе тамо Јирмијах дане многе.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Кад"
+    },
+    {
+      "surface": "בא",
+      "gloss": "уђе"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Јирмијах"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "јаме"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и у"
+    },
+    {
+      "surface": "החניות",
+      "gloss": "ћелије"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "и седе"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тамо"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Јирмијах"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дане"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "многе"
+    }
+  ],
+  "timestamp": "2026-09-05T12:35:02.510518346Z",
+  "model": "glm-5.3"
+}

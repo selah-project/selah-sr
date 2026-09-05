@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 12:20",
+  "book": "nehemiah",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "Од Салаја, Калај; од Амока, Евер;",
+  "tokens": [
+    {
+      "surface": "לסלי",
+      "gloss": "Од Салаја"
+    },
+    {
+      "surface": "קלי",
+      "gloss": "Калај"
+    },
+    {
+      "surface": "לעמוק",
+      "gloss": "од Амока"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Евер"
+    }
+  ],
+  "timestamp": "2026-09-05T14:32:40.450182367Z",
+  "model": "glm-5.3"
+}

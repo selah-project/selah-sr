@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 9:7",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "А ви рађајте и множите се, ројте се на земљи и множите се на њој.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "А ви"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "рађајте"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "и множите се"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "ројте се"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "на земљи"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "и множите се"
+    },
+    {
+      "surface": "בה",
+      "gloss": "на њој"
+    }
+  ],
+  "timestamp": "2026-09-05T09:40:29.468328198Z",
+  "model": "glm-5.3"
+}

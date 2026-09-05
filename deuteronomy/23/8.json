@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 23:8",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "Не гнушај се Едомца, јер брат је твој ⟨он⟩; не гнушај се Мицрајца, јер дошљак ⟨си⟩ био у земљи његовој.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "гнушај се"
+    },
+    {
+      "surface": "אדמי",
+      "gloss": "Едомца"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "брат је твој"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨он⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "гнушај се"
+    },
+    {
+      "surface": "мצרי",
+      "gloss": "Мицрајца"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "גר",
+      "gloss": "дошљак"
+    },
+    {
+      "surface": "היית",
+      "gloss": "си био"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "у земљи његовој"
+    }
+  ],
+  "timestamp": "2026-09-05T10:52:51.693171409Z",
+  "model": "glm-5.3"
+}

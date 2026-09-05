@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 11:26",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "И поживе Терах седамдесет година, и роди Аврама, ⟨את⟩ Нахора и ⟨את⟩ Харана.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "и поживе"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Терах"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "седамдесет"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "година"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "и роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Аврама"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Аврама"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Нахора"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Нахора"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Харана"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Харана"
+    }
+  ],
+  "timestamp": "2026-09-05T09:41:50.013310693Z",
+  "model": "glm-5.3"
+}

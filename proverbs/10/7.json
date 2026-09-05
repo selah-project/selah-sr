@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 10:7",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "Спомен праведника ⟨је⟩ за благослов, а име безбожника трули.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Спомен"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "праведника"
+    },
+    {
+      "surface": "לברכה",
+      "gloss": "за благослов"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "а име"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "безбожника"
+    },
+    {
+      "surface": "ירקב",
+      "gloss": "трули"
+    }
+  ],
+  "timestamp": "2026-09-05T13:47:54.916052069Z",
+  "model": "glm-5.3"
+}

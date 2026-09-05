@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 25:23",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 25,
+  "translation": "и ⟨את⟩ Дедан, и ⟨את⟩ Тема (Тема), и ⟨את⟩ Буз, и ⟨את⟩ све који стрижу крајеве ⟨длачица⟩",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Дедан"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "Дедан"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Тема"
+    },
+    {
+      "surface": "תימא",
+      "gloss": "Тема"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Буз"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "Буз"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "све"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "קצוצי",
+      "gloss": "који стрижу"
+    },
+    {
+      "surface": "פאה",
+      "gloss": "крајеве"
+    }
+  ],
+  "timestamp": "2026-09-05T17:05:34.115625300Z",
+  "model": "glm-5.3"
+}

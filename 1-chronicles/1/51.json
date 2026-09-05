@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-chronicles 1:51",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "И умре Хадад; и бише кнезови Едома: кнез Тимна, кнез Алва, кнез Јетет.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "и умре"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Хадад"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "и бише"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "кнезови"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Едома"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "кнез"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "Тимна"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "кнез"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "Алва"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "кнез"
+    },
+    {
+      "surface": "יתת",
+      "gloss": "Јетет"
+    }
+  ],
+  "timestamp": "2026-09-05T14:33:42.165416344Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 15:26",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 15,
+  "translation": "Мрске су Јахвеу намисли зле, а чисте су речи угодне.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "мрске"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеу"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "намисли"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зле"
+    },
+    {
+      "surface": "וטהרים",
+      "gloss": "а чисте"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "речи"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "угодне"
+    }
+  ],
+  "timestamp": "2026-09-05T16:00:44.020167101Z",
+  "model": "glm-5.3"
+}

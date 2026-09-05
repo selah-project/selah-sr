@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 22:27",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "јер у пољу нађе је; вапила је девојка заручница, а нема ко да је спасе.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "у пољу"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "нађе је"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "вапила је"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "девојка"
+    },
+    {
+      "surface": "המארשה",
+      "gloss": "заручница"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "а нема"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "ко да спасе"
+    },
+    {
+      "surface": "לה",
+      "gloss": "је"
+    }
+  ],
+  "timestamp": "2026-09-05T10:52:42.522282961Z",
+  "model": "glm-5.3"
+}

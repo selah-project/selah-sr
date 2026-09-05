@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "lamentations 3:54",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Надошле воде над главу моју; рекох: одсечен сам.",
+  "tokens": [
+    {
+      "surface": "צפו",
+      "gloss": "Надошле"
+    },
+    {
+      "surface": "מים",
+      "gloss": "воде"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "главу моју"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "рекох"
+    },
+    {
+      "surface": "נגזרתי",
+      "rationale": "",
+      "gloss": "одсечен сам"
+    }
+  ],
+  "timestamp": "2026-09-05T14:09:28.456728764Z",
+  "model": "glm-5.3"
+}

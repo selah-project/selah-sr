@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 4:15",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "Видех ⟨את⟩ све живе што ходе под сунцем, уз другога младића који ће стајати место њега.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Видех"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "све живе"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "живе"
+    },
+    {
+      "surface": "המהלכים",
+      "gloss": "што ходе"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "сунцем"
+    },
+    {
+      "surface": "עם",
+      "gloss": "уз"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "младића"
+    },
+    {
+      "surface": "השני",
+      "gloss": "другога"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ће стајати"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "место њега"
+    }
+  ],
+  "timestamp": "2026-09-05T14:11:36.122672986Z",
+  "model": "glm-5.3"
+}

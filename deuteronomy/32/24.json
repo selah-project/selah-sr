@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 32:24",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 32,
+  "translation": "Измор глађу, и жегу Решефову, и горки помор; и зубе звери пустићу на њих, са отровом пузаваца прашине.",
+  "tokens": [
+    {
+      "surface": "מזי",
+      "gloss": "Измор"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "глађу"
+    },
+    {
+      "surface": "ולחמי",
+      "gloss": "и жегу"
+    },
+    {
+      "surface": "רשף",
+      "gloss": "Решефову"
+    },
+    {
+      "surface": "וקטב",
+      "gloss": "и помор"
+    },
+    {
+      "surface": "מרירי",
+      "gloss": "горки"
+    },
+    {
+      "surface": "ושן",
+      "gloss": "и зубе"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "звери"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "пустићу"
+    },
+    {
+      "surface": "בם",
+      "gloss": "на њих"
+    },
+    {
+      "surface": "עם",
+      "gloss": "са"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "отровом"
+    },
+    {
+      "surface": "זחלי",
+      "gloss": "пузаваца"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "прашине"
+    }
+  ],
+  "timestamp": "2026-09-05T10:55:49.191190309Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 19:9",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 19,
+  "translation": "И заповеди им говорећи: Тако чините у страху Јахвеовом, с верношћу и с срцем целим.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "заповеди"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорећи"
+    },
+    {
+      "surface": "כה",
+      "gloss": "тако"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "чините"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "у страху"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "с верношћу"
+    },
+    {
+      "surface": "ובלבב",
+      "gloss": "и с срцем"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "целим"
+    }
+  ],
+  "timestamp": "2026-09-05T14:50:55.076224377Z",
+  "model": "glm-5.3"
+}

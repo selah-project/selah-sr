@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "ezekiel 23:43",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "И рекох за издану прељубама: сада чине блудове њене — и она.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "и рекох"
+    },
+    {
+      "surface": "לבלה",
+      "gloss": "за издану"
+    },
+    {
+      "surface": "נאופים",
+      "gloss": "прељубама"
+    },
+    {
+      "surface": "עת",
+      "gloss": "сада"
+    },
+    {
+      "surface": "יזנה",
+      "gloss": "чине блуд"
+    },
+    {
+      "surface": "תזנותה",
+      "gloss": "блудове њене"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "и она"
+    }
+  ],
+  "timestamp": "2026-09-05T12:49:42.912107390Z",
+  "model": "glm-5.3"
+}

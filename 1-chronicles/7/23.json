@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 7:23",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "И уђе к жени својој, и заче, и роди сина, и назва ⟨את⟩ име његово Берија, јер у злу беше ⟨у⟩ кући његовој.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "и уђе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "жени својој"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "и заче"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "и роди"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "и назва"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "име његово"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "име његово"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "Берија"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "у злу"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "беше"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "кући његовој"
+    }
+  ],
+  "timestamp": "2026-09-05T14:37:05.890476613Z",
+  "model": "glm-5.3"
+}

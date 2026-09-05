@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 32:35",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 32,
+  "translation": "И порази Јахве ⟨את⟩ народ јер начинили беху ⟨את⟩ телета које начини Арон (Ахарон).",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "И порази"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "народ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "על",
+      "gloss": "јер"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "начинише"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "телета"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "телета"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "које"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "начини"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Арон"
+    }
+  ],
+  "timestamp": "2026-09-05T15:04:42.717408361Z",
+  "model": "glm-5.3"
+}

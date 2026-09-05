@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 8:12",
+  "book": "hosea",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "Написах му хиљаде ⟨прописа⟩ Торе моје — а као туђе беше им урачунато.",
+  "tokens": [
+    {
+      "surface": "אכתוב",
+      "gloss": "Написах"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "хиљаде"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Торе моје"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "као"
+    },
+    {
+      "surface": "זר",
+      "gloss": "туђе"
+    },
+    {
+      "surface": "נחשבו",
+      "gloss": "беше урачунато"
+    }
+  ],
+  "timestamp": "2026-09-05T13:01:58.378175644Z",
+  "model": "glm-5.3"
+}

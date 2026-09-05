@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 5:9",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Својом душом ⟨את⟩ хлеб наш доносимо, због мача пустиње.",
+  "tokens": [
+    {
+      "surface": "בנפשנו",
+      "gloss": "својом душом"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "доносимо"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "хлеб наш"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "због"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "мача"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "пустиње"
+    }
+  ],
+  "timestamp": "2026-09-05T14:10:49.640249204Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 3:11",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Путеве моје скрену и растрга ме, постави ме ⟨као⟩ опустошена.",
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "путеве моје"
+    },
+    {
+      "surface": "сורר",
+      "gloss": "скрену"
+    },
+    {
+      "surface": "ויפשחני",
+      "gloss": "и растрга ме"
+    },
+    {
+      "surface": "שמני",
+      "gloss": "постави ме"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "опустошена"
+    }
+  ],
+  "timestamp": "2026-09-05T14:09:14.803974059Z",
+  "model": "glm-5.3"
+}

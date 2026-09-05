@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 4:4",
+  "book": "nehemiah",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "И рече Јуда: клону снага носача терета, и смечета је много, а ми не можемо зидати зид.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јуда"
+    },
+    {
+      "surface": "כשל",
+      "gloss": "клону"
+    },
+    {
+      "surface": "כח",
+      "gloss": "снага"
+    },
+    {
+      "surface": "הסבל",
+      "gloss": "носача терета"
+    },
+    {
+      "surface": "והעפר",
+      "gloss": "и смечета"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "много"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "а ми"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נוכל",
+      "gloss": "можемо"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "зидати"
+    },
+    {
+      "surface": "בחומה",
+      "gloss": "зид"
+    }
+  ],
+  "timestamp": "2026-09-05T14:30:09.504020832Z",
+  "model": "glm-5.3"
+}

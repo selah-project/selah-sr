@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 14:26",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "И рече Јахве Мошеу (Мојсију) и Арону, говорећи:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "према"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошеу"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и према"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Арону"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорећи"
+    }
+  ],
+  "timestamp": "2026-09-05T16:57:06.775942750Z",
+  "model": "glm-5.3"
+}

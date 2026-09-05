@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 1:29",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "И рекао сам вам: нестрашите се и не бојте се њих.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "и рекао сам"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "вама"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תערצון",
+      "gloss": "устрахате се"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "бојте се"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "њих"
+    }
+  ],
+  "timestamp": "2026-09-05T10:43:56.677908202Z",
+  "model": "glm-5.3"
+}

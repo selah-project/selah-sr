@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 105:34",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 105,
+  "translation": "Рече, и дође скакавац, и црв — и не беше ⟨броја⟩.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Рече"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "и дође"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "скакавац"
+    },
+    {
+      "surface": "וילק",
+      "gloss": "и црв"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и не беше"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "⟨броја⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T13:37:32.471485045Z",
+  "model": "glm-5.3"
+}

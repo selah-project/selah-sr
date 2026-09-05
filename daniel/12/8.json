@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 12:8",
+  "book": "daniel",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "И ја чух, али не разумех, па рекох: господару мој, какав је зачеље ових?",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "и ја"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "чух"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "али не"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "разумех"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "па рекох"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "господару мој"
+    },
+    {
+      "surface": "מה",
+      "gloss": "какав"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "зачеље"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ових"
+    }
+  ],
+  "timestamp": "2026-09-05T14:24:50.670272283Z",
+  "model": "glm-5.3"
+}

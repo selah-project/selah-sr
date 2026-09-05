@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 119:43",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 119,
+  "translation": "И не отими сасвим из уста мојих реч истине, јер чекам на пресуде твоје.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תצל",
+      "gloss": "отими"
+    },
+    {
+      "surface": "מפי",
+      "gloss": "из уста мојих"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "реч"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "истине"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "сасвим"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "למשפטך",
+      "gloss": "на пресуде твоје"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "чекам"
+    }
+  ],
+  "timestamp": "2026-09-05T13:40:00.207086949Z",
+  "model": "glm-5.3"
+}

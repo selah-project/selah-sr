@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 2:11",
+  "book": "2-samuel",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "И би број дана које беше Давид цар у Хеврону над домом Јудиним седам година и шест месеци.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И би"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "број"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "дана"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "које"
+    },
+    {
+      "surface": "היה",
+      "gloss": "беше"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "у Хеврону"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "בית",
+      "gloss": "домом"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јудиним"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "седам"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "година"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "и шест"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "месеци"
+    }
+  ],
+  "timestamp": "2026-09-05T17:17:13.657728546Z",
+  "model": "glm-5.3"
+}

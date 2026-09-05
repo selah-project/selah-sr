@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 30:18",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 30,
+  "translation": "Три су ⟨ствари⟩ које су ми чудне, и четири их не знам:",
+  "tokens": [
+    {
+      "surface": "שלשה",
+      "gloss": "три"
+    },
+    {
+      "surface": "המה",
+      "gloss": "њих"
+    },
+    {
+      "surface": "נפלאו",
+      "gloss": "чудне су"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "мени"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "и четири"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידעתים",
+      "gloss": "знам их"
+    }
+  ],
+  "timestamp": "2026-09-05T16:02:12.523051285Z",
+  "model": "glm-5.3"
+}

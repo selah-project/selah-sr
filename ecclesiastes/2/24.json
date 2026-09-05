@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ecclesiastes 2:24",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Нема добра у човеку ⟨осим⟩ да једе и пије и покаже ⟨את⟩ души својој добро у труду своме; и ово видех ја: да је из руке Елохима.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Нема"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добра"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "у човеку"
+    },
+    {
+      "surface": "שיאכל",
+      "gloss": "да једе"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "и пије"
+    },
+    {
+      "surface": "והראה",
+      "gloss": "и покаже"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "души својој"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "души својој"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "בעמלו",
+      "gloss": "у труду своме"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ово"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "видех"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "из руке"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елохима"
+    },
+    {
+      "surface": "היא",
+      "gloss": "је"
+    }
+  ],
+  "timestamp": "2026-09-05T14:11:40.392320215Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 18:1",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "И би Јехошафату богатство и слава у изобиљу, и ороди се с Ахавом.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И би"
+    },
+    {
+      "surface": "ליהושפט",
+      "gloss": "Јехошафату"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "богатство"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "и слава"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "у изобиљу"
+    },
+    {
+      "surface": "ויתחתן",
+      "gloss": "ороди се"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "с Ахавом"
+    }
+  ],
+  "timestamp": "2026-09-05T14:50:06.178609497Z",
+  "model": "glm-5.3"
+}

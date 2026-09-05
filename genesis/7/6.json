@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 7:6",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "А Ноах беше син шест стотина година кад потоп би вода на земљи.",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "а Ноах"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "שש",
+      "gloss": "шест"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "стотина"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "година"
+    },
+    {
+      "surface": "והמבול",
+      "gloss": "а потоп"
+    },
+    {
+      "surface": "היה",
+      "gloss": "би"
+    },
+    {
+      "surface": "מים",
+      "gloss": "вода"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земљи"
+    }
+  ],
+  "timestamp": "2026-09-05T09:40:29.003803149Z",
+  "model": "glm-5.3"
+}

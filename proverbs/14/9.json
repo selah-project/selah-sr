@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 14:9",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "Глупаци се ругају кривици, а међу правима ⟨је⟩ наклоност.",
+  "tokens": [
+    {
+      "surface": "אולים",
+      "gloss": "Глупаци"
+    },
+    {
+      "surface": "יליץ",
+      "gloss": "ригају се"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "кривици"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "а међу"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "правима"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "наклоност"
+    }
+  ],
+  "timestamp": "2026-09-05T13:48:26.939993777Z",
+  "model": "glm-5.3"
+}

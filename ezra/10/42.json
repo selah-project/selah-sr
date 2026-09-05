@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "ezra 10:42",
+  "book": "ezra",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "Шалум, Амарјах, Јосеф.",
+  "tokens": [
+    {
+      "surface": "שלום",
+      "gloss": "Шалум"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Амарјах"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Јосеф"
+    }
+  ],
+  "timestamp": "2026-09-05T14:27:56.663164184Z",
+  "model": "glm-5.3"
+}

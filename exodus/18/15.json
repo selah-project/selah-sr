@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 18:15",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "И рече Моше своме зету: „Јер народ долази к мени да пита Елохима.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לחתנו",
+      "gloss": "своме зету"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "долази"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "к мени"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "да пита"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохима"
+    }
+  ],
+  "timestamp": "2026-09-05T10:05:52.135043785Z",
+  "model": "glm-5.3"
+}

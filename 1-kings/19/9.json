@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 19:9",
+  "book": "1-kings",
+  "lang": "sr",
+  "chapter": 19,
+  "translation": "И дође онамо до пећине и ноћи онамо; и гле, реч Јахвеова ⟨дође⟩ му, и рече му: Што ти је овде, Елијаху?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "и дође"
+    },
+    {
+      "surface": "שם",
+      "gloss": "онамо"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "המערה",
+      "gloss": "пећине"
+    },
+    {
+      "surface": "וילן",
+      "gloss": "и ноћи"
+    },
+    {
+      "surface": "שם",
+      "gloss": "онамо"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и гле"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "реч"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеова"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "му"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "מה",
+      "gloss": "што"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти је"
+    },
+    {
+      "surface": "פה",
+      "gloss": "овде"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Елијаху"
+    }
+  ],
+  "timestamp": "2026-09-05T11:47:56.583270854Z",
+  "model": "glm-5.3"
+}

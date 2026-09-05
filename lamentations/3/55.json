@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "lamentations 3:55",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Призвах име твоје, Јахве, из јаме доње.",
+  "tokens": [
+    {
+      "surface": "קראתי",
+      "gloss": "Призвах"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "име твоје"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "из јаме"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "доње"
+    }
+  ],
+  "timestamp": "2026-09-05T14:09:28.456838004Z",
+  "model": "glm-5.3"
+}

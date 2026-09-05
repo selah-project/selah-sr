@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 23:23",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "Истину купи и не продај — ⟨ни⟩ мудрост, ⟨ни⟩ васпитање, ⟨ни⟩ разум.",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "Истину"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "купи"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תמכר",
+      "gloss": "продај"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мудрост"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "и васпитање"
+    },
+    {
+      "surface": "ובינה",
+      "gloss": "и разум"
+    }
+  ],
+  "timestamp": "2026-09-05T13:51:51.957456951Z",
+  "model": "glm-5.3"
+}

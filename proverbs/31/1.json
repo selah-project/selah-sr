@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 31:1",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 31,
+  "translation": "Речи Лемула, краља: бреме ⟨које⟩ научи мати његова.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Речи"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "Лемула"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "краља"
+    },
+    {
+      "surface": "משא",
+      "gloss": "бреме"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "које"
+    },
+    {
+      "surface": "יסרתו",
+      "gloss": "научи"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "мати његова"
+    }
+  ],
+  "timestamp": "2026-09-05T13:55:03.428928440Z",
+  "model": "glm-5.3"
+}

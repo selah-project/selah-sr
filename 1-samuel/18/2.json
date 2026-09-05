@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 18:2",
+  "book": "1-samuel",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "И узе Шаул Давида онога дана и не даде га да се врати у дом оца својега.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "И узе га"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "у дан"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "онај"
+    },
+    {
+      "surface": "ו לא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "даде га"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "да се врати"
+    },
+    {
+      "surface": "בית",
+      "gloss": "у дом"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "оца својега"
+    }
+  ],
+  "timestamp": "2026-09-05T11:22:41.121612002Z",
+  "model": "glm-5.3"
+}

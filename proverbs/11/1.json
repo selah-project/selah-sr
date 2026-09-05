@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 11:1",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "Ваге преваре — одвратност ⟨је⟩ Јахвеу, а камен потпун — воља је његова.",
+  "tokens": [
+    {
+      "surface": "מאזני",
+      "gloss": "ваге"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "преваре"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "одвратност"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеу"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "а камен"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "потпун"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "воља његова"
+    }
+  ],
+  "timestamp": "2026-09-05T13:49:02.639008032Z",
+  "model": "glm-5.3"
+}

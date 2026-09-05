@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 25:19",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 25,
+  "translation": "И би после ⟨те⟩ погибли ⟨оне⟩,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И би"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "после"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "погибли"
+    }
+  ],
+  "timestamp": "2026-09-05T15:10:47.733791298Z",
+  "model": "glm-5.3"
+}

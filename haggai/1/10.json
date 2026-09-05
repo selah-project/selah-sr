@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "haggai 1:10",
+  "book": "haggai",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "Зато се над вама задржаше небеса ⟨од⟩ росе, и земља задржа род свој.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "כן",
+      "gloss": "зато"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "вама"
+    },
+    {
+      "surface": "כלאו",
+      "gloss": "задржаше се"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "небеса"
+    },
+    {
+      "surface": "מטל",
+      "gloss": "росе"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "и земља"
+    },
+    {
+      "surface": "כלאה",
+      "gloss": "задржа"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "род свој"
+    }
+  ],
+  "timestamp": "2026-09-05T13:11:42.931976699Z",
+  "model": "glm-5.3"
+}

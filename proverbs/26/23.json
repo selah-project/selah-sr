@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 26:23",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 26,
+  "translation": "Сребро троске превучено над черепом — ⟨јесу⟩ усне пламте и срце зло.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "сребро"
+    },
+    {
+      "surface": "סיגים",
+      "gloss": "троске"
+    },
+    {
+      "surface": "מצפה",
+      "gloss": "превучено"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "черепом"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "усне"
+    },
+    {
+      "surface": "דלקים",
+      "gloss": "пламте"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "и срце"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зло"
+    }
+  ],
+  "timestamp": "2026-09-05T17:11:06.139437147Z",
+  "model": "glm-5.3"
+}

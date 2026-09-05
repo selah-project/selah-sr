@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 24:17",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "Не изврћи правдо госта и сирочета, и не узимај у залог одећу удовице.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "изврћи"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "правду"
+    },
+    {
+      "surface": "גר",
+      "gloss": "госта"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "сирочета"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "узимај у залог"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "одећу"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "удовице"
+    }
+  ],
+  "timestamp": "2026-09-05T10:53:15.156467170Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 9:19",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "Тројица ⟨су⟩ ово синови Нохови, и од ових се разасу ⟨сва⟩ земља.",
+  "tokens": [
+    {
+      "surface": "שלשה",
+      "gloss": "Тројица"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "⟨су⟩ ово"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Нохови"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "и од ових"
+    },
+    {
+      "surface": "נפצה",
+      "gloss": "се разасу"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨сва⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земља"
+    }
+  ],
+  "timestamp": "2026-09-05T09:40:25.833468501Z",
+  "model": "glm-5.3"
+}

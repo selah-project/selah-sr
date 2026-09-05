@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 13:17",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "Пакостан вестник пада у зло, а верни изасланик ⟨је⟩ исцељење.",
+  "tokens": [
+    {
+      "surface": "מלאך",
+      "gloss": "вестник"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "пакостан"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "пада"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "у зло"
+    },
+    {
+      "surface": "וציר",
+      "gloss": "а изасланик"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "верни"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "исцељење"
+    }
+  ],
+  "timestamp": "2026-09-05T13:48:48.148957158Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-kings 8:40",
+  "book": "1-kings",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "Да би те се бојали све дане што ⟨су⟩ живи на лицу земље коју си дао оцима нашим.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "да би"
+    },
+    {
+      "surface": "יראוך",
+      "gloss": "тебе се бојали"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "дане"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "הם",
+      "gloss": "они"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "живи"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицу"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "земље"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "коју"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "си дао"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "оцима нашим"
+    }
+  ],
+  "timestamp": "2026-09-05T17:16:49.638201987Z",
+  "model": "glm-5.3"
+}

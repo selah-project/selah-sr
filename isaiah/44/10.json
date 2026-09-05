@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 44:10",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 44,
+  "translation": "Ко је обличио ела и лио лиени идол, ⟨да⟩ никако не користи?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ко"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "је обличио"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ела"
+    },
+    {
+      "surface": "ופסל",
+      "gloss": "и идола"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "лио лиени"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "да никако"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "не користи"
+    }
+  ],
+  "timestamp": "2026-09-05T17:04:28.508935694Z",
+  "model": "glm-5.3"
+}

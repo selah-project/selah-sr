@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 66:19",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 66,
+  "translation": "Аван, чу Елохим, прихвати глас молитве моје.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "Аван"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "чу"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "הקשיב",
+      "gloss": "прихвати"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "глас"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "молитве моје"
+    }
+  ],
+  "timestamp": "2026-09-05T13:28:54.530947394Z",
+  "model": "glm-5.3"
+}

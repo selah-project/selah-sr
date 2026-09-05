@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "obadiah 1:6",
+  "book": "obadiah",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "Како је ⟨претресен⟩ Исав! Провргоше скровишта његова.",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "Како"
+    },
+    {
+      "surface": "נחפשו",
+      "gloss": "претресен ⟨је⟩"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Исав"
+    },
+    {
+      "surface": "נבעו",
+      "gloss": "Провргоше"
+    },
+    {
+      "surface": "מצפניו",
+      "gloss": "скровишта његова"
+    }
+  ],
+  "timestamp": "2026-09-05T13:05:51.636685120Z",
+  "model": "glm-5.3"
+}

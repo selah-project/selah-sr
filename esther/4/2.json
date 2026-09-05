@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 4:2",
+  "book": "esther",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "и дође све до пред врата краљевска, јер нема ⟨се⟩ улазити у врата краљевска у оделу шака.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "и дође"
+    },
+    {
+      "surface": "עד",
+      "gloss": "све до"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "שער",
+      "gloss": "врата"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "краљевска"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "улазити"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "שער",
+      "gloss": "врата"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "краљевска"
+    },
+    {
+      "surface": "בלבוש",
+      "gloss": "у оделу"
+    },
+    {
+      "surface": "שק",
+      "gloss": "шака"
+    }
+  ],
+  "timestamp": "2026-09-05T14:15:38.502542759Z",
+  "model": "glm-5.3"
+}

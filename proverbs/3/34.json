@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "proverbs 3:34",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Ако ⟨се⟩ изругиваче — он се ⟨с њима⟩ руга, а понизнима даје хен ⟨милост⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "ללצים",
+      "gloss": "изругиваче"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "יליץ",
+      "gloss": "руга се"
+    },
+    {
+      "surface": "ולעניים",
+      "gloss": "а понизнима"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "даје"
+    },
+    {
+      "surface": "חן",
+      "gloss": "хен"
+    }
+  ],
+  "timestamp": "2026-09-05T13:46:00.861011643Z",
+  "model": "glm-5.3"
+}

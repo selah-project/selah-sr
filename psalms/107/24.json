@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 107:24",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 107,
+  "translation": "Они видеше дела Јахвеина и чуда његова у бездану.",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "Они"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "видеше"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "дела"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "ונפלאותיו",
+      "gloss": "и чуда његова"
+    },
+    {
+      "surface": "במצולה",
+      "gloss": "у бездану"
+    }
+  ],
+  "timestamp": "2026-09-05T13:37:38.650660306Z",
+  "model": "glm-5.3"
+}

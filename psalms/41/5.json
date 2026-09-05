@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 41:5",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 41,
+  "translation": "Ја рекох: Јахве, помилуј ме, излечи душу моју, јер согреших теби.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ја"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "рекох"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "помилуј ме"
+    },
+    {
+      "surface": "רפאה",
+      "gloss": "излечи"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душу моју"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "согреших"
+    },
+    {
+      "surface": "לך",
+      "gloss": "теби"
+    }
+  ],
+  "timestamp": "2026-09-05T13:25:15.810468646Z",
+  "model": "glm-5.3"
+}

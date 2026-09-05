@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "lamentations 3:22",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Хеседи Јахвеови ⟨јесу⟩ — јер нисмо нестали; јер не клонуше милости Његове.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "Хеседи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеови"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нисмо"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "нестали"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "клонушe"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "милости Његове"
+    }
+  ],
+  "timestamp": "2026-09-05T16:07:28.999280014Z",
+  "model": "glm-5.3"
+}

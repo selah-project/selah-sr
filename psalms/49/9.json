@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 49:9",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 49,
+  "translation": "И скупоцен је откуп душе њихове, и престаје навек.",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "и скупоцен"
+    },
+    {
+      "surface": "פדיון",
+      "gloss": "откуп"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "душе њихове"
+    },
+    {
+      "surface": "וחדל",
+      "gloss": "и престаје"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "навек"
+    }
+  ],
+  "timestamp": "2026-09-05T13:26:07.227306649Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 9:31",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "А лан и јечам беше поражено, јер јечам беше у класу, а лан у цвету.",
+  "tokens": [
+    {
+      "surface": "והפשתה",
+      "gloss": "А лан"
+    },
+    {
+      "surface": "והשערה",
+      "gloss": "и јечам"
+    },
+    {
+      "surface": "נכתה",
+      "gloss": "беше поражено"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "השערה",
+      "gloss": "јечам"
+    },
+    {
+      "surface": "אביב",
+      "gloss": "у класу"
+    },
+    {
+      "surface": "והפשתה",
+      "gloss": "а лан"
+    },
+    {
+      "surface": "גבעל",
+      "gloss": "у цвету"
+    }
+  ],
+  "timestamp": "2026-09-05T10:01:58.355253322Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 12:12",
+  "book": "2-samuel",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "Јер ти учини у тајности, а ја ћу учинити ⟨את⟩ ствар ову пред целим Израиљем и пред сунцем.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "учини"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "у тајности"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "а ја"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ћу учинити"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ствар"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ствар"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ову"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "пред"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целим"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљем"
+    },
+    {
+      "surface": "ונגד",
+      "gloss": "и пред"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "сунцем"
+    }
+  ],
+  "timestamp": "2026-09-05T11:31:43.533503285Z",
+  "model": "glm-5.3"
+}

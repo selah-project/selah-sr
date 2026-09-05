@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 4:14",
+  "book": "1-kings",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "Ахинадав, син Ида, у Маханајиму.",
+  "tokens": [
+    {
+      "surface": "אחינדב",
+      "gloss": "Ахинадав"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עדא",
+      "gloss": "Ида"
+    },
+    {
+      "surface": "מחנימה",
+      "gloss": "у Маханајиму"
+    }
+  ],
+  "timestamp": "2026-09-05T11:38:58.878304203Z",
+  "model": "glm-5.3"
+}

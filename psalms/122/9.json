@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 122:9",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 122,
+  "translation": "Ради дома Јахвеа, Елохима нашег, тражићу добро твоје.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "ради"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Елохима нашег"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "тражићу"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "לך",
+      "gloss": "твоје"
+    }
+  ],
+  "timestamp": "2026-09-05T13:41:31.872715469Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 4:25",
+  "book": "daniel",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "Све ово дође на Невухаднецара, краља.",
+  "tokens": [
+    {
+      "surface": "כלא",
+      "gloss": "Све"
+    },
+    {
+      "surface": "מטא",
+      "gloss": "дође"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Невухаднецара"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "краља"
+    }
+  ],
+  "timestamp": "2026-09-05T14:18:40.666327304Z",
+  "model": "glm-5.3"
+}

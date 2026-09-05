@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 14:12",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "И би реч Јахвеова мени говорећи:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "и би"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "реч"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеова"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мени"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорећи"
+    }
+  ],
+  "timestamp": "2026-09-05T12:46:03.072882711Z",
+  "model": "glm-5.3"
+}

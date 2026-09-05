@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 7:14",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "У дан добра буди у добру, а у дан зла гледај; и ⟨את⟩ ово насупрот ономе учини Елохим, због тога да човек не нађе после себе ништа.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "У дан"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "добра"
+    },
+    {
+      "surface": "היה",
+      "gloss": "буди"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "у добру"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "а у дан"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зла"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "гледај"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ово"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ово"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "насупрот"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ономе"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "учини"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "על",
+      "gloss": "због"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "тога"
+    },
+    {
+      "surface": "שלא",
+      "gloss": "да не"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "нађе"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "човек"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "после себе"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "ништа"
+    }
+  ],
+  "timestamp": "2026-09-05T16:08:50.624274076Z",
+  "model": "glm-5.3"
+}

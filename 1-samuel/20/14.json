@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 20:14",
+  "book": "1-samuel",
+  "lang": "sr",
+  "chapter": 20,
+  "translation": "И не само док сам још жив: да чиниш са мном хесед Јахвеов, и да не умрем.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "אם",
+      "gloss": "само"
+    },
+    {
+      "surface": "עודני",
+      "gloss": "још сам"
+    },
+    {
+      "surface": "חי",
+      "gloss": "жив"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "чиниш"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "са мном"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "хесед"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеов"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "умрем"
+    }
+  ],
+  "timestamp": "2026-09-05T11:23:17.259365962Z",
+  "model": "glm-5.3"
+}

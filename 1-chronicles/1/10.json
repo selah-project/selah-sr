@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "А Куш роди ⟨את⟩ Нимрода; он поче да буде силан на земљи.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "А Куш"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Нимрода"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "Нимрода"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "החל",
+      "gloss": "поче"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "да буде"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "силан"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "на земљи"
+    }
+  ],
+  "timestamp": "2026-09-05T17:13:29.217000533Z",
+  "model": "glm-5.3"
+}

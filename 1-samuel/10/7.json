@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 10:7",
+  "book": "1-samuel",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "И кад ти дођу ови знакови, ради за себе шта год нађе рука твоја, јер Елохим ⟨је⟩ с тобом.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "и буде"
+    },
+    {
+      "surface": "כי",
+      "gloss": "кад"
+    },
+    {
+      "surface": "תבאינה",
+      "gloss": "дођу"
+    },
+    {
+      "surface": "האתות",
+      "gloss": "знакови"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ови"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ради"
+    },
+    {
+      "surface": "לך",
+      "gloss": "за себе"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "шта"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "нађе"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "рука твоја"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "с тобом"
+    }
+  ],
+  "timestamp": "2026-09-05T11:18:53.854330308Z",
+  "model": "glm-5.3"
+}

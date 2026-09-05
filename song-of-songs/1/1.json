@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 1:1",
+  "book": "song-of-songs",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "Песма над песмама, која је Шеломова (Соломонова).",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Песма"
+    },
+    {
+      "surface": "השירים",
+      "gloss": "над песмама"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "која"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "је Шеломова (Соломонова)"
+    }
+  ],
+  "timestamp": "2026-09-05T14:06:21.825939022Z",
+  "model": "glm-5.3"
+}

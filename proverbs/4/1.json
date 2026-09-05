@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 4:1",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "Чујте, синови, поуку оца, и прилагните ⟨ухо⟩ да познајете разум.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Чујте"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "синови"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "поуку"
+    },
+    {
+      "surface": "אב",
+      "gloss": "оца"
+    },
+    {
+      "surface": "והקשיבו",
+      "gloss": "и прилагните ⟨ухо⟩"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "да познајете"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "разум"
+    }
+  ],
+  "timestamp": "2026-09-05T13:46:25.816515699Z",
+  "model": "glm-5.3"
+}

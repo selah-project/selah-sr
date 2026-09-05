@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 3:3",
+  "book": "zechariah",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "А Јехошуа беше одевен у нечиста одела и стојаше пред анђеом.",
+  "tokens": [
+    {
+      "surface": "ויהושע",
+      "gloss": "а Јехошуа"
+    },
+    {
+      "surface": "היה",
+      "gloss": "беше"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "одевен"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "у одела"
+    },
+    {
+      "surface": "צואים",
+      "gloss": "нечиста"
+    },
+    {
+      "surface": "ועמד",
+      "gloss": "и стојаше"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "анђеом"
+    }
+  ],
+  "timestamp": "2026-09-05T13:13:27.244168834Z",
+  "model": "glm-5.3"
+}

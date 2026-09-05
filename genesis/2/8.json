@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 2:8",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "И посади Јахве Елохим врт у Едену, са истока; и постави тамо ⟨את⟩ човека кога облика.",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "и посади"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "גן",
+      "gloss": "врт"
+    },
+    {
+      "surface": "בעדן",
+      "gloss": "у Едену"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "са истока"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "и постави"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тамо"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "човека"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "човека"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кога"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "облика"
+    }
+  ],
+  "timestamp": "2026-09-05T09:38:58.711520078Z",
+  "model": "glm-5.3"
+}

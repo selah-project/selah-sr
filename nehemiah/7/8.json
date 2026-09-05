@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 7:8",
+  "book": "nehemiah",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Синови Пароша: две хиљаде сто седамдесет и два.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "Пароша"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "две хиљаде"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "и седамдесет"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "и два"
+    }
+  ],
+  "timestamp": "2026-09-05T14:30:07.462659103Z",
+  "model": "glm-5.3"
+}

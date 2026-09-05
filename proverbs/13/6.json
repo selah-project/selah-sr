@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 13:6",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "Правда чува невиност ⟨на⟩ путу, а безакоње обара грешника.",
+  "tokens": [
+    {
+      "surface": "צדקה",
+      "gloss": "правда"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "чува"
+    },
+    {
+      "surface": "תם",
+      "gloss": "невиност"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "пут"
+    },
+    {
+      "surface": "ורשעה",
+      "gloss": "а безакоње"
+    },
+    {
+      "surface": "תסלף",
+      "gloss": "обара"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "грешника"
+    }
+  ],
+  "timestamp": "2026-09-05T16:00:38.015054550Z",
+  "model": "glm-5.3"
+}

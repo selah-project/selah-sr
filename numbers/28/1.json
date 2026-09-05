@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 28:1",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "И рече Јахве Мошеу (Мојсију) ⟨да каже⟩:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨према⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошеу (Мојсију)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨да каже⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T10:39:56.938995728Z",
+  "model": "glm-5.3"
+}

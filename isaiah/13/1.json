@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "Носија ⟨је⟩ Вавилон, који виде Јешајаху (Исаија), син Амочев.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Носија"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Вавилон"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "виде"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Јешајаху"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Амоц"
+    }
+  ],
+  "timestamp": "2026-09-05T17:02:27.318398723Z",
+  "model": "glm-5.3"
+}

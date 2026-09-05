@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 10:27",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "Страх Јахвеов додаје дане, а године злих биће скраћене.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "страх"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеов"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "додаје"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дане"
+    },
+    {
+      "surface": "ושנות",
+      "gloss": "а године"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "злих"
+    },
+    {
+      "surface": "תקצרנה",
+      "gloss": "биће скраћене"
+    }
+  ],
+  "timestamp": "2026-09-05T13:48:07.502834765Z",
+  "model": "glm-5.3"
+}

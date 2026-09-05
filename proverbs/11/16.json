@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 11:16",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "Жена благодати држи част, а силници држе богатство.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "жена"
+    },
+    {
+      "surface": "חן",
+      "gloss": "благодати"
+    },
+    {
+      "surface": "титמך",
+      "gloss": "држи"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "част"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "а силници"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "држе"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "богатство"
+    }
+  ],
+  "timestamp": "2026-09-05T13:48:48.140705002Z",
+  "model": "glm-5.3"
+}

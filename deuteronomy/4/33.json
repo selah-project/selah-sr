@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 4:33",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "Да ли је ⟨неки⟩ народ чуо глас Елохима како говори из сред огња, као што си чуо ти — и остао жив?",
+  "tokens": [
+    {
+      "surface": "השמע",
+      "gloss": "Да ли је чуо"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "глас"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохима"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "како говори"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "из сред"
+    },
+    {
+      "surface": "האש",
+      "gloss": "огња"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "као што"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "си чуо"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "и остао жив"
+    }
+  ],
+  "timestamp": "2026-09-05T10:45:52.871826434Z",
+  "model": "glm-5.3"
+}

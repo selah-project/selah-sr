@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 8:34",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "Као што је учињено дана овог, тако је заповедио Јахве чинити да се искупи ⟨за⟩ вас.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "као што"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "је учињено"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "дана"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овог"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповедио је"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "чинити"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "да се искупи"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "за вас"
+    }
+  ],
+  "timestamp": "2026-09-05T15:07:19.249794773Z",
+  "model": "glm-5.3"
+}

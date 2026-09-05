@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 11:25",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "Душа благослова биће удебљана, а који поји — и он ће бити појен.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "душа"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "благослова"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "биће удебљана"
+    },
+    {
+      "surface": "ומרוה",
+      "gloss": "а који поји"
+    },
+    {
+      "surface": "גם",
+      "gloss": "такође"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "יורא",
+      "gloss": "биће појен"
+    }
+  ],
+  "timestamp": "2026-09-05T13:49:06.758730199Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 118:13",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 118,
+  "translation": "Даху ме да паднем, али Јахве ми помогао.",
+  "tokens": [
+    {
+      "surface": "דחה",
+      "gloss": "Даху"
+    },
+    {
+      "surface": "דחיתני",
+      "gloss": "ме"
+    },
+    {
+      "surface": "לנפל",
+      "gloss": "да паднем"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "али Јахве"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "ми помогао"
+    }
+  ],
+  "timestamp": "2026-09-05T17:10:45.117956381Z",
+  "model": "glm-5.3"
+}

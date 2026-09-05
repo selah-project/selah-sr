@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ruth 4:13",
+  "book": "ruth",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "И узе Боаз ⟨את⟩ Рут, и она му би ⟨за⟩ жену; и уђе к њој, и даде Јахве њој зачеће, и роди сина.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "И узе"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Боаз"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Рут"
+    },
+    {
+      "surface": "רות",
+      "gloss": "Рут"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "и би"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "⟨за⟩ жену"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "и уђе"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "к њој"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "и даде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "לה",
+      "gloss": "њој"
+    },
+    {
+      "surface": "הריון",
+      "gloss": "зачеће"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "и роди"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    }
+  ],
+  "timestamp": "2026-09-05T16:07:16.385425817Z",
+  "model": "glm-5.3"
+}

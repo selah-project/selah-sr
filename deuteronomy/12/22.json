@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 12:22",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "Само као што се једе ⟨את⟩ газела и ⟨את⟩ јелен, тако ћеш га јести: нечист и чист заједно нека га једу.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Само"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "као што"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "једе"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "газелу"
+    },
+    {
+      "surface": "הצבי",
+      "gloss": "газелу"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "јелена"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "јелена"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тако"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "ћеш га јести"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "нечист"
+    },
+    {
+      "surface": "והטהור",
+      "gloss": "и чист"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "заједно"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "нека га једу"
+    }
+  ],
+  "timestamp": "2026-09-05T10:48:47.978745167Z",
+  "model": "glm-5.3"
+}

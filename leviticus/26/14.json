@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 26:14",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 26,
+  "translation": "А ако не послушате мене и не учините ⟨את⟩ свих заповести ових,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "А ако"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "послушате"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мене"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "учините"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "свих заповести"
+    },
+    {
+      "surface": "כל",
+      "gloss": "свих"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "заповести"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ових"
+    }
+  ],
+  "timestamp": "2026-09-05T10:26:44.460150548Z",
+  "model": "glm-5.3"
+}

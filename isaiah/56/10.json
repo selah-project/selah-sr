@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 56:10",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 56,
+  "translation": "Страже су ⟨они⟩ слепи, сви; не знају ништа, сви; пси неми, не могу да лају; сањари, легли, љубе дремеж.",
+  "tokens": [
+    {
+      "surface": "צפו",
+      "gloss": "страже"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "слепи"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "сви"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "знају"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "сви"
+    },
+    {
+      "surface": "כלבים",
+      "gloss": "пси"
+    },
+    {
+      "surface": "אלמים",
+      "gloss": "неми"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "могу"
+    },
+    {
+      "surface": "לנבח",
+      "gloss": "лајати"
+    },
+    {
+      "surface": "הזים",
+      "gloss": "сањари"
+    },
+    {
+      "surface": "שכבים",
+      "gloss": "легли"
+    },
+    {
+      "surface": "אהבי",
+      "gloss": "љубе"
+    },
+    {
+      "surface": "לנום",
+      "gloss": "дремеж"
+    }
+  ],
+  "timestamp": "2026-09-05T12:16:19.104272030Z",
+  "model": "glm-5.3"
+}

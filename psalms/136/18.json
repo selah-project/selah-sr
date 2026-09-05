@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 136:18",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 136,
+  "translation": "и поби моћне краљеве, јер довека ⟨траје⟩ хесед његов.",
+  "tokens": [
+    {
+      "surface": "ויהרג",
+      "gloss": "и поби"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "краљеве"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "моћне"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "довека"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "хесед његов"
+    }
+  ],
+  "timestamp": "2026-09-05T13:43:17.046336458Z",
+  "model": "glm-5.3"
+}

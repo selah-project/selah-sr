@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 1:35",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "Ако види човек од људи ових, поколења овог злог, ⟨את⟩ земљу добру коју се заклех дати оцима вашим —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "види"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "באנשים",
+      "gloss": "од-људи"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ових"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "поколење"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "злог"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овог"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "земљу"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земљу"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "добру"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "коју"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "заклех-се"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "дати"
+    },
+    {
+      "surface": "לאבתיכם",
+      "gloss": "оцима-вашим"
+    }
+  ],
+  "timestamp": "2026-09-05T10:43:46.698321559Z",
+  "model": "glm-5.3"
+}

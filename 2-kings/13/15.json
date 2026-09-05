@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 13:15",
+  "book": "2-kings",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "И рече му Елиша: Узми лук и стреле. И узе к себи лук и стреле.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Елиша"
+    },
+    {
+      "surface": "קח",
+      "gloss": "Узми"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "лук"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "и стреле"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "И узе"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "к себи"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "лук"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "и стреле"
+    }
+  ],
+  "timestamp": "2026-09-05T11:56:13.999266542Z",
+  "model": "glm-5.3"
+}

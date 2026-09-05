@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 27:26",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 27,
+  "translation": "И над радиоцима посла пољског, за обраду земље — Езри син Келубов.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "и над"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "радиоцима"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "посла"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "пољског"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "за обраду"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "земље"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "Езри"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "כלוב",
+      "gloss": "Келубов"
+    }
+  ],
+  "timestamp": "2026-09-05T14:43:17.466690102Z",
+  "model": "glm-5.3"
+}

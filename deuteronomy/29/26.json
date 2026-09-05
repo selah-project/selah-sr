@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 29:26",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 29,
+  "translation": "те пламну гнев Јахвеов против земље оне, да наведе на њу ⟨את⟩ сву клетву написану у књизи овој.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "те пламну"
+    },
+    {
+      "surface": "אף",
+      "gloss": "гнев"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеов"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "против земље"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "оне"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "да наведе"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "на њу"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сву клетву"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сву"
+    },
+    {
+      "surface": "הקללה",
+      "gloss": "клетву"
+    },
+    {
+      "surface": "הכתובה",
+      "gloss": "написану"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "у књизи"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овој"
+    }
+  ],
+  "timestamp": "2026-09-05T15:15:42.785759459Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 6:8",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "А Ноах (Ное) нађе милост у очима Јахвеа.",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "а Ноах (Ное)"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "нађе"
+    },
+    {
+      "surface": "חן",
+      "gloss": "милост"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "у очима"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    }
+  ],
+  "timestamp": "2026-09-05T09:40:57.510059746Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 10:20",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "И чу Моше, и било је добро у очима његовим.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "и чу"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "и било је добро"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "у очима његовим"
+    }
+  ],
+  "timestamp": "2026-09-05T10:19:41.362285869Z",
+  "model": "glm-5.3"
+}

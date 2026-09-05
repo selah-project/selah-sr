@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 50:4",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 50,
+  "translation": "Зове небеса ⟨одозго⟩, и ⟨зове⟩ земљу, да суди народу своме.",
+  "tokens": [
+    {
+      "surface": "יקרא",
+      "gloss": "Зове"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небеса"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "⟨одозго⟩"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и ⟨зове⟩"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земљу"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "да суди"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "народу своме"
+    }
+  ],
+  "timestamp": "2026-09-05T15:55:05.700785712Z",
+  "model": "glm-5.3"
+}

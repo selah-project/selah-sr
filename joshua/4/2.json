@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 4:2",
+  "book": "joshua",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "„Узмите себи из народа дванаест људи, по један човек, по један човек ⟨од⟩ племена,",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "Узмите"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "себи"
+    },
+    {
+      "surface": "מן",
+      "gloss": "из"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народа"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "два"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "наест"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "људи"
+    },
+    {
+      "surface": "איש",
+      "gloss": "по један човек — човек"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "један"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "један"
+    },
+    {
+      "surface": "משבט",
+      "gloss": "⟨од⟩ племена"
+    }
+  ],
+  "timestamp": "2026-09-05T10:58:08.894193367Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 3:22",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "И биће ⟨то⟩ живот души твојој и милина врату твоме.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "и биће"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "живот"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "души твојој"
+    },
+    {
+      "surface": "וחן",
+      "gloss": "и милина"
+    },
+    {
+      "surface": "לגרגרתיך",
+      "gloss": "врату твоме"
+    }
+  ],
+  "timestamp": "2026-09-05T13:45:42.439164779Z",
+  "model": "glm-5.3"
+}

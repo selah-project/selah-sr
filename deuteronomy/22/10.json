@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 22:10",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "Не ори са волом и са магарцем заједно.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "ори"
+    },
+    {
+      "surface": "בשור",
+      "gloss": "са волом"
+    },
+    {
+      "surface": "ובחמר",
+      "gloss": "и са магарцем"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "заједно"
+    }
+  ],
+  "timestamp": "2026-09-05T15:14:52.156341985Z",
+  "model": "glm-5.3"
+}

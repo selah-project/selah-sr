@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 47:10",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 47,
+  "translation": "И благослови Јааков ⟨את⟩ фараона и изађе од лица фараона.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "И благослови"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Јааков"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "фараона"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "фараона"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "и изађе"
+    },
+    {
+      "surface": "мלפני",
+      "gloss": "од лица"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "фараона"
+    }
+  ],
+  "timestamp": "2026-09-05T09:57:27.272338245Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 33,
+  "translation": "Јер он рече — и би; он заповеди — и стаде.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и би"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповеди"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "и стаде"
+    }
+  ],
+  "timestamp": "2026-09-05T13:21:38.170217765Z",
+  "model": "glm-5.3"
+}

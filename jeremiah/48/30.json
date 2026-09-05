@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 48:30",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 48,
+  "translation": "Ја знам — изрека Јахвеа — срџбу његову, али није ⟨тако⟩; лажи његове не тако учинише.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ја"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "знам"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "изрека"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "срџбу његову"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "али не"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тако"
+    },
+    {
+      "surface": "בדיו",
+      "gloss": "лажи његове"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тако"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "учинише"
+    }
+  ],
+  "timestamp": "2026-09-05T12:39:05.382199566Z",
+  "model": "glm-5.3"
+}

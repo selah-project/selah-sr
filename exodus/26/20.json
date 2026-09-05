@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 26,
+  "translation": "И за другу страну шатора, према северу, двадесет дасака.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "И за страну"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "шатора"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "другу"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "према"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "северу"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двадесет"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "дасака"
+    }
+  ],
+  "timestamp": "2026-09-05T10:09:18.732108803Z",
+  "model": "glm-5.3"
+}

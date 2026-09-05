@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 1:34",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "И чу Јахве ⟨את⟩ глас речи ваших, и разгневи се, и закле се говорећи:",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "и-чу"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "глас"
+    },
+    {
+      "surface": "קול",
+      "gloss": "глас"
+    },
+    {
+      "surface": "דבריכם",
+      "gloss": "речи-ваших"
+    },
+    {
+      "surface": "ויקצף",
+      "gloss": "и-разгневи-се"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "и-закле-се"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорећи"
+    }
+  ],
+  "timestamp": "2026-09-05T10:43:46.698143868Z",
+  "model": "glm-5.3"
+}

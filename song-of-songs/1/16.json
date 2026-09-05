@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "song-of-songs 1:16",
+  "book": "song-of-songs",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "Гле, леп си, драгани мој, још и мил; још и постеља наша лисната ⟨јесте⟩.",
+  "tokens": [
+    {
+      "surface": "הנך",
+      "gloss": "гле"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "леп си"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "драгани мој"
+    },
+    {
+      "surface": "אף",
+      "gloss": "још и"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "мил"
+    },
+    {
+      "surface": "אף",
+      "gloss": "још и"
+    },
+    {
+      "surface": "ערשנו",
+      "gloss": "постеља наша"
+    },
+    {
+      "surface": "רעננה",
+      "gloss": "лисната"
+    }
+  ],
+  "timestamp": "2026-09-05T14:06:12.095399530Z",
+  "model": "glm-5.3"
+}

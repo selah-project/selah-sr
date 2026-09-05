@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 3:9",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Сви ⟨су⟩ синови Давидови, осим синова наложница, и Тамар сестра њихова.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Сви"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давидови"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "осим"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синова"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "наложница"
+    },
+    {
+      "surface": "ותמר",
+      "gloss": "и Тамар"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "сестра њихова"
+    }
+  ],
+  "timestamp": "2026-09-05T14:34:49.040510496Z",
+  "model": "glm-5.3"
+}

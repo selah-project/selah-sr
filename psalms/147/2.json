@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 147:2",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 147,
+  "translation": "Гради Јахве Јерушалајим, прогнане Израиљеве скупља.",
+  "tokens": [
+    {
+      "surface": "בונה",
+      "gloss": "Гради"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Јерушалајим"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "נדחי",
+      "gloss": "прогнане"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљеве"
+    },
+    {
+      "surface": "יכנס",
+      "gloss": "скуплја"
+    }
+  ],
+  "timestamp": "2026-09-05T13:45:09.504668576Z",
+  "model": "glm-5.3"
+}

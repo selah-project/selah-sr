@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 137:1",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 137,
+  "translation": "Уз реке Вавилона тамо седесмо, плакасмо и, кад се сетисмо ⟨את⟩ Циона.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Уз"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "реке"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Вавилона (Вавилон)"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тамо"
+    },
+    {
+      "surface": "ישבנו",
+      "gloss": "седесмо"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "בכינו",
+      "gloss": "плакасмо"
+    },
+    {
+      "surface": "בזכרנו",
+      "gloss": "кад се сетисмо"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Циона"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Циона"
+    }
+  ],
+  "timestamp": "2026-09-05T13:43:46.653651324Z",
+  "model": "glm-5.3"
+}

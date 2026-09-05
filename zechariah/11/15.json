@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 11:15",
+  "book": "zechariah",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "И рече Јахве мени: „Још узми себи опрему пастира лудог.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мени"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "још"
+    },
+    {
+      "surface": "קח",
+      "gloss": "узми"
+    },
+    {
+      "surface": "לך",
+      "gloss": "себи"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "опрему"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "пастира"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "лудог"
+    }
+  ],
+  "timestamp": "2026-09-05T15:52:02.570225089Z",
+  "model": "glm-5.3"
+}

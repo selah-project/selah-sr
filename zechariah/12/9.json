@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 12:9",
+  "book": "zechariah",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "И биће у дан онај: потражићу да уништим ⟨את⟩ све народе који долазе на Јерушалајим.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "И биће"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "у дан"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "онај"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "потражићу"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "да уништим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "све народе"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "народе"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "који долазе"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Јерушалајим"
+    }
+  ],
+  "timestamp": "2026-09-05T13:14:48.343028811Z",
+  "model": "glm-5.3"
+}

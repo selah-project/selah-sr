@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 4:24",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "Ово је служба породица Гершонових: да служе и да носе.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Ово"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "служба"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "породица"
+    },
+    {
+      "surface": "הגרשני",
+      "gloss": "Гершонових"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "да служе"
+    },
+    {
+      "surface": "ולמשא",
+      "gloss": "и да носе"
+    }
+  ],
+  "timestamp": "2026-09-05T10:28:43.985578083Z",
+  "model": "glm-5.3"
+}

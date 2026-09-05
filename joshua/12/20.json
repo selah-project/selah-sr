@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 12:20",
+  "book": "joshua",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "Краљ Шимрон-Мерона, један; краљ Акшава, један;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "краљ"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Шимрон-"
+    },
+    {
+      "surface": "מראון",
+      "gloss": "Мерона"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "један"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "краљ"
+    },
+    {
+      "surface": "אכשף",
+      "gloss": "Акшава"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "један"
+    }
+  ],
+  "timestamp": "2026-09-05T16:35:15.502217346Z",
+  "model": "glm-5.3"
+}

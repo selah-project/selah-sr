@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 7:18",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "не бој их се; добро запамти шта учини Јахве, Елохим твој, Пару и свему Мицрајиму (Египту),",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "бој"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "их"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "добро"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "запамти"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "шта (учини Пару)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "шта"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "учини"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Елохим твој"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Пари"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "и свему"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрајиму"
+    }
+  ],
+  "timestamp": "2026-09-05T15:11:56.477379337Z",
+  "model": "glm-5.3"
+}

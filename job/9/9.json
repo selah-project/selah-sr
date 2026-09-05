@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 9:9",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "Који чини Ош, Кесил и Кимах, и одаје југа.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "чини"
+    },
+    {
+      "surface": "עש",
+      "gloss": "Ош"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "Кесил"
+    },
+    {
+      "surface": "וכימה",
+      "gloss": "и Кимах"
+    },
+    {
+      "surface": "וחדרי",
+      "gloss": "и одаје"
+    },
+    {
+      "surface": "תמן",
+      "gloss": "југа"
+    }
+  ],
+  "timestamp": "2026-09-05T13:56:04.194530022Z",
+  "model": "glm-5.3"
+}

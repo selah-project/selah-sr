@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 47:7",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 47,
+  "translation": "Кад ме вратио, и гле — на обали потока дрвећа врло много, са ове и са оне стране.",
+  "tokens": [
+    {
+      "surface": "בשובני",
+      "gloss": "кад ме вратио"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и гле"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "обали"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "потока"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "дрвећа"
+    },
+    {
+      "surface": "רב",
+      "gloss": "много"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "врло"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "са ове"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "и са оне стране"
+    }
+  ],
+  "timestamp": "2026-09-05T12:57:56.450064775Z",
+  "model": "glm-5.3"
+}

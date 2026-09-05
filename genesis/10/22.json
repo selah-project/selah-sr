@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 10:22",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "Синови Шемови (Семови): Елам и Ашур и Арфахшад и Луд и Арам.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синови"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Шемови"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Елам"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "и Ашур"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "и Арфахшад"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "и Луд"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "и Арам"
+    }
+  ],
+  "timestamp": "2026-09-05T09:41:46.129690840Z",
+  "model": "glm-5.3"
+}

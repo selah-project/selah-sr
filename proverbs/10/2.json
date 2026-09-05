@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 10:2",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "Не користе ризнице безакоња, а правда избавља од смрти.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "יועילו",
+      "gloss": "користе"
+    },
+    {
+      "surface": "אוצרות",
+      "gloss": "ризнице"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "безакоња"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "а правда"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "избавља"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "од смрти"
+    }
+  ],
+  "timestamp": "2026-09-05T13:48:03.474865789Z",
+  "model": "glm-5.3"
+}

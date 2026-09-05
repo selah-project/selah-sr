@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezra 2:35",
+  "book": "ezra",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Синови Сенае — три хиљаде и шест стотина и тридесет.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синови"
+    },
+    {
+      "surface": "סנאה",
+      "gloss": "Сенае"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "три"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "хиљаде"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "и шест"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "стотина"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "и тридесет"
+    }
+  ],
+  "timestamp": "2026-09-05T14:23:39.762681569Z",
+  "model": "glm-5.3"
+}

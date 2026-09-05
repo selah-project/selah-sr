@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 5:12",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "и рећи ћеш: како замрзох науку, и прекор срце моје презре!",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "и рећи ћеш"
+    },
+    {
+      "surface": "איך",
+      "gloss": "како"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "замрзох"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "науку"
+    },
+    {
+      "surface": "ותוכחת",
+      "gloss": "и прекор"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "презре"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "срце моје"
+    }
+  ],
+  "timestamp": "2026-09-05T13:45:42.200147273Z",
+  "model": "glm-5.3"
+}

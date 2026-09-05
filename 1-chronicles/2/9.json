@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 2:9",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "А синови Хецрона који му се родише ⟨бејаху⟩ ⟨את⟩ Јерахмеел и ⟨את⟩ Рам и ⟨את⟩ Келубај.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "А синови"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Хецрона"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "родише"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му се"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јерахмеел"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "Јерахмеел"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Рам"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Рам"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Келубај"
+    },
+    {
+      "surface": "כלובי",
+      "gloss": "Келубај"
+    }
+  ],
+  "timestamp": "2026-09-05T16:14:26.219745591Z",
+  "model": "glm-5.3"
+}

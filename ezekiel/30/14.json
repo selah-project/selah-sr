@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 30:14",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 30,
+  "translation": "и опустошћу ⟨את⟩ Патрос, и даћу ватру у Цоану, и извршићу пресуде у Но.",
+  "tokens": [
+    {
+      "surface": "והשמתי",
+      "gloss": "и опустошћу"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Патрос"
+    },
+    {
+      "surface": "פתרוס",
+      "gloss": "Патрос"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "и даћу"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ватру"
+    },
+    {
+      "surface": "בצען",
+      "gloss": "у Цоану"
+    },
+    {
+      "surface": "ועשיתי",
+      "gloss": "и извршићу"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "пресуде"
+    },
+    {
+      "surface": "בנא",
+      "gloss": "у Но"
+    }
+  ],
+  "timestamp": "2026-09-05T12:51:53.797669808Z",
+  "model": "glm-5.3"
+}

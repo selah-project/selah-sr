@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 17:7",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 17,
+  "translation": "Не прилича безбожнику усна надмена; а камоли племићу усна лажовита.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "прилича"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "безбожнику"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "усна"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "надмена"
+    },
+    {
+      "surface": "אף",
+      "gloss": "а"
+    },
+    {
+      "surface": "כי",
+      "gloss": "камоли"
+    },
+    {
+      "surface": "לנדיב",
+      "gloss": "племићу"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "усна"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "лажовита"
+    }
+  ],
+  "timestamp": "2026-09-05T13:50:14.657005433Z",
+  "model": "glm-5.3"
+}

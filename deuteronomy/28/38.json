@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "deuteronomy 28:38",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "Много семена изнећеш на поље, а мало ћеш сабрати, јер ће га скакавац појести.",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "семена"
+    },
+    {
+      "surface": "רב",
+      "gloss": "много"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "изнећеш"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "на поље"
+    },
+    {
+      "surface": "ומעט",
+      "gloss": "а мало"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "ћеш сабрати"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "יחסלנו",
+      "gloss": "ће га појести"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "скакавац"
+    }
+  ],
+  "timestamp": "2026-09-05T15:15:07.301724541Z",
+  "model": "glm-5.3"
+}

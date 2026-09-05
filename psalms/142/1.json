@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 142:1",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 142,
+  "translation": "Поука Давидова, кад бејаше у пећини — молитва.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "Поука"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидова"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "кад бејаше"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "у пећини"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "молитва"
+    }
+  ],
+  "timestamp": "2026-09-05T16:00:13.591459011Z",
+  "model": "glm-5.3"
+}

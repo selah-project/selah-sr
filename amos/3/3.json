@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 3:3",
+  "book": "amos",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Хоће ли ићи двојица заједно осим ако се нису састали?",
+  "tokens": [
+    {
+      "surface": "הילכו",
+      "gloss": "хоће ли ићи"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "двојица"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "заједно"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "осим"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "састали се"
+    }
+  ],
+  "timestamp": "2026-09-05T15:49:14.229047997Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 31:29",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 31,
+  "translation": "Многе кћери учинише јунаштво, а ти надвиси све њих.",
+  "tokens": [
+    {
+      "surface": "רבות",
+      "gloss": "Многе"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "кћери"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "учинише"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "јунаштво"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "а ти"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "надвиси"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "כלנה",
+      "gloss": "све њих"
+    }
+  ],
+  "timestamp": "2026-09-05T16:02:17.651571559Z",
+  "model": "glm-5.3"
+}

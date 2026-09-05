@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 32:22",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 32,
+  "translation": "И рече Ахарон: „Нека се не разгори гнев господара мојега; ти знаш ⟨את⟩ народ, да је он у злу.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ахарон"
+    },
+    {
+      "surface": "אל",
+      "gloss": "да не"
+    },
+    {
+      "surface": "יחר",
+      "gloss": "разгори се"
+    },
+    {
+      "surface": "אף",
+      "gloss": "гнев"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "господара мојега"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "знаш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "народ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "у злу"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    }
+  ],
+  "timestamp": "2026-09-05T10:12:11.365530211Z",
+  "model": "glm-5.3"
+}

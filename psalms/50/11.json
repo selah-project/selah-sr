@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 50:11",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 50,
+  "translation": "Знам све птице планинске, и сваку звер поља са мном ⟨је⟩.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "знам"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "птице"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "планинске"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "и сваку звер"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "поља"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "са мном ⟨је⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T13:26:10.114718777Z",
+  "model": "glm-5.3"
+}

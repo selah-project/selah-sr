@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 24:2",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "И чинињаше Јоаш право пред очима Јахвеа све дане Јехојаде свештеника.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "И чинињаше"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Јоаш"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "право"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "пред очима"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дане"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Јехојаде"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "свештеника"
+    }
+  ],
+  "timestamp": "2026-09-05T14:51:45.068904457Z",
+  "model": "glm-5.3"
+}

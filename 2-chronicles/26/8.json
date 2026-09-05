@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 26:8",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 26,
+  "translation": "И дадоше Амонити дар Узиију, и име му дође до уласка Мицрајима, јер се учврсти веома.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "и дадоше"
+    },
+    {
+      "surface": "העמונים",
+      "gloss": "Амонити"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "дар"
+    },
+    {
+      "surface": "לעזיהו",
+      "gloss": "Узиију"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "и дође"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "име његово"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "уласка"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрајима"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "החזיק",
+      "gloss": "учврсти се"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "веома"
+    }
+  ],
+  "timestamp": "2026-09-05T16:17:43.662307779Z",
+  "model": "glm-5.3"
+}

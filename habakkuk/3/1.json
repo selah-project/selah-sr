@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "habakkuk 3:1",
+  "book": "habakkuk",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Молитва Хабакука (Авакума), пророка, на шигајонима.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Молитва"
+    },
+    {
+      "surface": "לחבקוק",
+      "gloss": "Хабакука (Авакума)"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "пророка"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "שגינות",
+      "gloss": "шигајонима"
+    }
+  ],
+  "timestamp": "2026-09-05T13:10:47.933709015Z",
+  "model": "glm-5.3"
+}

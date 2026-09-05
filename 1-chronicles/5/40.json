@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 5:40",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "И Азарија роди ⟨את⟩ Серају, и Сераја роди ⟨את⟩ Јехоцадака.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "И Азарија"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Серају"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Серају"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "и Сераја"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јехоцадака"
+    },
+    {
+      "surface": "יהוצדק",
+      "gloss": "Јехоцадака"
+    }
+  ],
+  "timestamp": "2026-09-05T14:34:48.121773500Z",
+  "model": "glm-5.3"
+}

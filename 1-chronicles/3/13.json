@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 3:13",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Ахаз син његов, Хизкијаху (Језекиљ) син његов, Менаше син његов.",
+  "tokens": [
+    {
+      "surface": "אחז",
+      "gloss": "Ахаз"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син његов"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Хизкијаху"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син његов"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Менаше"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син његов"
+    }
+  ],
+  "timestamp": "2026-09-05T14:34:47.652449831Z",
+  "model": "glm-5.3"
+}

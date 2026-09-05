@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 16:7",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 16,
+  "translation": "И нађе је анђео Јахвеов код извора вода у пустињи, код извора на путу Шуру.",
+  "tokens": [
+    {
+      "surface": "וימצאה",
+      "gloss": "И нађе је"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "анђео"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеов"
+    },
+    {
+      "surface": "על",
+      "gloss": "код"
+    },
+    {
+      "surface": "עין",
+      "gloss": "извора"
+    },
+    {
+      "surface": "המים",
+      "gloss": "вода"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "у пустињи"
+    },
+    {
+      "surface": "על",
+      "gloss": "код"
+    },
+    {
+      "surface": "העין",
+      "gloss": "извора"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "на путу"
+    },
+    {
+      "surface": "שור",
+      "gloss": "Шуру"
+    }
+  ],
+  "timestamp": "2026-09-05T09:44:03.341880601Z",
+  "model": "glm-5.3"
+}

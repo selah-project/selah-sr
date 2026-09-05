@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 9:21",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "Зехарја, син Мешелемјин, бејаше вратар на улазу шатора састанка.",
+  "tokens": [
+    {
+      "surface": "זכריה",
+      "gloss": "Зехарја"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "משלמיה",
+      "gloss": "Мешелемјин"
+    },
+    {
+      "surface": "שער",
+      "gloss": "вратар"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "на улазу"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "шатора"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "састанка"
+    }
+  ],
+  "timestamp": "2026-09-05T14:37:45.536205664Z",
+  "model": "glm-5.3"
+}

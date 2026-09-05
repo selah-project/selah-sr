@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezra 2:30",
+  "book": "ezra",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Синови Магбишеви, сто педесет и шест.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синови"
+    },
+    {
+      "surface": "מגביש",
+      "gloss": "Магбиш"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "педесет"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "и шест"
+    }
+  ],
+  "timestamp": "2026-09-05T16:10:35.971047283Z",
+  "model": "glm-5.3"
+}

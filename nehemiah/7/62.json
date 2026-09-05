@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "nehemiah 7:62",
+  "book": "nehemiah",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Синови Делаје, синови Товије, синови Некоде — шест стотина четрдесет и два.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синови"
+    },
+    {
+      "surface": "דליה",
+      "gloss": "Делаје"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "טוביה",
+      "gloss": "Товије"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "נקודא",
+      "gloss": "Некоде"
+    },
+    {
+      "surface": "שש",
+      "gloss": "шест"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "стотина"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "четрдесет"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "и два"
+    }
+  ],
+  "timestamp": "2026-09-05T14:31:15.224615583Z",
+  "model": "glm-5.3"
+}

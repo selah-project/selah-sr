@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 28:10",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "Гледај сада: јер Јахве изабра тебе да саградиш дом за светилиште; буди јак и учини.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Гледај"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "сада"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "изабра"
+    },
+    {
+      "surface": "בך",
+      "gloss": "тебе"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "да саградиш"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "למקדש",
+      "gloss": "за светилиште"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "буди јак"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "и учини"
+    }
+  ],
+  "timestamp": "2026-09-05T14:43:56.927698255Z",
+  "model": "glm-5.3"
+}

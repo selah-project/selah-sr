@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 42:23",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 42,
+  "translation": "А они не знаху да Јосеф (Јосиф) разуме, јер тумач беше међу њима.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "а они"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "знаху"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "разуме"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Јосеф (Јосиф)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "המליץ",
+      "gloss": "тумач"
+    },
+    {
+      "surface": "בינתם",
+      "gloss": "међу њима"
+    }
+  ],
+  "timestamp": "2026-09-05T09:55:31.965008489Z",
+  "model": "glm-5.3"
+}

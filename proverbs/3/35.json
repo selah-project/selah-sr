@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "proverbs 3:35",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Славу наслеђују мудри, а глупани уздижу срамоту.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "славу"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "мудри"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "наслеђују"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "а глупани"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "уздижу"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "срамоту"
+    }
+  ],
+  "timestamp": "2026-09-05T13:46:00.861126053Z",
+  "model": "glm-5.3"
+}

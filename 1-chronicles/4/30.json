@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 4:30",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "и у Бет-Уелу (Витуелу), и у Хорми и у Циклагу",
+  "tokens": [
+    {
+      "surface": "ובבתואל",
+      "gloss": "и у Бет-Уелу (Витуелу)"
+    },
+    {
+      "surface": "ובחרמה",
+      "gloss": "и у Хорми"
+    },
+    {
+      "surface": "ובציקלג",
+      "gloss": "и у Циклагу"
+    }
+  ],
+  "timestamp": "2026-09-05T14:35:27.777214001Z",
+  "model": "glm-5.3"
+}

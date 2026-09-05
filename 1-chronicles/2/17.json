@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 2:17",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "А Авигајил роди ⟨את⟩ Амасу; а отац Амасе беше Јетер Исмаилац.",
+  "tokens": [
+    {
+      "surface": "ואביגיל",
+      "gloss": "А Авигајил"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Амасу"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Амасу"
+    },
+    {
+      "surface": "ואבי",
+      "gloss": "а отац"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Амасе"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Јетер"
+    },
+    {
+      "surface": "הישמעאלי",
+      "gloss": "Исмаилац"
+    }
+  ],
+  "timestamp": "2026-09-05T14:33:57.076487600Z",
+  "model": "glm-5.3"
+}

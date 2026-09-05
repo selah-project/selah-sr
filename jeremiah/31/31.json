@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "jeremiah 31:31",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 31,
+  "translation": "Ево, дани долазе, рече Јахве, и закључићу ⟨את⟩ дом Израиљев и ⟨את⟩ дом Јудин завет нов.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ево"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дани"
+    },
+    {
+      "surface": "באים",
+      "gloss": "долазе"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "וכרתי",
+      "gloss": "и закључићу"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дом Израиљев"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљев"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "дом Јудин"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јудин"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "завет"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "нов"
+    }
+  ],
+  "timestamp": "2026-09-05T15:40:48.484508310Z",
+  "model": "glm-5.3"
+}

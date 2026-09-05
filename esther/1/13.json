@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "esther 1:13",
+  "book": "esther",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "И рече цар мудрацима, знаоцима времена — јер тако је ⟨реч⟩ цара пред све знаоце закона и суда:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "לחכמים",
+      "gloss": "мудрацима"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "знаоцима"
+    },
+    {
+      "surface": "העתים",
+      "gloss": "времена"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тако"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "реч"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "цара"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "ידעי",
+      "gloss": "знаоце"
+    },
+    {
+      "surface": "דת",
+      "gloss": "закона"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "и суда"
+    }
+  ],
+  "timestamp": "2026-09-05T16:08:08.798921285Z",
+  "model": "glm-5.3"
+}

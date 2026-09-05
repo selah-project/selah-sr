@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 80:12",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 80,
+  "translation": "Пружа гране своје до мора, и до реке младице своје.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "пружа"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "гране своје"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "ים",
+      "gloss": "мора"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и до"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "реке"
+    },
+    {
+      "surface": "יונקותיה",
+      "gloss": "младице своје"
+    }
+  ],
+  "timestamp": "2026-09-05T13:33:00.070960064Z",
+  "model": "glm-5.3"
+}

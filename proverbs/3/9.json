@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 3:9",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Поштуј ⟨את⟩ Јахве од иметка свога и од првина свега приноса свога.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Поштуј"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јахве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "מהונך",
+      "gloss": "од иметка свога"
+    },
+    {
+      "surface": "ומראשית",
+      "gloss": "и од првина"
+    },
+    {
+      "surface": "כל",
+      "gloss": "свега"
+    },
+    {
+      "surface": "תבואתך",
+      "gloss": "приноса свога"
+    }
+  ],
+  "timestamp": "2026-09-05T15:59:38.441265098Z",
+  "model": "glm-5.3"
+}

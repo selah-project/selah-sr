@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 4:15",
+  "book": "esther",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "И рече Естера да одговоре Мордехају:",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Естера"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "да одговоре"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Мордехају"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Мордехај"
+    }
+  ],
+  "timestamp": "2026-09-05T14:14:45.798054753Z",
+  "model": "glm-5.3"
+}

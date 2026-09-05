@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 1:23",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "и ⟨את⟩ Офира, и ⟨את⟩ Хавилу, и ⟨את⟩ Јовава; сви ови бише синови Јоктанови.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Офира"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "Офира"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Хавилу"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "Хавилу"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Јовава"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Јовава"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сви"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ови"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "Јоктанови"
+    }
+  ],
+  "timestamp": "2026-09-05T14:33:18.685518045Z",
+  "model": "glm-5.3"
+}

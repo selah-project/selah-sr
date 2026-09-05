@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 17:2",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 17,
+  "translation": "И рече Натан Давиду: „Све што ти је на срцу, учини, јер је Елохим с тобом.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Натан"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Давиду"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "⟨Давиду⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Све"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "ти је на срцу"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "учини"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "с тобом"
+    }
+  ],
+  "timestamp": "2026-09-05T16:15:45.621019466Z",
+  "model": "glm-5.3"
+}

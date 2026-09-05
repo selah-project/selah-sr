@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 29:2",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 29,
+  "translation": "велика искушења која видеше очи твоје, ⟨и⟩ знамења и чудеса велика она.",
+  "tokens": [
+    {
+      "surface": "המסות",
+      "gloss": "искушења"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "велика"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "која"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "видеше"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "очи твоје"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "знамења"
+    },
+    {
+      "surface": "והמפתים",
+      "gloss": "и чуда"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "велика"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "она"
+    }
+  ],
+  "timestamp": "2026-09-05T10:55:05.088268811Z",
+  "model": "glm-5.3"
+}

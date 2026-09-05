@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 25:15",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 25,
+  "translation": "Очи су моје свагда према Јахвеу, ⟨јер⟩ он ће извести из мреже ноге моје.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "очи моје"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "свагда"
+    },
+    {
+      "surface": "אל",
+      "gloss": "према"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеу"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨јер⟩"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "извести ће"
+    },
+    {
+      "surface": "מרשת",
+      "gloss": "из мреже"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ноге моје"
+    }
+  ],
+  "timestamp": "2026-09-05T15:54:13.657434620Z",
+  "model": "glm-5.3"
+}

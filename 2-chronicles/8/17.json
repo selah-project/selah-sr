@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 8:17",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "Тада отиде Шломо у Ецјон-Гавер и у Елот, на обали мора, у земљи Едомској.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Тада"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "отиде"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шломо"
+    },
+    {
+      "surface": "לעציון",
+      "gloss": "у Ецјон"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "Гавер"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и у"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "Елот"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "обали"
+    },
+    {
+      "surface": "הים",
+      "gloss": "мора"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "у земљи"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Едомској"
+    }
+  ],
+  "timestamp": "2026-09-05T14:47:02.188595929Z",
+  "model": "glm-5.3"
+}

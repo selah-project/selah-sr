@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 48:21",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 48,
+  "translation": "И рече Израиљ Јосефу: ево, ја умирем, а Елохим ће бити с вама и вратиће вас ⟨את⟩ у земљу отаца ваших.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ка"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Јосефу"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ево"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ја"
+    },
+    {
+      "surface": "מת",
+      "gloss": "умирем"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "а биће"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "с вама"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "и вратиће"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "вас"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земљу"
+    },
+    {
+      "surface": "אבתיכם",
+      "gloss": "отаца ваших"
+    }
+  ],
+  "timestamp": "2026-09-05T09:58:17.820154336Z",
+  "model": "glm-5.3"
+}

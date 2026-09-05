@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 26:13",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 26,
+  "translation": "Рече лењивац: „Лав је на путу, лав међу улицама.“",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Рече"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "лењивац"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "лав"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "на путу"
+    },
+    {
+      "surface": "ארי",
+      "gloss": "лав"
+    },
+    {
+      "surface": "בין",
+      "gloss": "међу"
+    },
+    {
+      "surface": "הרחבות",
+      "gloss": "улицама"
+    }
+  ],
+  "timestamp": "2026-09-05T16:02:21.453658229Z",
+  "model": "glm-5.3"
+}

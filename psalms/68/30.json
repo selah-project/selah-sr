@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 68:30",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 68,
+  "translation": "Из храма Твојег над Јерушалајем — краљеви ће Ти довести дар.",
+  "tokens": [
+    {
+      "surface": "מהיכלך",
+      "gloss": "из храма Твојег"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Јерушалајем"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "יובילו",
+      "gloss": "доведе"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "краљеви"
+    },
+    {
+      "surface": "שי",
+      "gloss": "дар"
+    }
+  ],
+  "timestamp": "2026-09-05T13:30:24.452168812Z",
+  "model": "glm-5.3"
+}

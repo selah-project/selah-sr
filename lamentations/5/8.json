@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 5:8",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Слуге владаше над нама — ко отима, нема ⟨га⟩ из руку њихових.",
+  "tokens": [
+    {
+      "surface": "עבדים",
+      "gloss": "Слуге"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "владаше"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "над нама"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "ко отима"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "из руку њихових"
+    }
+  ],
+  "timestamp": "2026-09-05T16:07:57.602612827Z",
+  "model": "glm-5.3"
+}

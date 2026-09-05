@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 11:23",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "Жеља праведних ⟨је⟩ само добро, а нада злих — гнев.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "жеља"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "праведних"
+    },
+    {
+      "surface": "אך",
+      "gloss": "само"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "нада"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "злих"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "гнев"
+    }
+  ],
+  "timestamp": "2026-09-05T16:44:28.042459439Z",
+  "model": "glm-5.3"
+}

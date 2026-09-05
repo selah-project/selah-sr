@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 38:19",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 38,
+  "translation": "Где је ⟨тај⟩ пут где станује светлост, а тама — где је место њено?",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "Где"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨тај⟩"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "пут"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "станује"
+    },
+    {
+      "surface": "אור",
+      "gloss": "светлост"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "а тама"
+    },
+    {
+      "surface": "אי",
+      "gloss": "где"
+    },
+    {
+      "surface": "זה",
+      "gloss": "је"
+    },
+    {
+      "surface": "מקמו",
+      "gloss": "место њено"
+    }
+  ],
+  "timestamp": "2026-09-05T17:30:43.636729633Z",
+  "model": "glm-5.3"
+}

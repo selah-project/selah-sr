@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "genesis 19:38",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 19,
+  "translation": "И млађа, такође она, роди сина, и назва име његово Бен-Ами; он ⟨је⟩ отац синâ Амонових до ⟨овог⟩ дана.",
+  "tokens": [
+    {
+      "surface": "והצעירה",
+      "gloss": "и млађа"
+    },
+    {
+      "surface": "גם",
+      "gloss": "такође"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "она"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "роди"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "и назва"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "име његово"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Бен"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Ами"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "отац"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синâ"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Амонових"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "היום",
+      "gloss": "дана"
+    }
+  ],
+  "timestamp": "2026-09-05T09:44:56.395245121Z",
+  "model": "glm-5.3"
+}

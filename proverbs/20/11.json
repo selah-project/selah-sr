@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 20:11",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 20,
+  "translation": "И по делима својим познаје се младић, да ли је дело његово чисто и право.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "במעלליו",
+      "gloss": "по делима својим"
+    },
+    {
+      "surface": "יתנכר",
+      "gloss": "познаје се"
+    },
+    {
+      "surface": "נער",
+      "gloss": "младић"
+    },
+    {
+      "surface": "אם",
+      "gloss": "да ли"
+    },
+    {
+      "surface": "זך",
+      "gloss": "чисто"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "и да ли"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "право"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "дело његово"
+    }
+  ],
+  "timestamp": "2026-09-05T13:50:31.465902543Z",
+  "model": "glm-5.3"
+}

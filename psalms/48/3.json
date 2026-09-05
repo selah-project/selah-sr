@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 48:3",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 48,
+  "translation": "Леп ⟨у⟩ узвишењу, радост све земље ⟨је⟩ гора Цион, крајеви севера, град великог краља.",
+  "tokens": [
+    {
+      "surface": "יפה",
+      "gloss": "Леп"
+    },
+    {
+      "surface": "נוף",
+      "gloss": "узвишењу"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "радост"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земље"
+    },
+    {
+      "surface": "הר",
+      "gloss": "гора"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Цион"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "крајеви"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "севера"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "град"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "краља"
+    },
+    {
+      "surface": "רב",
+      "gloss": "великог"
+    }
+  ],
+  "timestamp": "2026-09-05T13:26:42.706159463Z",
+  "model": "glm-5.3"
+}

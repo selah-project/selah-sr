@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 20:13",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 20,
+  "translation": "Не убијај.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תרצח",
+      "gloss": "убијај"
+    }
+  ],
+  "timestamp": "2026-09-05T10:05:51.483810119Z",
+  "model": "glm-5.3"
+}

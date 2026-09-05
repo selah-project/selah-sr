@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 10:16",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "Награда праведника ⟨је⟩ за живот, приход нечастивога за грех.",
+  "tokens": [
+    {
+      "surface": "פעלת",
+      "gloss": "награда"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "праведника"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "за живот"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "приход"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "нечестивога"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "за грех"
+    }
+  ],
+  "timestamp": "2026-09-05T13:48:11.572376866Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 121,
+  "translation": "Неће дати да се поклони нога твоја, неће задремати чувар твој.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ће дати"
+    },
+    {
+      "surface": "лמוט",
+      "gloss": "да се поклони"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "нога твоја"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "ће задремати"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "чувар твој"
+    }
+  ],
+  "timestamp": "2026-09-05T13:41:25.682459753Z",
+  "model": "glm-5.3"
+}

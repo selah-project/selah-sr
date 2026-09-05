@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 3:2",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Јунака и човека рата, судију и пророка, гатара и старца,",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "Јунака"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "и човека"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "рата"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "судију"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "и пророка"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "гатара"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "и старца"
+    }
+  ],
+  "timestamp": "2026-09-05T12:01:52.139060640Z",
+  "model": "glm-5.3"
+}

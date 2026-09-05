@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 6:22",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "И учини Ноах (Ное) све како ⟨את⟩ му заповеди Елохим — тако учини.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "И учини"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ноах (Ное)"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "све"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "како"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповеди"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ му"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тако"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "учини"
+    }
+  ],
+  "timestamp": "2026-09-05T09:40:12.091785297Z",
+  "model": "glm-5.3"
+}

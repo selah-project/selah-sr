@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 2:11",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Рефаимци — и они се сматрају као Анакимци; а Моавци зову њих Емимци.",
+  "tokens": [
+    {
+      "surface": "רפאים",
+      "gloss": "Рефаимци"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "сматрају се"
+    },
+    {
+      "surface": "אף",
+      "gloss": "и"
+    },
+    {
+      "surface": "הם",
+      "gloss": "они"
+    },
+    {
+      "surface": "כענקים",
+      "gloss": "као Анакимци"
+    },
+    {
+      "surface": "והמאבים",
+      "gloss": "а Моавци"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "зову"
+    },
+    {
+      "surface": "להם",
+      "gloss": "њих"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "Емимци"
+    }
+  ],
+  "timestamp": "2026-09-05T10:43:29.763694156Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 3:7",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Време да се раздере и време да се зашије; време да ћути и време да се говори.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "време"
+    },
+    {
+      "surface": "лקרוע",
+      "gloss": "раздерити"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "и време"
+    },
+    {
+      "surface": "לתפור",
+      "gloss": "зашиј"
+    },
+    {
+      "surface": "עת",
+      "gloss": "време"
+    },
+    {
+      "surface": "לחשות",
+      "gloss": "ћутати"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "и време"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "говорити"
+    }
+  ],
+  "timestamp": "2026-09-05T14:11:04.605986692Z",
+  "model": "glm-5.3"
+}

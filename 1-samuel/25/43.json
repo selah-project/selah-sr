@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-samuel 25:43",
+  "book": "1-samuel",
+  "lang": "sr",
+  "chapter": 25,
+  "translation": "И ⟨את⟩ Ахиноам узе Давид (Давид) из Јизреела; и бише обе њему за жене.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Ахиноам"
+    },
+    {
+      "surface": "אחינעם",
+      "gloss": "Ахиноам"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "узе"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "מיזרעאל",
+      "gloss": "из Јизреела"
+    },
+    {
+      "surface": "ותהיין",
+      "gloss": "и бише"
+    },
+    {
+      "surface": "גם",
+      "gloss": "обе"
+    },
+    {
+      "surface": "שתיהן",
+      "gloss": "њих две"
+    },
+    {
+      "surface": "לו",
+      "gloss": "њему"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "за жене"
+    }
+  ],
+  "timestamp": "2026-09-05T11:25:18.345396628Z",
+  "model": "glm-5.3"
+}

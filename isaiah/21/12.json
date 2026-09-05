@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 21:12",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "Рече стражар: долази јутро, а и ноћ. Ако питате, питајте; вратите се, дођите.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Рече"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "стражар"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "долази"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "јутро"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "а и"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ноћ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Ако"
+    },
+    {
+      "surface": "תבעיון",
+      "gloss": "питате"
+    },
+    {
+      "surface": "בעיו",
+      "gloss": "питајте"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "вратите се"
+    },
+    {
+      "surface": "אתיו",
+      "gloss": "дођите"
+    }
+  ],
+  "timestamp": "2026-09-05T17:04:00.878582678Z",
+  "model": "glm-5.3"
+}

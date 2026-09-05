@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 12:6",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "И понизише се старешине Исраела и цар, и рекоше: праведан ⟨је⟩ Јахве.",
+  "tokens": [
+    {
+      "surface": "ויכנעו",
+      "gloss": "И понизише се"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "старешине"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраела"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "и цар"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "и рекоше"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "праведан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-09-05T16:16:32.754460223Z",
+  "model": "glm-5.3"
+}

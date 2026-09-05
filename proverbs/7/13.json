@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 7:13",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "И ухвати га, и пољуби га; ожесточи лице своје и рече му:",
+  "tokens": [
+    {
+      "surface": "והחזיקה",
+      "gloss": "и ухвати"
+    },
+    {
+      "surface": "בו",
+      "gloss": "га"
+    },
+    {
+      "surface": "ונשקה",
+      "gloss": "и пољуби"
+    },
+    {
+      "surface": "לו",
+      "gloss": "га"
+    },
+    {
+      "surface": "העזה",
+      "gloss": "ожесточи"
+    },
+    {
+      "surface": "פניה",
+      "gloss": "лице своје"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    }
+  ],
+  "timestamp": "2026-09-05T13:47:21.675034396Z",
+  "model": "glm-5.3"
+}

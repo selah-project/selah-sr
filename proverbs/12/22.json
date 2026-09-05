@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 12:22",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "Мрзост су Јахвеу усне лажи, а чиниоци верности ⟨су⟩ воља његова.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "мрзост"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеу"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "усне"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "лажи"
+    },
+    {
+      "surface": "ועשי",
+      "gloss": "а чиниоци"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "верности"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "воља његова"
+    }
+  ],
+  "timestamp": "2026-09-05T16:00:28.648959103Z",
+  "model": "glm-5.3"
+}

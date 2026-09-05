@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 13:11",
+  "book": "hosea",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "Дадох ти краља у гневу свом, и узех ⟨га⟩ у јарости својој.",
+  "tokens": [
+    {
+      "surface": "אתן",
+      "gloss": "Дадох"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "краља"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "у гневу свом"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "и узех"
+    },
+    {
+      "surface": "בעברתי",
+      "gloss": "у јарости својој"
+    }
+  ],
+  "timestamp": "2026-09-05T13:02:11.517856065Z",
+  "model": "glm-5.3"
+}

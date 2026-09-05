@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 6:7",
+  "book": "song-of-songs",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "Као кришка нара ⟨је⟩ слепоочница твоја иза покривала твог.",
+  "tokens": [
+    {
+      "surface": "כפלח",
+      "gloss": "као кришка"
+    },
+    {
+      "surface": "הרימון",
+      "gloss": "нара"
+    },
+    {
+      "surface": "רקתך",
+      "gloss": "слепоочница твоја"
+    },
+    {
+      "surface": "מבעד",
+      "gloss": "иза"
+    },
+    {
+      "surface": "לצמתך",
+      "gloss": "покривала твог"
+    }
+  ],
+  "timestamp": "2026-09-05T14:06:47.069389503Z",
+  "model": "glm-5.3"
+}

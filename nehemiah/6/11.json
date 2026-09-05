@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 6:11",
+  "book": "nehemiah",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "И рекох: „Да ли човек као ја да бежи? И ко као ја да уђе у хејхал и живи? Нећу ући.“",
+  "tokens": [
+    {
+      "surface": "ואמרה",
+      "gloss": "и рекох"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "као ја"
+    },
+    {
+      "surface": "יברח",
+      "gloss": "да бежи"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "и ко"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "као ја"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "да"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "уђе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "хејхал"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "и живи"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ћу ући"
+    }
+  ],
+  "timestamp": "2026-09-05T14:29:22.394914381Z",
+  "model": "glm-5.3"
+}

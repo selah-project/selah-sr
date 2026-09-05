@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 2:12",
+  "book": "1-samuel",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "А синови Елијеви беху синови Белијалови: не познаваху ⟨את⟩ Јахвеа.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "а синови"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Елија"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Белијала"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "познаваху"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јахвеа"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    }
+  ],
+  "timestamp": "2026-09-05T11:14:39.585508250Z",
+  "model": "glm-5.3"
+}

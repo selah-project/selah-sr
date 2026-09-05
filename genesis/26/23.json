@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 26:23",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 26,
+  "translation": "И попутова оданде у Беер Шаву (Вирсавију).",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "и попутова"
+    },
+    {
+      "surface": "משם",
+      "gloss": "оданде"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Беер"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Шаву"
+    }
+  ],
+  "timestamp": "2026-09-05T09:46:49.544915916Z",
+  "model": "glm-5.3"
+}

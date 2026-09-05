@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 13:9",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "Не прилажи му се и не слушај га; и нека не поштеди око твоје њега, и не милај, и не прикривај га.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "прилажи му се"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "слушај"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "га"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и нека не"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "поштеди"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "око твоје"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "њега"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תחמל",
+      "gloss": "милај"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "прикривај"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "га"
+    }
+  ],
+  "timestamp": "2026-09-05T10:48:39.799545684Z",
+  "model": "glm-5.3"
+}

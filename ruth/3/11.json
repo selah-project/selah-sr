@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ruth 3:11",
+  "book": "ruth",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "А сада, кћери моја, не бој се: све што кажеш учинићу ти, јер зна сва капија народа мојега да си жена вредна.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "А сада"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "кћери моја"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "бој се"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "תאמרי",
+      "gloss": "кажеш"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "учинићу"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "зна"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сав"
+    },
+    {
+      "surface": "שער",
+      "gloss": "капија"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "народа мојега"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "жена"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "вредна"
+    },
+    {
+      "surface": "את",
+      "gloss": "ти"
+    }
+  ],
+  "timestamp": "2026-09-05T14:08:17.235314131Z",
+  "model": "glm-5.3"
+}

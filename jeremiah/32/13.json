@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 32:13",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 32,
+  "translation": "И заповедијах Баруху пред очима њиховим говорећи:",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "и заповедијах"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Баруха"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Барух"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "пред очима њиховим"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорећи"
+    }
+  ],
+  "timestamp": "2026-09-05T12:32:39.021341426Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 2:6",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Начиних себи базене воде, да појим из њих шуму што нице дрвеће.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "Начиних"
+    },
+    {
+      "surface": "לי",
+      "gloss": "себи"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "базене"
+    },
+    {
+      "surface": "מים",
+      "gloss": "воде"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "да појим"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "из њих"
+    },
+    {
+      "surface": "יער",
+      "gloss": "шуму"
+    },
+    {
+      "surface": "צומח",
+      "gloss": "што нице"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "дрвеће"
+    }
+  ],
+  "timestamp": "2026-09-05T14:11:53.747435628Z",
+  "model": "glm-5.3"
+}

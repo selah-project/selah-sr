@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 14:32",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "А лешеви ваши — ви сами — пашће у пустињи овој.",
+  "tokens": [
+    {
+      "surface": "ופגריכם",
+      "gloss": "а лешеви ваши"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ви сами"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "пашће"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "у пустињи"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овој"
+    }
+  ],
+  "timestamp": "2026-09-05T10:33:44.153112228Z",
+  "model": "glm-5.3"
+}

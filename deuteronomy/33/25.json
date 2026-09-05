@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 33:25",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 33,
+  "translation": "Гвожђе и бронза окови твоји, и као дани твоји — снага твоја.",
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "Гвожђе"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "и бронза"
+    },
+    {
+      "surface": "מנעליך",
+      "gloss": "окови твоји"
+    },
+    {
+      "surface": "וכימיך",
+      "gloss": "и као дани твоји"
+    },
+    {
+      "surface": "דבאך",
+      "gloss": "снага твоја"
+    }
+  ],
+  "timestamp": "2026-09-05T10:56:00.276167367Z",
+  "model": "glm-5.3"
+}

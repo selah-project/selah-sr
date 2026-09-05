@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 1:2",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "У петом ⟨дану⟩ месеца — она ⟨је⟩ пета година прогонства цара Јојакина —",
+  "tokens": [
+    {
+      "surface": "בחמשה",
+      "gloss": "У петом"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "месеца"
+    },
+    {
+      "surface": "היא",
+      "gloss": "она"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "година"
+    },
+    {
+      "surface": "החמישית",
+      "gloss": "пета"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "прогонства"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "цара"
+    },
+    {
+      "surface": "יויכין",
+      "gloss": "Јојакина"
+    }
+  ],
+  "timestamp": "2026-09-05T12:42:16.004280764Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "nehemiah 7:51",
+  "book": "nehemiah",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "синови Газама, синови Узе, синови Пасеаха,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "גזם",
+      "gloss": "Газама"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Узе"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Пасеаха"
+    }
+  ],
+  "timestamp": "2026-09-05T14:30:52.348859915Z",
+  "model": "glm-5.3"
+}

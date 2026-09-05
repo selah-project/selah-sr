@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 20:14",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 20,
+  "translation": "Не чини прељубе.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תנאף",
+      "gloss": "чини прељубе"
+    }
+  ],
+  "timestamp": "2026-09-05T10:05:51.484148739Z",
+  "model": "glm-5.3"
+}

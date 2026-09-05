@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 23:30",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "и да стоје ујутро ујутро да захваљују и да хвале Јахвеа, и тако увече;",
+  "tokens": [
+    {
+      "surface": "ולעמד",
+      "gloss": "и да стоје"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ујутро"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ујутро"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "да захваљују"
+    },
+    {
+      "surface": "ולהלל",
+      "gloss": "и да хвале"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "и тако"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "увече"
+    }
+  ],
+  "timestamp": "2026-09-05T14:42:35.518275559Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 19:13",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 19,
+  "translation": "И сада ⟨је⟩ пресађена у пустињу, у земљу сушне и жеђи.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "И сада"
+    },
+    {
+      "surface": "שתולה",
+      "gloss": "пресађена"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "у пустињу"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "у земљу"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "сушне"
+    },
+    {
+      "surface": "וצמא",
+      "gloss": "и жеђи"
+    }
+  ],
+  "timestamp": "2026-09-05T12:47:32.325716598Z",
+  "model": "glm-5.3"
+}

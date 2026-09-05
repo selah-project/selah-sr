@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 28:24",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "Јер он до крајева земље погледа, под свим небесима види.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "לקצות",
+      "gloss": "до крајева"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земље"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "погледа"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сва"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небеса"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "види"
+    }
+  ],
+  "timestamp": "2026-09-05T14:01:14.881798553Z",
+  "model": "glm-5.3"
+}

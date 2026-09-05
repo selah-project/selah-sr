@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 27:26",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 27,
+  "translation": "И рече му Ицхак (Исак), отац његов: Приступи, молим, и пољуби ме, сине мој.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "му"
+    },
+    {
+      "surface": "ייצחק",
+      "gloss": "Ицхак"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "отац његов"
+    },
+    {
+      "surface": "גשה",
+      "gloss": "Приступи"
+    },
+    {
+      "surface": "נא",
+      "gloss": "молим"
+    },
+    {
+      "surface": "ושקה",
+      "gloss": "и пољуби"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ме"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сине мој"
+    }
+  ],
+  "timestamp": "2026-09-05T09:49:12.330198277Z",
+  "model": "glm-5.3"
+}

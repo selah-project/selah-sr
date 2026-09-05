@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 13:1",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "Тако рече Јахве мени: Иди и купи себи појас од лана, и метни га на бедра своја, и у воду га не уноси.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Тако"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мени"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "Иди"
+    },
+    {
+      "surface": "וקנית",
+      "gloss": "и купи"
+    },
+    {
+      "surface": "לך",
+      "gloss": "себи"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "појас"
+    },
+    {
+      "surface": "פשתים",
+      "gloss": "од лана"
+    },
+    {
+      "surface": "ושמתו",
+      "gloss": "и метни"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "מתניך",
+      "gloss": "бедра своја"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "и у воду"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תבאהו",
+      "gloss": "га уноси"
+    }
+  ],
+  "timestamp": "2026-09-05T12:26:06.486624646Z",
+  "model": "glm-5.3"
+}

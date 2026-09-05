@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 13:1",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "Управитељу. Мизмор Давидов (псалм Давида).",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Управитељу"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мизмор"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидов"
+    }
+  ],
+  "timestamp": "2026-09-05T15:52:20.482633306Z",
+  "model": "glm-5.3"
+}

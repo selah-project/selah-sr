@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 30:5",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 30,
+  "translation": "Свака реч Елоахова рафинирана ⟨је⟩; штит ⟨је⟩ он за оне што се у њега уздају.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "свака"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "реч"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Елоахова"
+    },
+    {
+      "surface": "צרופה",
+      "gloss": "рафинирана"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "штит"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "לחסים",
+      "gloss": "за оне што се уздају"
+    },
+    {
+      "surface": "בו",
+      "gloss": "у њега"
+    }
+  ],
+  "timestamp": "2026-09-05T16:02:28.853154287Z",
+  "model": "glm-5.3"
+}

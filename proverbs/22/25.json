@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 22:25",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "да не би научио његове стазе и зарадио замку за своју душу.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "да не би"
+    },
+    {
+      "surface": "תאלף",
+      "gloss": "научио"
+    },
+    {
+      "surface": "ארחתו",
+      "gloss": "његове стазе"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "и зарадио"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "замку"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "за своју душу"
+    }
+  ],
+  "timestamp": "2026-09-05T13:51:35.482425017Z",
+  "model": "glm-5.3"
+}

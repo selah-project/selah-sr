@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 23:20",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "Не буди међу пијаницама вина, међу прождрљивцима меса ⟨њихових⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "буди"
+    },
+    {
+      "surface": "בסבאי",
+      "gloss": "међу пијаницама"
+    },
+    {
+      "surface": "יין",
+      "gloss": "вина"
+    },
+    {
+      "surface": "בזללי",
+      "gloss": "међу прождрљивцима"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "меса"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨њихових⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T13:52:16.369157623Z",
+  "model": "glm-5.3"
+}

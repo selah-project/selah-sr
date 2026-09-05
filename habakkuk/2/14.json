@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "habakkuk 2:14",
+  "book": "habakkuk",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Јер напуниће се земља знањем ⟨את⟩ славе Јахвеа, као што воде покривају море.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "напуниће се"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земља"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "знањем"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "славе"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "слава"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "као што воде"
+    },
+    {
+      "surface": "יכסו",
+      "gloss": "покривају"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "ים",
+      "gloss": "море"
+    }
+  ],
+  "timestamp": "2026-09-05T13:10:03.256901243Z",
+  "model": "glm-5.3"
+}

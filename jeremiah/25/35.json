@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "jeremiah 25:35",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 25,
+  "translation": "И пропаде уточиште од пастира, и избављење од моћника стада.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "и пропаде"
+    },
+    {
+      "surface": "מנוס",
+      "gloss": "уточиште"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "пастира"
+    },
+    {
+      "surface": "ופליטה",
+      "gloss": "и избављење"
+    },
+    {
+      "surface": "מאדירי",
+      "gloss": "од моћника"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "стада"
+    }
+  ],
+  "timestamp": "2026-09-05T12:29:35.294950369Z",
+  "model": "glm-5.3"
+}

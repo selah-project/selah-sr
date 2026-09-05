@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 5:11",
+  "book": "hosea",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Потиснут је Ефрајим, сломљен у суду, јер је вољно пошао за наредбом.",
+  "tokens": [
+    {
+      "surface": "עשוק",
+      "gloss": "потиснут"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Ефрајим"
+    },
+    {
+      "surface": "רצוץ",
+      "gloss": "сломљен"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "у суду"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "вољно"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "пошао"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "за"
+    },
+    {
+      "surface": "צו",
+      "gloss": "наредбом"
+    }
+  ],
+  "timestamp": "2026-09-05T13:00:00.096495310Z",
+  "model": "glm-5.3"
+}

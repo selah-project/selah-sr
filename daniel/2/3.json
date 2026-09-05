@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 2:3",
+  "book": "daniel",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "И рече им краљ: сан усних, и дух ми се узнемири да сазнам ⟨את⟩ сан.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "להם",
+      "gloss": "има"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "краљ"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "сан"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "усних"
+    },
+    {
+      "surface": "ותפעם",
+      "gloss": "и узнемири се"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "дух мој"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "да сазнам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сан"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "сан"
+    }
+  ],
+  "timestamp": "2026-09-05T14:17:21.983101611Z",
+  "model": "glm-5.3"
+}

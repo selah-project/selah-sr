@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 3:26",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Јер Јахве ⟨биће⟩ узданица твоја, и чуваће ногу твоју од замке.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨биће⟩"
+    },
+    {
+      "surface": "בכסלך",
+      "gloss": "узданица твоја"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "и чуваће"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "ногу твоју"
+    },
+    {
+      "surface": "מלכד",
+      "gloss": "од замке"
+    }
+  ],
+  "timestamp": "2026-09-05T13:46:17.778782536Z",
+  "model": "glm-5.3"
+}

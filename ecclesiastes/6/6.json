@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 6:6",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "И ако поживи хиљаду година двапут, а добра није видео — зар све не иде на једно место?",
+  "tokens": [
+    {
+      "surface": "ואלו",
+      "gloss": "И ако"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "поживи"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "хиљаду"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "година"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "двапут"
+    },
+    {
+      "surface": "וטובה",
+      "gloss": "а добра"
+    },
+    {
+      "surface": "לא",
+      "gloss": "није"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "видео"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "зар"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "место"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "једно"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "све"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "иде"
+    }
+  ],
+  "timestamp": "2026-09-05T14:13:17.269176218Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 12:13",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "У преступу усана замка је зла ⟨човека⟩, а праведник изађе из невоље.",
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "У преступу"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "усана"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "замка"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зла ⟨човека⟩"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "а изађе"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "из невоље"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "праведник"
+    }
+  ],
+  "timestamp": "2026-09-05T13:48:41.342180228Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 147:15",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 147,
+  "translation": "Шаље своју реч земљи; до брзо ће журити реч своја.",
+  "tokens": [
+    {
+      "surface": "השלח",
+      "gloss": "Шаље"
+    },
+    {
+      "surface": "אמרתו",
+      "gloss": "своју реч"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земљи"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "брзо"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "ће журити"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "реч своја"
+    }
+  ],
+  "timestamp": "2026-09-05T16:00:10.635172060Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 27:21",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 27,
+  "translation": "Проклет ко легне са било којом звери; и рећи ће сав народ: Амен.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Проклет"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ко легне"
+    },
+    {
+      "surface": "עם",
+      "gloss": "са"
+    },
+    {
+      "surface": "כל",
+      "gloss": "било којом"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "звери"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "и рећи ће"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сав"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Амен"
+    }
+  ],
+  "timestamp": "2026-09-05T10:53:43.945848315Z",
+  "model": "glm-5.3"
+}

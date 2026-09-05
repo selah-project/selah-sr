@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "ezekiel 23:44",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "И улазаху к њој као улазак к жени блудници: тако дођоше к Охоли и к Охоливи, жени порочној.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "и улазаху"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "к њој"
+    },
+    {
+      "surface": "כבוא",
+      "gloss": "као улазак"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "жени"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "блудници"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тако"
+    },
+    {
+      "surface": "באו",
+      "gloss": "дођоше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "Охоли"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и к"
+    },
+    {
+      "surface": "אהליבה",
+      "gloss": "Охоливи"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "жени"
+    },
+    {
+      "surface": "הזמה",
+      "gloss": "порочној"
+    }
+  ],
+  "timestamp": "2026-09-05T12:49:42.912224803Z",
+  "model": "glm-5.3"
+}

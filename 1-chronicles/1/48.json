@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-chronicles 1:48",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "И умре Самла, а зацара се место њега Шаул из Реховота над реком.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "И умре"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "Самла"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "зачара се"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "место њега"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "מרחבות",
+      "gloss": "из Реховота"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "реке"
+    }
+  ],
+  "timestamp": "2026-09-05T14:33:35.417801369Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 16:20",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 16,
+  "translation": "Разборит у ствари налази добро, и ко се узда у Јахвеа — блажен ⟨је⟩.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "разборит"
+    },
+    {
+      "surface": "על",
+      "gloss": "у"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ствари"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "налази"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "и ко се узда"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "у Јахвеа"
+    },
+    {
+      "surface": "אשריו",
+      "gloss": "блажен"
+    }
+  ],
+  "timestamp": "2026-09-05T13:49:55.011729625Z",
+  "model": "glm-5.3"
+}

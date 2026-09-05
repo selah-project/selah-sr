@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jonah 1:8",
+  "book": "jonah",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "И рекоше му: Кажи нам, молимо те, због кога нас снађе ово зло? Који ти је занат? Одакле долазиш? Која ти је земља? И од којег си народа?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "и рекоше"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "му"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "кажи"
+    },
+    {
+      "surface": "נא",
+      "gloss": "молимо те"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "нам"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "због"
+    },
+    {
+      "surface": "למי",
+      "gloss": "кога"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "зло"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ово"
+    },
+    {
+      "surface": "לנу",
+      "gloss": "нас",
+      "note": "surface: לנו",
+      "surface_real": "לנו"
+    },
+    {
+      "surface": "מה",
+      "gloss": "који"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "ти је занат"
+    },
+    {
+      "surface": "ומאין",
+      "gloss": "одакле"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "долазиш"
+    },
+    {
+      "surface": "מה",
+      "gloss": "која"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "ти је земља"
+    },
+    {
+      "surface": "ואי",
+      "gloss": "и од"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "којег"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народа"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "си"
+    }
+  ],
+  "timestamp": "2026-09-05T13:08:31.180378003Z",
+  "model": "glm-5.3"
+}

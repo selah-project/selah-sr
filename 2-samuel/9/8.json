@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 9:8",
+  "book": "2-samuel",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "И поклони се и рече: шта је слуга твој, да си се окренуо к мртвом псу као што сам ја?",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "и поклони се"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "מה",
+      "gloss": "шта"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "слуга твој"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "פנית",
+      "gloss": "си се окренуо"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "הכלב",
+      "gloss": "псу"
+    },
+    {
+      "surface": "המת",
+      "gloss": "мртвом"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "као што"
+    },
+    {
+      "surface": "кמוני",
+      "gloss": "сам ја"
+    }
+  ],
+  "timestamp": "2026-09-05T11:30:25.404865050Z",
+  "model": "glm-5.3"
+}

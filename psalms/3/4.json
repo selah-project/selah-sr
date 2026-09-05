@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 3:4",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "А ти, Јахве, штит ⟨си⟩ око мене, слава моја и подизач главе моје.",
+  "tokens": [
+    {
+      "surface": "ו אתה",
+      "gloss": "А ти"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "штит"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "око мене"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "слава моја"
+    },
+    {
+      "surface": "ומרים",
+      "gloss": "и подизач"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "главе моје"
+    }
+  ],
+  "timestamp": "2026-09-05T15:52:26.052032120Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 25:7",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 25,
+  "translation": "Јер боље ⟨је⟩ да ти кажу: „Успни се овамо“, него да те понизе пред племићем ког видеше очи твоје.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "боље"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "кажу"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "Успни се"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "овамо"
+    },
+    {
+      "surface": "מהשפילך",
+      "gloss": "него да те понизе"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "племићем"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ког"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "видеше"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "очи твоје"
+    }
+  ],
+  "timestamp": "2026-09-05T13:52:35.940697587Z",
+  "model": "glm-5.3"
+}

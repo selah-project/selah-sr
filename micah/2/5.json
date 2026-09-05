@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 2:5",
+  "book": "micah",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Зато неће бити тебе ⟨као⟩ бацача конопца за жреб, у скупу Јахвеовом.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Зато"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "биће"
+    },
+    {
+      "surface": "לך",
+      "gloss": "теби"
+    },
+    {
+      "surface": "משליך",
+      "gloss": "бацач"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "конопца"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "за жреб"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "у скупу"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеовом"
+    }
+  ],
+  "timestamp": "2026-09-05T13:07:49.288167863Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 6:14",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "Не идите за другим боговима, од богова народâ који су около вас.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "идите"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "за"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "боговима"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "другим"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "од богова"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "народâ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "סביבותיכם",
+      "gloss": "около вас"
+    }
+  ],
+  "timestamp": "2026-09-05T10:45:11.624523024Z",
+  "model": "glm-5.3"
+}

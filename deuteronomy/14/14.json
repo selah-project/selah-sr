@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 14:14",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "и ⟨את⟩ сваког гаврана по врсти његовој",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "сваког гаврана"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сваког"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "гаврана"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "по врсти његовој"
+    }
+  ],
+  "timestamp": "2026-09-05T10:48:31.807110472Z",
+  "model": "glm-5.3"
+}

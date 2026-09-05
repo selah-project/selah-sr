@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "joshua 24:29",
+  "book": "joshua",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "И би после речи ових, и умре Јехошуа (Исус), син Нунов, слуга Јахвеов, стар сто и десет година.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И би"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "после"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "речи"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ових"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "и умре"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Јехошуа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Нунов"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "слуга"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеов"
+    },
+    {
+      "surface": "בן",
+      "gloss": "стар"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "и десет"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "година"
+    }
+  ],
+  "timestamp": "2026-09-05T11:06:28.844548488Z",
+  "model": "glm-5.3"
+}

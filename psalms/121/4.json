@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 121,
+  "translation": "Ено, неће задремати ни заспати чувар Израиљев.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ено"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "задремати"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ни"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "заспати"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "чувар"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљев"
+    }
+  ],
+  "timestamp": "2026-09-05T13:41:25.682604406Z",
+  "model": "glm-5.3"
+}

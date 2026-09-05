@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 7:30",
+  "book": "nehemiah",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Људи Раме и Гаве: шест стотина двадесет и један.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "Људи"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Раме"
+    },
+    {
+      "surface": "וגבע",
+      "gloss": "и Гаве"
+    },
+    {
+      "surface": "שש",
+      "gloss": "шест"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "стотина"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двадесет"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "и један"
+    }
+  ],
+  "timestamp": "2026-09-05T14:30:53.924905166Z",
+  "model": "glm-5.3"
+}

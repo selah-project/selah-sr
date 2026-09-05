@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 22:11",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "Или таму — да не видиш, и изобиље воде те покрива.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "таму"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "видиш"
+    },
+    {
+      "surface": "ושפעת",
+      "gloss": "и изобиље"
+    },
+    {
+      "surface": "מים",
+      "gloss": "воде"
+    },
+    {
+      "surface": "תכסך",
+      "gloss": "те покрива"
+    }
+  ],
+  "timestamp": "2026-09-05T14:00:07.427845783Z",
+  "model": "glm-5.3"
+}

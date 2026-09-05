@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "Труд лудака замара га, који не зна да иде у град.",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "Труд"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "лудака"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "замара га"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "зна"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "да иде"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "град"
+    }
+  ],
+  "timestamp": "2026-09-05T16:08:31.977851528Z",
+  "model": "glm-5.3"
+}

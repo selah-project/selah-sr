@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 3:15",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Насити ме горчином, напоји ме пеленом.",
+  "tokens": [
+    {
+      "surface": "השביעני",
+      "gloss": "Насити ме"
+    },
+    {
+      "surface": "במרורים",
+      "gloss": "горчином"
+    },
+    {
+      "surface": "הרוני",
+      "gloss": "напоји ме"
+    },
+    {
+      "surface": "לענה",
+      "gloss": "пеленом"
+    }
+  ],
+  "timestamp": "2026-09-05T14:09:16.512668276Z",
+  "model": "glm-5.3"
+}

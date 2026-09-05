@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 40,
+  "translation": "И измери ⟨את⟩ трем врата од ⟨унутрашњег дела⟩: једна трска.",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "и измери"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "трем врата"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "трем"
+    },
+    {
+      "surface": "השער",
+      "gloss": "врата"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "од ⟨унутрашњег дела⟩"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "трска"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "једна"
+    }
+  ],
+  "timestamp": "2026-09-05T12:57:17.918386225Z",
+  "model": "glm-5.3"
+}

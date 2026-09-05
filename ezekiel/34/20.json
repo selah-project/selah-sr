@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 34:20",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 34,
+  "translation": "Зато овако рече Адонај Јахве њима: ево ме, ја сам, и судићу између овце дебеле и овце мршаве.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Зато"
+    },
+    {
+      "surface": "כה",
+      "gloss": "овако"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "њима"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ево ме"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја сам"
+    },
+    {
+      "surface": "ושפטתי",
+      "gloss": "и судићу"
+    },
+    {
+      "surface": "בין",
+      "gloss": "између"
+    },
+    {
+      "surface": "שה",
+      "gloss": "овце"
+    },
+    {
+      "surface": "בריה",
+      "gloss": "дебеле"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "и између"
+    },
+    {
+      "surface": "שה",
+      "gloss": "овце"
+    },
+    {
+      "surface": "רזה",
+      "gloss": "мршаве"
+    }
+  ],
+  "timestamp": "2026-09-05T12:52:52.860964322Z",
+  "model": "glm-5.3"
+}

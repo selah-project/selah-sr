@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 25:1",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 25,
+  "translation": "И одговори Балдад Савхејац и рече:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "И одговори"
+    },
+    {
+      "surface": "בלדד",
+      "gloss": "Балдад"
+    },
+    {
+      "surface": "השחי",
+      "gloss": "Савхејац"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    }
+  ],
+  "timestamp": "2026-09-05T14:01:15.222470651Z",
+  "model": "glm-5.3"
+}

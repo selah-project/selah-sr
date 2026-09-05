@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "lamentations 5:22",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Јер ако си одбацивањем одбацио нас, расрдио си се на нас веома веома.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "одбацивањем"
+    },
+    {
+      "surface": "מאסתנו",
+      "gloss": "си одбацио нас"
+    },
+    {
+      "surface": "קצפת",
+      "gloss": "расрдио си се"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "на нас"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до краја"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "веома"
+    }
+  ],
+  "timestamp": "2026-09-05T14:10:52.548115890Z",
+  "model": "glm-5.3"
+}

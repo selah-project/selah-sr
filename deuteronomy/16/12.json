@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 16:12",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 16,
+  "translation": "И опоменућеш се да си роб био у Мицрајиму (Египту), и чуваш и чиниш ⟨את⟩ ове уредбе.",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "И опоменућеш се"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "роб"
+    },
+    {
+      "surface": "היית",
+      "gloss": "си био"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "у Мицрајиму"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "и чуваш"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "и чиниш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ове уредбе"
+    },
+    {
+      "surface": "החקים",
+      "gloss": "ове уредбе"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ове"
+    }
+  ],
+  "timestamp": "2026-09-05T15:13:55.340930104Z",
+  "model": "glm-5.3"
+}

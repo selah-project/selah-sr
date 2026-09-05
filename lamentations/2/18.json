@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "lamentations 2:18",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Вапи срце њихово к Адонају: зидино кћери Ционове, пуштај као поток сузу дању и ноћу; не дај себи одмора, не утишавај зенице ока свога.",
+  "tokens": [
+    {
+      "surface": "צעק",
+      "gloss": "Вапи"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "срце њихово"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонају"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "зидино"
+    },
+    {
+      "surface": "בת",
+      "gloss": "кћери"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ционове"
+    },
+    {
+      "surface": "הורידי",
+      "gloss": "пуштај"
+    },
+    {
+      "surface": "כנחל",
+      "gloss": "као поток"
+    },
+    {
+      "surface": "דמעה",
+      "gloss": "сузу"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "дању"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "и ноћу"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תתני",
+      "gloss": "дај"
+    },
+    {
+      "surface": "פוגת",
+      "gloss": "одмора"
+    },
+    {
+      "surface": "לך",
+      "gloss": "себи"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תדם",
+      "gloss": "утишавај"
+    },
+    {
+      "surface": "בת",
+      "gloss": "кћери"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "ока свога"
+    }
+  ],
+  "timestamp": "2026-09-05T14:10:35.056528588Z",
+  "model": "glm-5.3"
+}

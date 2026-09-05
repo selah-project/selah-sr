@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 2:1",
+  "book": "malachi",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "И сада — к вама ⟨је⟩ ова заповест, свештеници!",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "И сада"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "к вама"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "заповест"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ова"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "свештеници"
+    }
+  ],
+  "timestamp": "2026-09-05T13:15:52.691734271Z",
+  "model": "glm-5.3"
+}

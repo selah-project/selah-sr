@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 5:1",
+  "book": "judges",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "И запева Девора и Барак, син Авиноамов (Авиномов), у онај дан, говорећи:",
+  "tokens": [
+    {
+      "surface": "ותשר",
+      "gloss": "и запева"
+    },
+    {
+      "surface": "דבורה",
+      "gloss": "Девора"
+    },
+    {
+      "surface": "וברק",
+      "gloss": "и Барак"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אבינעם",
+      "gloss": "Авиноамов"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "у дан"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "онај"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорећи"
+    }
+  ],
+  "timestamp": "2026-09-05T11:07:41.899755663Z",
+  "model": "glm-5.3"
+}

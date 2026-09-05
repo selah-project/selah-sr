@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 17:10",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 17,
+  "translation": "И урадиш по устима речи коју ти јаве из места оног које изабере Јахве, и чуваш да урадиш по свему што те поуче.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "И урадиш"
+    },
+    {
+      "surface": "על",
+      "gloss": "по"
+    },
+    {
+      "surface": "פי",
+      "gloss": "устима"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "речи"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "коју"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "јаве"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "מן",
+      "gloss": "из"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "места"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "оног"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "које"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "изабере"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "и чуваш"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "да урадиш"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "по свему"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "יורוך",
+      "gloss": "те поуче"
+    }
+  ],
+  "timestamp": "2026-09-05T10:51:28.351900299Z",
+  "model": "glm-5.3"
+}

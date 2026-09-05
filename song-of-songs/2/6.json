@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 2:6",
+  "book": "song-of-songs",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Левица му ⟨је⟩ под главом мојом, а десница његова грли ме.",
+  "tokens": [
+    {
+      "surface": "שמאלו",
+      "gloss": "левица његова"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "главом мојом"
+    },
+    {
+      "surface": "וימינו",
+      "gloss": "а десница његова"
+    },
+    {
+      "surface": "тחבקני",
+      "gloss": "грли ме"
+    }
+  ],
+  "timestamp": "2026-09-05T14:06:50.249062187Z",
+  "model": "glm-5.3"
+}

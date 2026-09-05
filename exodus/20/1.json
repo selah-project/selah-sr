@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 20:1",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 20,
+  "translation": "И говораше Елохим ⟨את⟩ све речи ове говорећи:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "и говораше"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "све речи ове"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "речи"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ове"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорећи"
+    }
+  ],
+  "timestamp": "2026-09-05T10:06:13.559908040Z",
+  "model": "glm-5.3"
+}

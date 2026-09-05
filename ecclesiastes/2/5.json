@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 2:5",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Начиних себи вртове и воћњаке, и посадих у њима дрвеће сваког рода.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "Начиних"
+    },
+    {
+      "surface": "לי",
+      "gloss": "себи"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "вртове"
+    },
+    {
+      "surface": "ופרדסים",
+      "gloss": "и воћњаке"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "и посадих"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "у њима"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "дрвеће"
+    },
+    {
+      "surface": "כל",
+      "gloss": "свако"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "рода"
+    }
+  ],
+  "timestamp": "2026-09-05T14:11:53.747026674Z",
+  "model": "glm-5.3"
+}

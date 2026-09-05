@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 24:21",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "За Рехавјаху: за синове Рехавјаху — поглавар Јишијах.",
+  "tokens": [
+    {
+      "surface": "לרחביהו",
+      "gloss": "За Рехавјаху"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "за синове"
+    },
+    {
+      "surface": "רחביהו",
+      "gloss": "Рехавјаху"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "поглавар"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "Јишијах"
+    }
+  ],
+  "timestamp": "2026-09-05T14:41:41.725017919Z",
+  "model": "glm-5.3"
+}

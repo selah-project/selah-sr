@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 10:3",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "Јер ⟨су⟩ уредбе народа ништавност: јер дрво из шуме посекоше, дело руку занатлије, секиром.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "חקות",
+      "gloss": "уредбе"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "народа"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ништавност"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨јест⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "дрво"
+    },
+    {
+      "surface": "מיער",
+      "gloss": "из шуме"
+    },
+    {
+      "surface": "כרתו",
+      "gloss": "посекоше"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "дело"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "руку"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "занатлије"
+    },
+    {
+      "surface": "במעצד",
+      "gloss": "секиром"
+    }
+  ],
+  "timestamp": "2026-09-05T12:25:00.270211766Z",
+  "model": "glm-5.3"
+}

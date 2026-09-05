@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 1:33",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "А синови Мидјана: Ејфа и Ефер, и Ханох, и Авида, и Елдаа — сви ово синови Кетуре.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "А синови"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Мидјана"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "Ејфа"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "и Ефер"
+    },
+    {
+      "surface": "וחנוך",
+      "gloss": "и Ханох"
+    },
+    {
+      "surface": "ואבידע",
+      "gloss": "и Авида"
+    },
+    {
+      "surface": "ואלדעה",
+      "gloss": "и Елдаа"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сви"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ово"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "Кетуре"
+    }
+  ],
+  "timestamp": "2026-09-05T14:33:40.640412452Z",
+  "model": "glm-5.3"
+}

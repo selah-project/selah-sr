@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 26,
+  "translation": "И доведе нас ⟨у⟩ ⟨тај⟩ ⟨се⟩ место ⟨ово⟩, и даде нам ⟨את⟩ ⟨ту⟩ земљу ову — земљу која тече мљеком и медом.",
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "и доведе нас"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨у⟩"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "⟨се⟩ место"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "⟨ово⟩"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "и даде"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "нам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨ту⟩ земљу ову"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земљу"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ову"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земљу"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "која тече"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "мљеком"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "и медом"
+    }
+  ],
+  "timestamp": "2026-09-05T10:52:55.792878281Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 17:22",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 17,
+  "translation": "И даде си ⟨את⟩ народ свој Израил теби за народ до века, и ти, Јахве, поста си им за Елохима.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "И даде"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "народ свој Израил"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "народ свој"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израил"
+    },
+    {
+      "surface": "לך",
+      "gloss": "теби"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "за народ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "века"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "и ти"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "היית",
+      "gloss": "поста си"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "за Елохима"
+    }
+  ],
+  "timestamp": "2026-09-05T16:46:55.213306700Z",
+  "model": "glm-5.3"
+}

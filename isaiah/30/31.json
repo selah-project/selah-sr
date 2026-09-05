@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "isaiah 30:31",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 30,
+  "translation": "Јер од гласа Јахвеа сломиће се Ашур (Асирија), батином ће ударити ⟨га⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "מקול",
+      "gloss": "од гласа"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "сломиће се"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашур"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "батином"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "ударити"
+    }
+  ],
+  "timestamp": "2026-09-05T12:09:46.843031022Z",
+  "model": "glm-5.3"
+}

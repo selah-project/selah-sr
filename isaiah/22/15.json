@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 22:15",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "Овако рече Адонај Јахве Цеваот: „Ходи, уђи к овоме управнику, Шевни (Шевна), који је над домом,",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "овако"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ходи"
+    },
+    {
+      "surface": "בא",
+      "gloss": "уђи"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "הסכן",
+      "gloss": "управнику"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овоме"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "שבנא",
+      "gloss": "Шевни (Шевна)"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који је"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "домом"
+    }
+  ],
+  "timestamp": "2026-09-05T12:06:45.288477090Z",
+  "model": "glm-5.3"
+}

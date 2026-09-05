@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 1:2",
+  "book": "zechariah",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "Расрди се Јахве на очеве ваше — расрдио се.",
+  "tokens": [
+    {
+      "surface": "קצף",
+      "gloss": "Расрди се"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "очеве ваше"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "расрдио се"
+    }
+  ],
+  "timestamp": "2026-09-05T13:12:08.811642292Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 5:11",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Сладак ⟨је⟩ сан радника, било мало било много што је појео; а ситост богаташа не пушта га ⟨да спава⟩.",
+  "tokens": [
+    {
+      "surface": "מתוקה",
+      "gloss": "сладак"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "сан"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "радника"
+    },
+    {
+      "surface": "אם",
+      "gloss": "било"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "мало"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "било много"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "много"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "појео"
+    },
+    {
+      "surface": "והשבע",
+      "gloss": "а ситост"
+    },
+    {
+      "surface": "לעשיר",
+      "gloss": "богаташа"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "не"
+    },
+    {
+      "surface": "מניח",
+      "gloss": "пушта"
+    },
+    {
+      "surface": "לו",
+      "gloss": "га"
+    },
+    {
+      "surface": "לישון",
+      "gloss": "да спава"
+    }
+  ],
+  "timestamp": "2026-09-05T14:13:01.414449854Z",
+  "model": "glm-5.3"
+}

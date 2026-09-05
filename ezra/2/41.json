@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "ezra 2:41",
+  "book": "ezra",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Певци: синови Асафа, сто двадесет ⟨и⟩ осам.",
+  "tokens": [
+    {
+      "surface": "המשררים",
+      "gloss": "певци"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Асафа"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двадесет"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "и осам"
+    }
+  ],
+  "timestamp": "2026-09-05T14:25:10.228032781Z",
+  "model": "glm-5.3"
+}

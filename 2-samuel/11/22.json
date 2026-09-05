@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 11:22",
+  "book": "2-samuel",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "И отиде гласник, и дође, и јави Давиду ⟨את⟩ све што посла Јоав.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "И отиде"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "гласник"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "и дође"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "и јави"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давиду"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "све"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "посла"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Јоав"
+    }
+  ],
+  "timestamp": "2026-09-05T11:31:13.073039299Z",
+  "model": "glm-5.3"
+}

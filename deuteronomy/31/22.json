@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 31:22",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 31,
+  "translation": "И написа Моше (Мојсије) ⟨את⟩ песму ову у дан онај, и научи ⟨את⟩ синове Израиљеве.",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "И написа"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "песму"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "песму"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ову"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "у дан"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "онај"
+    },
+    {
+      "surface": "וילמדה",
+      "gloss": "и научи"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "синове"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синове"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљеве"
+    }
+  ],
+  "timestamp": "2026-09-05T10:56:51.335145365Z",
+  "model": "glm-5.3"
+}

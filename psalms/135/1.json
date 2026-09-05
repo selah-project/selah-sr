@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 135:1",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 135,
+  "translation": "Хвалите Јаха, хвалите ⟨את⟩ име Јахвеово, хвалите, слуге Јахвеове!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Хвалите"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Јаха"
+    },
+    {
+      "surface": "הללу",
+      "gloss": "хвалите"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "име"
+    },
+    {
+      "surface": "שם",
+      "gloss": "име"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеово"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "хвалите"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "слуге"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеове"
+    }
+  ],
+  "timestamp": "2026-09-05T13:42:28.913197886Z",
+  "model": "glm-5.3"
+}

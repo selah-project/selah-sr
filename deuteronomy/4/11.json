@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 4:11",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "И приступисте и стадосте под гором, а гора гораше у огању до срца небеса — тама, облак и густа тама.",
+  "tokens": [
+    {
+      "surface": "ותקרבון",
+      "gloss": "И приступисте"
+    },
+    {
+      "surface": "ותעמדון",
+      "gloss": "и стадосте"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "гором"
+    },
+    {
+      "surface": "וההר",
+      "gloss": "а гора"
+    },
+    {
+      "surface": "בער",
+      "gloss": "гораше"
+    },
+    {
+      "surface": "באש",
+      "gloss": "у огању"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "לב",
+      "gloss": "срца"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небеса"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "тама"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "облак"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "и густа тама"
+    }
+  ],
+  "timestamp": "2026-09-05T15:12:34.969159746Z",
+  "model": "glm-5.3"
+}

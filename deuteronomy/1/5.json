@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 1:5",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "С оне стране Јардена, у земљи Моава, поче Моше (Мојсије) излагати ⟨את⟩ ову Тору, говорећи:",
+  "tokens": [
+    {
+      "surface": "בעבר",
+      "gloss": "с оне стране"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Јардена"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "у земљи"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моава"
+    },
+    {
+      "surface": "הואיל",
+      "gloss": "поче"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "באר",
+      "gloss": "излагати"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ову Тору"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Тору"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ову"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорећи"
+    }
+  ],
+  "timestamp": "2026-09-05T10:44:13.798992886Z",
+  "model": "glm-5.3"
+}

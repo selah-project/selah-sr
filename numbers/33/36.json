@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 33:36",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 33,
+  "translation": "И кренуше од Ецион Гавера, и улогорише у пустињи Цин — то јест Кадеш.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "и кренуше"
+    },
+    {
+      "surface": "מעציון",
+      "gloss": "од Ецион"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "Гавера"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "и улогорише"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "у пустињи"
+    },
+    {
+      "surface": "צן",
+      "gloss": "Цин"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "то јест"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Кадеш"
+    }
+  ],
+  "timestamp": "2026-09-05T10:42:07.122675614Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 106:28",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 106,
+  "translation": "И причестише се Баалу Пеору, и једоше жртве мртвих.",
+  "tokens": [
+    {
+      "surface": "ויצמדו",
+      "gloss": "и причестише се"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "Баалу"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Пеору"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "и једоше"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "жртве"
+    },
+    {
+      "surface": "מתим",
+      "gloss": "мртвих"
+    }
+  ],
+  "timestamp": "2026-09-05T13:38:01.608785423Z",
+  "model": "glm-5.3"
+}

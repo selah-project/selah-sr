@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "joshua 19:46",
+  "book": "joshua",
+  "lang": "sr",
+  "chapter": 19,
+  "translation": "и Ме Јаркон, и Ракон, са границом ⟨наспрам⟩ Јафе.",
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "и Ме"
+    },
+    {
+      "surface": "הירקון",
+      "gloss": "Јаркон"
+    },
+    {
+      "surface": "והרקון",
+      "gloss": "и Ракон"
+    },
+    {
+      "surface": "עם",
+      "gloss": "са"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "границом"
+    },
+    {
+      "surface": "מול",
+      "gloss": "⟨наспрам⟩"
+    },
+    {
+      "surface": "יפו",
+      "gloss": "Јафе"
+    }
+  ],
+  "timestamp": "2026-09-05T15:17:14.038098762Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 38:22",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 38,
+  "translation": "И Бецалел, син Урија, сина Хура, од племена Јехуде, начини ⟨את⟩ све што заповеди Јахве ⟨את⟩ Моше.",
+  "tokens": [
+    {
+      "surface": "ובצלאל",
+      "gloss": "И Бецалел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Ури"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Хура"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "од племена"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јехуде"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "начини"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "све"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповеди"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Моше"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    }
+  ],
+  "timestamp": "2026-09-05T10:14:47.894698877Z",
+  "model": "glm-5.3"
+}

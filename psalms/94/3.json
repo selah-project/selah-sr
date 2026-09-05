@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 94:3",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 94,
+  "translation": "До када, Јахве, безбожници — до када безбожници ⟨ће⟩ ликовати?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "До"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "када"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "безбожници"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "када"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "безбожници"
+    },
+    {
+      "surface": "יעלזו",
+      "gloss": "ликовати"
+    }
+  ],
+  "timestamp": "2026-09-05T13:35:31.433042902Z",
+  "model": "glm-5.3"
+}

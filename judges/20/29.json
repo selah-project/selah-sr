@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "judges 20:29",
+  "book": "judges",
+  "lang": "sr",
+  "chapter": 20,
+  "translation": "И постави Израил ⟨арапове⟩ ⟨на⟩ Гивеу, унаоколо.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "И постави"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израил"
+    },
+    {
+      "surface": "ארבים",
+      "gloss": "⟨арапове⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨на⟩"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "Гивеу"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "унаоколо"
+    }
+  ],
+  "timestamp": "2026-09-05T15:20:52.709246150Z",
+  "model": "glm-5.3"
+}

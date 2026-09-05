@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 9:15",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "И окренух се и сиђох с горе, а гора гораше у огању, а две плоче завета на две руке моје.",
+  "tokens": [
+    {
+      "surface": "ואפן",
+      "gloss": "и окренух се"
+    },
+    {
+      "surface": "וארד",
+      "gloss": "и сиђох"
+    },
+    {
+      "surface": "מן",
+      "gloss": "с"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "горе"
+    },
+    {
+      "surface": "וההר",
+      "gloss": "а гора"
+    },
+    {
+      "surface": "בער",
+      "gloss": "гораше"
+    },
+    {
+      "surface": "באש",
+      "gloss": "у огању"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "а две"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "плоче"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "завета"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "две"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "руке моје"
+    }
+  ],
+  "timestamp": "2026-09-05T15:13:55.421078299Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 44:21",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 44,
+  "translation": "И вино да не пије никакав свештеник када улазе у двор унутрашњи.",
+  "tokens": [
+    {
+      "surface": "ויין",
+      "gloss": "и вино"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "да пије"
+    },
+    {
+      "surface": "כל",
+      "gloss": "никакав"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "свештеник"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "када улазе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "двор"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "унутрашњи"
+    }
+  ],
+  "timestamp": "2026-09-05T15:48:17.956021888Z",
+  "model": "glm-5.3"
+}

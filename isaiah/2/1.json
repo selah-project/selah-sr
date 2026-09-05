@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 2:1",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Реч коју виде Јешајаху (Исаија), син Амoцов, о Јехуди и Јерушалајиму.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "Реч"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "коју"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "виде"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Јешајаху (Исаија)"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "Амoцов"
+    },
+    {
+      "surface": "על",
+      "gloss": "о"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јехуди"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "и Јерушалајиму"
+    }
+  ],
+  "timestamp": "2026-09-05T17:02:27.771082502Z",
+  "model": "glm-5.3"
+}

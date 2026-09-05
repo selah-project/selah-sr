@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 5:18",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Јао онима што вуку безакоње конопцима лажи и грех као ужетом кола!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "јао"
+    },
+    {
+      "surface": "משכי",
+      "gloss": "што вуку"
+    },
+    {
+      "surface": "העון",
+      "gloss": "безакоње"
+    },
+    {
+      "surface": "בחבלי",
+      "gloss": "конопцима"
+    },
+    {
+      "surface": "השוא",
+      "gloss": "лажи"
+    },
+    {
+      "surface": "וכעבות",
+      "gloss": "и као ужетом"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "кола"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "грех"
+    }
+  ],
+  "timestamp": "2026-09-05T12:02:52.261775215Z",
+  "model": "glm-5.3"
+}

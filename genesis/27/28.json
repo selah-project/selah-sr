@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 27:28",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 27,
+  "translation": "И да ти Елохим од росе небеске и од угоја земље, и обиље жита и вина.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "И да"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "מטל",
+      "gloss": "од росе"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небеске"
+    },
+    {
+      "surface": "ומשמני",
+      "gloss": "и од угоја"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земље"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "и обиље"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "жита"
+    },
+    {
+      "surface": "וירוש",
+      "gloss": "и вина"
+    }
+  ],
+  "timestamp": "2026-09-05T09:49:12.330582645Z",
+  "model": "glm-5.3"
+}

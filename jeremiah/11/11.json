@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 11:11",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "Зато овако рече Јахве: ено, ја доводим на њих зло од којега неће моћи изаћи, и вапиће к мени, а ја нећу чути њих.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Зато"
+    },
+    {
+      "surface": "כה",
+      "gloss": "овако"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ено, ја"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "доводим"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "на њих"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зло"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "од којега"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "ће моћи"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "изаћи"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "од њега"
+    },
+    {
+      "surface": "וזעקו",
+      "gloss": "и вапиће"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "к мени"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "а не"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "ћу чути"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "њих"
+    }
+  ],
+  "timestamp": "2026-09-05T12:24:04.330241612Z",
+  "model": "glm-5.3"
+}

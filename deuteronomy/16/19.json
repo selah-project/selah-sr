@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 16:19",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 16,
+  "translation": "Не изврћи правду, не распознај лица, и не узимај мито; јер мито заслепљује очи мудрих и изопачује речи праведних.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "изврћи"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "правду"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תכיר",
+      "gloss": "распознај"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "лица"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "узимај"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "мито"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "мито"
+    },
+    {
+      "surface": "יעור",
+      "gloss": "заслепљује"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "очи"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "мудрих"
+    },
+    {
+      "surface": "ויסלף",
+      "gloss": "и изопачује"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "речи"
+    },
+    {
+      "surface": "צדיקם",
+      "gloss": "праведних"
+    }
+  ],
+  "timestamp": "2026-09-05T10:49:28.579022940Z",
+  "model": "glm-5.3"
+}

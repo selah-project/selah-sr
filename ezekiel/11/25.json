@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 11:25",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "И говорих прогнанима ⟨את⟩ све речи Јахвеа које ми показа.",
+  "tokens": [
+    {
+      "surface": "ואדבר",
+      "gloss": "и говорих"
+    },
+    {
+      "surface": "אל",
+      "gloss": "прогнанима"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "прогнанима"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "све речи Јахвеа"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "речи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "које"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "ми показа"
+    }
+  ],
+  "timestamp": "2026-09-05T12:44:08.507904968Z",
+  "model": "glm-5.3"
+}

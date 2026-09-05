@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 4:11",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "И рече Јахве њему: ко даде уста човеку? или ко чини немога, или глувога, или видишћег, или слепога? зар не ја, Јахве?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "њему"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ко"
+    },
+    {
+      "surface": "שם",
+      "gloss": "даде"
+    },
+    {
+      "surface": "פה",
+      "gloss": "уста"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "човеку"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ко"
+    },
+    {
+      "surface": "ישום",
+      "gloss": "чини"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "немога"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "глувога"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "видишћег"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "עור",
+      "gloss": "слепога"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "зар не"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ја"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-09-05T10:01:02.187215487Z",
+  "model": "glm-5.3"
+}

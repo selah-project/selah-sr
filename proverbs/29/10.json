@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 29:10",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 29,
+  "translation": "Људи крви мрзе непорочна, а прави траже душу његову.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "људи"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "крви"
+    },
+    {
+      "surface": "ישנאו",
+      "gloss": "мрзе"
+    },
+    {
+      "surface": "תם",
+      "gloss": "непорочна"
+    },
+    {
+      "surface": "וישרים",
+      "gloss": "а прави"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "траже"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "душу његову"
+    }
+  ],
+  "timestamp": "2026-09-05T13:52:59.747952607Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 144:8",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 144,
+  "translation": "чија уста говоре лаж, а десница им ⟨је⟩ десница преваре",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "чија"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "уста"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говоре"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "лаж"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "а десница им"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "десница"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "преваре"
+    }
+  ],
+  "timestamp": "2026-09-05T13:44:47.084931918Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 8:33",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "Чујте поуку и умујте, и не одбацујте ⟨је⟩.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Чујте"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "поуку"
+    },
+    {
+      "surface": "וחכמו",
+      "gloss": "и умујте"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תפרעו",
+      "gloss": "одбацујте"
+    }
+  ],
+  "timestamp": "2026-09-05T13:47:36.439235557Z",
+  "model": "glm-5.3"
+}

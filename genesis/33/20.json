@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 33:20",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 33,
+  "translation": "И подиже онде жртвеник и прогласи га Ел Елохим Израиљев (Бог богова Израиљевих).",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "И подиже"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ондe"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "жртвеник"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "и прогласи"
+    },
+    {
+      "surface": "לו",
+      "gloss": "га"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљев"
+    }
+  ],
+  "timestamp": "2026-09-05T15:00:18.592383781Z",
+  "model": "glm-5.3"
+}

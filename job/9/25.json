@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 9:25",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "И дани су моји бржи од тркача: побегоше, не видеше добра.",
+  "tokens": [
+    {
+      "surface": "וימי",
+      "gloss": "И дани су моји"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "бржи"
+    },
+    {
+      "surface": "מני",
+      "gloss": "од"
+    },
+    {
+      "surface": "רץ",
+      "gloss": "тркача"
+    },
+    {
+      "surface": "ברחו",
+      "gloss": "побегоше"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "видеше"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "добра"
+    }
+  ],
+  "timestamp": "2026-09-05T13:57:16.453910450Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 19:7",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 19,
+  "translation": "Зато ја заповедам теби говорећи: три града одвоји себи.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "зато"
+    },
+    {
+      "surface": "כן",
+      "gloss": "зато"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ја"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "заповедам теби"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорећи"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "три"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "града"
+    },
+    {
+      "surface": "תבדיל",
+      "gloss": "одвоји"
+    },
+    {
+      "surface": "לך",
+      "gloss": "себи"
+    }
+  ],
+  "timestamp": "2026-09-05T10:51:20.062965363Z",
+  "model": "glm-5.3"
+}

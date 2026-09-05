@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 20:7",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 20,
+  "translation": "И осветите се, и бићете свети, јер ја ⟨сам⟩ Јахве, Елохим ваш.",
+  "tokens": [
+    {
+      "surface": "והתקדשתם",
+      "gloss": "и осветите се"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "и бићете"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "свети"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја ⟨сам⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Елохим ваш"
+    }
+  ],
+  "timestamp": "2026-09-05T10:23:37.740948441Z",
+  "model": "glm-5.3"
+}

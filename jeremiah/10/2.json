@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 10:2",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "Тако рече Јахве: путу народа не научите се, и од знамења небеских не бојте се, јер се плаше народи од њих.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Тако"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "путу"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "народа"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תלמדו",
+      "gloss": "научите се"
+    },
+    {
+      "surface": "ומאתות",
+      "gloss": "и од знамења"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небеских"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תחתו",
+      "gloss": "бојте се"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "יחתו",
+      "gloss": "плаше се"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "народи"
+    },
+    {
+      "surface": "מהמה",
+      "gloss": "од њих"
+    }
+  ],
+  "timestamp": "2026-09-05T12:25:00.270050909Z",
+  "model": "glm-5.3"
+}

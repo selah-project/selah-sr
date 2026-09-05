@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 9:6",
+  "book": "zechariah",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "И седеће копиле у Ашдоду, и истребићу гордост Плиштимаца.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "И седеће"
+    },
+    {
+      "surface": "ממזר",
+      "gloss": "копиле"
+    },
+    {
+      "surface": "באשדוד",
+      "gloss": "у Ашдоду"
+    },
+    {
+      "surface": "והכרתי",
+      "gloss": "и истребићу"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "гордост"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Плиштимаца"
+    }
+  ],
+  "timestamp": "2026-09-05T13:15:08.451898777Z",
+  "model": "glm-5.3"
+}

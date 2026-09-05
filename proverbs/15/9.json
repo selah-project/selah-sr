@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 15:9",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 15,
+  "translation": "Утварна је Јахвеу пут злих, а онога што гони правду он љуби.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "утваран"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеу"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "пут"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "злих"
+    },
+    {
+      "surface": "ומרדף",
+      "gloss": "а што гони"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "правду"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "он љуби"
+    }
+  ],
+  "timestamp": "2026-09-05T13:49:25.035641619Z",
+  "model": "glm-5.3"
+}

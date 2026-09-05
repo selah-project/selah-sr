@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 31:21",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 31,
+  "translation": "Не боји се за дом свој од снега, јер је сав дом њен обучен у ⟨скерлет⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "боји се"
+    },
+    {
+      "surface": "לביתה",
+      "gloss": "за дом свој"
+    },
+    {
+      "surface": "משלג",
+      "gloss": "од снега"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сав"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "дом њен"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "обучен"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "у скерлет"
+    }
+  ],
+  "timestamp": "2026-09-05T13:53:57.442834667Z",
+  "model": "glm-5.3"
+}

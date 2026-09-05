@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "job 34:34",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 34,
+  "translation": "Људи срца казаће мени, и човек мудар слуша мени.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "људи"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "срца"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "казаће"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мени"
+    },
+    {
+      "surface": "וגבר",
+      "gloss": "и човек"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мудар"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "слуша"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мени"
+    }
+  ],
+  "timestamp": "2026-09-05T14:04:19.278964982Z",
+  "model": "glm-5.3"
+}

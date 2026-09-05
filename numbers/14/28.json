@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 14:28",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "Кажи им: Жив сам ја, порука Јахвеова: ако не — као што сте говорили у ушима мојим, тако ћу учинити вама.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Кажи"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Жив"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "порука"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "као што"
+    },
+    {
+      "surface": "דברתם",
+      "gloss": "сте говорили"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "у ушима мојим"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тако"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ћу учинити"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вама"
+    }
+  ],
+  "timestamp": "2026-09-05T15:10:19.435773086Z",
+  "model": "glm-5.3"
+}

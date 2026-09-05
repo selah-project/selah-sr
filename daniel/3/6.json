@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "daniel 3:6",
+  "book": "daniel",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "А ко не падне и не поклони се, у тај час биће бачен у сред пећи огња која гори.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "а ко"
+    },
+    {
+      "surface": "די",
+      "gloss": "—"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "падне"
+    },
+    {
+      "surface": "ויסגד",
+      "gloss": "и поклони се"
+    },
+    {
+      "surface": "בה",
+      "gloss": "у"
+    },
+    {
+      "surface": "שעתא",
+      "gloss": "тај час"
+    },
+    {
+      "surface": "יתרמא",
+      "gloss": "биће бачен"
+    },
+    {
+      "surface": "לגוא",
+      "gloss": "у сред"
+    },
+    {
+      "surface": "אתון",
+      "gloss": "пећи"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "огња"
+    },
+    {
+      "surface": "יקדתא",
+      "gloss": "која гори"
+    }
+  ],
+  "timestamp": "2026-09-05T14:19:08.300437937Z",
+  "model": "glm-5.3"
+}

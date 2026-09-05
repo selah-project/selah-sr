@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 13:3",
+  "book": "nehemiah",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "И би, кад чуше ⟨את⟩ Тору, те одвојише све мешано множество из Израиља.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И би"
+    },
+    {
+      "surface": "כשמעם",
+      "gloss": "кад чуше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Тору"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Тору"
+    },
+    {
+      "surface": "ויבדילו",
+      "gloss": "те одвојише"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "мешано множество"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "из Израиља"
+    }
+  ],
+  "timestamp": "2026-09-05T16:14:54.010729865Z",
+  "model": "glm-5.3"
+}

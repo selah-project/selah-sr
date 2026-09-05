@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezra 7:22",
+  "book": "ezra",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "до сто талената сребра, сто кора пшенице, сто батова вина, сто батова уља, и соли без записане ⟨количине⟩.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "сребра"
+    },
+    {
+      "surface": "ככרין",
+      "gloss": "талената"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и до"
+    },
+    {
+      "surface": "חנטין",
+      "gloss": "пшенице"
+    },
+    {
+      "surface": "כרין",
+      "gloss": "кора"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и до"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "вина"
+    },
+    {
+      "surface": "בתין",
+      "gloss": "батова"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и до"
+    },
+    {
+      "surface": "בתין",
+      "gloss": "батова"
+    },
+    {
+      "surface": "משח",
+      "gloss": "уља"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "ומלח",
+      "gloss": "и соли"
+    },
+    {
+      "surface": "די",
+      "gloss": "која"
+    },
+    {
+      "surface": "לא",
+      "gloss": "без"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "записане количине"
+    }
+  ],
+  "timestamp": "2026-09-05T14:28:14.323848433Z",
+  "model": "glm-5.3"
+}

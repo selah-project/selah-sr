@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 2:8",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Да чува стазе правде, и пут побожних својих чуваше.",
+  "tokens": [
+    {
+      "surface": "לנצר",
+      "gloss": "Да чува"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "стазе"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "правде"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "и пут"
+    },
+    {
+      "surface": "חסידו",
+      "gloss": "побожних својих"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "чуваше"
+    }
+  ],
+  "timestamp": "2026-09-05T13:45:44.296598120Z",
+  "model": "glm-5.3"
+}

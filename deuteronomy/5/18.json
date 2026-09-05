@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 5:18",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "И не чини прељубе.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תנאף",
+      "gloss": "чини прељубу"
+    }
+  ],
+  "timestamp": "2026-09-05T10:44:32.982498297Z",
+  "model": "glm-5.3"
+}

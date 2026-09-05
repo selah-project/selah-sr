@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 14:35",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "И дође онај коме ⟨је⟩ кућа, и јави свештенику говорећи: као плага показа ми се у кући.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "и дође"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "коме"
+    },
+    {
+      "surface": "לו",
+      "gloss": "он"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "кућа"
+    },
+    {
+      "surface": "והגיד",
+      "gloss": "и јави"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "свештенику"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорећи"
+    },
+    {
+      "surface": "כנגע",
+      "gloss": "као плага"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "показа се"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "у кући"
+    }
+  ],
+  "timestamp": "2026-09-05T15:07:40.692843549Z",
+  "model": "glm-5.3"
+}

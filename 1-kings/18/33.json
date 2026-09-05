@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-kings 18:33",
+  "book": "1-kings",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "И поређа ⟨את⟩ дрва, и исече на комаде ⟨את⟩ вола, и положи ⟨га⟩ на дрва.",
+  "tokens": [
+    {
+      "surface": "ויערך",
+      "gloss": "И поређа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дрва"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "дрва"
+    },
+    {
+      "surface": "וינתח",
+      "gloss": "и исече на комаде"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "вола"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "вола"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "и положи"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "дрва"
+    }
+  ],
+  "timestamp": "2026-09-05T17:01:28.769252182Z",
+  "model": "glm-5.3"
+}

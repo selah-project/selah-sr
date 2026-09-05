@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 83:14",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 83,
+  "translation": "Елохе мој, учини их ⟨као⟩ точкић, ⟨као⟩ плеву пред ветром.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Елохе мој"
+    },
+    {
+      "surface": "שיתמו",
+      "gloss": "учини их"
+    },
+    {
+      "surface": "כגלגל",
+      "gloss": "као точкић"
+    },
+    {
+      "surface": "כקש",
+      "gloss": "као плеву"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ветром"
+    }
+  ],
+  "timestamp": "2026-09-05T15:56:32.162161551Z",
+  "model": "glm-5.3"
+}

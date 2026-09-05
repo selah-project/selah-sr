@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 14:11",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "Сваку чисту птицу можете јести.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Сваку"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "птицу"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "чисту"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "можете јести"
+    }
+  ],
+  "timestamp": "2026-09-05T10:48:23.241541340Z",
+  "model": "glm-5.3"
+}

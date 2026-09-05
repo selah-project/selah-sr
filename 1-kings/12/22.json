@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 12:22",
+  "book": "1-kings",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "И би реч Елохима Шемаји, човеку Елохимовом ⟨који говори⟩:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И би"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "реч"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елохима"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Шемаји"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човеку"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елохимовом"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорећи"
+    }
+  ],
+  "timestamp": "2026-09-05T17:52:56.853639685Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 113:3",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 113,
+  "translation": "од изласка сунца до заласка његова хвалено ⟨је⟩ име Јахвеово.",
+  "tokens": [
+    {
+      "surface": "ממזרח",
+      "gloss": "од изласка"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "сунца"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "заласка његова"
+    },
+    {
+      "surface": "מהלל",
+      "gloss": "хвалено"
+    },
+    {
+      "surface": "שם",
+      "gloss": "име"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеово"
+    }
+  ],
+  "timestamp": "2026-09-05T13:38:29.615732305Z",
+  "model": "glm-5.3"
+}

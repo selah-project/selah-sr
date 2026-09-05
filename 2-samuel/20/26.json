@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 20:26",
+  "book": "2-samuel",
+  "lang": "sr",
+  "chapter": 20,
+  "translation": "и такође Ира Јаиријац беше свештеник Давиду.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "и такође"
+    },
+    {
+      "surface": "עירא",
+      "gloss": "Ира"
+    },
+    {
+      "surface": "היארי",
+      "gloss": "Јаиријац"
+    },
+    {
+      "surface": "היה",
+      "gloss": "беше"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "свештеник"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давиду"
+    }
+  ],
+  "timestamp": "2026-09-05T11:34:42.409514046Z",
+  "model": "glm-5.3"
+}

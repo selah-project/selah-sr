@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 83:9",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 83,
+  "translation": "И Ашур се придружи с њима, постадоше мишица синовима Лотовим. Села.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "И"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашур"
+    },
+    {
+      "surface": "נלוה",
+      "gloss": "придружи се"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "с њима"
+    },
+    {
+      "surface": "היו",
+      "gloss": "постадоше"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "мишица"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "синовима"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Лотовим"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Села"
+    }
+  ],
+  "timestamp": "2026-09-05T15:56:25.752575639Z",
+  "model": "glm-5.3"
+}

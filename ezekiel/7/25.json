@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 7:25",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Ужас долази, и тражиће мир, а ⟨га⟩ нема.",
+  "tokens": [
+    {
+      "surface": "קפדה",
+      "gloss": "Ужас"
+    },
+    {
+      "surface": "בא",
+      "gloss": "долази"
+    },
+    {
+      "surface": "ובקשו",
+      "gloss": "и тражиће"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мир"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "а нема"
+    }
+  ],
+  "timestamp": "2026-09-05T12:42:44.815161879Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 24:26",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "И поклони се човек, и падне ничице пред Јахвеом.",
+  "tokens": [
+    {
+      "surface": "ויקד",
+      "gloss": "И поклони се"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "и падне ничице"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "пред Јахвеом"
+    }
+  ],
+  "timestamp": "2026-09-05T14:59:13.831125875Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 25:24",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 25,
+  "translation": "Боље ⟨је⟩ седети на углу крова него са женом свађалском и кућом заједничком.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Боље"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "седети"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "углу"
+    },
+    {
+      "surface": "גג",
+      "gloss": "крова"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "него са женом"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "свађалском"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "и кућом"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "заједничком"
+    }
+  ],
+  "timestamp": "2026-09-05T13:52:11.529838524Z",
+  "model": "glm-5.3"
+}

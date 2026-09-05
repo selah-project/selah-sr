@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 5:6",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Мицрајиму дадосмо ⟨את⟩ руку, Ашуру — да се наситимо хлеба.",
+  "tokens": [
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрајиму"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "дадосмо"
+    },
+    {
+      "surface": "יד",
+      "gloss": "руку"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашуру"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "да се наситимо"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хлеба"
+    }
+  ],
+  "timestamp": "2026-09-05T16:07:23.832962192Z",
+  "model": "glm-5.3"
+}

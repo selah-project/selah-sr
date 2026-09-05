@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "malachi 3:6",
+  "book": "malachi",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Јер ја сам Јахве, не измених се, и ви, синови Јааковљеви, не нестадосте.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שניתי",
+      "gloss": "измених се"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "и ви"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Јааковљеви"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "כליתם",
+      "gloss": "нестадосте"
+    }
+  ],
+  "timestamp": "2026-09-05T16:44:09.265163730Z",
+  "model": "glm-5.3"
+}

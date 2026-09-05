@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 11:9",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "Зато јој се назва име Бавел, јер онде помеша Јахве усну све земље; и оданде их разаспа Јахве по лицу све земље.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "по"
+    },
+    {
+      "surface": "כן",
+      "gloss": "зато"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "назва"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "име њој"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Бавел"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ондде"
+    },
+    {
+      "surface": "בלל",
+      "gloss": "помеша"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "усну"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земље"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "и оданде"
+    },
+    {
+      "surface": "הפיצם",
+      "gloss": "разаспа их"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "על",
+      "gloss": "по"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицу"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земље"
+    }
+  ],
+  "timestamp": "2026-09-05T09:41:46.200617835Z",
+  "model": "glm-5.3"
+}

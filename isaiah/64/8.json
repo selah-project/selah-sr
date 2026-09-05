@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 64:8",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 64,
+  "translation": "Не срди се до сувише, Јахве, и не помни довека безакоње; ено, погледај молим — народ Твој смо, сви ми.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תקצף",
+      "gloss": "срди се"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "сувише"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и не"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "довека"
+    },
+    {
+      "surface": "תזכר",
+      "gloss": "помни"
+    },
+    {
+      "surface": "עון",
+      "gloss": "безакоње"
+    },
+    {
+      "surface": "הן",
+      "gloss": "ено"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "погледај"
+    },
+    {
+      "surface": "נא",
+      "gloss": "молим"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "народ Твој"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "сви ми"
+    }
+  ],
+  "timestamp": "2026-09-05T12:19:10.597353509Z",
+  "model": "glm-5.3"
+}

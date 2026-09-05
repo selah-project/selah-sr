@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 11:39",
+  "book": "1-kings",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "И понижићу ⟨את⟩ семе Давидово због тога — али не све дане.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "и понижићу"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "семе Давидово"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "семе"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давидово"
+    },
+    {
+      "surface": "למען",
+      "gloss": "због"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "тога"
+    },
+    {
+      "surface": "אך",
+      "gloss": "али"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "дане"
+    }
+  ],
+  "timestamp": "2026-09-05T15:28:37.838331636Z",
+  "model": "glm-5.3"
+}

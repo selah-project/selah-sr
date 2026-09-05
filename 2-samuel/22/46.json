@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "2-samuel 22:46",
+  "book": "2-samuel",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "Синови туђина вену и дршћу из својих тврђава.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синови"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "туђина"
+    },
+    {
+      "surface": "יבלו",
+      "gloss": "вену"
+    },
+    {
+      "surface": "ויחגרו",
+      "gloss": "и дршћу"
+    },
+    {
+      "surface": "ממסגרותם",
+      "gloss": "из својих тврђава"
+    }
+  ],
+  "timestamp": "2026-09-05T11:37:07.762991833Z",
+  "model": "glm-5.3"
+}

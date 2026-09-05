@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 27:17",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 27,
+  "translation": "Гвожђе се гвожђем ⟨јоштри⟩, и човек — лице друга својега.",
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "гвожђе"
+    },
+    {
+      "surface": "בברזל",
+      "gloss": "гвожђем"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "оштри"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "и човек"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "оштри"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лице"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "друга својега"
+    }
+  ],
+  "timestamp": "2026-09-05T13:53:08.676455421Z",
+  "model": "glm-5.3"
+}

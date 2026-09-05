@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "judges 6:34",
+  "book": "judges",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "И дух Јахвеа обу ⟨את⟩ Гидеона, и затруби у рог, и зваше Авиезер за њим.",
+  "tokens": [
+    {
+      "surface": "ורוח",
+      "gloss": "И дух"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "לבשה",
+      "gloss": "обу"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Гидеона"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Гидеона"
+    },
+    {
+      "surface": "ויתקע",
+      "gloss": "и затруби"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "у рог"
+    },
+    {
+      "surface": "ויזעק",
+      "gloss": "и зваше"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "Авиезер"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "за њим"
+    }
+  ],
+  "timestamp": "2026-09-05T15:18:42.739962837Z",
+  "model": "glm-5.3"
+}

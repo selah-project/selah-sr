@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 119:49",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 119,
+  "translation": "Захвалитељу своме сети се речи, на коју си ме надати дао.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "сети се"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "речи"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "својој слузи"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "коју"
+    },
+    {
+      "surface": "יחלתני",
+      "gloss": "си ме надати дао"
+    }
+  ],
+  "timestamp": "2026-09-05T13:40:12.973504137Z",
+  "model": "glm-5.3"
+}

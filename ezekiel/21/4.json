@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 21:4",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "И видиће свако тело да сам ја, Јахве, запалио ⟨је⟩; неће се угасити.",
+  "tokens": [
+    {
+      "surface": "וראו",
+      "gloss": "и видиће"
+    },
+    {
+      "surface": "כל",
+      "gloss": "свако"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "тело"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "בערתיה",
+      "gloss": "запалио сам је"
+    },
+    {
+      "surface": "לא",
+      "gloss": "неће"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "се угасити"
+    }
+  ],
+  "timestamp": "2026-09-05T12:49:05.534877942Z",
+  "model": "glm-5.3"
+}

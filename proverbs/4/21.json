@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 4:21",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "Нека ⟨не⟩ скрену из очију твојих; чувај их усред срца свог.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "нека ⟨не⟩"
+    },
+    {
+      "surface": "יליזו",
+      "gloss": "скрену"
+    },
+    {
+      "surface": "מעיניך",
+      "gloss": "из очију твојих"
+    },
+    {
+      "surface": "שמרם",
+      "gloss": "чувај их"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "усред"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "срца свог"
+    }
+  ],
+  "timestamp": "2026-09-05T13:45:56.772096905Z",
+  "model": "glm-5.3"
+}

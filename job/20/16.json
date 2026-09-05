@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 20:16",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 20,
+  "translation": "Отров аспида сисаће, убиће га језик отровнице.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "отров"
+    },
+    {
+      "surface": "пתנים",
+      "gloss": "аспида"
+    },
+    {
+      "surface": "יינק",
+      "gloss": "сисаће"
+    },
+    {
+      "surface": "תהרגהו",
+      "gloss": "убиће га"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "језик"
+    },
+    {
+      "surface": "אפעה",
+      "gloss": "отровнице"
+    }
+  ],
+  "timestamp": "2026-09-05T14:00:17.211821434Z",
+  "model": "glm-5.3"
+}

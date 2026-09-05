@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 25:22",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 25,
+  "translation": "јер жеравицу скупљаш на главу његову, и Јахве ће вратити теби.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "жеравицу"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "חתה",
+      "gloss": "скупљаш"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "главу његову"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "и Јахве"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "вратиће"
+    },
+    {
+      "surface": "לך",
+      "gloss": "теби"
+    }
+  ],
+  "timestamp": "2026-09-05T13:52:11.529585468Z",
+  "model": "glm-5.3"
+}

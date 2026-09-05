@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "psalms 119:51",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 119,
+  "translation": "Охоли су ме се веома ругали — од Торе твоје нисам одступио.",
+  "tokens": [
+    {
+      "surface": "זדים",
+      "gloss": "охоли"
+    },
+    {
+      "surface": "הליצני",
+      "gloss": "ругаху ми се"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "крајности"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "од Торе твоје"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נטיתי",
+      "gloss": "одступих"
+    }
+  ],
+  "timestamp": "2026-09-05T17:10:34.318622269Z",
+  "model": "glm-5.3"
+}

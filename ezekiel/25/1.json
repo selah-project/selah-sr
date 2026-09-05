@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 25:1",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 25,
+  "translation": "И би слово Јахвеино мени ⟨говорећи⟩:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И би"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеино"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мени"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨говорећи⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T15:47:00.293249509Z",
+  "model": "glm-5.3"
+}

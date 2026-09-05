@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 6:12",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "Човек ништаван, човек безакоња, који ходи изопаченошћу устâ.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "човек"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "ништаван"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "און",
+      "gloss": "безакоња"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ходи"
+    },
+    {
+      "surface": "עקשות",
+      "gloss": "изопаченошћу"
+    },
+    {
+      "surface": "פה",
+      "gloss": "устâ"
+    }
+  ],
+  "timestamp": "2026-09-05T13:47:04.158365233Z",
+  "model": "glm-5.3"
+}

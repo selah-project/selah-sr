@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 3:21",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "прстење и украсе за нос,",
+  "tokens": [
+    {
+      "surface": "הטבעות",
+      "gloss": "прстење"
+    },
+    {
+      "surface": "ונזמי",
+      "gloss": "и украсе"
+    },
+    {
+      "surface": "האף",
+      "gloss": "за нос"
+    }
+  ],
+  "timestamp": "2026-09-05T15:32:57.671281014Z",
+  "model": "glm-5.3"
+}

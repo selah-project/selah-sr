@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 45:6",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 45,
+  "translation": "Јер ово две године глад ⟨је⟩ усред земље, и још пет година у којима нема ни орања ни жетве.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ово"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "две године"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "глад"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "усред"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земље"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "и још"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "пет"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "година"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "у којима"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "חריש",
+      "gloss": "орања"
+    },
+    {
+      "surface": "וקציר",
+      "gloss": "ни жетва"
+    }
+  ],
+  "timestamp": "2026-09-05T17:16:17.393514901Z",
+  "model": "glm-5.3"
+}

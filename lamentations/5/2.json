@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 5:2",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Наслеђе наше окрену ⟨се⟩ странцима, куће наше туђинцима.",
+  "tokens": [
+    {
+      "surface": "נחלתנו",
+      "gloss": "Наслеђе наше"
+    },
+    {
+      "surface": "נהפכה",
+      "gloss": "окрену ⟨се⟩"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "странцима"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "куће наше"
+    },
+    {
+      "surface": "לנכרים",
+      "gloss": "туђинцима"
+    }
+  ],
+  "timestamp": "2026-09-05T14:10:53.359682491Z",
+  "model": "glm-5.3"
+}

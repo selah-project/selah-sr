@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 30,
+  "translation": "Гледај, ставио сам пред тебе данас ⟨את⟩ живот и ⟨את⟩ добро, и ⟨את⟩ смрт и ⟨את⟩ зло.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Гледај"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ставио сам"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "пред тобом"
+    },
+    {
+      "surface": "היום",
+      "gloss": "данас"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "живот"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "живот"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "добро"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "смрт"
+    },
+    {
+      "surface": "המות",
+      "gloss": "смрт"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "зло"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "зло"
+    }
+  ],
+  "timestamp": "2026-09-05T10:54:51.650711380Z",
+  "model": "glm-5.3"
+}

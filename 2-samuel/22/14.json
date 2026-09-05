@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 22:14",
+  "book": "2-samuel",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "Загрми са небеса Јахве, и Вишњи даде глас свој.",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "Загрми"
+    },
+    {
+      "surface": "מן",
+      "gloss": "са"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "небеса"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ועליון",
+      "gloss": "и Вишњи"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "даде"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "глас свој"
+    }
+  ],
+  "timestamp": "2026-09-05T15:26:34.062591291Z",
+  "model": "glm-5.3"
+}

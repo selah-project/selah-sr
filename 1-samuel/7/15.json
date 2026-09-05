@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 7:15",
+  "book": "1-samuel",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "И судио је Шемуел ⟨את⟩ Израиљу све дане живота свог.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "и судио је"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шемуел"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Израиљу"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљу"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дане"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "живота свог"
+    }
+  ],
+  "timestamp": "2026-09-05T11:16:24.065862566Z",
+  "model": "glm-5.3"
+}

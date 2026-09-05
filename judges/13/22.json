@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 13:22",
+  "book": "judges",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "И рече Маноах жени својој: смрт ћемо умрети, јер Елохима видесмо.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "Маноах"
+    },
+    {
+      "surface": "אל",
+      "gloss": "жени"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "својој"
+    },
+    {
+      "surface": "מות",
+      "gloss": "смрт"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "ћемо умрети"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохима"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "видесмо"
+    }
+  ],
+  "timestamp": "2026-09-05T11:10:58.888354832Z",
+  "model": "glm-5.3"
+}

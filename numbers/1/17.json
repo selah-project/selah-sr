@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 1:17",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "И узеше Моше (Мојсије) и Арон ⟨את⟩ људе ове који бише одређени по именима.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "и узеше"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "и Арон"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "људе ове"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "људе"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ове"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "נקבו",
+      "gloss": "бише одређени"
+    },
+    {
+      "surface": "בשמות",
+      "gloss": "по именима"
+    }
+  ],
+  "timestamp": "2026-09-05T10:28:04.519244096Z",
+  "model": "glm-5.3"
+}

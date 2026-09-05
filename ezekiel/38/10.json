@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 38:10",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 38,
+  "translation": "Тако рече Адонај Јахве: и биће у дан онај — узићи ће речи на срце твоје, и смислићеш намеру злу.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Тако"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "и биће"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "у дан"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "онај"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "узићи ће"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "речи"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "срце твоје"
+    },
+    {
+      "surface": "וחשבת",
+      "gloss": "и смислићеш"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "намеру"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "злу"
+    }
+  ],
+  "timestamp": "2026-09-05T12:54:54.661419300Z",
+  "model": "glm-5.3"
+}

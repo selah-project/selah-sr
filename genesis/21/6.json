@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 21:6",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "И рече Сара: „Смех учини ми Елохим; сваки који чује насмејаће се ⟨са⟩ мном.“",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Сара"
+    },
+    {
+      "surface": "צחק",
+      "gloss": "смех"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "учини"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сваки"
+    },
+    {
+      "surface": "השמע",
+      "gloss": "који чује"
+    },
+    {
+      "surface": "יצצק",
+      "gloss": "насмејаће се"
+    },
+    {
+      "surface": "לי",
+      "gloss": "са мном"
+    }
+  ],
+  "timestamp": "2026-09-05T09:44:56.309657737Z",
+  "model": "glm-5.3"
+}

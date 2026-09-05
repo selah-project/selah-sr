@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 91,
+  "translation": "Нећеш се бојати од страха ноћног, ни од стреле која лети дању.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "бојаш се"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "од страха"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ноћног"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "ни од стреле"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "лети"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "дању"
+    }
+  ],
+  "timestamp": "2026-09-05T13:35:38.393768706Z",
+  "model": "glm-5.3"
+}

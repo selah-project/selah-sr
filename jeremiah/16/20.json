@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 16:20",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 16,
+  "translation": "Хоће ли човек себи начинити богове — а они нису богови?",
+  "tokens": [
+    {
+      "surface": "היעשה",
+      "gloss": "хоће ли начинити"
+    },
+    {
+      "surface": "לו",
+      "gloss": "себи"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човек"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "богове"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "а они"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нису"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "богови"
+    }
+  ],
+  "timestamp": "2026-09-05T15:39:24.979561276Z",
+  "model": "glm-5.3"
+}

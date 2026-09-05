@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 1:4",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "Да да простацима лукавост ⟨опрезности⟩, младићу знање и расуђивање.",
+  "tokens": [
+    {
+      "surface": "לתת",
+      "gloss": "да да"
+    },
+    {
+      "surface": "לפתאים",
+      "gloss": "простацима"
+    },
+    {
+      "surface": "ערמה",
+      "gloss": "лукавост"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "младићу"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "знање"
+    },
+    {
+      "surface": "ומזמה",
+      "gloss": "и расуђивање"
+    }
+  ],
+  "timestamp": "2026-09-05T17:10:50.696560883Z",
+  "model": "glm-5.3"
+}

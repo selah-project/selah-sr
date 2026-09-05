@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 48:24",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 48,
+  "translation": "и на Кериот и на Боцру, и на све градове земље моавске, далеке и близке.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "קריות",
+      "gloss": "Кериот"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "Боцру"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "градове"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земље"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "моавске"
+    },
+    {
+      "surface": "הרחקות",
+      "gloss": "далеке"
+    },
+    {
+      "surface": "והקרבות",
+      "gloss": "и близке"
+    }
+  ],
+  "timestamp": "2026-09-05T12:38:40.822125291Z",
+  "model": "glm-5.3"
+}

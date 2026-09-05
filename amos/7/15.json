@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "amos 7:15",
+  "book": "amos",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "И ме узе Јахве иза стада, и рече ми Јахве: иди, пророкуј народу мом, Израиљу.",
+  "tokens": [
+    {
+      "surface": "ויקחני",
+      "gloss": "и ме узе"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "иза"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "стада"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "לך",
+      "gloss": "иди"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "пророкуј"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "народу мом"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљу"
+    }
+  ],
+  "timestamp": "2026-09-05T15:49:46.493197346Z",
+  "model": "glm-5.3"
+}

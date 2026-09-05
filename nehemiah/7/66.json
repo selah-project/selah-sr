@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "nehemiah 7:66",
+  "book": "nehemiah",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Сав скуп као један ⟨беше⟩ четири десетине хиљада, две хиљаде, триста шездесет.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Сав"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "скуп"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "као један"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "четири"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "десетине хиљада"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "хиљаде"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "три"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сто"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "и шездесет"
+    }
+  ],
+  "timestamp": "2026-09-05T14:31:06.344394054Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 1:15",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "И рече краљ мицрајски бабицама хебрејским — једној име Шифра, а другој Пуа:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "краљ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "мицрајски"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "бабицама"
+    },
+    {
+      "surface": "העברית",
+      "gloss": "хебрејским"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "שם",
+      "gloss": "име"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "једној"
+    },
+    {
+      "surface": "שפרה",
+      "gloss": "Шифра"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "а име"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "другој"
+    },
+    {
+      "surface": "פועה",
+      "gloss": "Пуа"
+    }
+  ],
+  "timestamp": "2026-09-05T09:58:53.268174222Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 34:9",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 34,
+  "translation": "Јер рече: не користи човека да се годи Елохиму.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "користи"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "човека"
+    },
+    {
+      "surface": "ברצתו",
+      "gloss": "да се годи"
+    },
+    {
+      "surface": "עם",
+      "gloss": "са ⟨ним⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохиму"
+    }
+  ],
+  "timestamp": "2026-09-05T14:03:30.123287270Z",
+  "model": "glm-5.3"
+}

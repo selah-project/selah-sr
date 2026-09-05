@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 106:17",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 106,
+  "translation": "Отвори се земља и прогута Датана, и покри над збором Авиретовим.",
+  "tokens": [
+    {
+      "surface": "תפתח",
+      "gloss": "отвори се"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земља"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "и прогута"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "Датана"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "и покри"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "збором"
+    },
+    {
+      "surface": "אבירם",
+      "gloss": "Авиретовим"
+    }
+  ],
+  "timestamp": "2026-09-05T13:37:42.370275554Z",
+  "model": "glm-5.3"
+}

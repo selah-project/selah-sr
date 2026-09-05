@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 28:3",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "Човек сиромах а тлачи бедне ⟨јесте⟩ као киша провална — и нема хлеба.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "Човек"
+    },
+    {
+      "surface": "רש",
+      "gloss": "сиромах"
+    },
+    {
+      "surface": "ועשק",
+      "gloss": "а тлачи"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "бедне"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "киша"
+    },
+    {
+      "surface": "סחף",
+      "gloss": "провална"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и нема"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хлеба"
+    }
+  ],
+  "timestamp": "2026-09-05T13:53:41.421758301Z",
+  "model": "glm-5.3"
+}

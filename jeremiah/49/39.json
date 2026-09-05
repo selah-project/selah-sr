@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "jeremiah 49:39",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 49,
+  "translation": "И биће у последње дане: вратићу ⟨את⟩ сужањство Елама, говори Јахве.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "и биће"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "у последње"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "дане"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "вратићу"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сужањство Елама"
+    },
+    {
+      "surface": "שבית",
+      "gloss": "сужањство"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Елама"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "говори"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-09-05T12:39:05.465267460Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 88:4",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 88,
+  "translation": "Јер се насити злима душа моја, и живот мој Шеолу стиже.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "насити се"
+    },
+    {
+      "surface": "ברעות",
+      "gloss": "злима"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душа моја"
+    },
+    {
+      "surface": "וחיי",
+      "gloss": "и живот мој"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Шеолу"
+    },
+    {
+      "surface": "הגיעו",
+      "gloss": "стиже"
+    }
+  ],
+  "timestamp": "2026-09-05T13:33:53.364375847Z",
+  "model": "glm-5.3"
+}

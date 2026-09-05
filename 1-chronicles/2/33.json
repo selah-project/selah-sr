@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 2:33",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "И синови Јонатанови: Пелет и Заза. Ови бише синови Јерахмелови.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "и синови"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Јонатанови"
+    },
+    {
+      "surface": "פלת",
+      "gloss": "Пелет"
+    },
+    {
+      "surface": "וזזא",
+      "gloss": "и Заза"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ови"
+    },
+    {
+      "surface": "היו",
+      "gloss": "бише"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "Јерахмелови"
+    }
+  ],
+  "timestamp": "2026-09-05T14:33:51.760780883Z",
+  "model": "glm-5.3"
+}

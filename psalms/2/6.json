@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 2:6",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "А ја помазах цара свога на Циону, гори светој својој.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "А ја"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "помазах"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "цара свога"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Циону"
+    },
+    {
+      "surface": "הר",
+      "gloss": "гори"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "светој својој"
+    }
+  ],
+  "timestamp": "2026-09-05T13:16:31.565205839Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 14:6",
+  "book": "zechariah",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "И биће у тај дан: неће бити светла — драгоцена ⟨светла⟩ се смрзну.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "И биће"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "у дан"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тај"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ће бити"
+    },
+    {
+      "surface": "אור",
+      "gloss": "светла"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "драгоцена"
+    },
+    {
+      "surface": "יקפאון",
+      "gloss": "се смрзну"
+    }
+  ],
+  "timestamp": "2026-09-05T15:53:33.638100134Z",
+  "model": "glm-5.3"
+}

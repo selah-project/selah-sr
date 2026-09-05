@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 25:5",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 25,
+  "translation": "Ето, чак и месец не светли, и звезде нису чисте у очима његовим.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Ето"
+    },
+    {
+      "surface": "עד",
+      "gloss": "чак и"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "месец"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יאהיל",
+      "gloss": "светли"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "и звезде"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "זכו",
+      "gloss": "су чисте"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "у очима његовим"
+    }
+  ],
+  "timestamp": "2026-09-05T14:00:56.771506664Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 23:10",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "И шест година сејћеш ⟨את⟩ земљу своју и скупићеш ⟨את⟩ род њен.",
+  "tokens": [
+    {
+      "surface": "ושש",
+      "gloss": "и шест"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "година"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "сејћеш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "земљу своју"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "земљу своју"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "и скупићеш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "род њен"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "род њен"
+    }
+  ],
+  "timestamp": "2026-09-05T10:07:23.079217325Z",
+  "model": "glm-5.3"
+}

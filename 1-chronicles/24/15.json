@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 24:15",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "Хезиру седамнаести, Хапицецу осамнаести.",
+  "tokens": [
+    {
+      "surface": "לחזיר",
+      "gloss": "Хезиру"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "седам"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "наести"
+    },
+    {
+      "surface": "להפצץ",
+      "gloss": "Хапицецу"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "осам"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "наести"
+    }
+  ],
+  "timestamp": "2026-09-05T14:41:51.635592685Z",
+  "model": "glm-5.3"
+}

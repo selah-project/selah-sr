@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 40:23",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 40,
+  "translation": "И не опомену сар точите ⟨את⟩ Јосефа, него га заборави.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "И не"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "опомену"
+    },
+    {
+      "surface": "שר",
+      "gloss": "сара"
+    },
+    {
+      "surface": "המשקים",
+      "gloss": "точите"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јосефа"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Јосефа"
+    },
+    {
+      "surface": "וישכחהו",
+      "gloss": "него га заборави"
+    }
+  ],
+  "timestamp": "2026-09-05T09:53:23.266104560Z",
+  "model": "glm-5.3"
+}

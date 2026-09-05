@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 35:1",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 35,
+  "translation": "И одговори Елиху и рече:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "И одговори"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Елиху"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    }
+  ],
+  "timestamp": "2026-09-05T14:03:48.335529346Z",
+  "model": "glm-5.3"
+}

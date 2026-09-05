@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "numbers 7:70",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "јарац ⟨од⟩ коза један за греховну ⟨жртву⟩ —",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "јарац"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "коза"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "један"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "за греховну ⟨жртву⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T16:56:17.000070860Z",
+  "model": "glm-5.3"
+}

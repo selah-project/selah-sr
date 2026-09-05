@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "lamentations 3:24",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "„Део је мој Јахве“, рече душа моја, „зато ћу га чекати“.",
+  "tokens": [
+    {
+      "surface": "חלקי",
+      "gloss": "део мој"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "рече"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душа моја"
+    },
+    {
+      "surface": "על",
+      "gloss": "зато ⟨на⟩"
+    },
+    {
+      "surface": "כן",
+      "gloss": "стога"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "чекати ћу"
+    },
+    {
+      "surface": "לו",
+      "gloss": "га"
+    }
+  ],
+  "timestamp": "2026-09-05T16:07:12.984045181Z",
+  "model": "glm-5.3"
+}

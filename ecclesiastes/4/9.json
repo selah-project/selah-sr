@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "Добри су двојица више од ⟨једног⟩, јер имају добру плату у труду свом.",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "добри су"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "двојица"
+    },
+    {
+      "surface": "מן",
+      "gloss": "више од"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "⟨једног⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "јер"
+    },
+    {
+      "surface": "יש",
+      "gloss": "имају"
+    },
+    {
+      "surface": "להם",
+      "gloss": "свој"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "плату"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добру"
+    },
+    {
+      "surface": "בעמלם",
+      "gloss": "у труду"
+    }
+  ],
+  "timestamp": "2026-09-05T14:11:13.439546588Z",
+  "model": "glm-5.3"
+}

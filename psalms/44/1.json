@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 44:1",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 44,
+  "translation": "За победника; синовима Кораха (Кораховим), поука.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "за победника"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "синовима"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Кораха"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "поука"
+    }
+  ],
+  "timestamp": "2026-09-05T13:25:46.487479171Z",
+  "model": "glm-5.3"
+}

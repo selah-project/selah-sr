@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 20:12",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 20,
+  "translation": "Уво што чује и око што види — Јахве начини оба њих.",
+  "tokens": [
+    {
+      "surface": "אזן",
+      "gloss": "уво"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "што чује"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "и око"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "што види"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "начини"
+    },
+    {
+      "surface": "גם",
+      "gloss": "оба"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "њих ⟨обојицу⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T13:50:31.466043913Z",
+  "model": "glm-5.3"
+}

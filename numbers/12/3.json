@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 12:3",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "А човек Моше беше ⟨врло⟩ смеран, више од сваког човека који је на лицу земље.",
+  "tokens": [
+    {
+      "surface": "והאיש",
+      "gloss": "а човек"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "смеран"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "врло"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "више од сваког"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "човека"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицу"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "земље"
+    }
+  ],
+  "timestamp": "2026-09-05T10:33:48.819983587Z",
+  "model": "glm-5.3"
+}

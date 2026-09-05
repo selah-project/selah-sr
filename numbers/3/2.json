@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 3:2",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "И ово су имена синова Аронових: првенац Надав, и Авију, Елазар и Итамар.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "И ово"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "имена"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Арона"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "првенац"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Надав"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "и Авију"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Елазар"
+    },
+    {
+      "surface": "ואיתמר",
+      "gloss": "и Итамар"
+    }
+  ],
+  "timestamp": "2026-09-05T10:29:10.941819728Z",
+  "model": "glm-5.3"
+}

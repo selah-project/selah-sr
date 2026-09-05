@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 38:16",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 38,
+  "translation": "Јер тебе, Јахве, чеках; ти ћеш одговорити, Адонај, Елохим мој.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тебе"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "чеках"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "ћеш одговорити"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим мој"
+    }
+  ],
+  "timestamp": "2026-09-05T13:25:00.738594912Z",
+  "model": "glm-5.3"
+}

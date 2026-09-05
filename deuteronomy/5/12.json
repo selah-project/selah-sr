@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 5:12",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Чувај ⟨את⟩ дан шабата да га осветиш, као што ти заповеди Јахве, Елохим твој.",
+  "tokens": [
+    {
+      "surface": "שמור",
+      "gloss": "Чувај"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дан шабата"
+    },
+    {
+      "surface": "יום",
+      "gloss": "дан"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "шабата"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "да га осветиш"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "као што"
+    },
+    {
+      "surface": "צוך",
+      "gloss": "заповеди ти"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Елохим твој"
+    }
+  ],
+  "timestamp": "2026-09-05T15:12:21.121481199Z",
+  "model": "glm-5.3"
+}

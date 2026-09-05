@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 5:16",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Тол његов ⟨је⟩ као отворен гроб; сви су јунаци.",
+  "tokens": [
+    {
+      "surface": "אשפתו",
+      "gloss": "тол његов"
+    },
+    {
+      "surface": "כקבר",
+      "gloss": "као гроб"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "отворен"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "сви"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "јунаци"
+    }
+  ],
+  "timestamp": "2026-09-05T12:21:45.493721839Z",
+  "model": "glm-5.3"
+}

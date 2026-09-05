@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 6:10",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "И синови Елкане: Амасај и Ахимот.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "и синови"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Елкане"
+    },
+    {
+      "surface": "עמשי",
+      "gloss": "Амасај"
+    },
+    {
+      "surface": "ואחימות",
+      "gloss": "и Ахимот"
+    }
+  ],
+  "timestamp": "2026-09-05T14:35:34.308354586Z",
+  "model": "glm-5.3"
+}

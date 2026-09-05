@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 3:2",
+  "book": "hosea",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "И купих је себи за петнаест сребреника, и хомер јечма и летех јечма.",
+  "tokens": [
+    {
+      "surface": "ואכרה",
+      "gloss": "И купих је"
+    },
+    {
+      "surface": "לי",
+      "gloss": "себи"
+    },
+    {
+      "surface": "בחמשה",
+      "gloss": "за пет"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "наест"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "сребреника"
+    },
+    {
+      "surface": "וחמר",
+      "gloss": "и хомер"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "јечма"
+    },
+    {
+      "surface": "ולתך",
+      "gloss": "и летех"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "јечма"
+    }
+  ],
+  "timestamp": "2026-09-05T13:01:16.648852501Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 14:10",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "А муж умре и клоне, и човек издахне — и где ⟨је⟩?",
+  "tokens": [
+    {
+      "surface": "וגבר",
+      "gloss": "а муж"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "умре"
+    },
+    {
+      "surface": "ויחלש",
+      "gloss": "и клоне"
+    },
+    {
+      "surface": "ויגוע",
+      "gloss": "и издахне"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човек"
+    },
+    {
+      "surface": "ואיו",
+      "gloss": "и где ⟨је⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T13:58:00.225754145Z",
+  "model": "glm-5.3"
+}

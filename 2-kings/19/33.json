@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 19:33",
+  "book": "2-kings",
+  "lang": "sr",
+  "chapter": 19,
+  "translation": "Путем којим дође, њиме ће се вратити, и у град овај неће ући — реч је Јахвеова.",
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "Путем"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "којим"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "дође"
+    },
+    {
+      "surface": "בה",
+      "gloss": "њиме"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ће се вратити"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и у"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "град"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "овај"
+    },
+    {
+      "surface": "לא",
+      "gloss": "неће"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ући"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "реч је"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеова"
+    }
+  ],
+  "timestamp": "2026-09-05T11:58:42.384153921Z",
+  "model": "glm-5.3"
+}

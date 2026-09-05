@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 110,
+  "translation": "Из потока на путу пијаће, зато ће подићи главу.",
+  "tokens": [
+    {
+      "surface": "מנחל",
+      "gloss": "из потока"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "на путу"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "пијаће"
+    },
+    {
+      "surface": "על",
+      "gloss": "зато"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨зато⟩"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "подићи"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "главу"
+    }
+  ],
+  "timestamp": "2026-09-05T17:18:41.040749463Z",
+  "model": "glm-5.3"
+}

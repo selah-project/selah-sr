@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 2:26",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "И би ⟨жена⟩ друга Јерахмеелу, а име јој Атара — она мајка Онамова.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "и би"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "⟨жена⟩"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "друга"
+    },
+    {
+      "surface": "לירחמאל",
+      "gloss": "Јерахмеелу"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "а име њено"
+    },
+    {
+      "surface": "עטרה",
+      "gloss": "Атара"
+    },
+    {
+      "surface": "היא",
+      "gloss": "она"
+    },
+    {
+      "surface": "אם",
+      "gloss": "мајка"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "Онамова"
+    }
+  ],
+  "timestamp": "2026-09-05T14:33:51.545222107Z",
+  "model": "glm-5.3"
+}

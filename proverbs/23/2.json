@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 23:2",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "И стави нож на грло своје, ако си ти господар душе.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "И стави"
+    },
+    {
+      "surface": "שכין",
+      "gloss": "нож"
+    },
+    {
+      "surface": "בלעך",
+      "gloss": "на грло своје"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "господар"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "душе"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    }
+  ],
+  "timestamp": "2026-09-05T13:52:21.098984548Z",
+  "model": "glm-5.3"
+}

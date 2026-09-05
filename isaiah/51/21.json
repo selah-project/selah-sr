@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 51:21",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 51,
+  "translation": "Зато чуј, молим, ово, сирото и опијена — а не вином:",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Зато"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "чуј"
+    },
+    {
+      "surface": "נא",
+      "gloss": "молим"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ово"
+    },
+    {
+      "surface": "עניה",
+      "gloss": "сирото"
+    },
+    {
+      "surface": "ושכרת",
+      "gloss": "и опијена"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "а не"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "вином"
+    }
+  ],
+  "timestamp": "2026-09-05T12:16:12.761373178Z",
+  "model": "glm-5.3"
+}

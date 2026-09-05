@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 7:3",
+  "book": "daniel",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "И четири звери велике изидоше из мора, различите једна од друге.",
+  "tokens": [
+    {
+      "surface": "וארבע",
+      "gloss": "И четири"
+    },
+    {
+      "surface": "חיון",
+      "gloss": "звери"
+    },
+    {
+      "surface": "רברבן",
+      "gloss": "велике"
+    },
+    {
+      "surface": "סלקן",
+      "gloss": "изидоше"
+    },
+    {
+      "surface": "מן",
+      "gloss": "из"
+    },
+    {
+      "surface": "ימא",
+      "gloss": "мора"
+    },
+    {
+      "surface": "שנין",
+      "gloss": "различите"
+    },
+    {
+      "surface": "דא",
+      "gloss": "једна"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "דא",
+      "gloss": "друге"
+    }
+  ],
+  "timestamp": "2026-09-05T16:09:10.174323376Z",
+  "model": "glm-5.3"
+}

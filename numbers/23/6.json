@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 23:6",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "И врати се к њему, и гле — стајаше код своје жртве паленице, он и сви кнезови Моава.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "врати се"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "к њему"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и гле"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "стајаше"
+    },
+    {
+      "surface": "על",
+      "gloss": "код"
+    },
+    {
+      "surface": "עלתו",
+      "gloss": "жртве паленице своје"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и сви"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "кнезови"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моава"
+    }
+  ],
+  "timestamp": "2026-09-05T10:38:07.251250161Z",
+  "model": "glm-5.3"
+}

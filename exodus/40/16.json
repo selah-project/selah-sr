@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 40:16",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 40,
+  "translation": "И учини Моше (Мојсије) по свему што заповеди Јахве ⟨את⟩ га; тако учини.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "И учини"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "по свему"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповеди"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "га"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тако"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "учини"
+    }
+  ],
+  "timestamp": "2026-09-05T10:15:19.061127469Z",
+  "model": "glm-5.3"
+}

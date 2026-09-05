@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "numbers 7:58",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "један шиљасти јарац ⟨за⟩ жртву за грех.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "шиљасти јарац"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "од коза"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "један"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "за жртву за грех"
+    }
+  ],
+  "timestamp": "2026-09-05T15:09:05.679369925Z",
+  "model": "glm-5.3"
+}

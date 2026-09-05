@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 1:26",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "Сруг, Нахор, Терах (Тара).",
+  "tokens": [
+    {
+      "surface": "שרוג",
+      "gloss": "Сруг"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Нахор"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Терах"
+    }
+  ],
+  "timestamp": "2026-09-05T14:33:23.705177862Z",
+  "model": "glm-5.3"
+}

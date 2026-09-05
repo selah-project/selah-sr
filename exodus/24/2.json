@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 24:2",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "И прићи ће Моше сам ка Јахвеу, а они неће приступити, нити ће народ попети се с њим.",
+  "tokens": [
+    {
+      "surface": "ונגש",
+      "gloss": "И прићи ће"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "сам"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ка"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеу"
+    },
+    {
+      "surface": "והם",
+      "gloss": "а они"
+    },
+    {
+      "surface": "לא",
+      "gloss": "неће"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "приступити"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "и народ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "неће"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "попети се"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "с њим"
+    }
+  ],
+  "timestamp": "2026-09-05T10:08:14.108577093Z",
+  "model": "glm-5.3"
+}

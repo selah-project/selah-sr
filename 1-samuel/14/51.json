@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-samuel 14:51",
+  "book": "1-samuel",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "Киш беше отац Шаула (Саула), а Нер, отац Авнера, беше син Авијела.",
+  "tokens": [
+    {
+      "surface": "וקיש",
+      "gloss": "Киш"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "отац"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаула (Саула)"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "а Нер"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "отац"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Авнера"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אביאל",
+      "gloss": "Авијела"
+    }
+  ],
+  "timestamp": "2026-09-05T15:22:17.326476748Z",
+  "model": "glm-5.3"
+}

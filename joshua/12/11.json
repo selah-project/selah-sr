@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 12:11",
+  "book": "joshua",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "цар Јармута (Јармат) један; цар Лакиша један;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "ירמות",
+      "gloss": "Јармута"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "један"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "Лакиша"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "један"
+    }
+  ],
+  "timestamp": "2026-09-05T15:17:11.624979076Z",
+  "model": "glm-5.3"
+}

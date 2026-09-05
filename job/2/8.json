@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 2:8",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "И узе себи цреп да се њиме чеше; а он седе усред пепела.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "и узе"
+    },
+    {
+      "surface": "לו",
+      "gloss": "себи"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "цреп"
+    },
+    {
+      "surface": "להתגרד",
+      "gloss": "да се чеше"
+    },
+    {
+      "surface": "בו",
+      "gloss": "њиме"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "а он"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "седе"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "усред"
+    },
+    {
+      "surface": "האפר",
+      "gloss": "пепела"
+    }
+  ],
+  "timestamp": "2026-09-05T13:55:08.041744497Z",
+  "model": "glm-5.3"
+}

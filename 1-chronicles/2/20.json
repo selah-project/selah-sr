@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 2:20",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "А Хур роди ⟨את⟩ Урија, и Уриј роди ⟨את⟩ Бецалела.",
+  "tokens": [
+    {
+      "surface": "וחור",
+      "gloss": "А Хур"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Урија"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Урија"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "и Уриј"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Бецалела"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Бецалела"
+    }
+  ],
+  "timestamp": "2026-09-05T14:33:57.077016622Z",
+  "model": "glm-5.3"
+}

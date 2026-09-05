@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 47:20",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 47,
+  "translation": "И страна западна: море велико, од међе до наспрам улаза у Хамат — ово ⟨је⟩ страна западна.",
+  "tokens": [
+    {
+      "surface": "ופאת",
+      "gloss": "и страна"
+    },
+    {
+      "surface": "ים",
+      "gloss": "западна"
+    },
+    {
+      "surface": "הים",
+      "gloss": "море"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "велико"
+    },
+    {
+      "surface": "מגבול",
+      "gloss": "од међе"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "наспрам"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "улаза"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "у Хамат"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ово"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "страна"
+    },
+    {
+      "surface": "ים",
+      "gloss": "западна"
+    }
+  ],
+  "timestamp": "2026-09-05T12:59:08.529869886Z",
+  "model": "glm-5.3"
+}

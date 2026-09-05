@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 35:31",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 35,
+  "translation": "И не узимајте откупа за душу убице који је крив за смрт; јер смрћу биће убијен.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "узимајте"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "откупа"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "за душу"
+    },
+    {
+      "surface": "רצח",
+      "gloss": "убице"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "крив"
+    },
+    {
+      "surface": "למות",
+      "gloss": "за смрт"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "מות",
+      "gloss": "смрћу"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "биће убијен"
+    }
+  ],
+  "timestamp": "2026-09-05T10:43:03.077211163Z",
+  "model": "glm-5.3"
+}

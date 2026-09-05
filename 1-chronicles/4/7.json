@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 4:7",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "А синови Хеле: Церет, Јоахар и Етнан.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "А синови"
+    },
+    {
+      "surface": "חלאה",
+      "gloss": "Хеле"
+    },
+    {
+      "surface": "צרת",
+      "gloss": "Церет"
+    },
+    {
+      "surface": "יצחר",
+      "gloss": "Јоахар"
+    },
+    {
+      "surface": "ואתנן",
+      "gloss": "и Етнан"
+    }
+  ],
+  "timestamp": "2026-09-05T14:34:49.042231180Z",
+  "model": "glm-5.3"
+}

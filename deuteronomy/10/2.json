@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 10:2",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "И написаћу на плочама ⟨את⟩ речи које бише на првим плочама, које си разбио, и стави их у ковчег.",
+  "tokens": [
+    {
+      "surface": "ואכתב",
+      "gloss": "И написаћу"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "плочама"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "речи"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "речи"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "које"
+    },
+    {
+      "surface": "היו",
+      "gloss": "бише"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "плочама"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "првим"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "које"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "си разбио"
+    },
+    {
+      "surface": "ושמתם",
+      "gloss": "и стави"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "у ковчег"
+    }
+  ],
+  "timestamp": "2026-09-05T10:47:11.874633249Z",
+  "model": "glm-5.3"
+}

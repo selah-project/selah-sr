@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 34:19",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 34,
+  "translation": "Близу је Јахве сломљена срца, и ⟨את⟩ скрштене духа спасава.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "Близу"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "לנשברי",
+      "gloss": "сломљена"
+    },
+    {
+      "surface": "לב",
+      "gloss": "срца"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "скрштене духа"
+    },
+    {
+      "surface": "דכאי",
+      "gloss": "скрштене"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "духа"
+    },
+    {
+      "surface": "יושיע",
+      "gloss": "спасава"
+    }
+  ],
+  "timestamp": "2026-09-05T13:21:46.310279268Z",
+  "model": "glm-5.3"
+}

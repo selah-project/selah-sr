@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 5:4",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "И бише дани Адамови пошто роди Шета (Сита) осам стотина година, и роди синове и кћери.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "и бише"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дани"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Адамови"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "пошто"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Шета"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Шета"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "осам"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "стотина"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "година"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "и роди"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "синове"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "и кћери"
+    }
+  ],
+  "timestamp": "2026-09-05T09:39:58.349873976Z",
+  "model": "glm-5.3"
+}

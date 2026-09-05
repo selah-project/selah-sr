@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 25:9",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 25,
+  "translation": "И бише мртви у помору двадесет и четири хиљаде.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "и бише"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "мртви"
+    },
+    {
+      "surface": "במגפה",
+      "gloss": "у помору"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "четири"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "и двадесет"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "хиљаде"
+    }
+  ],
+  "timestamp": "2026-09-05T10:37:27.445686048Z",
+  "model": "glm-5.3"
+}

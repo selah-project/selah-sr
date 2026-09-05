@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 22:1",
+  "book": "1-kings",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "И седеше три године нема рата између Арама и између Израиља.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "и седеше"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "три"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "године"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "рата"
+    },
+    {
+      "surface": "בין",
+      "gloss": "између"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Арама"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "и између"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиља"
+    }
+  ],
+  "timestamp": "2026-09-05T11:50:21.738852602Z",
+  "model": "glm-5.3"
+}

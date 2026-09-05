@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 31:6",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 31,
+  "translation": "А ви знате да свом снагом својом служих оца вашега.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "а ви"
+    },
+    {
+      "surface": "ידעתן",
+      "gloss": "знате"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "свом"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "снагом својом"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "служих"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "оца вашега"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "оца вашега"
+    }
+  ],
+  "timestamp": "2026-09-05T09:50:25.947753601Z",
+  "model": "glm-5.3"
+}

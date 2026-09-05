@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 3:4",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Изли меса мог и коже моје, сломи кости моје.",
+  "tokens": [
+    {
+      "surface": "בלה",
+      "gloss": "Изли"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "меса мог"
+    },
+    {
+      "surface": "ועורי",
+      "gloss": "и коже моје"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "сломи"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "кости моје"
+    }
+  ],
+  "timestamp": "2026-09-05T14:09:29.363821868Z",
+  "model": "glm-5.3"
+}

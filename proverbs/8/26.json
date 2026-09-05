@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 8:26",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "Док још не беше начинио земљу и ⟨отворена⟩ поља, и врх прахова света.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "док"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "начинио"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земљу"
+    },
+    {
+      "surface": "וחוצות",
+      "gloss": "и ⟨отворена⟩ поља"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "и врх"
+    },
+    {
+      "surface": "עפרות",
+      "gloss": "прахова"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "света"
+    }
+  ],
+  "timestamp": "2026-09-05T13:48:00.336505617Z",
+  "model": "glm-5.3"
+}

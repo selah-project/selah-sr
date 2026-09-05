@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 116:15",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 116,
+  "translation": "Драгоцено у очима Јахвеа ⟨је⟩ смрт хасида његових.",
+  "tokens": [
+    {
+      "surface": "יקר",
+      "gloss": "Драгоцено"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "у очима"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "המותה",
+      "gloss": "смрт"
+    },
+    {
+      "surface": "לחסידיו",
+      "gloss": "хасида његових"
+    }
+  ],
+  "timestamp": "2026-09-05T13:39:50.099771818Z",
+  "model": "glm-5.3"
+}

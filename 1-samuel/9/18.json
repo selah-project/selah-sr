@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 9:18",
+  "book": "1-samuel",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "И приступи Шаул ⟨את⟩ Шмуела усред капије, и рече: „Кажи ми, молим те, где је ⟨то⟩ дом видара?”",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "И приступи"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Шмуела"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шмуела"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "усред"
+    },
+    {
+      "surface": "השער",
+      "gloss": "капије"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "Кажи"
+    },
+    {
+      "surface": "נא",
+      "gloss": "молим те"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "אי",
+      "gloss": "где"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨то⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "видара"
+    }
+  ],
+  "timestamp": "2026-09-05T11:18:33.761386880Z",
+  "model": "glm-5.3"
+}

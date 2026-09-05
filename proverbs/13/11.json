@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 13:11",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "Имовина од ништавности опада, а скупљач на руку умножава.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "имовина"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "од ништавности"
+    },
+    {
+      "surface": "ימעט",
+      "gloss": "опада"
+    },
+    {
+      "surface": "וקבץ",
+      "gloss": "а скупљач"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "יד",
+      "gloss": "руку"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "умножава"
+    }
+  ],
+  "timestamp": "2026-09-05T13:48:19.670687237Z",
+  "model": "glm-5.3"
+}

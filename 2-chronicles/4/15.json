@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "⟨את⟩ једно море и ⟨את⟩ дванаест волова под њим.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "једно море"
+    },
+    {
+      "surface": "הים",
+      "gloss": "море"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "једно"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "дванаест волова"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "волова"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "два"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "наест"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "под њим"
+    }
+  ],
+  "timestamp": "2026-09-05T14:45:28.508448055Z",
+  "model": "glm-5.3"
+}

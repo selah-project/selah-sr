@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 9:19",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "Ако је до силе — ено, ⟨он је⟩ моћан; а ако је до суда — ко ће ме сазвати?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ако"
+    },
+    {
+      "surface": "לכח",
+      "gloss": "до силе"
+    },
+    {
+      "surface": "אמיץ",
+      "gloss": "моћан"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ено"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "а ако"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "до суда"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ко"
+    },
+    {
+      "surface": "יועידני",
+      "gloss": "ће ме сазвати"
+    }
+  ],
+  "timestamp": "2026-09-05T16:03:32.043512441Z",
+  "model": "glm-5.3"
+}

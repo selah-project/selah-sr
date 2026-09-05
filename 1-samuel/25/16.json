@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 25:16",
+  "book": "1-samuel",
+  "lang": "sr",
+  "chapter": 25,
+  "translation": "Зид нам бише и ноћу и дању, све дане док бисмо с њима чувајући ⟨את⟩ овце.",
+  "tokens": [
+    {
+      "surface": "חומה",
+      "gloss": "Зид"
+    },
+    {
+      "surface": "היו",
+      "gloss": "бише"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "нам"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ноћу"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "дању"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дане"
+    },
+    {
+      "surface": "היותנו",
+      "gloss": "док бисмо"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "с њима"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "чувајући"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "овце"
+    }
+  ],
+  "timestamp": "2026-09-05T11:24:50.263428879Z",
+  "model": "glm-5.3"
+}

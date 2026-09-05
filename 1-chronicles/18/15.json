@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 18:15",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "и Јоав син Церујин над војском, а Јехошафат син Ахилудов — поменичар.",
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "и Јоав"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Церује"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "војском"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "а Јехошафат"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אחילוד",
+      "gloss": "Ахилуда"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "поменичар"
+    }
+  ],
+  "timestamp": "2026-09-05T14:40:15.275658382Z",
+  "model": "glm-5.3"
+}

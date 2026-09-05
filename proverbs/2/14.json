@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 2:14",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "који се раде зла да чине, кличу у изопачености зла,",
+  "tokens": [
+    {
+      "surface": "השמחים",
+      "gloss": "који се раде"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "да чине"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зла"
+    },
+    {
+      "surface": "יגילו",
+      "gloss": "кличу"
+    },
+    {
+      "surface": "בתהפכות",
+      "gloss": "у изопачености"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зла"
+    }
+  ],
+  "timestamp": "2026-09-05T13:45:55.479762379Z",
+  "model": "glm-5.3"
+}

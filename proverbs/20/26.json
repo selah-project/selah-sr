@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 20:26",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 20,
+  "translation": "Мудар краљ веје зле, и врати ⟨на њих⟩ точак.",
+  "tokens": [
+    {
+      "surface": "мезарех",
+      "gloss": "веје"
+    },
+    {
+      "surface": "решаим",
+      "gloss": "зле"
+    },
+    {
+      "surface": "мелек",
+      "gloss": "краљ"
+    },
+    {
+      "surface": "хакам",
+      "gloss": "мудар"
+    },
+    {
+      "surface": "вајашев",
+      "gloss": "и врати"
+    },
+    {
+      "surface": "алејхем",
+      "gloss": "на њих"
+    },
+    {
+      "surface": "офан",
+      "gloss": "точак"
+    }
+  ],
+  "timestamp": "2026-09-05T16:01:22.587635301Z",
+  "model": "glm-5.3"
+}

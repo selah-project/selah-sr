@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 5:14",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "једва што не бех у сваком злу, усред скупштине и сабора.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "једва што не"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "бех"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "у сваком"
+    },
+    {
+      "surface": "רע",
+      "gloss": "злу"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "усред"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "скупштине"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "и сабора"
+    }
+  ],
+  "timestamp": "2026-09-05T13:46:00.681431655Z",
+  "model": "glm-5.3"
+}

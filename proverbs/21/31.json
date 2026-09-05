@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 21:31",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "Коњ је спреман за дан боја, а ⟨од⟩ Јахвеа је избављење.",
+  "tokens": [
+    {
+      "surface": "סוס",
+      "gloss": "Коњ"
+    },
+    {
+      "surface": "מוכן",
+      "gloss": "спреман"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "за дан"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "боја"
+    },
+    {
+      "surface": "וליהוה",
+      "gloss": "а ⟨од⟩ Јахвеа"
+    },
+    {
+      "surface": "התשועה",
+      "gloss": "избављење"
+    }
+  ],
+  "timestamp": "2026-09-05T13:51:08.637568663Z",
+  "model": "glm-5.3"
+}

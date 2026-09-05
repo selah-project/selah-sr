@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 44:23",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 44,
+  "translation": "Јер ради тебе убијани смо читав дан, урачунати као овце за коље.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ради тебе"
+    },
+    {
+      "surface": "הרגנו",
+      "gloss": "убијани смо"
+    },
+    {
+      "surface": "כל",
+      "gloss": "читав"
+    },
+    {
+      "surface": "היום",
+      "gloss": "дан"
+    },
+    {
+      "surface": "נחשבנו",
+      "gloss": "урачунати смо"
+    },
+    {
+      "surface": "כצאן",
+      "gloss": "као овце"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "за коље"
+    }
+  ],
+  "timestamp": "2026-09-05T13:25:51.473791506Z",
+  "model": "glm-5.3"
+}

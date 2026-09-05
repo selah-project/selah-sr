@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 43:8",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 43,
+  "translation": "Изведи народ слеп а очи има, и глухе а уши имају.",
+  "tokens": [
+    {
+      "surface": "הוציא",
+      "gloss": "Изведи"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "עור",
+      "gloss": "слеп"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "а очи"
+    },
+    {
+      "surface": "יש",
+      "gloss": "има"
+    },
+    {
+      "surface": "וחרשים",
+      "gloss": "и глухе"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "и уши"
+    },
+    {
+      "surface": "למו",
+      "gloss": "има"
+    }
+  ],
+  "timestamp": "2026-09-05T12:12:59.037275267Z",
+  "model": "glm-5.3"
+}

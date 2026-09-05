@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 18:27",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "Са изопаченим изопачујеш се, а са кривудавим кривудаш.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "са"
+    },
+    {
+      "surface": "נבר",
+      "gloss": "изопаченим"
+    },
+    {
+      "surface": "תתברר",
+      "gloss": "изопачујеш се"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "а са"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "кривудавим"
+    },
+    {
+      "surface": "תתפתל",
+      "gloss": "кривудаш"
+    }
+  ],
+  "timestamp": "2026-09-05T15:54:11.444158654Z",
+  "model": "glm-5.3"
+}

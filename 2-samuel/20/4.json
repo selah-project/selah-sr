@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 20:4",
+  "book": "2-samuel",
+  "lang": "sr",
+  "chapter": 20,
+  "translation": "И рече краљ Амаси: „Сазови ми ⟨את⟩ људе Јудине у три дана, а ти овде стој.”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "краљ"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Амаси"
+    },
+    {
+      "surface": "הזעק",
+      "gloss": "сазови"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "људе Јудине"
+    },
+    {
+      "surface": "איש",
+      "gloss": "људе"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јудине"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "у три"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дана"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "а ти"
+    },
+    {
+      "surface": "פה",
+      "gloss": "овде"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "стој"
+    }
+  ],
+  "timestamp": "2026-09-05T11:35:45.091678068Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 16:25",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 16,
+  "translation": "И ⟨את⟩ сало жртве за грех накади на жртвеник.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "сало"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "сало"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "жртве за грех"
+    },
+    {
+      "surface": "יקטיר",
+      "gloss": "накади"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "на жртвеник"
+    }
+  ],
+  "timestamp": "2026-09-05T10:22:50.650285084Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "Поколение одлази и поколение долази, а земља заувек стоји.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Поколение"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "одлази"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "и поколение"
+    },
+    {
+      "surface": "בא",
+      "gloss": "долази"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "а земља"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "завек"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "стоји"
+    }
+  ],
+  "timestamp": "2026-09-05T14:11:15.512906382Z",
+  "model": "glm-5.3"
+}

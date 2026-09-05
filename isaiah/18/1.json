@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 18:1",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "Јао земљи жамора крила, која је с оне стране река Куша.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Јао"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земљи"
+    },
+    {
+      "surface": "צלצל",
+      "gloss": "жамора"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "крила"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "која"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "с оне стране"
+    },
+    {
+      "surface": "לנהרי",
+      "gloss": "река"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Куша"
+    }
+  ],
+  "timestamp": "2026-09-05T12:06:51.695948138Z",
+  "model": "glm-5.3"
+}

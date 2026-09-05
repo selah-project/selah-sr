@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "lamentations 3:35",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Да изврне право човека пред лицем Вишњега,",
+  "tokens": [
+    {
+      "surface": "להטות",
+      "gloss": "Да изврне"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "право"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "човека"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "пред"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицем"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Вишњега"
+    }
+  ],
+  "timestamp": "2026-09-05T14:09:22.434161243Z",
+  "model": "glm-5.3"
+}

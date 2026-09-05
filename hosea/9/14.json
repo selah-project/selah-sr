@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "hosea 9:14",
+  "book": "hosea",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "Дај им, Јахве — шта ћеш им дати? Дај им утробу која побацује и дојке пресушле.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "Дај"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "מה",
+      "gloss": "шта"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ћеш дати"
+    },
+    {
+      "surface": "תן",
+      "gloss": "дај"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "утробу"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "која побацује"
+    },
+    {
+      "surface": "ושדים",
+      "gloss": "и дојке"
+    },
+    {
+      "surface": "צמקים",
+      "gloss": "пресушле"
+    }
+  ],
+  "timestamp": "2026-09-05T17:08:31.514700386Z",
+  "model": "glm-5.3"
+}

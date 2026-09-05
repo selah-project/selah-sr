@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 16:26",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 16,
+  "translation": "Шест дана скупљаћете га, а у дан седми — шабат: неће бити ⟨на њему⟩.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "Шест"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дана"
+    },
+    {
+      "surface": "תלקטהו",
+      "gloss": "скупљаћете га"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "а у дан"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "седми"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "шабат"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ће бити"
+    },
+    {
+      "surface": "בו",
+      "gloss": "на њему"
+    }
+  ],
+  "timestamp": "2026-09-05T10:05:03.764458595Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 2:5",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Тада ћеш разумети страх Јахвеов, и знање Елохима наћи ћеш.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Тада"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "ћеш разумети"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "страх"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеов"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "и знање"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохима"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "наћи ћеш"
+    }
+  ],
+  "timestamp": "2026-09-05T13:45:44.296102345Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 22:17",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "Врачару не пуштај да живи.",
+  "tokens": [
+    {
+      "surface": "מכשפה",
+      "gloss": "Врачару"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "пуштај да живи"
+    }
+  ],
+  "timestamp": "2026-09-05T10:07:52.372252511Z",
+  "model": "glm-5.3"
+}

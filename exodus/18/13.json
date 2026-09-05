@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 18:13",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "И би сутрадан, па седе Моше (Мојсије) да суди ⟨את⟩ народ, и стаде народ око Мошеа од јутра до вечера.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И би"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "сутрадан"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "па седе"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לשפט",
+      "gloss": "да суди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "народ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "и стаде"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "על",
+      "gloss": "око"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошеа"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "јутра"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "вечера"
+    }
+  ],
+  "timestamp": "2026-09-05T10:05:52.134564283Z",
+  "model": "glm-5.3"
+}

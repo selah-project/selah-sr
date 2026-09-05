@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 38:23",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 38,
+  "translation": "Пожури на помоћ моју, Адонају, спасење моје!",
+  "tokens": [
+    {
+      "surface": "חושה",
+      "gloss": "пожури"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "на помоћ моју"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонају"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "спасење моје"
+    }
+  ],
+  "timestamp": "2026-09-05T13:24:44.956871549Z",
+  "model": "glm-5.3"
+}

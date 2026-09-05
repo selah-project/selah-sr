@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 28:29",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "десетину ⟨и⟩ десетину за једно јагње, за седам јагњади —",
+  "tokens": [
+    {
+      "surface": "עשרון",
+      "gloss": "десетина"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "десетина"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "за јагње"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "једно"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "за седам"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "јагњади"
+    }
+  ],
+  "timestamp": "2026-09-05T15:10:50.065056188Z",
+  "model": "glm-5.3"
+}

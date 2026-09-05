@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 5:20",
+  "book": "judges",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "С небеса бише се, звезде са својих стаза бише се са Сисром.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "С"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "небеса"
+    },
+    {
+      "surface": "נלחמו",
+      "gloss": "бише се"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "звезде"
+    },
+    {
+      "surface": "ממסלותם",
+      "gloss": "са својих стаза"
+    },
+    {
+      "surface": "נלחמו",
+      "gloss": "бише се"
+    },
+    {
+      "surface": "עם",
+      "gloss": "са"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Сисром"
+    }
+  ],
+  "timestamp": "2026-09-05T11:07:32.564408492Z",
+  "model": "glm-5.3"
+}

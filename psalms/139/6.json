@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 139,
+  "translation": "Пречудно ⟨је⟩ знање од мене, узвишено — не могу ⟨га⟩ ⟨достигнути⟩.",
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "пречудно"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "знање"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "од мене"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "узвишено"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "могу"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨га⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T13:43:42.311001687Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 24:21",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "Бој се, сине мој, Јахвеа и краља, и са променљивцима се не мешај.",
+  "tokens": [
+    {
+      "surface": "ירא",
+      "gloss": "бој се"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јахвеа"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сине мој"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "и краља"
+    },
+    {
+      "surface": "עם",
+      "gloss": "са"
+    },
+    {
+      "surface": "שונים",
+      "gloss": "променљивцима"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תתערב",
+      "gloss": "мешај се"
+    }
+  ],
+  "timestamp": "2026-09-05T16:01:21.024193966Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 132:13",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 132,
+  "translation": "Јер изабра Јахве Цијон, пожеле ⟨ју је⟩ за пребивалиште себи.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "изабра"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "Цијон"
+    },
+    {
+      "surface": "אוה",
+      "gloss": "пожеле"
+    },
+    {
+      "surface": "למושב",
+      "gloss": "за пребивалиште"
+    },
+    {
+      "surface": "לו",
+      "gloss": "себи"
+    }
+  ],
+  "timestamp": "2026-09-05T13:42:00.903024553Z",
+  "model": "glm-5.3"
+}

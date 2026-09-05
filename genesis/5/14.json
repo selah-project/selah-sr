@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 5:14",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "И бише сви дани Кеинанови десет година и девет стотина година, и умре.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "И бише"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сви"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дани"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Кеинанови"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "десет"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "година"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "и девет"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "стотина"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "година"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "и умре"
+    }
+  ],
+  "timestamp": "2026-09-05T09:39:48.209789899Z",
+  "model": "glm-5.3"
+}

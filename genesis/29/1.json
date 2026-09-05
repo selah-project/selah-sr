@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 29:1",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 29,
+  "translation": "И подиже Јааков (Јаков) своје ноге и отиде у земљу синâ Истока.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "И подиже"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Јааков"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "своје ноге"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "и отиде"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "у земљу"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синâ"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "Истока"
+    }
+  ],
+  "timestamp": "2026-09-05T09:48:41.241005463Z",
+  "model": "glm-5.3"
+}

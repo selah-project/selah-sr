@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 27:4",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 27,
+  "translation": "Окрутност ⟨је⟩ гнева и изливање беса, а ко ће стојати пред завишћу?",
+  "tokens": [
+    {
+      "surface": "אכזריות",
+      "gloss": "окрутност"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "гнева"
+    },
+    {
+      "surface": "ושטף",
+      "gloss": "и изливање"
+    },
+    {
+      "surface": "אף",
+      "gloss": "беса"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "а ко"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ће стојати"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "завишћу"
+    }
+  ],
+  "timestamp": "2026-09-05T13:53:11.542915121Z",
+  "model": "glm-5.3"
+}

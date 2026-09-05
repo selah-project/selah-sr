@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 77:10",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 77,
+  "translation": "Зар заборави Ел благодање, зар затвори у гневу милости своје? Села.",
+  "tokens": [
+    {
+      "surface": "השכח",
+      "gloss": "Зар заборави"
+    },
+    {
+      "surface": "חנות",
+      "gloss": "благодање"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "אם",
+      "gloss": "зар"
+    },
+    {
+      "surface": "קפץ",
+      "gloss": "затвори"
+    },
+    {
+      "surface": "באף",
+      "gloss": "у гневу"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "милости своје"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Села"
+    }
+  ],
+  "timestamp": "2026-09-05T15:56:32.568100179Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 39:4",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 39,
+  "translation": "Рамена начинише му, спојена, на два краја његова — спојено ⟨је⟩.",
+  "tokens": [
+    {
+      "surface": "כתפת",
+      "gloss": "Рамена"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "начинише"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "спојена"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "שני",
+      "gloss": "два"
+    },
+    {
+      "surface": "קצוותו",
+      "gloss": "краја његова"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "спојено ⟨је⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T10:14:37.772133226Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 147:4",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 147,
+  "translation": "Броји број звезда, свима њима имена надева.",
+  "tokens": [
+    {
+      "surface": "מונה",
+      "gloss": "Броји"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "број"
+    },
+    {
+      "surface": "לכוכבים",
+      "gloss": "звезда"
+    },
+    {
+      "surface": "לכלם",
+      "gloss": "свија њима"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "имена"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "надева"
+    }
+  ],
+  "timestamp": "2026-09-05T13:45:09.504900888Z",
+  "model": "glm-5.3"
+}

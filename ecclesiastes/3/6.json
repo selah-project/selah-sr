@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Време да се тражи и време да се изгуби; време да се чува и време да се баци.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "време"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "тражити"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "и време"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "изгубити"
+    },
+    {
+      "surface": "עת",
+      "gloss": "време"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "чувати"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "и време"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "бацити"
+    }
+  ],
+  "timestamp": "2026-09-05T14:11:04.605755219Z",
+  "model": "glm-5.3"
+}

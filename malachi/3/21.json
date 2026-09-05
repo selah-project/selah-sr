@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "malachi 3:21",
+  "book": "malachi",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "И газићете зле, јер биће пепео под табанима ногу ваших, у дан који ја чиним — рече Јахве Цеваот.",
+  "tokens": [
+    {
+      "surface": "ועסותם",
+      "gloss": "и газићете"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "зле"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "биће"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "пепео"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "כפות",
+      "gloss": "табанима"
+    },
+    {
+      "surface": "רגליכם",
+      "gloss": "ногу ваших"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "у дан"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "чиним"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    }
+  ],
+  "timestamp": "2026-09-05T13:17:15.042824817Z",
+  "model": "glm-5.3"
+}

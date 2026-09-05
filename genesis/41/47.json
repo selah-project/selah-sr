@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "genesis 41:47",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 41,
+  "translation": "И роди земља у седам година изобиља ⟨за⟩ пуне шаке.",
+  "tokens": [
+    {
+      "surface": "ותעש",
+      "gloss": "И роди"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земља"
+    },
+    {
+      "surface": "בשבע",
+      "gloss": "у седам"
+    },
+    {
+      "surface": "שני",
+      "gloss": "година"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "изобиља"
+    },
+    {
+      "surface": "לקמצים",
+      "gloss": "пуне шаке"
+    }
+  ],
+  "timestamp": "2026-09-05T16:48:13.692771098Z",
+  "model": "glm-5.3"
+}

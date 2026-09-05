@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 96:4",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 96,
+  "translation": "Јер велики ⟨је⟩ Јахве и врло хваљен, страшан ⟨је⟩ он над свим боговима.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "велики"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "и хваљен"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "врло"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "страшан"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "כל",
+      "gloss": "свим"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "боговима"
+    }
+  ],
+  "timestamp": "2026-09-05T13:35:11.734559089Z",
+  "model": "glm-5.3"
+}

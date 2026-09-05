@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Јер насиље луди мудрога, и поклон уништава ⟨את⟩ срце.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "насиље"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "луди"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мудрога"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "и уништава"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "срце"
+    },
+    {
+      "surface": "לב",
+      "gloss": "срце"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "поклон"
+    }
+  ],
+  "timestamp": "2026-09-05T14:12:24.873797756Z",
+  "model": "glm-5.3"
+}

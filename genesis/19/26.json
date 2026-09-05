@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 19:26",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 19,
+  "translation": "И погледа жена његова за њим, и постаде стуб од соли.",
+  "tokens": [
+    {
+      "surface": "ותבט",
+      "gloss": "и погледа"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "жена његова"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "за њим"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "и постаде"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "ступ"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "од соли"
+    }
+  ],
+  "timestamp": "2026-09-05T09:43:52.519465731Z",
+  "model": "glm-5.3"
+}

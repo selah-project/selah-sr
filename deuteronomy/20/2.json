@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 20:2",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 20,
+  "translation": "И биће, кад се приближите боју, да ће приступити свештеник и говорити народу.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "И биће"
+    },
+    {
+      "surface": "כקרבכם",
+      "gloss": "кад се приближите"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "боју"
+    },
+    {
+      "surface": "ונגש",
+      "gloss": "приступиће"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "свештеник"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "и говориће"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народу"
+    }
+  ],
+  "timestamp": "2026-09-05T10:51:13.786674197Z",
+  "model": "glm-5.3"
+}

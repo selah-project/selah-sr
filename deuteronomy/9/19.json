@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 9:19",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "Јер побојах се гнева и срџбе којом се разгневи Јахве на вас да вас уништи ⟨את⟩; и послуша Јахве мене и тај пут.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "יגרתי",
+      "gloss": "побојах се"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "האף",
+      "gloss": "гневом"
+    },
+    {
+      "surface": "והחמה",
+      "gloss": "и срџбом"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "којом"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "разгневи се"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "на вас"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "да уништи"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "вас"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "и послуша"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мене"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "пут"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тај"
+    }
+  ],
+  "timestamp": "2026-09-05T10:47:12.240326686Z",
+  "model": "glm-5.3"
+}

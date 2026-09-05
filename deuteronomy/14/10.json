@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 14:10",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "А све што нема пераје и крљушт нећете јести — нечисто је то за вас.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "А све"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨њему⟩"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "пераје"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "и крљушт"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ћете јести"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "нечисто"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "је то"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "за вас"
+    }
+  ],
+  "timestamp": "2026-09-05T10:48:23.241420225Z",
+  "model": "glm-5.3"
+}

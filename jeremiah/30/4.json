@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 30:4",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 30,
+  "translation": "А ово су речи које рече Јахве о Израиљу и о Јуди.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "А ово"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "су речи"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "које"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "о"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљу"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и о"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јуди"
+    }
+  ],
+  "timestamp": "2026-09-05T12:32:19.555452279Z",
+  "model": "glm-5.3"
+}

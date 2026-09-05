@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 2:6",
+  "book": "hosea",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "И ⟨את⟩ синове њене нећу помиловати, јер синови блуда ⟨су⟩ они.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "синове њене"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "синове њене"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "помилујем"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "блуда"
+    },
+    {
+      "surface": "המה",
+      "gloss": "они ⟨су⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T13:00:32.965817388Z",
+  "model": "glm-5.3"
+}

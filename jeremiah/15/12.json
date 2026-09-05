@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 15:12",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 15,
+  "translation": "Може ли се сломити гвожђе — гвожђе са севера — и бронза?",
+  "tokens": [
+    {
+      "surface": "הירע",
+      "gloss": "Може ли се сломити"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "гвожђе"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "гвожђе"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "са севера"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "и бронза"
+    }
+  ],
+  "timestamp": "2026-09-05T12:25:38.217638643Z",
+  "model": "glm-5.3"
+}

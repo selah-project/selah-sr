@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 2:9",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Тада ћеш разумети правду и право и поштеност — сваку стазу добру.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Тада"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "ћеш разумети"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "правду"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "и право"
+    },
+    {
+      "surface": "ומישרים",
+      "gloss": "и поштеност"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сваку"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "стазу"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добру"
+    }
+  ],
+  "timestamp": "2026-09-05T13:45:40.746218583Z",
+  "model": "glm-5.3"
+}

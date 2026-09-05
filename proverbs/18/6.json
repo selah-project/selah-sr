@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 18:6",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "Усне лудога улазе у препирку, и уста његова зову на ударце.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "усне"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "лудога"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "улазе"
+    },
+    {
+      "surface": "בריב",
+      "gloss": "у препирку"
+    },
+    {
+      "surface": "ופיו",
+      "gloss": "и уста његова"
+    },
+    {
+      "surface": "למהלמות",
+      "gloss": "на ударце"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "зову"
+    }
+  ],
+  "timestamp": "2026-09-05T13:50:08.869652420Z",
+  "model": "glm-5.3"
+}

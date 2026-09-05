@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 22:1",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "И рече Давид: ово ⟨је⟩ дом Јахвеа Елохима, и ово ⟨је⟩ жртвеник за паљеницу за Израиља.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ово"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨је⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елохима"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "и ово"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "жртвеник"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "за паљеницу"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "за Израиља"
+    }
+  ],
+  "timestamp": "2026-09-05T14:41:50.962969486Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 20:15",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 20,
+  "translation": "Тако ћеш учинити свим градовима врло удаљеним од тебе, који нису од градова народа ових ⟨овде⟩.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "тако"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "учинити ћеш"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "свим"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "градовима"
+    },
+    {
+      "surface": "הרחקת",
+      "gloss": "удаљеним"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "од тебе"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "врло"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нису"
+    },
+    {
+      "surface": "מערי",
+      "gloss": "од градова"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "народâ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ових"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "⟨овде⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T10:50:56.086099150Z",
+  "model": "glm-5.3"
+}

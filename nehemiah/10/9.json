@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 10:9",
+  "book": "nehemiah",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "Маазија, Билгај, Шемаја — то су свештеници.",
+  "tokens": [
+    {
+      "surface": "מעזיה",
+      "gloss": "Маазија"
+    },
+    {
+      "surface": "בלגי",
+      "gloss": "Билгај"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Шемаја"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "то"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "су свештеници"
+    }
+  ],
+  "timestamp": "2026-09-05T14:31:44.479042902Z",
+  "model": "glm-5.3"
+}

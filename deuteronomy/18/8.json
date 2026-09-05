@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 18:8",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "Део као део нека једу, осим продатог од имања својих, уз ⟨део⟩ очева.",
+  "tokens": [
+    {
+      "surface": "חלק",
+      "gloss": "Део"
+    },
+    {
+      "surface": "כחלק",
+      "gloss": "као део"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "нека једу"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "осим"
+    },
+    {
+      "surface": "ממכריו",
+      "gloss": "продатог од имања својих"
+    },
+    {
+      "surface": "על",
+      "gloss": "уз"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "очева"
+    }
+  ],
+  "timestamp": "2026-09-05T10:50:43.347645483Z",
+  "model": "glm-5.3"
+}

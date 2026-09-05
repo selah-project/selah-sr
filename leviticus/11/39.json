@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "leviticus 11:39",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "Ако угине од стоке која је вама за јело — онај што се дотакне лешине њене биће нечист до вечера.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Ако"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "угине"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "стоке"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "која"
+    },
+    {
+      "surface": "היא",
+      "gloss": "она"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вама"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "за јело"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "онај што се дотакне"
+    },
+    {
+      "surface": "בנבלתה",
+      "gloss": "лешине њене"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "биће нечист"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "вечера"
+    }
+  ],
+  "timestamp": "2026-09-05T10:18:34.528738846Z",
+  "model": "glm-5.3"
+}

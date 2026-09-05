@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 11:3",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "Ако се облаци напуне, излиће ⟨кишу⟩ на земљу; а ако дрво падне на југ, или ако на север — у месту где дрво падне, тамо ⟨јесте⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ако"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "напуне се"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "облаци"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "киша"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земљу"
+    },
+    {
+      "surface": "יריקו",
+      "gloss": "излиће"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "а ако"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "падне"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "дрво"
+    },
+    {
+      "surface": "בדרום",
+      "gloss": "на југ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "или ако"
+    },
+    {
+      "surface": "בצפון",
+      "gloss": "на север"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "у месту"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "где падне"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "дрво"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тамо"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "⟨јесте⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T14:13:25.868064905Z",
+  "model": "glm-5.3"
+}

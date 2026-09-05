@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 27:14",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 27,
+  "translation": "И не слушајте речи пророка који вам говоре: „Не служите ⟨את⟩ цару вавилонском“, јер лаж вам пророкују.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "слушајте"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨у⟩"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "речи"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "пророка"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "који говоре"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "„"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעבדו",
+      "gloss": "служите"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "цару"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цару"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "вавилонском"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "лаж"
+    },
+    {
+      "surface": "הם",
+      "gloss": "они"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "пророкују"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    }
+  ],
+  "timestamp": "2026-09-05T12:30:35.803758326Z",
+  "model": "glm-5.3"
+}

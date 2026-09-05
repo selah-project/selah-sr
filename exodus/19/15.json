@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 19:15",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 19,
+  "translation": "И рече народу: „Будите спремни за три дана; не приступајте жени.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ка"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народу"
+    },
+    {
+      "surface": "היו",
+      "gloss": "будите"
+    },
+    {
+      "surface": "נכנים",
+      "gloss": "спремни"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "за три"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дана"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תגשו",
+      "gloss": "приступајте"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ка"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "жени"
+    }
+  ],
+  "timestamp": "2026-09-05T16:32:40.527723696Z",
+  "model": "glm-5.3"
+}

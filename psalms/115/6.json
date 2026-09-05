@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 115:6",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 115,
+  "translation": "Уши имају, али не чују; нос имају, али не мирису.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "уши"
+    },
+    {
+      "surface": "להם",
+      "gloss": "имају"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "али не"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "чују"
+    },
+    {
+      "surface": "אף",
+      "gloss": "нос"
+    },
+    {
+      "surface": "להם",
+      "gloss": "имају"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "али не"
+    },
+    {
+      "surface": "יריחון",
+      "gloss": "мирису"
+    }
+  ],
+  "timestamp": "2026-09-05T15:58:00.733367839Z",
+  "model": "glm-5.3"
+}

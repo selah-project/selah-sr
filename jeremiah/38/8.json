@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 38:8",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 38,
+  "translation": "И изађе Евед Мелек из дома краљевог и рече краљу, говорећи:",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "и изађе"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Евед"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Мелек"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "из дома"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "краљевог"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אל",
+      "gloss": "према"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "краљу"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорећи"
+    }
+  ],
+  "timestamp": "2026-09-05T12:35:19.820056721Z",
+  "model": "glm-5.3"
+}

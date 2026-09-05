@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 31:11",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 31,
+  "translation": "И рече ми анђео Елохимов у сну: Јаакове! А јах рекох: ено ме.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "анђео"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елохимов"
+    },
+    {
+      "surface": "בחלום",
+      "gloss": "у сну"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Јаакове"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "а јах рекох"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ено ме"
+    }
+  ],
+  "timestamp": "2026-09-05T09:50:26.615973912Z",
+  "model": "glm-5.3"
+}

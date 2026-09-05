@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 23:12",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "Доведи срце своје к васпити, и ухо своје речима знања.",
+  "tokens": [
+    {
+      "surface": "הביאה",
+      "gloss": "Доведи"
+    },
+    {
+      "surface": "למוסר",
+      "gloss": "к васпити"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "срце своје"
+    },
+    {
+      "surface": "ואזנך",
+      "gloss": "и ухо своје"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "речима"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "знања"
+    }
+  ],
+  "timestamp": "2026-09-05T13:51:44.982902456Z",
+  "model": "glm-5.3"
+}

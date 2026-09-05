@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 9:4",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "Утај син Амихудов, син Омријев, син Имријев, син Банијев, од синова Перецових, син Јудин.",
+  "tokens": [
+    {
+      "surface": "עותי",
+      "gloss": "Утај"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "Амихудов"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Омријев"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "Имријев"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Банијев"
+    },
+    {
+      "surface": "בני",
+      "gloss": "од синова"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Перецових"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јудин"
+    }
+  ],
+  "timestamp": "2026-09-05T14:38:06.354866869Z",
+  "model": "glm-5.3"
+}

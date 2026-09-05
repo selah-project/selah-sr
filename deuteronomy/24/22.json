@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 24:22",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "И спомнићеш да си био роб у земљи Мицрајиму (Египат); зато ја ти заповедам да чиниш ⟨את⟩ ово дело.",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "И спомнићеш"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "роб"
+    },
+    {
+      "surface": "היית",
+      "gloss": "си био"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "у земљи"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрајиму"
+    },
+    {
+      "surface": "על",
+      "gloss": "зато"
+    },
+    {
+      "surface": "כן",
+      "gloss": "(истовремено)"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ја"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ти заповедам"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "да чиниш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ово дело"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "дело"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ово"
+    }
+  ],
+  "timestamp": "2026-09-05T16:57:59.679606472Z",
+  "model": "glm-5.3"
+}

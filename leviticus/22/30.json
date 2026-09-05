@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 22:30",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "У онај дан нека се поједе; не остављајте од њега ништа до јутра: ја сам Јахве.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "у дан"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "онај"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "нека се поједе"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "остављајте"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "од њега"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "јутра"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-09-05T10:24:06.729850910Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "И засија сунце, и зађе сунце, и ⟨к⟩ месту своме дахћући узлази — онo је тамо.",
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "И засија"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "сунце"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "и зађе"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "сунце"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и према"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "месту своме"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "дахћући"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "узлази"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "оно"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тамо"
+    }
+  ],
+  "timestamp": "2026-09-05T14:11:51.734853434Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 1:12",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "и ⟨את⟩ Патрусце и ⟨את⟩ Каслухце, одакле изаше Плишти, и ⟨את⟩ Кафторце.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Патрусце"
+    },
+    {
+      "surface": "פתרסים",
+      "gloss": "Патрусце"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Каслухце"
+    },
+    {
+      "surface": "כסלחים",
+      "gloss": "Каслухце"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "одакле"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "изаше"
+    },
+    {
+      "surface": "משם",
+      "gloss": "отамо"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Плишти"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Кафторце"
+    },
+    {
+      "surface": "כפתרים",
+      "gloss": "Кафторце"
+    }
+  ],
+  "timestamp": "2026-09-05T14:33:41.264716270Z",
+  "model": "glm-5.3"
+}

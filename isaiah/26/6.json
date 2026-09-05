@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 26:6",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 26,
+  "translation": "Газе ⟨је⟩ нога — ноге сиромаха, стопала убогих.",
+  "tokens": [
+    {
+      "surface": "תרמסנה",
+      "gloss": "Газе"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "нога"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ноге"
+    },
+    {
+      "surface": "עני",
+      "gloss": "сиромаха"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "стопала"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "убогих"
+    }
+  ],
+  "timestamp": "2026-09-05T15:34:55.337647406Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 19:6",
+  "book": "joshua",
+  "lang": "sr",
+  "chapter": 19,
+  "translation": "и Бет-Леваот и Шарухен — градова тринаест и села њихова.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "и Бет-"
+    },
+    {
+      "surface": "לבאות",
+      "gloss": "Леваот"
+    },
+    {
+      "surface": "ושרוחן",
+      "gloss": "и Шарухен"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "градова"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "три"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "наест"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "и села њихова"
+    }
+  ],
+  "timestamp": "2026-09-05T11:03:20.332985149Z",
+  "model": "glm-5.3"
+}

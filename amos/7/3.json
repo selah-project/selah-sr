@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 7:3",
+  "book": "amos",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Покаја се Јахве за ово: „неће бити\", рече Јахве.",
+  "tokens": [
+    {
+      "surface": "נחם",
+      "gloss": "Покаја се"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ово"
+    },
+    {
+      "surface": "לא",
+      "gloss": "неће"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "бити"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-09-05T16:42:49.173856353Z",
+  "model": "glm-5.3"
+}

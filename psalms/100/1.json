@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 100:1",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 100,
+  "translation": "Псалам за славословље. Ускликните Јахвеу, сва земљо!",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Псалам"
+    },
+    {
+      "surface": "לתודה",
+      "gloss": "за славословље"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "Ускликните"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Јахвеу"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сва"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земљо"
+    }
+  ],
+  "timestamp": "2026-09-05T13:36:48.251688413Z",
+  "model": "glm-5.3"
+}

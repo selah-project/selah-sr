@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 8:20",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "Прође жетва, сврши се лето, а ми не бисмо спасени.",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "Прође"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "жетва"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "сврши се"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "лето"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "а ми"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נושענו",
+      "gloss": "бисмо спасени"
+    }
+  ],
+  "timestamp": "2026-09-05T12:24:43.576629903Z",
+  "model": "glm-5.3"
+}

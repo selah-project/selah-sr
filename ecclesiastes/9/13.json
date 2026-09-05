@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 9:13",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "И ово видех као мудрост под сунцем, и велика је ⟨мени⟩:",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ово"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "видех"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мудрост"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "сунцем"
+    },
+    {
+      "surface": "וגדולה",
+      "gloss": "и велика"
+    },
+    {
+      "surface": "היא",
+      "gloss": "је"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "⟨мені⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T14:13:05.992330409Z",
+  "model": "glm-5.3"
+}

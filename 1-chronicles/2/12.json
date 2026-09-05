@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "И Боаз роди ⟨את⟩ Оведа, и Овед роди ⟨את⟩ Јишаја (Јесеја).",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "И Боаз"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Оведа"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Оведа"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "и Овед"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јишаја"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Јишаја (Јесеја)"
+    }
+  ],
+  "timestamp": "2026-09-05T16:14:15.777456663Z",
+  "model": "glm-5.3"
+}

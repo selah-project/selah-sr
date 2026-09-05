@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 23:7",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "Не тражи мира њиховог ни добра њиховог све дане своје, до века.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תדרש",
+      "gloss": "тражи"
+    },
+    {
+      "surface": "שלמם",
+      "gloss": "мира њиховог"
+    },
+    {
+      "surface": "וטבתם",
+      "gloss": "ни добра њиховог"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "дане своје"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "до века"
+    }
+  ],
+  "timestamp": "2026-09-05T10:52:51.693018234Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 11:4",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "Ко чува ветар неће сејати, и ко гледа облаке неће жети.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Ко чува"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ветар"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "ће сејати"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "и ко гледа"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "облаке"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "ће жети"
+    }
+  ],
+  "timestamp": "2026-09-05T14:13:25.868240500Z",
+  "model": "glm-5.3"
+}

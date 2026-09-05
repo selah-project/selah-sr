@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 94:4",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 94,
+  "translation": "Избијају, говоре дрскости; уздижу се сви чиниоци безакоња.",
+  "tokens": [
+    {
+      "surface": "יביעו",
+      "gloss": "Избијају"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "говоре"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "дрскости"
+    },
+    {
+      "surface": "יתאמרו",
+      "gloss": "уздижу се"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сви"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "чиниоци"
+    },
+    {
+      "surface": "און",
+      "gloss": "безакоња"
+    }
+  ],
+  "timestamp": "2026-09-05T13:35:31.433235191Z",
+  "model": "glm-5.3"
+}

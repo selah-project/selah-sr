@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 3:29",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "И остановисмо се у долини према Беит-Пеору.",
+  "tokens": [
+    {
+      "surface": "ונשב",
+      "gloss": "и остановисмо се"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "у долини"
+    },
+    {
+      "surface": "מול",
+      "gloss": "према"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Беит"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Пеор"
+    }
+  ],
+  "timestamp": "2026-09-05T10:44:24.261380447Z",
+  "model": "glm-5.3"
+}

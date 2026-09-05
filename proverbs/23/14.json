@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 23:14",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "Ти ћеш га ударити штапом, и душу ћеш му из Шеола избавити.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "штапом"
+    },
+    {
+      "surface": "תכנו",
+      "gloss": "ударити га"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "и душу му"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "из Шеола"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "избавити"
+    }
+  ],
+  "timestamp": "2026-09-05T16:44:27.546882458Z",
+  "model": "glm-5.3"
+}

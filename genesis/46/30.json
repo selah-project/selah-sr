@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 46:30",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 46,
+  "translation": "И рече Израел Јосефу: да умрем сада, пошто видех ⟨את⟩ лице твоје, јер још ти си жив.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израел"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Јосефу"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Јосефу"
+    },
+    {
+      "surface": "אמותה",
+      "gloss": "да умрем сада"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "сада"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "пошто"
+    },
+    {
+      "surface": "ראותי",
+      "gloss": "видех"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "лице твоје"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "лице твоје"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "עודך",
+      "gloss": "још ти"
+    },
+    {
+      "surface": "חי",
+      "gloss": "жив"
+    }
+  ],
+  "timestamp": "2026-09-05T09:57:34.952963605Z",
+  "model": "glm-5.3"
+}

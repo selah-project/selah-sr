@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 36:24",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 36,
+  "translation": "Сети се да величаш дело његово, о коме су људи певали.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Сети се"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "תשגיא",
+      "gloss": "величаш"
+    },
+    {
+      "surface": "пעלו",
+      "gloss": "дело његово"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "о коме"
+    },
+    {
+      "surface": "שררו",
+      "gloss": "певали"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "људи"
+    }
+  ],
+  "timestamp": "2026-09-05T14:03:32.512498050Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 20:1",
+  "book": "joshua",
+  "lang": "sr",
+  "chapter": 20,
+  "translation": "И рече Јахве Јехошуи (Исусу Навину), говорећи:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "према"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Јехошуи"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорећи"
+    }
+  ],
+  "timestamp": "2026-09-05T11:04:09.176390289Z",
+  "model": "glm-5.3"
+}

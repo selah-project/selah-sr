@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 33:4",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 33,
+  "translation": "Дух Ела створи ме, и дах Шадаја (Свемоћног) оживљава ме.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "Дух"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ела"
+    },
+    {
+      "surface": "עשתני",
+      "gloss": "створи ме"
+    },
+    {
+      "surface": "ונשמת",
+      "gloss": "и дах"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Шадаја"
+    },
+    {
+      "surface": "תחיני",
+      "gloss": "оживљава ме"
+    }
+  ],
+  "timestamp": "2026-09-05T16:05:27.565951842Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 5:12",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Има зло болесно што видех под сунцем: богатство чувано власнику његовом ⟨на⟩ зло његово.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "има"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зло"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "болесно"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "видех"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "сунцем"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "богатство"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "чувано"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "власнику његовом"
+    },
+    {
+      "surface": "לרעתו",
+      "gloss": "на зло његово"
+    }
+  ],
+  "timestamp": "2026-09-05T14:13:01.414619862Z",
+  "model": "glm-5.3"
+}

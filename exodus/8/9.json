@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 8:9",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "И учини Јахве по речи Мошеа, и помреше жабе из кућа, из дворова и из поља.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "И учини"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "по речи"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошеа"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "и помреше"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "жабе"
+    },
+    {
+      "surface": "מן",
+      "gloss": "из"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "кућа"
+    },
+    {
+      "surface": "מן",
+      "gloss": "из"
+    },
+    {
+      "surface": "החצרת",
+      "gloss": "дворова"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "и из"
+    },
+    {
+      "surface": "השדת",
+      "gloss": "поља"
+    }
+  ],
+  "timestamp": "2026-09-05T10:01:50.735006810Z",
+  "model": "glm-5.3"
+}

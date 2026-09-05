@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 15:25",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 15,
+  "translation": "Кућу охолих ишчупаће Јахве, а међу удовице учврстиће.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "кућу"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "охолих"
+    },
+    {
+      "surface": "יסח",
+      "gloss": "ишчупаће"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ויצב",
+      "gloss": "а учврстиће"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "међу"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "удовице"
+    }
+  ],
+  "timestamp": "2026-09-05T16:00:44.019845875Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 49:14",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 49,
+  "translation": "И рече Цион: остави ме Јахве, и Адонај ме заборави.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Цион"
+    },
+    {
+      "surface": "עזבני",
+      "gloss": "остави ме"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ואדני",
+      "gloss": "и Адонај"
+    },
+    {
+      "surface": "שכחני",
+      "gloss": "заборави ме"
+    }
+  ],
+  "timestamp": "2026-09-05T12:15:08.595307213Z",
+  "model": "glm-5.3"
+}

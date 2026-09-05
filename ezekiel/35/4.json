@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 35:4",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 35,
+  "translation": "Градове твоје рушевином учиним, и ти ћеш бити пустош, и знаћеш да сам ја Јахве.",
+  "tokens": [
+    {
+      "surface": "עריך",
+      "gloss": "Градове твоје"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "рушевином"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "учиним"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "и ти"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "пустош"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ћеш бити"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "и знаћеш"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-09-05T12:54:37.604993640Z",
+  "model": "glm-5.3"
+}

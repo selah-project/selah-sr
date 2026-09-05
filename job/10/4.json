@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 10:4",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "Имаш ли очи од тела, или као што види смртник видиш?",
+  "tokens": [
+    {
+      "surface": "העיני",
+      "gloss": "имаш ли очи"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "од тела"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨ти⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "или"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "као што види"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "смртник"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "видиш"
+    }
+  ],
+  "timestamp": "2026-09-05T13:58:07.219674705Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 5:30",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Иди, реци им: вратите се себи, у шаторе своје.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Иди"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "реци"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ним"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "вратите се"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "себи"
+    },
+    {
+      "surface": "לאהליכם",
+      "gloss": "у шаторе своје"
+    }
+  ],
+  "timestamp": "2026-09-05T10:45:01.590340947Z",
+  "model": "glm-5.3"
+}

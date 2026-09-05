@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 30:24",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 30,
+  "translation": "Четири ⟨је› малих на земљи, а она су мудра надмудреном мудрошћу:",
+  "tokens": [
+    {
+      "surface": "ארבעה",
+      "gloss": "четири"
+    },
+    {
+      "surface": "הם",
+      "gloss": "су"
+    },
+    {
+      "surface": "קטני",
+      "gloss": "малих"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "на земљи"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "а она"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "мудра"
+    },
+    {
+      "surface": "מחכמים",
+      "gloss": "надмудреном мудрошћу"
+    }
+  ],
+  "timestamp": "2026-09-05T13:53:06.698064777Z",
+  "model": "glm-5.3"
+}

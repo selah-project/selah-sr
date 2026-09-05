@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 10:9",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "Ко премешта камење биће повређен ⟨од њега⟩; ко цепа дрва биће угрожен ⟨од њих⟩.",
+  "tokens": [
+    {
+      "surface": "מסיע",
+      "gloss": "премешта"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "камење"
+    },
+    {
+      "surface": "יעצב",
+      "gloss": "биће повређен"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "од њега"
+    },
+    {
+      "surface": "בוקע",
+      "gloss": "цепа"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "дрва"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "биће угрожен"
+    },
+    {
+      "surface": "בם",
+      "gloss": "од њих"
+    }
+  ],
+  "timestamp": "2026-09-05T14:12:15.285478896Z",
+  "model": "glm-5.3"
+}

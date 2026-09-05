@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 10:4",
+  "book": "zechariah",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "Из њега угаони камен, из њега клин, из њега ратни лук, из њега излази сваки тлачитељ заједно.",
+  "tokens": [
+    {
+      "surface": "ממנו",
+      "gloss": "Из њега"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "угаони камен"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "из њега"
+    },
+    {
+      "surface": "יתד",
+      "gloss": "клин"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "из њега"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "лук"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ратни"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "из њега"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "излази"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сваки"
+    },
+    {
+      "surface": "נוגש",
+      "gloss": "тлачитељ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "заједно"
+    }
+  ],
+  "timestamp": "2026-09-05T13:15:16.096357524Z",
+  "model": "glm-5.3"
+}

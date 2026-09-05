@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 30:7",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 30,
+  "translation": "Два питах од ⟨את⟩ тебе; не ускради ми ⟨тога⟩ пре него што умрем.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "Два"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "питах"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "од ⟨את⟩ тебе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "ускради"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ми"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "пре него што"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "умрем"
+    }
+  ],
+  "timestamp": "2026-09-05T16:02:35.622749784Z",
+  "model": "glm-5.3"
+}

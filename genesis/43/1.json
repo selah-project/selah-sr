@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 43:1",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 43,
+  "translation": "И глад беше тежак у земљи.",
+  "tokens": [
+    {
+      "surface": "והרעב",
+      "gloss": "и глад"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "тежак"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "у земљи"
+    }
+  ],
+  "timestamp": "2026-09-05T15:01:38.545876201Z",
+  "model": "glm-5.3"
+}

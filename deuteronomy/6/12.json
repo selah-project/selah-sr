@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 6:12",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "Чувај се да не заборавиш Јахвеа ⟨את⟩ који те изведе из земље мицрајимске, из дома робља.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "Чувај се"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨себе⟩"
+    },
+    {
+      "surface": "פן",
+      "gloss": "да не"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "заборавиш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јахвеа"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "те изведе"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "из земље"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "мицрајимске"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "из дома"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "робља"
+    }
+  ],
+  "timestamp": "2026-09-05T10:45:09.964114115Z",
+  "model": "glm-5.3"
+}

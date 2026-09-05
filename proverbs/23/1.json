@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 23:1",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "Кад седнеш да једеш ⟨את⟩ владара, дубоко разумевај ⟨את⟩ оно што је пред тобом.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Кад"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "седнеш"
+    },
+    {
+      "surface": "ללחום",
+      "gloss": "да једеш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "владара"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "владара"
+    },
+    {
+      "surface": "בין",
+      "gloss": "дубоко"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "разумевај"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "оно што"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "пред тобом"
+    }
+  ],
+  "timestamp": "2026-09-05T13:52:21.098723879Z",
+  "model": "glm-5.3"
+}

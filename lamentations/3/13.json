@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "lamentations 3:13",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Увео је у бубреге моје стреле из тобоца свога.",
+  "tokens": [
+    {
+      "surface": "הביא",
+      "gloss": "Увео је"
+    },
+    {
+      "surface": "בכליותי",
+      "gloss": "у бубреге моје"
+    },
+    {
+      "surface": "בני",
+      "gloss": "стреле (синови)"
+    },
+    {
+      "surface": "אשפתו",
+      "gloss": "тобоца свога"
+    }
+  ],
+  "timestamp": "2026-09-05T14:09:16.512287959Z",
+  "model": "glm-5.3"
+}

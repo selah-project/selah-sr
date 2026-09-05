@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 1:21",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "И би, јер се побојаше бабице Елохима ⟨את⟩, те учини њима домове.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И би"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "се побојаше"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "бабице"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Елохима"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елохима"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "те учини"
+    },
+    {
+      "surface": "להם",
+      "gloss": "њима"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "домове"
+    }
+  ],
+  "timestamp": "2026-09-05T09:58:20.751600691Z",
+  "model": "glm-5.3"
+}

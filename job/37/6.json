@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 37:6",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 37,
+  "translation": "Јер снегу каже: падни на земљу; и дажду, и даждевима силе своје.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "לשלג",
+      "gloss": "снегу"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "каже"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "буди"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "на земљи"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "и дажд"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "кише дажда"
+    },
+    {
+      "surface": "וגשם",
+      "gloss": "и дажд"
+    },
+    {
+      "surface": "מטרות",
+      "gloss": "даждева"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "силе своје"
+    }
+  ],
+  "timestamp": "2026-09-05T16:50:21.143727753Z",
+  "model": "glm-5.3"
+}

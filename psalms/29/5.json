@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 29:5",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 29,
+  "translation": "Глас Јахвеа ломи кедрове — да, сломи Јахве ⟨את⟩ кедрове Ливана.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "глас"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ломи"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "кедрове"
+    },
+    {
+      "surface": "וישבר",
+      "gloss": "и сломи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кедрове"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "кедрове"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Ливана"
+    }
+  ],
+  "timestamp": "2026-09-05T13:20:39.654901851Z",
+  "model": "glm-5.3"
+}

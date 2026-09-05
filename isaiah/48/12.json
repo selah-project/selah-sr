@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 48:12",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 48,
+  "translation": "Чуј ме, Јаакове (Јаков), и Израелу, звани мој: ја сам ⟨он⟩; ја први, па ја и последњи.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "чуј"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мене"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Јаакове"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "и Израелу"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "звани мој"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "сам ⟨он⟩"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "први"
+    },
+    {
+      "surface": "אף",
+      "gloss": "па"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "и последњи"
+    }
+  ],
+  "timestamp": "2026-09-05T12:14:29.423173180Z",
+  "model": "glm-5.3"
+}

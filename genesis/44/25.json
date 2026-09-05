@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 44:25",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 44,
+  "translation": "И рече отац наш: Вратите се, купите нам мало хране.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "отац наш"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "Вратите се"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "купите"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "нам"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "мало"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "хране"
+    }
+  ],
+  "timestamp": "2026-09-05T09:57:01.679324841Z",
+  "model": "glm-5.3"
+}

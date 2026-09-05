@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 12:15",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "Ови ⟨су⟩ од синова Гадовых, главе војске: један на сто најмањи, а највећи на хиљаду.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ови"
+    },
+    {
+      "surface": "мבני",
+      "gloss": "од синова"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гад"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "главе"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "војске"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "један"
+    },
+    {
+      "surface": "למאה",
+      "gloss": "на сто"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "најмањи"
+    },
+    {
+      "surface": "והגדול",
+      "gloss": "а највећи"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "на хиљаду"
+    }
+  ],
+  "timestamp": "2026-09-05T14:39:24.566295483Z",
+  "model": "glm-5.3"
+}

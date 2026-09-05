@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 88:2",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 88,
+  "translation": "Јахве, Елохим спасења мога: дању виках, ноћу пред Тобом.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "спасења мога"
+    },
+    {
+      "surface": "יום",
+      "gloss": "дању"
+    },
+    {
+      "surface": "צעקתי",
+      "gloss": "виках"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ноћу"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "пред Тобом"
+    }
+  ],
+  "timestamp": "2026-09-05T13:33:53.364097575Z",
+  "model": "glm-5.3"
+}

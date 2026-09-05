@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 4:3",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "И би на крају данâ, те донесе Каин од плода земље принос Јахвеу.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "и би"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "на крају"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "данâ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "те донесе"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Каин"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "од плода"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "земље"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "принос"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Јахвеу"
+    }
+  ],
+  "timestamp": "2026-09-05T09:39:57.859990878Z",
+  "model": "glm-5.3"
+}

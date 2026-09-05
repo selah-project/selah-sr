@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 2:16",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "и на све лађе Таршиша и на све слике жељене,",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "лађе"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Таршиша"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "שכיות",
+      "gloss": "слике"
+    },
+    {
+      "surface": "החמדה",
+      "gloss": "жељене"
+    }
+  ],
+  "timestamp": "2026-09-05T12:00:17.517050283Z",
+  "model": "glm-5.3"
+}

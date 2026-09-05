@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 5:23",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Он ће умрети без васпите, и у мноштву своје лудости заstray-оваће — он ће лутати.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Он"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ће умрети"
+    },
+    {
+      "surface": "באין",
+      "gloss": "без"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "васпите"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "и у мноштву"
+    },
+    {
+      "surface": "אולתו",
+      "gloss": "своје лудости"
+    },
+    {
+      "surface": "ישגה",
+      "gloss": "лутати"
+    }
+  ],
+  "timestamp": "2026-09-05T16:00:19.013047588Z",
+  "model": "glm-5.3"
+}

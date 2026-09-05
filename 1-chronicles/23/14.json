@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 23:14",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "А Моше, човек Елохимов — синови његови бише уписани уз племе Левијево.",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "А Моше"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елохимов"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "синови његови"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "бише уписани"
+    },
+    {
+      "surface": "על",
+      "gloss": "уз"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "племе"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "Левијево"
+    }
+  ],
+  "timestamp": "2026-09-05T14:42:04.666865215Z",
+  "model": "glm-5.3"
+}

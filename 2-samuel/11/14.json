@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 11:14",
+  "book": "2-samuel",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "И би ујутру, и Давид написа писмо Јоаву и посла ⟨га⟩ руком Уријином.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "и би"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ујутру"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "и написа"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "писмо"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Јоаву"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Јоаву"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "и посла"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "руком"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Уријином"
+    }
+  ],
+  "timestamp": "2026-09-05T11:31:02.539329447Z",
+  "model": "glm-5.3"
+}

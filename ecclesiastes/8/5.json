@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 8:5",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "Ко чува заповест неће спознати зло ⟨ни једно⟩; а време и суд спознаје срце мудрога.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "Ко чува"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "заповест"
+    },
+    {
+      "surface": "לא",
+      "gloss": "неће"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "спознати"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨ни једно⟩"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зло"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "а време"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "и суд"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "спознаје"
+    },
+    {
+      "surface": "לב",
+      "gloss": "срце"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мудрога"
+    }
+  ],
+  "timestamp": "2026-09-05T14:13:25.290467776Z",
+  "model": "glm-5.3"
+}

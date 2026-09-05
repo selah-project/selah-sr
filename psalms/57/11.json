@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 57:11",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 57,
+  "translation": "Јер је велика до небеса хесед твој, и до облака истина твоја.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "велика"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "небеса"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "хесед твој"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и до"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "облака"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "истина твоја"
+    }
+  ],
+  "timestamp": "2026-09-05T15:55:25.979870025Z",
+  "model": "glm-5.3"
+}

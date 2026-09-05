@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "nehemiah 7:40",
+  "book": "nehemiah",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Синови Имера: хиљада педесет и два.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синови"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Имера"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "хиљада"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "педесет"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "и два"
+    }
+  ],
+  "timestamp": "2026-09-05T14:30:57.221130535Z",
+  "model": "glm-5.3"
+}

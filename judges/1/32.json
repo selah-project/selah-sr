@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "judges 1:32",
+  "book": "judges",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "И седе Ашери усред Хананца, становника земље, јер га не истераше.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "И седе"
+    },
+    {
+      "surface": "האשרי",
+      "gloss": "Ашери"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "усред"
+    },
+    {
+      "surface": "הכנעני",
+      "gloss": "Хананца"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "становника"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земље"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "הורישו",
+      "gloss": "истераше"
+    }
+  ],
+  "timestamp": "2026-09-05T11:05:39.114112294Z",
+  "model": "glm-5.3"
+}

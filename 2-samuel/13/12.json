@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 13:12",
+  "book": "2-samuel",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "А она му рече: „Не, брате мој, не понижавај ме, јер се тако не чини у Израиљу; не чини ⟨את⟩ ову гнусобу!“",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "а рече"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "брате мој"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "понижавај ме"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "чини"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тако"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "у Израиљу"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "чини"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "гнусобу"
+    },
+    {
+      "surface": "הנבלה",
+      "gloss": "гнусобу"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ову"
+    }
+  ],
+  "timestamp": "2026-09-05T11:31:26.937610843Z",
+  "model": "glm-5.3"
+}

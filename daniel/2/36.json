@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "daniel 2:36",
+  "book": "daniel",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Ово ⟨је⟩ сан, и тумачење његово казаћемо пред царем.",
+  "tokens": [
+    {
+      "surface": "דנה",
+      "gloss": "Ово"
+    },
+    {
+      "surface": "חלמא",
+      "gloss": "сан"
+    },
+    {
+      "surface": "ופשרה",
+      "gloss": "и тумачење његово"
+    },
+    {
+      "surface": "נאמר",
+      "gloss": "казаћемо"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "пред"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "царем"
+    }
+  ],
+  "timestamp": "2026-09-05T17:18:48.912269357Z",
+  "model": "glm-5.3"
+}

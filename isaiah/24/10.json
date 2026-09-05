@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 24:10",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "Разбила се град-празнина; затворен ⟨је⟩ сваки дом од уласка.",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "разбила се"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "град"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "празнина"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "затворен"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сваки"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "од уласка"
+    }
+  ],
+  "timestamp": "2026-09-05T12:07:38.281242635Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 4:8",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "А Коц роди ⟨את⟩ Анува и ⟨את⟩ Цовеву, и породице Ахархела, сина Харума.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "А Коц"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Анува"
+    },
+    {
+      "surface": "ענוב",
+      "gloss": "Анува"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Цовеву"
+    },
+    {
+      "surface": "הצבבה",
+      "gloss": "Цовеву"
+    },
+    {
+      "surface": "ומשפחות",
+      "gloss": "и породице"
+    },
+    {
+      "surface": "אחרחל",
+      "gloss": "Ахархела"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "הרום",
+      "gloss": "Харума"
+    }
+  ],
+  "timestamp": "2026-09-05T14:34:49.042358511Z",
+  "model": "glm-5.3"
+}

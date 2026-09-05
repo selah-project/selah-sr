@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 12:23",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "Човек разборит скрива знање, а срце лудака проглашава лудост.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "човек"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "разборит"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "скрива"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "знање"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "а срце"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "лудака"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "проглашава"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "лудост"
+    }
+  ],
+  "timestamp": "2026-09-05T16:00:24.503503893Z",
+  "model": "glm-5.3"
+}

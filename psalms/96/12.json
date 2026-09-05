@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 96:12",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 96,
+  "translation": "Нека скаче од радости поље и све што ⟨је⟩ у њему; тада нека кличу сва дрвета шуме.",
+  "tokens": [
+    {
+      "surface": "יעלז",
+      "gloss": "нека скаче од радости"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "поље"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и све"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "בו",
+      "gloss": "у њему"
+    },
+    {
+      "surface": "אז",
+      "gloss": "тада"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "нека кличу"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сва"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "дрвета"
+    },
+    {
+      "surface": "יער",
+      "gloss": "шуме"
+    }
+  ],
+  "timestamp": "2026-09-05T16:43:30.282938445Z",
+  "model": "glm-5.3"
+}

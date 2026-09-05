@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 38:22",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 38,
+  "translation": "Не остави ме, Јахве, Елохиме мој, не удаљуј се од мене!",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "остави ме"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохиме мој"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "удаљуј се"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "од мене"
+    }
+  ],
+  "timestamp": "2026-09-05T13:24:44.956743658Z",
+  "model": "glm-5.3"
+}

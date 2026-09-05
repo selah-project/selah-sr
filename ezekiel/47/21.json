@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 47:21",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 47,
+  "translation": "И поделите ⟨את⟩ земљу ову себи по племенима Израиљевим.",
+  "tokens": [
+    {
+      "surface": "וחלקתם",
+      "gloss": "и поделите"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "земљу"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земљу"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ову"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "себи"
+    },
+    {
+      "surface": "לשבטי",
+      "gloss": "по племенима"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиља"
+    }
+  ],
+  "timestamp": "2026-09-05T12:58:18.148944811Z",
+  "model": "glm-5.3"
+}

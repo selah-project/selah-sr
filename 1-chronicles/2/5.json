@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 2:5",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Синови Перца: Хецрон и Хамул.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синови"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Перца"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Хецрон"
+    },
+    {
+      "surface": "וחמול",
+      "gloss": "и Хамул"
+    }
+  ],
+  "timestamp": "2026-09-05T14:33:21.598311628Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 31:8",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 31,
+  "translation": "И Јахве, ⟨он⟩ јесте који ходи пред тобом; ⟨он⟩ биће с тобом; неће те напустити и неће те оставити; не бој се и не плаши се.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "И Јахве"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "који ходи"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "пред тобом"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "биће"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "с тобом"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ירפך",
+      "gloss": "напустиће те"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יעזבך",
+      "gloss": "оставиће те"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "бој се"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "плаши се"
+    }
+  ],
+  "timestamp": "2026-09-05T10:56:59.559406008Z",
+  "model": "glm-5.3"
+}

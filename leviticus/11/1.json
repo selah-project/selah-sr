@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 11:1",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "И рече Јахве Мошеу (Мојсију) и Агарону (Арону) говорећи ⟨њима⟩:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨на⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошеу"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и ⟨на⟩"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Агарону"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорећи"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "⟨њима⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T17:27:32.858044178Z",
+  "model": "glm-5.3"
+}

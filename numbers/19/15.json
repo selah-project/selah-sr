@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 19:15",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 19,
+  "translation": "и сваки суд отворен на коме нема покривача завезанога конопцем — нечист је он.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "и сваки"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "суд"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "отворен"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "צמיד",
+      "gloss": "покривача"
+    },
+    {
+      "surface": "פתיל",
+      "gloss": "конопца"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "на њему"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "нечист"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    }
+  ],
+  "timestamp": "2026-09-05T10:36:57.289795484Z",
+  "model": "glm-5.3"
+}

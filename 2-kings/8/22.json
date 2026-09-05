@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 8:22",
+  "book": "2-kings",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "И побуни се Едом испод руке Јуде до дана овога; тада се побуни и Ливна у време то.",
+  "tokens": [
+    {
+      "surface": "ויפשע",
+      "gloss": "и побуни се"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Едом"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "испод"
+    },
+    {
+      "surface": "יד",
+      "gloss": "руке"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јуде"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "היום",
+      "gloss": "дана"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овога"
+    },
+    {
+      "surface": "אז",
+      "gloss": "тада"
+    },
+    {
+      "surface": "תפשע",
+      "gloss": "побуни се"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Ливна"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "у време"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "то"
+    }
+  ],
+  "timestamp": "2026-09-05T11:53:03.467526671Z",
+  "model": "glm-5.3"
+}

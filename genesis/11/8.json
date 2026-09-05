@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 11:8",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "И расу Јахве ⟨את⟩ њих оданде по лицу све земље, и престадоше зидати град.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "И расу"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "њих"
+    },
+    {
+      "surface": "משם",
+      "gloss": "оданде"
+    },
+    {
+      "surface": "על",
+      "gloss": "по"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицу"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земље"
+    },
+    {
+      "surface": "ויחדלו",
+      "gloss": "и престадоше"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "зидати"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "град"
+    }
+  ],
+  "timestamp": "2026-09-05T16:47:42.771197209Z",
+  "model": "glm-5.3"
+}

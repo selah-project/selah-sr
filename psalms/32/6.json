@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 32:6",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 32,
+  "translation": "Због тога молиће ти се сваки хасид ⟨у време⟩ налажења; само у поплаву вода многих до њега не допру.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "због"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "тога"
+    },
+    {
+      "surface": "יתפלל",
+      "gloss": "молиће се"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сваки"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "хасид"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "⟨у⟩ време"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "налажења"
+    },
+    {
+      "surface": "רק",
+      "gloss": "само"
+    },
+    {
+      "surface": "לשטף",
+      "gloss": "у поплаву"
+    },
+    {
+      "surface": "מים",
+      "gloss": "вода"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "многих"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "до њега"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "допру"
+    }
+  ],
+  "timestamp": "2026-09-05T17:09:09.865038202Z",
+  "model": "glm-5.3"
+}

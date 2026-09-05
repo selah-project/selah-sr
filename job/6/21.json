@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 6:21",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "Јер сада ви сте ⟨као ништо⟩: видите ⟨мој⟩ ужас, и побојасте се.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "сада"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "ви сте"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ништа"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "видите"
+    },
+    {
+      "surface": "חתת",
+      "gloss": "ужас"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "и побојасте се"
+    }
+  ],
+  "timestamp": "2026-09-05T16:44:55.759542481Z",
+  "model": "glm-5.3"
+}

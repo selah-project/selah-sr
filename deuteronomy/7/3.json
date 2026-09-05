@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 7:3",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "и не ожени се с њима: кћер своју не дај сину његовом, а кћер његову не узми сину своме",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תתחתן",
+      "gloss": "ожени се"
+    },
+    {
+      "surface": "בם",
+      "gloss": "с њима"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "кћер своју"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "дај"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "сину његовом"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "а кћер његову"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "узми"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "сину своме"
+    }
+  ],
+  "timestamp": "2026-09-05T15:12:59.154355232Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 25:15",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 25,
+  "translation": "Осми — Јешајаху (Исаија), синови његови и браћа његова: дванаест.",
+  "tokens": [
+    {
+      "surface": "השמיני",
+      "gloss": "Осми"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Јешајаху"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "синови његови"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "и браћа његова"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "два"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "наест"
+    }
+  ],
+  "timestamp": "2026-09-05T14:41:55.816780315Z",
+  "model": "glm-5.3"
+}

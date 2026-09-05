@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 24:22",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "Јер ако буде Каин на истребљење — докле? Ашур ће те заробити.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "буде"
+    },
+    {
+      "surface": "לבער",
+      "gloss": "на истребљење"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Каин"
+    },
+    {
+      "surface": "עד",
+      "gloss": "докле"
+    },
+    {
+      "surface": "מה",
+      "gloss": "колико"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашур"
+    },
+    {
+      "surface": "תשבך",
+      "gloss": "заробиће те"
+    }
+  ],
+  "timestamp": "2026-09-05T10:37:50.315047602Z",
+  "model": "glm-5.3"
+}

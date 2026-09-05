@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "joshua 15:55",
+  "book": "joshua",
+  "lang": "sr",
+  "chapter": 15,
+  "translation": "Маон, Кармел, и Зиф, и Јута;",
+  "tokens": [
+    {
+      "surface": "מעון",
+      "gloss": "Маон"
+    },
+    {
+      "surface": "כרמל",
+      "gloss": "Кармел"
+    },
+    {
+      "surface": "וזיף",
+      "gloss": "и Зиф"
+    },
+    {
+      "surface": "ויוטה",
+      "gloss": "и Јута"
+    }
+  ],
+  "timestamp": "2026-09-05T11:02:39.635063892Z",
+  "model": "glm-5.3"
+}

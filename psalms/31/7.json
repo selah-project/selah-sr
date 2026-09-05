@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 31:7",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 31,
+  "translation": "Мрзим оне што чувају таштине лажи, а ја се у Јахвеа уздах.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "мрзим"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "оне што чувају"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "таштине"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "лажи"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "а ја"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "уздах се"
+    }
+  ],
+  "timestamp": "2026-09-05T15:54:34.368276608Z",
+  "model": "glm-5.3"
+}

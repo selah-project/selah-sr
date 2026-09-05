@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 28:8",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "У јаму ће те спустити, и умрећеш смрћу убијених, у срцу мора.",
+  "tokens": [
+    {
+      "surface": "לשחת",
+      "gloss": "у јаму"
+    },
+    {
+      "surface": "יורדוך",
+      "gloss": "спустиће те"
+    },
+    {
+      "surface": "ומתה",
+      "gloss": "и умрећеш"
+    },
+    {
+      "surface": "ממותי",
+      "gloss": "смрћу"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "убијених"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "у срцу"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "мора"
+    }
+  ],
+  "timestamp": "2026-09-05T12:51:12.436761919Z",
+  "model": "glm-5.3"
+}

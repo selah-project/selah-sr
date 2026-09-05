@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 30:34",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 30,
+  "translation": "И рече Лаван: ено, нека ⟨буде⟩ по речи твојој.",
+  "tokens": [
+    {
+      "surface": "ויאमר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Лаван"
+    },
+    {
+      "surface": "הן",
+      "gloss": "ено"
+    },
+    {
+      "surface": "לו",
+      "gloss": "нека"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "⟨буде⟩"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "по речи твојој"
+    }
+  ],
+  "timestamp": "2026-09-05T09:51:45.351479830Z",
+  "model": "glm-5.3"
+}

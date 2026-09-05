@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezra 2:21",
+  "book": "ezra",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Синови Беит Лехема (Витлејема), сто двадесет и три.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синови"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Беит"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Лехема (Витлејема)"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двадесет"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "и три"
+    }
+  ],
+  "timestamp": "2026-09-05T14:23:26.512707762Z",
+  "model": "glm-5.3"
+}

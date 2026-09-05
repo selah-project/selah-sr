@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 27:33",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 27,
+  "translation": "и Ахитофел беше саветник цару, а Хушије Архитинац ⟨бејаше⟩ пријатељ цара.",
+  "tokens": [
+    {
+      "surface": "ואחיתפל",
+      "gloss": "и Ахитофел"
+    },
+    {
+      "surface": "יועץ",
+      "gloss": "саветник"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "цару"
+    },
+    {
+      "surface": "וחושי",
+      "gloss": "а Хушије"
+    },
+    {
+      "surface": "הארכי",
+      "gloss": "Архитинац"
+    },
+    {
+      "surface": "רע",
+      "gloss": "пријатељ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "цара"
+    }
+  ],
+  "timestamp": "2026-09-05T14:43:03.391021048Z",
+  "model": "glm-5.3"
+}

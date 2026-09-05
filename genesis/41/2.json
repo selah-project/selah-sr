@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 41:2",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 41,
+  "translation": "И ено из реке излазе седам крава, лепих изгледом и дебелих телом, и пасаху у трсти.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "И ено"
+    },
+    {
+      "surface": "מן",
+      "gloss": "из"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "реке"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "излазе"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "седам"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "крава"
+    },
+    {
+      "surface": "יפות",
+      "gloss": "лепих"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "изгледом"
+    },
+    {
+      "surface": "ובריאת",
+      "gloss": "и дебелих"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "телом"
+    },
+    {
+      "surface": "ותרעינה",
+      "gloss": "и пасаху"
+    },
+    {
+      "surface": "באחו",
+      "gloss": "у трсти"
+    }
+  ],
+  "timestamp": "2026-09-05T09:54:57.842302338Z",
+  "model": "glm-5.3"
+}

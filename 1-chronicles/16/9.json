@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 16:9",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 16,
+  "translation": "Певајте му, свирајте му, причајте о свим чудесима његовим!",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Певајте"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "свирајте"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "причајте"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "о свим"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "чудесима његовим"
+    }
+  ],
+  "timestamp": "2026-09-05T16:15:17.452457804Z",
+  "model": "glm-5.3"
+}

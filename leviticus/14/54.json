@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "leviticus 14:54",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "Ово ⟨је⟩ Тора за сваку рану цараат и за натек.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Ово"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Тора"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "за сваку"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "рану"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "цараат"
+    },
+    {
+      "surface": "ולנתק",
+      "gloss": "и за натек"
+    }
+  ],
+  "timestamp": "2026-09-05T15:08:12.391673798Z",
+  "model": "glm-5.3"
+}

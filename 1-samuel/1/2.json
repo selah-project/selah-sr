@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 1:2",
+  "book": "1-samuel",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "И њему ⟨бејаше⟩ две жене: име једној Хана, а име другој Пенина; и Пенини бише деца, а Хани — нема деце.",
+  "tokens": [
+    {
+      "surface": "ולו",
+      "gloss": "И њему"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "две"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "жене"
+    },
+    {
+      "surface": "שם",
+      "gloss": "име"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "једној"
+    },
+    {
+      "surface": "חנה",
+      "gloss": "Хана"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "а име"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "другој"
+    },
+    {
+      "surface": "פננה",
+      "gloss": "Пенина"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и би"
+    },
+    {
+      "surface": "לפננה",
+      "gloss": "Пенини"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "деца"
+    },
+    {
+      "surface": "ולחנה",
+      "gloss": "а Хани"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "ילדים",
+      "gloss": "деце"
+    }
+  ],
+  "timestamp": "2026-09-05T16:36:53.534503806Z",
+  "model": "glm-5.3"
+}

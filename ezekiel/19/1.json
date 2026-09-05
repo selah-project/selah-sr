@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 19:1",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 19,
+  "translation": "И ти, подигни тужбалицу над кнезовима Израиљевим.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "И ти"
+    },
+    {
+      "surface": "שא",
+      "gloss": "подигни"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "тужбалицу"
+    },
+    {
+      "surface": "אל",
+      "gloss": "над"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "кнезовима"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљевим"
+    }
+  ],
+  "timestamp": "2026-09-05T12:47:38.509005620Z",
+  "model": "glm-5.3"
+}

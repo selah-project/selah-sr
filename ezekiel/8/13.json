@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 8:13",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "И рече ми: „Још ћеш се окренути, видећеш гадости велике које оне чине.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "још"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "окренути ћеш се"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "видећеш"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "гадости"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "велике"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "које"
+    },
+    {
+      "surface": "המה",
+      "gloss": "оне"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "чине"
+    }
+  ],
+  "timestamp": "2026-09-05T12:45:01.040621969Z",
+  "model": "glm-5.3"
+}

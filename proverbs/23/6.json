@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 23:6",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "Не једи ⟨את⟩ хлеб зла ока, и не пожели посластица његових.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תלחם",
+      "gloss": "једи"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "хлеб"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хлеб"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зла"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ока"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "пожели"
+    },
+    {
+      "surface": "למטעמתיו",
+      "gloss": "посластица његових"
+    }
+  ],
+  "timestamp": "2026-09-05T16:01:53.706198302Z",
+  "model": "glm-5.3"
+}

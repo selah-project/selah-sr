@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 52:3",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 52,
+  "translation": "Зашто се хвалиш у злу, силниче? Хесед Ела ⟨је⟩ сав дан.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Зашто"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "хвалиш се"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "у злу"
+    },
+    {
+      "surface": "הגבור",
+      "gloss": "силниче"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "хесед"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ела"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сав"
+    },
+    {
+      "surface": "היום",
+      "gloss": "дан"
+    }
+  ],
+  "timestamp": "2026-09-05T15:55:28.864159913Z",
+  "model": "glm-5.3"
+}

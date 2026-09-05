@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 5:3",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Јер као мед капљу усне туђе ⟨жене⟩, и глатче од уља ⟨је⟩ непце њезино.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "као мед"
+    },
+    {
+      "surface": "תטפנה",
+      "gloss": "капљу"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "усне"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "туђе"
+    },
+    {
+      "surface": "וחלק",
+      "gloss": "и глатко"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "од уља"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "непце њезино"
+    }
+  ],
+  "timestamp": "2026-09-05T13:46:40.422690043Z",
+  "model": "glm-5.3"
+}

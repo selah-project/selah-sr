@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 7:1",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "И ово је Тора жртве за кривицу: свето над светима ⟨је⟩ то.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "И ово"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Тора"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "жртве за кривицу"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "свето"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "над светима"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "то"
+    }
+  ],
+  "timestamp": "2026-09-05T17:16:20.371424102Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 19:5",
+  "book": "1-kings",
+  "lang": "sr",
+  "chapter": 19,
+  "translation": "И леге и заспа под једним ротемом, и гле — овај, анђео га дотаче и рече му: „Устани, једи.“",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "и леге"
+    },
+    {
+      "surface": "ויישן",
+      "gloss": "и заспа"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "רתם",
+      "gloss": "ротемом"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "једним"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и гле"
+    },
+    {
+      "surface": "зה",
+      "gloss": "овај"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "анђео"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "дотаче"
+    },
+    {
+      "surface": "בו",
+      "gloss": "га"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "קום",
+      "gloss": "устани"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "једи"
+    }
+  ],
+  "timestamp": "2026-09-05T11:47:45.433987162Z",
+  "model": "glm-5.3"
+}

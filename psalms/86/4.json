@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 86:4",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 86,
+  "translation": "Обрадуј душу слуге свог, јер к теби, Адонај, душу своју дижем.",
+  "tokens": [
+    {
+      "surface": "שמח",
+      "gloss": "Обрадуј"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "душу"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "слуге свог"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "к теби"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душу своју"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "дижем"
+    }
+  ],
+  "timestamp": "2026-09-05T13:34:34.574546194Z",
+  "model": "glm-5.3"
+}

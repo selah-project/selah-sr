@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 57:3",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 57,
+  "translation": "А ви приближите се овамо, синови врачаре, сеје блудника и курве.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "а ви"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "приближите се"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "овамо"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "עננה",
+      "gloss": "врачаре"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "сеје"
+    },
+    {
+      "surface": "מנאף",
+      "gloss": "блудника"
+    },
+    {
+      "surface": "ותזנה",
+      "gloss": "и курве"
+    }
+  ],
+  "timestamp": "2026-09-05T12:17:29.275618092Z",
+  "model": "glm-5.3"
+}

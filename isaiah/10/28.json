@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 10:28",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "Дође на Ајат, пређе кроз Микрон, у Микмаш смешта ствари своје.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "дође"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "עית",
+      "gloss": "Ајат"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "пређе"
+    },
+    {
+      "surface": "במגרון",
+      "gloss": "кроз Микрон"
+    },
+    {
+      "surface": "למכמש",
+      "gloss": "у Микмаш"
+    },
+    {
+      "surface": "יפקיד",
+      "gloss": "смешта"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "ствари своје"
+    }
+  ],
+  "timestamp": "2026-09-05T12:04:06.553475604Z",
+  "model": "glm-5.3"
+}

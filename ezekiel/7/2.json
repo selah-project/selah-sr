@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 7:2",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "И ти, сине човечји, тако рече Адонај Јахве земљи Израиљевој: крај — дошао је крај на четири крила земље.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "И ти"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сине"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човечји"
+    },
+    {
+      "surface": "כה",
+      "gloss": "тако"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "לאדמת",
+      "gloss": "земљи"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљевој"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "крај"
+    },
+    {
+      "surface": "בא",
+      "gloss": "дошао је"
+    },
+    {
+      "surface": "הקץ",
+      "gloss": "крај"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "четири"
+    },
+    {
+      "surface": "כנפות",
+      "gloss": "крила"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земље"
+    }
+  ],
+  "timestamp": "2026-09-05T12:43:52.958089434Z",
+  "model": "glm-5.3"
+}

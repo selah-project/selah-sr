@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 28:18",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "У први дан — света скупштина; сваки посао службе не чините.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "у дан"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "први"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "скупштина"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "света"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сваки"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "посао"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "службе"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "чините"
+    }
+  ],
+  "timestamp": "2026-09-05T10:40:07.191367503Z",
+  "model": "glm-5.3"
+}

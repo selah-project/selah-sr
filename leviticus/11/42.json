@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 11:42",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "Што год иде на трбуху, и све што иде на четири, до свега што има много ногу — од свега гмижућег што гмиже по земљи: не једите их, јер су гадост.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "што год"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "иде"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "גחון",
+      "gloss": "трбух"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и све"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "иде"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "четири"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "כל",
+      "gloss": "свега"
+    },
+    {
+      "surface": "מרבה",
+      "gloss": "умножитељ"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "ногу"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "од свега"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "гмижућег"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "што гмиже"
+    },
+    {
+      "surface": "על",
+      "gloss": "по"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земљи"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאכלום",
+      "gloss": "једите их"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "гадост"
+    },
+    {
+      "surface": "הם",
+      "gloss": "су"
+    }
+  ],
+  "timestamp": "2026-09-05T10:19:16.618722204Z",
+  "model": "glm-5.3"
+}

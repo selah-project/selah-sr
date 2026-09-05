@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 16:20",
+  "book": "2-samuel",
+  "lang": "sr",
+  "chapter": 16,
+  "translation": "И рече Авшалом Ахитофелу: дајте ⟨себи⟩ савет шта да чинимо.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Авшалом"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ахитофелу"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "Ахитофелу"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "дајте"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "себи"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "савет"
+    },
+    {
+      "surface": "מה",
+      "gloss": "шта"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "да чинимо"
+    }
+  ],
+  "timestamp": "2026-09-05T11:33:32.219600652Z",
+  "model": "glm-5.3"
+}

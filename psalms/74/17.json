@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 74:17",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 74,
+  "translation": "Ти постави све границе земље; лето и зиму Ти их обликова.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "הצבת",
+      "gloss": "постави"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "גבולות",
+      "gloss": "границе"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земље"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "лето"
+    },
+    {
+      "surface": "וחרף",
+      "gloss": "и зиму"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "יצרתם",
+      "gloss": "обликова их"
+    }
+  ],
+  "timestamp": "2026-09-05T13:31:47.933524642Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 26:29",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 26,
+  "translation": "И јешћете тело синова ваших, и тело кћери ваших јешћете.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "и јешћете"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "тело"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "синова ваших"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "и тело"
+    },
+    {
+      "surface": "בנתיכם",
+      "gloss": "кћери ваших"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "јешћете"
+    }
+  ],
+  "timestamp": "2026-09-05T10:26:56.343483848Z",
+  "model": "glm-5.3"
+}

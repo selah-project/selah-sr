@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 9:4",
+  "book": "2-kings",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "И отиде младић — младић ⟨је⟩ пророк — у Рамот Гилада.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "и отиде"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "младић"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "младић"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "пророк"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Рамот"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Гилада"
+    }
+  ],
+  "timestamp": "2026-09-05T15:30:16.760146516Z",
+  "model": "glm-5.3"
+}

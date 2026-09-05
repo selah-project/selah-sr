@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 11:1",
+  "book": "zechariah",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "Отвори, Ливану, врата своја, и нека прождере огањ кедре твоје.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "отвори"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Ливане"
+    },
+    {
+      "surface": "דלתיך",
+      "gloss": "врата своја"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "и нека прождере"
+    },
+    {
+      "surface": "אש",
+      "gloss": "огањ"
+    },
+    {
+      "surface": "בארזיך",
+      "gloss": "кедре твоје"
+    }
+  ],
+  "timestamp": "2026-09-05T13:14:31.556405985Z",
+  "model": "glm-5.3"
+}

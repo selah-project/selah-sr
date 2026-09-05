@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 5:12",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Занеговали су Јахвеа и рекли: „Није он, и неће доћи на нас зло, ни мач ни глад нећемо видети.“",
+  "tokens": [
+    {
+      "surface": "כחשו",
+      "gloss": "Занеговали су"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "и рекоше"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "доћи ће"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "на нас"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зло"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "ни мач"
+    },
+    {
+      "surface": "ורעב",
+      "gloss": "ни глад"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "видети"
+    }
+  ],
+  "timestamp": "2026-09-05T15:38:26.161031928Z",
+  "model": "glm-5.3"
+}

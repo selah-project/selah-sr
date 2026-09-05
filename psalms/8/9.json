@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "птица небеса и рибе мора, ⟨оне што⟩ прелазе стазе мора!",
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "птица"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "небеса"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "и рибе"
+    },
+    {
+      "surface": "הים",
+      "gloss": "мора"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "прелазе"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "стазе"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "мора"
+    }
+  ],
+  "timestamp": "2026-09-05T13:17:44.514184770Z",
+  "model": "glm-5.3"
+}

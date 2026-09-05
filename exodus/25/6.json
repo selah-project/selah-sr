@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 25:6",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 25,
+  "translation": "уље за светиљку, мирисе за уље помазања и за мирисни кад:",
+  "tokens": [
+    {
+      "surface": "שמן",
+      "gloss": "уље"
+    },
+    {
+      "surface": "למאר",
+      "gloss": "за светиљку"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "мирисе"
+    },
+    {
+      "surface": "לשמן",
+      "gloss": "за уље"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "помазања"
+    },
+    {
+      "surface": "ולקטרת",
+      "gloss": "и за кад"
+    },
+    {
+      "surface": "הסמים",
+      "gloss": "мирисни"
+    }
+  ],
+  "timestamp": "2026-09-05T10:08:40.400960967Z",
+  "model": "glm-5.3"
+}

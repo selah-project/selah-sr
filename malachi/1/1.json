@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "Терет речи Јахвеове Израиљу ⟨преко⟩ руке Малакија.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Терет"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "речи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеове"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Израиљу ⟨према⟩"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљу"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "руке"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "Малакија"
+    }
+  ],
+  "timestamp": "2026-09-05T13:15:23.185268579Z",
+  "model": "glm-5.3"
+}

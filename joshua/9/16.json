@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 9:16",
+  "book": "joshua",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "И би на крају три дана пошто им заклеше завет, те чуше да су они близу њега и да усред њега пребивају.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И би"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "на крају"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "три"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дана"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "пошто"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "כרתו",
+      "gloss": "заклеше"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "завет"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "те чуше"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "קרבים",
+      "gloss": "близу"
+    },
+    {
+      "surface": "הם",
+      "gloss": "они"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "њему"
+    },
+    {
+      "surface": "ובקרבו",
+      "gloss": "и усред њега"
+    },
+    {
+      "surface": "הם",
+      "gloss": "они"
+    },
+    {
+      "surface": "ישבים",
+      "gloss": "пребивају"
+    }
+  ],
+  "timestamp": "2026-09-05T10:59:19.792731201Z",
+  "model": "glm-5.3"
+}

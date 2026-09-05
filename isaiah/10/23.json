@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 10:23",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "Јер свршетак одлучен Адонај Јахве Цеваот чини ⟨у⟩ усред све земље.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "свршетак"
+    },
+    {
+      "surface": "ונחרצה",
+      "gloss": "и одлучен"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "чини"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "усред"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земље"
+    }
+  ],
+  "timestamp": "2026-09-05T12:04:52.817123737Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 8:23",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "Од вечности излит сам, од почетка, пре ⟨постојања⟩ земље.",
+  "tokens": [
+    {
+      "surface": "מעולם",
+      "gloss": "од вечности"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "излит сам"
+    },
+    {
+      "surface": "מראש",
+      "gloss": "од почетка"
+    },
+    {
+      "surface": "מקדמי",
+      "gloss": "пре"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земље"
+    }
+  ],
+  "timestamp": "2026-09-05T16:00:29.614592783Z",
+  "model": "glm-5.3"
+}

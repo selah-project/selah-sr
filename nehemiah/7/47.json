@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "nehemiah 7:47",
+  "book": "nehemiah",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "синови Кероса, синови Сије, синови Падона.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "קירס",
+      "gloss": "Кероса"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "סיעא",
+      "gloss": "Сије"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "פדון",
+      "gloss": "Падона"
+    }
+  ],
+  "timestamp": "2026-09-05T14:30:47.290333381Z",
+  "model": "glm-5.3"
+}

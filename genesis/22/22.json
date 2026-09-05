@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 22:22",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "и ⟨את⟩ Кешеда, и ⟨את⟩ Хазоа, и ⟨את⟩ Пилдаша, и ⟨את⟩ Јидлафа, и ⟨את⟩ Бетуела.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Кешеда"
+    },
+    {
+      "surface": "כשד",
+      "gloss": "Кешеда"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Хазоа"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "Хазоа"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Пилдаша"
+    },
+    {
+      "surface": "פלדש",
+      "gloss": "Пилдаша"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Јидлафа"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "Јидлафа"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Бетуела"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "Бетуела"
+    }
+  ],
+  "timestamp": "2026-09-05T16:54:41.977088473Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 3:14",
+  "book": "judges",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "И служише синови Израелови Еглону, цару моавском, осамнаест година.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "и служише"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израелови"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Еглону"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "Еглону"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цару"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "моавском"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "осам"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "наест"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "година"
+    }
+  ],
+  "timestamp": "2026-09-05T11:07:46.896961784Z",
+  "model": "glm-5.3"
+}

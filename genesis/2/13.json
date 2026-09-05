@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 2:13",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "А име друге реке ⟨је⟩ Гихон — она обилази ⟨את⟩ сву земљу Куша.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "а име"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "реке"
+    },
+    {
+      "surface": "השני",
+      "gloss": "друге"
+    },
+    {
+      "surface": "גיחון",
+      "gloss": "Гихон"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "она"
+    },
+    {
+      "surface": "הסובב",
+      "gloss": "обилази"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сву земљу Куша"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сву"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земљу"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Куша"
+    }
+  ],
+  "timestamp": "2026-09-05T09:39:13.567791536Z",
+  "model": "glm-5.3"
+}

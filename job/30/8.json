@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 30:8",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 30,
+  "translation": "Синови лудака ⟨се⟩, чак синови без имена — избијени су из земље.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "лудака"
+    },
+    {
+      "surface": "גם",
+      "gloss": "чак"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "без"
+    },
+    {
+      "surface": "שם",
+      "gloss": "имена"
+    },
+    {
+      "surface": "נכאו",
+      "gloss": "избијени су"
+    },
+    {
+      "surface": "מן",
+      "gloss": "из"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земље"
+    }
+  ],
+  "timestamp": "2026-09-05T14:02:09.071833864Z",
+  "model": "glm-5.3"
+}

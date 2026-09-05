@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 136:8",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 136,
+  "translation": "⟨את⟩ сунце за владавину даном, јер у век траје хесед ⟨његов⟩.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сунце"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "сунце"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "за владавину"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "даном"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "у век"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "хесед ⟨његов⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T13:43:10.357430788Z",
+  "model": "glm-5.3"
+}

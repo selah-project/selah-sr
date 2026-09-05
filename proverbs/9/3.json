@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 9:3",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "Посла слушкиње ⟨ѕвоје⟩, зове с висина града:",
+  "tokens": [
+    {
+      "surface": "שלחה",
+      "gloss": "посла"
+    },
+    {
+      "surface": "נערתיה",
+      "gloss": "слушкиње њене"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "зове"
+    },
+    {
+      "surface": "על",
+      "gloss": "с"
+    },
+    {
+      "surface": "גפי",
+      "gloss": "врхова"
+    },
+    {
+      "surface": "מרמי",
+      "gloss": "висина"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "града"
+    }
+  ],
+  "timestamp": "2026-09-05T13:47:54.048844686Z",
+  "model": "glm-5.3"
+}

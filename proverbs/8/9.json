@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 8:9",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "Сви су прави разумноме, и поштени онима што налазе знање.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "сви"
+    },
+    {
+      "surface": "נכחים",
+      "gloss": "прави"
+    },
+    {
+      "surface": "למבין",
+      "gloss": "разумноме"
+    },
+    {
+      "surface": "וישרים",
+      "gloss": "и поштени"
+    },
+    {
+      "surface": "למצאי",
+      "gloss": "онима што налазе"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "знање"
+    }
+  ],
+  "timestamp": "2026-09-05T13:47:20.928015285Z",
+  "model": "glm-5.3"
+}

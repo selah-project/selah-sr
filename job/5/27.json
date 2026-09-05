@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "job 5:27",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Ено, ово смо истражили, тако ⟨јест⟩; чуј то, и ти знај себи.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ено"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ово"
+    },
+    {
+      "surface": "חקרנוה",
+      "gloss": "смо истражили"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тако"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨јест⟩"
+    },
+    {
+      "surface": "שמענה",
+      "gloss": "чуј то"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "и ти"
+    },
+    {
+      "surface": "דע",
+      "gloss": "знај"
+    },
+    {
+      "surface": "לך",
+      "gloss": "себи"
+    }
+  ],
+  "timestamp": "2026-09-05T13:56:39.356137347Z",
+  "model": "glm-5.3"
+}

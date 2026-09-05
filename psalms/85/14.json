@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 85:14",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 85,
+  "translation": "Правда пред њим ходиће, и поставиће стазу стопама својим.",
+  "tokens": [
+    {
+      "surface": "צדק",
+      "gloss": "правда"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "пред њим"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "ходиће"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "и поставиће"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "за пут"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "стопе своје"
+    }
+  ],
+  "timestamp": "2026-09-05T13:33:37.128959700Z",
+  "model": "glm-5.3"
+}

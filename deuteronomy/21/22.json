@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 21:22",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "И кад буде на човеку грех ⟨који заслужује⟩ смртну пресуду, па буде погубљен, и обесиш ⟨את⟩ њега на дрво,",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "и кад"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "буде"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "на човеку"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "грех"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "пресуду"
+    },
+    {
+      "surface": "מות",
+      "gloss": "смртну"
+    },
+    {
+      "surface": "והומת",
+      "gloss": "и буде погубљен"
+    },
+    {
+      "surface": "ותלית",
+      "gloss": "и обесиш"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "њега"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "дрво"
+    }
+  ],
+  "timestamp": "2026-09-05T10:50:36.410972016Z",
+  "model": "glm-5.3"
+}

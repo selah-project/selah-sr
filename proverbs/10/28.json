@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 10:28",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "Очекивање праведника ⟨је⟩ радост, а нада злих пропада.",
+  "tokens": [
+    {
+      "surface": "תוחלת",
+      "gloss": "очекивање"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "праведника"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "радост"
+    },
+    {
+      "surface": "ותקות",
+      "gloss": "а нада"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "злих"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "пропада"
+    }
+  ],
+  "timestamp": "2026-09-05T13:48:07.502976484Z",
+  "model": "glm-5.3"
+}

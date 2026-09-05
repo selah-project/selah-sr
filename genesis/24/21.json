@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 24:21",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "И човек се задиви њој, ћутећи, да би знао да ли Јахве ⟨је⟩ успео пут његов, или не.",
+  "tokens": [
+    {
+      "surface": "והאיש",
+      "gloss": "И човек"
+    },
+    {
+      "surface": "משתאה",
+      "gloss": "задиви се"
+    },
+    {
+      "surface": "לה",
+      "gloss": "њој"
+    },
+    {
+      "surface": "מחריש",
+      "gloss": "ћутећи"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "да би знао"
+    },
+    {
+      "surface": "ההצליח",
+      "gloss": "успео"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "пут његов"
+    },
+    {
+      "surface": "אם",
+      "gloss": "да ли"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    }
+  ],
+  "timestamp": "2026-09-05T09:47:14.862062849Z",
+  "model": "glm-5.3"
+}

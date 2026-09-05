@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 28:24",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "Даће Јахве ⟨את⟩ кишу земље твоје: прашина и прах; с небеса силазиће на тебе док се не разориш.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "Даће"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кишу"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "кишу"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "земље твоје"
+    },
+    {
+      "surface": "אבק",
+      "gloss": "прашина"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "и прах"
+    },
+    {
+      "surface": "מן",
+      "gloss": "с"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небеса"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "силазиће"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "на тебе"
+    },
+    {
+      "surface": "עד",
+      "gloss": "док"
+    },
+    {
+      "surface": "השמדך",
+      "gloss": "се не разориш"
+    }
+  ],
+  "timestamp": "2026-09-05T10:54:41.740254788Z",
+  "model": "glm-5.3"
+}

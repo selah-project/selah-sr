@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 7:30",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Четвртог дана — кнез синâ Рувенових: Елицур (Елизур), син Шедеуров.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "дана"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "четвртог"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "кнез"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "синâ"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Рувенових"
+    },
+    {
+      "surface": "אליצור",
+      "gloss": "Елицур"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "שדיאור",
+      "gloss": "Шедеуров"
+    }
+  ],
+  "timestamp": "2026-09-05T10:30:05.701868886Z",
+  "model": "glm-5.3"
+}

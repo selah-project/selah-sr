@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 20:7",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 20,
+  "translation": "И ко је човек који вери жену и не узе ⟨је⟩? нека иде и врати се дому своме, да не умре у боју и други човек да је узме.",
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "и ко"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "ארש",
+      "gloss": "вери"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "жену"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "узе ⟨је⟩"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "нека иде"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "и врати се"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "дому своме"
+    },
+    {
+      "surface": "פן",
+      "gloss": "да не"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "умре"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "у боју"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "и човек"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "други"
+    },
+    {
+      "surface": "יקחנה",
+      "gloss": "да је узме"
+    }
+  ],
+  "timestamp": "2026-09-05T10:51:36.692120880Z",
+  "model": "glm-5.3"
+}

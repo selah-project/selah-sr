@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ruth 1:20",
+  "book": "ruth",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "А она им рече: не зовите ме Нооми, зовите ме Мара, јер умногогорко умари Шадај (Свемогући) мене.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "а рече"
+    },
+    {
+      "surface": "אליהן",
+      "gloss": "им"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תקראנה",
+      "gloss": "зовите"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ме"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Нооми"
+    },
+    {
+      "surface": "קראן",
+      "gloss": "зовите"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ме"
+    },
+    {
+      "surface": "מרא",
+      "gloss": "Мара"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "המר",
+      "gloss": "умари"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Шадај"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мене"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "умногогорко"
+    }
+  ],
+  "timestamp": "2026-09-05T14:08:49.439807002Z",
+  "model": "glm-5.3"
+}

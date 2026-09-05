@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 10:1",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "Приче Шеломове (Соломона): мудар син радује оца, а луд син ⟨је⟩ туга мајци његовој.",
+  "tokens": [
+    {
+      "surface": "משלי",
+      "gloss": "Приче"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломове"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мудар"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "радује"
+    },
+    {
+      "surface": "אב",
+      "gloss": "оца"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "а син"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "луд"
+    },
+    {
+      "surface": "תוגת",
+      "gloss": "туга"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "мајци његовој"
+    }
+  ],
+  "timestamp": "2026-09-05T13:48:03.474609381Z",
+  "model": "glm-5.3"
+}

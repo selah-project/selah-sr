@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 11:15",
+  "book": "nehemiah",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "А од Левита: Шемаја (Шемаја) син Хашува, син Азрикама, син Хашавје, син Бунија.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "а од"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Левита"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Шемаја"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "חשוב",
+      "gloss": "Хашува"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עזריקם",
+      "gloss": "Азрикама"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "Хашавје"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "בוני",
+      "gloss": "Бунија"
+    }
+  ],
+  "timestamp": "2026-09-05T16:14:50.710815019Z",
+  "model": "glm-5.3"
+}

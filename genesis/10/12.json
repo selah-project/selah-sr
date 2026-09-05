@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "и ⟨את⟩ Ресен, између Ниневе и између Келаха — то ⟨је⟩ велики град.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Ресен"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "Ресен"
+    },
+    {
+      "surface": "בין",
+      "gloss": "између"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ниневе"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "и између"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Келаха"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "то"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "град"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "велики"
+    }
+  ],
+  "timestamp": "2026-09-05T14:58:37.594649524Z",
+  "model": "glm-5.3"
+}

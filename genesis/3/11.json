@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 3:11",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "А ⟨он⟩ рече: Ко ти каза да си го? Је ли са дрвета с којег ти заповеди да не једеш с њега — јео си?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ко"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "каза"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "го"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "си"
+    },
+    {
+      "surface": "המן",
+      "gloss": "је ли"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "са дрвета"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "с којег"
+    },
+    {
+      "surface": "צויתיך",
+      "gloss": "заповеди"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "да не"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "једеш"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "с њега"
+    },
+    {
+      "surface": "אכלת",
+      "gloss": "јео си"
+    }
+  ],
+  "timestamp": "2026-09-05T09:38:57.679392145Z",
+  "model": "glm-5.3"
+}

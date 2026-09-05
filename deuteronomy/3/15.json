@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 3:15",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "А Махиру дадох ⟨את⟩ Гилад.",
+  "tokens": [
+    {
+      "surface": "ולמכיר",
+      "gloss": "А Махиру"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "дадох"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Гилад"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Гилад"
+    }
+  ],
+  "timestamp": "2026-09-05T10:44:25.165234733Z",
+  "model": "glm-5.3"
+}

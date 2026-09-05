@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 30:19",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 30,
+  "translation": "И заче опет Леа, и роди шестог сина Јаакову.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "и заче"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "опет"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Леа"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "и роди"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "шести"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Јаакову"
+    }
+  ],
+  "timestamp": "2026-09-05T09:48:46.077357197Z",
+  "model": "glm-5.3"
+}

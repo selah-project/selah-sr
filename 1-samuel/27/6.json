@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 27:6",
+  "book": "1-samuel",
+  "lang": "sr",
+  "chapter": 27,
+  "translation": "И даде му Ахиш тога дана ⟨את⟩ Циклаг; зато је Циклаг остао краљевима Јехуде до дана овога.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "И даде"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Ахиш"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "у дан"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "онај"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Циклаг"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Циклаг"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "зато"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "је била"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Циклаг"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "краљевима"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јехуде"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "היום",
+      "gloss": "дана"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овога"
+    }
+  ],
+  "timestamp": "2026-09-05T11:26:46.187741750Z",
+  "model": "glm-5.3"
+}

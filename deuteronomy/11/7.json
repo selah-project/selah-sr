@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "Јер су ваше очи ⟨оне⟩ које видеше ⟨את⟩ сва дела Јахвеа, великога, која учини.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "ваше очи"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "које видеше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сва дела"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сва"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "дела"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "великога"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "која"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "учини"
+    }
+  ],
+  "timestamp": "2026-09-05T15:13:21.484330620Z",
+  "model": "glm-5.3"
+}

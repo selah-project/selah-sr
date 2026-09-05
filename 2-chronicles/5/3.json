@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 5:3",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "И сабраше се код краља сви људи Израелови на празник — то ⟨је⟩ месец седми.",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "И сабраше се"
+    },
+    {
+      "surface": "אל",
+      "gloss": "код"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "краља"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сви"
+    },
+    {
+      "surface": "איש",
+      "gloss": "људи"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израелови"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "на празник"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "то"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "месец"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "седми"
+    }
+  ],
+  "timestamp": "2026-09-05T14:46:24.872435588Z",
+  "model": "glm-5.3"
+}

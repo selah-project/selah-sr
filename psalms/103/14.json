@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 103:14",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 103,
+  "translation": "Јер он зна како смо створени; памти да смо прах.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "зна"
+    },
+    {
+      "surface": "יצרנו",
+      "gloss": "како смо створени"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "памти"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "прах"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "смо"
+    }
+  ],
+  "timestamp": "2026-09-05T13:36:27.815239070Z",
+  "model": "glm-5.3"
+}

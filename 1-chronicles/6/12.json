@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 6:12",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "Елијав, син његов; Јероцам, син његов; Елкана, син његов.",
+  "tokens": [
+    {
+      "surface": "אליאב",
+      "gloss": "Елијав"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син његов"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "Јероцам"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син његов"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Елкана"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син његов"
+    }
+  ],
+  "timestamp": "2026-09-05T14:35:34.308634742Z",
+  "model": "glm-5.3"
+}

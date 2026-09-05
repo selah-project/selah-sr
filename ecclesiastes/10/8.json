@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 10:8",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "ко копа јаму — у њу ће пасти; а ко руши ограду — угризаће га змија.",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "копа"
+    },
+    {
+      "surface": "גומץ",
+      "gloss": "јаму"
+    },
+    {
+      "surface": "בו",
+      "gloss": "у њу"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "ће пасти"
+    },
+    {
+      "surface": "ופרץ",
+      "gloss": "а ко руши"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "ограду"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "угризаће"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "змија"
+    }
+  ],
+  "timestamp": "2026-09-05T14:12:25.763091468Z",
+  "model": "glm-5.3"
+}

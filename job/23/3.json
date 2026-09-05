@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 23:3",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "Дах да знам — и да га нађем, да дођем до места његова!",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ко"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "да дах"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "знам"
+    },
+    {
+      "surface": "ואמצאהו",
+      "gloss": "и да га нађем"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "да дођем"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "תכונתו",
+      "gloss": "места његова"
+    }
+  ],
+  "timestamp": "2026-09-05T16:04:09.734530617Z",
+  "model": "glm-5.3"
+}

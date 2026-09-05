@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 147:16",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 147,
+  "translation": "Даје снег као вуну; иње као пепео рассипа.",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "Даје"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "снег"
+    },
+    {
+      "surface": "כצמר",
+      "gloss": "као вуну"
+    },
+    {
+      "surface": "כפור",
+      "gloss": "иње"
+    },
+    {
+      "surface": "כאפר",
+      "gloss": "као пепео"
+    },
+    {
+      "surface": "יפזר",
+      "gloss": "рассипа"
+    }
+  ],
+  "timestamp": "2026-09-05T16:00:10.635410867Z",
+  "model": "glm-5.3"
+}

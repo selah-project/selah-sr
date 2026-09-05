@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 3:7",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Ако је јагње што приноси за принос свој, нека га принесе пред Јахвеом.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ако"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "јагње"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "је"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "приноси"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "принос свој"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "принос свој"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "нека принесе"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ га",
+      "marks": "њега (јагње)"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеом"
+    }
+  ],
+  "timestamp": "2026-09-05T15:05:59.141987992Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 29:9",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 29,
+  "translation": "Јер у лажи пророкују вама у имену мојему — не послах њих, изрека Јахвеа.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "בשקר",
+      "gloss": "у лажи"
+    },
+    {
+      "surface": "הם",
+      "gloss": "они"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "пророкују"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вама"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "у имену мојему"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שלחתים",
+      "gloss": "послах њих"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "изрека"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    }
+  ],
+  "timestamp": "2026-09-05T12:31:09.060997660Z",
+  "model": "glm-5.3"
+}

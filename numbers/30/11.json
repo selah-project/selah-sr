@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 30:11",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 30,
+  "translation": "А ако у дому мужа свога завете се, или свеза завезу на душу своју клетвом —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "а ако"
+    },
+    {
+      "surface": "בית",
+      "gloss": "у дому"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "мужа свога"
+    },
+    {
+      "surface": "נדרה",
+      "gloss": "завете се"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "свеза"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "завезу"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "душу своју"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "клетвом"
+    }
+  ],
+  "timestamp": "2026-09-05T10:40:53.980099151Z",
+  "model": "glm-5.3"
+}

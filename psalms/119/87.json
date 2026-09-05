@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 87,
+  "ref": "psalms 119:87",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 119,
+  "translation": "Замало ме спуташе на земљи, а ја не оставих уредбе твоје.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "замало"
+    },
+    {
+      "surface": "כלוני",
+      "gloss": "ме спуташе"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "на земљи"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "а ја"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "עזבתי",
+      "gloss": "оставих"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "уредбе твоје"
+    }
+  ],
+  "timestamp": "2026-09-05T13:40:58.499540752Z",
+  "model": "glm-5.3"
+}

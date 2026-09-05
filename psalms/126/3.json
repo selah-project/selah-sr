@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 126:3",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 126,
+  "translation": "Увелича Јахве да учини са нама; бејасмо весели.",
+  "tokens": [
+    {
+      "surface": "הגדיל",
+      "gloss": "Увелича"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "да учини"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "са нама"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "бејасмо"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "весели"
+    }
+  ],
+  "timestamp": "2026-09-05T13:42:26.095775891Z",
+  "model": "glm-5.3"
+}

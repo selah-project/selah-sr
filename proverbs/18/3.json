@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 18:3",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "Кад дође безбожник, дође и презир, и са срамотом погрда.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "кад дође"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "безбожник"
+    },
+    {
+      "surface": "בא",
+      "gloss": "дође"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "презир"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "са"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "срамотом"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "погрда"
+    }
+  ],
+  "timestamp": "2026-09-05T13:50:16.455872464Z",
+  "model": "glm-5.3"
+}

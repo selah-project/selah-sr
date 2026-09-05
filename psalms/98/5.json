@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 98:5",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 98,
+  "translation": "Свирајте Јахвеу на кинору, на кинору и гласом песме.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "свирајте"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Јахвеу"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "на кинору"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "на кинору"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "и гласом"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "песме"
+    }
+  ],
+  "timestamp": "2026-09-05T13:36:33.685648924Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 5:10",
+  "book": "zechariah",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "И рекох анђелу који говораше у мени: куда оне воде ⟨את⟩ ефу?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "и рекох"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "анђелу"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "који говораше"
+    },
+    {
+      "surface": "בי",
+      "gloss": "у мени"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "куда"
+    },
+    {
+      "surface": "המה",
+      "gloss": "оне"
+    },
+    {
+      "surface": "מולכות",
+      "gloss": "воде"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ефу"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "ефу"
+    }
+  ],
+  "timestamp": "2026-09-05T13:12:30.718179586Z",
+  "model": "glm-5.3"
+}

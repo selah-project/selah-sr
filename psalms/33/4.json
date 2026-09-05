@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 33:4",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 33,
+  "translation": "Јер прав ⟨је⟩ говор Јахвеов, и све дело његово у верности.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "прав"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говор"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеов"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и све"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "дело његово"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "у верности"
+    }
+  ],
+  "timestamp": "2026-09-05T13:22:29.226788968Z",
+  "model": "glm-5.3"
+}

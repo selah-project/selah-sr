@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 6:6",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "Све дане посвећења свога Јахвеу ради душе умрле неће доћи.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дане"
+    },
+    {
+      "surface": "הזירו",
+      "gloss": "посвећења свога"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Јахвеу"
+    },
+    {
+      "surface": "על",
+      "gloss": "ради"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "душе"
+    },
+    {
+      "surface": "מת",
+      "gloss": "умрле"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "доћи"
+    }
+  ],
+  "timestamp": "2026-09-05T10:29:37.099180536Z",
+  "model": "glm-5.3"
+}

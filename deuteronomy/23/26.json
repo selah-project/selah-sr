@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 23:26",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "Кад дођеш у жито свог друга, и береш класје руком својом, а косу не махаш над житом свог друга.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "кад"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "дођеш"
+    },
+    {
+      "surface": "בקמת",
+      "gloss": "у жито"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "свог друга"
+    },
+    {
+      "surface": "וקטפת",
+      "gloss": "и береш"
+    },
+    {
+      "surface": "מלילת",
+      "gloss": "класје"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "руком својом"
+    },
+    {
+      "surface": "וחרמש",
+      "gloss": "а косу"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תניף",
+      "gloss": "махаш"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "קמת",
+      "gloss": "житом"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "свог друга"
+    }
+  ],
+  "timestamp": "2026-09-05T10:52:06.360533053Z",
+  "model": "glm-5.3"
+}

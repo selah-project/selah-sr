@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "joshua 19:35",
+  "book": "joshua",
+  "lang": "sr",
+  "chapter": 19,
+  "translation": "и градови утврђени: Хацидим, Цер, и Хамат, Ракат, и Кинерет;",
+  "tokens": [
+    {
+      "surface": "וערי",
+      "gloss": "и градови"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "утврђени"
+    },
+    {
+      "surface": "הצדים",
+      "gloss": "Хацидим"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Цер"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "и Хамат"
+    },
+    {
+      "surface": "רקת",
+      "gloss": "Ракат"
+    },
+    {
+      "surface": "וכנרת",
+      "gloss": "и Кинерет"
+    }
+  ],
+  "timestamp": "2026-09-05T11:03:47.325838964Z",
+  "model": "glm-5.3"
+}

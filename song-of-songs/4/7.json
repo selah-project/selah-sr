@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 4:7",
+  "book": "song-of-songs",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "Сва си лепота, драга моја, и мрље нема на теби.",
+  "tokens": [
+    {
+      "surface": "כלך",
+      "gloss": "сва си"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "лепота"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "драга моја"
+    },
+    {
+      "surface": "ומום",
+      "gloss": "и мрље"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "בך",
+      "gloss": "на теби"
+    }
+  ],
+  "timestamp": "2026-09-05T14:07:11.578711070Z",
+  "model": "glm-5.3"
+}

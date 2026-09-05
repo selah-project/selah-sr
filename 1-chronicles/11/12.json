@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 11:12",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "И после њега Елазар, син Додов, Ахохићанин; он ⟨бејаше⟩ међу трију јунака.",
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "и после њега"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Елазар"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "דודו",
+      "gloss": "Додов"
+    },
+    {
+      "surface": "האחוחי",
+      "gloss": "Ахохићанин"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "међу трију"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "јунака"
+    }
+  ],
+  "timestamp": "2026-09-05T14:37:43.492737153Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 23:31",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "Не гледај на вино кад се црвени, кад даје у чаши ⟨боју⟩ ока свога, кад тече ⟨глатко⟩ правично.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תרא",
+      "gloss": "гледај на"
+    },
+    {
+      "surface": "יין",
+      "gloss": "вино"
+    },
+    {
+      "surface": "כי",
+      "gloss": "кад"
+    },
+    {
+      "surface": "יתאדם",
+      "gloss": "се црвени"
+    },
+    {
+      "surface": "כי",
+      "gloss": "кад"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "даје"
+    },
+    {
+      "surface": "בכיס",
+      "gloss": "у чаши"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "око своје"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "тече"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "правично"
+    }
+  ],
+  "timestamp": "2026-09-05T17:11:16.541242452Z",
+  "model": "glm-5.3"
+}

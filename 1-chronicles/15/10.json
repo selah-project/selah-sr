@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 15:10",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 15,
+  "translation": "Од синова Узиила: Аминадав главни, и браћа његова сто и дванаест.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "од синова"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "Узиила"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Аминадав"
+    },
+    {
+      "surface": "השר",
+      "gloss": "главни"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "и браћа његова"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "и два"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "наест"
+    }
+  ],
+  "timestamp": "2026-09-05T14:39:16.551039938Z",
+  "model": "glm-5.3"
+}

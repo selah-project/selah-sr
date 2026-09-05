@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 31:3",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 31,
+  "translation": "Не дај женама моћ своју, ни путеве своје истребљењу краљева.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "дај"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "женама"
+    },
+    {
+      "surface": "חילך",
+      "gloss": "моћ своју"
+    },
+    {
+      "surface": "ודרכיך",
+      "gloss": "ни путеве своје"
+    },
+    {
+      "surface": "למחות",
+      "gloss": "истребљењу"
+    },
+    {
+      "surface": "מלכין",
+      "gloss": "краљева"
+    }
+  ],
+  "timestamp": "2026-09-05T13:55:03.429361562Z",
+  "model": "glm-5.3"
+}

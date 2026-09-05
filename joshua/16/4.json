@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 16:4",
+  "book": "joshua",
+  "lang": "sr",
+  "chapter": 16,
+  "translation": "И наследише синови Јосефови — Менаше и Ефрајим.",
+  "tokens": [
+    {
+      "surface": "וינחלו",
+      "gloss": "И наследише"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Јосефови"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Менаше"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "и Ефрајим"
+    }
+  ],
+  "timestamp": "2026-09-05T11:02:52.789055235Z",
+  "model": "glm-5.3"
+}

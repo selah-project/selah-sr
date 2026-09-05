@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 17:9",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 17,
+  "translation": "Ко покрива преступ тражи љубав, а ко понавља ствар раздваја пријатеља.",
+  "tokens": [
+    {
+      "surface": "מכסה",
+      "gloss": "покрива"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "преступ"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "тражи"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "љубав"
+    },
+    {
+      "surface": "ושנה",
+      "gloss": "а понавља"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ствар"
+    },
+    {
+      "surface": "מפריד",
+      "gloss": "раздваја"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "пријатеља"
+    }
+  ],
+  "timestamp": "2026-09-05T13:49:34.470427116Z",
+  "model": "glm-5.3"
+}

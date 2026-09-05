@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 17:13",
+  "book": "judges",
+  "lang": "sr",
+  "chapter": 17,
+  "translation": "И рече Мика: Сада знам да ће Јахве добро мени чинити, јер имам Левита за свештеника.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Мика"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "сада"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "знам"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "ייטיב",
+      "gloss": "ће добро чинити"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мени"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "היה",
+      "gloss": "има ⟨био⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мени"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "Левита"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "за свештеника"
+    }
+  ],
+  "timestamp": "2026-09-05T11:12:31.716217786Z",
+  "model": "glm-5.3"
+}

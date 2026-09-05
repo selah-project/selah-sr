@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 36:9",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 36,
+  "translation": "И ово је порекло Исава (Есава), оца Едома, у гори Сеир.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "И ово"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "порекло"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Исава (Есава)"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "оца"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Едома"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "у гори"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Сеир"
+    }
+  ],
+  "timestamp": "2026-09-05T15:00:53.965403419Z",
+  "model": "glm-5.3"
+}

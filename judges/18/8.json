@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 18:8",
+  "book": "judges",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "И дођоше к својој браћи у Цори и у Ештаолу, и рече им њихова браћа: Шта ви?",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "И дођоше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ка"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "својој браћи"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "у Цори"
+    },
+    {
+      "surface": "ואשתאל",
+      "gloss": "и у Ештаолу"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "њихова браћа"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Шта"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ви"
+    }
+  ],
+  "timestamp": "2026-09-05T11:13:21.823623692Z",
+  "model": "glm-5.3"
+}

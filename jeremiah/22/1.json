@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 22:1",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "Тако рече Јахве: Сиђи у дом цара Јудин и говори тамо ⟨את⟩ ову реч:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Тако"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "רד",
+      "gloss": "сиђи"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цара"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јудин"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "и говори"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тамо"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ову реч"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "реч"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ову"
+    }
+  ],
+  "timestamp": "2026-09-05T12:28:16.444561019Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 1:18",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "Јер у мноштву мудрости ⟨је⟩ мноштво муке, и ко додаје знање, додаје бол.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "у мноштву"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мудрости"
+    },
+    {
+      "surface": "רב",
+      "gloss": "мноштво"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "муке"
+    },
+    {
+      "surface": "ויוסיף",
+      "gloss": "и ко додаје"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "знање"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "додаје"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "бол"
+    }
+  ],
+  "timestamp": "2026-09-05T14:11:10.550413497Z",
+  "model": "glm-5.3"
+}

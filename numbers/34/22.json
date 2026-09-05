@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 34:22",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 34,
+  "translation": "И за племе синâ Данових — кнез Буки, син Јоглијев.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "и за племе"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синâ"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Данових"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "кнез"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "Буки"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "יגלי",
+      "gloss": "Јоглијев"
+    }
+  ],
+  "timestamp": "2026-09-05T10:42:18.076653988Z",
+  "model": "glm-5.3"
+}

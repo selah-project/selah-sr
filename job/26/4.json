@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 26:4",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 26,
+  "translation": "⟨את⟩ кога си објавио речи, и дах кога изађе из тебе?",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кога"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кога"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "си објавио"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "речи"
+    },
+    {
+      "surface": "ונשמת",
+      "gloss": "и дах"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кога"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "изађе"
+    },
+    {
+      "surface": "мמך",
+      "gloss": "из тебе"
+    }
+  ],
+  "timestamp": "2026-09-05T14:01:28.180568970Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 7:8",
+  "book": "song-of-songs",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Ова твоја статура упоређена ⟨је⟩ палми, и твоје дојке гроздовима.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ова"
+    },
+    {
+      "surface": "קומתך",
+      "gloss": "твоја статура"
+    },
+    {
+      "surface": "דמתה",
+      "gloss": "упоређена ⟨је⟩"
+    },
+    {
+      "surface": "לתמר",
+      "gloss": "палми"
+    },
+    {
+      "surface": "ושדיך",
+      "gloss": "и твоје дојке"
+    },
+    {
+      "surface": "לאשכלות",
+      "gloss": "гроздовима"
+    }
+  ],
+  "timestamp": "2026-09-05T16:06:13.182729967Z",
+  "model": "glm-5.3"
+}

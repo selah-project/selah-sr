@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 3:17",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "И синови Јеконије (Јехонија) заробљеника: Шеалтиел, син његов.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "и синови"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "Јеконије"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "заробљеника"
+    },
+    {
+      "surface": "שאלתיאל",
+      "gloss": "Шеалтиел"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син његов"
+    }
+  ],
+  "timestamp": "2026-09-05T14:35:02.007400311Z",
+  "model": "glm-5.3"
+}

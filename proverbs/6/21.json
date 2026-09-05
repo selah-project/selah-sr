@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 6:21",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "Свежи их на срце своје непрестано, опаси их око врата свога.",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "свежи их"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "срце своје"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "непрестано"
+    },
+    {
+      "surface": "ענדם",
+      "gloss": "опаси их"
+    },
+    {
+      "surface": "על",
+      "gloss": "око"
+    },
+    {
+      "surface": "גרגרתך",
+      "gloss": "врата свога"
+    }
+  ],
+  "timestamp": "2026-09-05T13:47:05.220574164Z",
+  "model": "glm-5.3"
+}

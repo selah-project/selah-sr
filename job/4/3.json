@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 4:3",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "Ево, поучио си многе, и руке слабе учвршћујеш.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ево"
+    },
+    {
+      "surface": "יסרת",
+      "gloss": "поучио си"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "многе"
+    },
+    {
+      "surface": "וידים",
+      "gloss": "и руке"
+    },
+    {
+      "surface": "רפות",
+      "gloss": "слабе"
+    },
+    {
+      "surface": "תחזק",
+      "gloss": "учвршћујеш"
+    }
+  ],
+  "timestamp": "2026-09-05T13:54:59.182801507Z",
+  "model": "glm-5.3"
+}

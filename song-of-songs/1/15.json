@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 1:15",
+  "book": "song-of-songs",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "Гле, лепа си, драго моја; гле, лепа си; очи су ти голубице.",
+  "tokens": [
+    {
+      "surface": "הנך",
+      "gloss": "гле"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "лепа си"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "драго моја"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "гле"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "лепа си"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "очи твоје"
+    },
+    {
+      "surface": "יונים",
+      "gloss": "голубице"
+    }
+  ],
+  "timestamp": "2026-09-05T14:06:12.095291197Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "lamentations 3:58",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Заступао си, Адонај, спорове душе моје, откупио си живот мој.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Заступао си"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "спорове"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душе моје"
+    },
+    {
+      "surface": "גאלת",
+      "gloss": "откупио си"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "живот мој"
+    }
+  ],
+  "timestamp": "2026-09-05T14:09:26.081803410Z",
+  "model": "glm-5.3"
+}

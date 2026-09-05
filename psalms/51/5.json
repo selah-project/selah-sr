@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 51:5",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 51,
+  "translation": "Јер своје буне ја знам, и грех мој преда мном ⟨је⟩ непрестано.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "פשעי",
+      "gloss": "своје буне"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "знам"
+    },
+    {
+      "surface": "וחטאתי",
+      "gloss": "и грех мој"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "преда мном"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "непрестано"
+    }
+  ],
+  "timestamp": "2026-09-05T13:27:23.007707842Z",
+  "model": "glm-5.3"
+}

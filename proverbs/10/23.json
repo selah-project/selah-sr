@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 10:23",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "Као смех лудом ⟨је⟩ чинити пакост, а мудрост ⟨је⟩ човеку разума.",
+  "tokens": [
+    {
+      "surface": "כשחוק",
+      "gloss": "Као смех"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "лудом"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "чинити"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "пакост"
+    },
+    {
+      "surface": "וחכמה",
+      "gloss": "а мудрост"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "човеку"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "разума"
+    }
+  ],
+  "timestamp": "2026-09-05T13:48:18.233755914Z",
+  "model": "glm-5.3"
+}

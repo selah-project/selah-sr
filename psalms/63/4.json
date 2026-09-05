@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 63:4",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 63,
+  "translation": "Јер је добар хесед твој више од живота, усне моје хвале те.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добар"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "хесед твој"
+    },
+    {
+      "surface": "מחיים",
+      "gloss": "више од живота"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "усне моје"
+    },
+    {
+      "surface": "ישבחונך",
+      "gloss": "хвале те"
+    }
+  ],
+  "timestamp": "2026-09-05T13:29:20.369170877Z",
+  "model": "glm-5.3"
+}

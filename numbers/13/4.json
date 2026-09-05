@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 13:4",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "И ово су имена њихова: за племе Рувена — Шамуа, син Закуров.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "И ово"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "су имена њихова"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "за племе"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Рувена"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "Шамуа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "Закуров"
+    }
+  ],
+  "timestamp": "2026-09-05T10:33:39.014180988Z",
+  "model": "glm-5.3"
+}

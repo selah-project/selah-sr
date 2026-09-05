@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 25:21",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 25,
+  "translation": "Ако је гладан онај што те мрзи, нахрани га хлебом, и ако је жедан, напој га водом.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ако"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "гладан"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "онај што те мрзи"
+    },
+    {
+      "surface": "האכלהו",
+      "gloss": "нахрани га"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хлебом"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "и ако"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "жедан"
+    },
+    {
+      "surface": "השקהו",
+      "gloss": "напој га"
+    },
+    {
+      "surface": "מים",
+      "gloss": "водом"
+    }
+  ],
+  "timestamp": "2026-09-05T13:52:11.529370758Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 45:20",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 45,
+  "translation": "И око ваше нека не жали ⟨на⟩ ствари ваше, јер добро целе земље Мицрајим ваше ⟨је⟩.",
+  "tokens": [
+    {
+      "surface": "ועינכם",
+      "gloss": "И око ваше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "нека не"
+    },
+    {
+      "surface": "תחס",
+      "gloss": "жали"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨на⟩"
+    },
+    {
+      "surface": "כליכם",
+      "gloss": "ствари ваше"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целе"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земље"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрајим"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ваше"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨је⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T09:57:35.806746010Z",
+  "model": "glm-5.3"
+}

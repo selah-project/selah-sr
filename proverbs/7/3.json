@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 7:3",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Вежи их на прсте своје, напиши их на таблицу срца свог.",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "Вежи их"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "прсте своје"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "напиши их"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "таблицу"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "срца свог"
+    }
+  ],
+  "timestamp": "2026-09-05T16:00:35.081100689Z",
+  "model": "glm-5.3"
+}

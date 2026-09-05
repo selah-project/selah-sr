@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "joshua 15:49",
+  "book": "joshua",
+  "lang": "sr",
+  "chapter": 15,
+  "translation": "и Дана, и Кирјат-Сана — то ⟨јест⟩ Двир:",
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "и Дана"
+    },
+    {
+      "surface": "וקרית",
+      "gloss": "и Кирјат"
+    },
+    {
+      "surface": "סנה",
+      "gloss": "Сана"
+    },
+    {
+      "surface": "היא",
+      "gloss": "то ⟨јест⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Двир"
+    }
+  ],
+  "timestamp": "2026-09-05T11:02:29.692557232Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 7:18",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Добро је да се држиш овога, и такође од овога не одлаж ⟨את⟩ руку своју; јер који се боји Елохима изађе ⟨את⟩ са свих њих.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "добро је"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "да"
+    },
+    {
+      "surface": "תאחז",
+      "gloss": "држиш се"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "овога"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "и такође"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "од овога"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "одлаж"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "руку своју"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "руку своју"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "који се боји"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохима"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "изађе"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "са свих њих"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "са свих њих"
+    }
+  ],
+  "timestamp": "2026-09-05T16:08:06.303160118Z",
+  "model": "glm-5.3"
+}

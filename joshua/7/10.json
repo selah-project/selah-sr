@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 7:10",
+  "book": "joshua",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "И рече Јахве Јехошуи (Исусу): устани ти; зашто ово ти падаш на лице своје?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Јехошуи (Исусу)"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": ""
+    },
+    {
+      "surface": "קם",
+      "gloss": "устани"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "למה",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ово"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "падаш"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "лице своје"
+    }
+  ],
+  "timestamp": "2026-09-05T10:59:17.664106312Z",
+  "model": "glm-5.3"
+}

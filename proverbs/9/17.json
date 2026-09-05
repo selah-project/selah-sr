@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 9:17",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "Украдена вода слатка ⟨је⟩, и хлеб скривени укусан ⟨је⟩.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "вода"
+    },
+    {
+      "surface": "גנובים",
+      "gloss": "украдена"
+    },
+    {
+      "surface": "ימתקו",
+      "gloss": "слатка ⟨је⟩"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "и хлеб"
+    },
+    {
+      "surface": "סתרים",
+      "gloss": "скривени"
+    },
+    {
+      "surface": "ינעם",
+      "gloss": "укусан ⟨је⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T13:47:01.086675550Z",
+  "model": "glm-5.3"
+}

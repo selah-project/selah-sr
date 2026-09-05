@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 118:2",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 118,
+  "translation": "Нека каже сад Израиле: да до века хесед његов.",
+  "tokens": [
+    {
+      "surface": "יאמר",
+      "gloss": "Нека каже"
+    },
+    {
+      "surface": "נא",
+      "gloss": "сад"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиле"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "до века"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "хесед његов"
+    }
+  ],
+  "timestamp": "2026-09-05T13:39:39.251554022Z",
+  "model": "glm-5.3"
+}

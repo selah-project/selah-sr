@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 3:10",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "А он рече: ⟨את⟩ глас твој чух у врту, и побојах се, јер сам го, и сакрих се.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "глас твој"
+    },
+    {
+      "surface": "קלך",
+      "gloss": "глас твој"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "чух"
+    },
+    {
+      "surface": "בגן",
+      "gloss": "у врту"
+    },
+    {
+      "surface": "ואירא",
+      "gloss": "и побојах се"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "го"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "сам"
+    },
+    {
+      "surface": "ואחבא",
+      "gloss": "и сакрих се"
+    }
+  ],
+  "timestamp": "2026-09-05T09:38:57.679057927Z",
+  "model": "glm-5.3"
+}

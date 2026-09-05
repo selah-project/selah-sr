@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 8:4",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "И рећи ћеш њима: овако рече Јахве: зар падну и не устају? зар се окрене ⟨и⟩ не врати се?",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "И рећи ћеш"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "њима"
+    },
+    {
+      "surface": "כה",
+      "gloss": "овако"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "היפלו",
+      "gloss": "зар падну"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "устају"
+    },
+    {
+      "surface": "אם",
+      "gloss": "зар"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "се окрене"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "врати се"
+    }
+  ],
+  "timestamp": "2026-09-05T12:24:58.613592191Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 6:25",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "Не пожели лепоту њену у срцу свом, и не да те узме капцима својим.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תחמד",
+      "gloss": "пожели"
+    },
+    {
+      "surface": "יפיה",
+      "gloss": "лепоту њену"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "у срцу свом"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תקחך",
+      "gloss": "узме те"
+    },
+    {
+      "surface": "בעפעפיה",
+      "gloss": "капцима својим"
+    }
+  ],
+  "timestamp": "2026-09-05T13:47:40.120428811Z",
+  "model": "glm-5.3"
+}

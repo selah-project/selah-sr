@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 27:26",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 27,
+  "translation": "Проклет ко не потврди ⟨את⟩ речи Торе ове да ⟨את⟩ их изврши; и рече сав народ: Амен.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Проклет"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ко"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "потврди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "речи"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "речи"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Торе"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ове"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "да изврши"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ их"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сав"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Амен"
+    }
+  ],
+  "timestamp": "2026-09-05T10:53:42.298545033Z",
+  "model": "glm-5.3"
+}

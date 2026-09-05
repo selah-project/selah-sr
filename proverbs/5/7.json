@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 5:7",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "И сад, синови, чујте ме, и не одступајте од речи уста мојих.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "и сад"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "синови"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "чујте"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мене"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и да не"
+    },
+    {
+      "surface": "תסורו",
+      "gloss": "одступате"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "од речи"
+    },
+    {
+      "surface": "פי",
+      "gloss": "уста мојих"
+    }
+  ],
+  "timestamp": "2026-09-05T13:46:06.497442476Z",
+  "model": "glm-5.3"
+}

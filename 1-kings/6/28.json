@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 6:28",
+  "book": "1-kings",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "И обложи ⟨את⟩ херувиме златом.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "И обложи"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "херувиме"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "херувиме"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "златом"
+    }
+  ],
+  "timestamp": "2026-09-05T11:41:08.019729531Z",
+  "model": "glm-5.3"
+}

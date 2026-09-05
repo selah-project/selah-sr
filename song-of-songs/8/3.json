@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 8:3",
+  "book": "song-of-songs",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "Левој његовој под главом мојом, и десна ме његова обгрли.",
+  "tokens": [
+    {
+      "surface": "שמאלו",
+      "gloss": "левој његовој"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "главом мојом"
+    },
+    {
+      "surface": "וימינו",
+      "gloss": "и десна његова"
+    },
+    {
+      "surface": "תחבקני",
+      "gloss": "обгрли ме"
+    }
+  ],
+  "timestamp": "2026-09-05T16:07:07.905635965Z",
+  "model": "glm-5.3"
+}

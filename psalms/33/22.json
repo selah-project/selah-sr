@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 33:22",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 33,
+  "translation": "Нека буде хесед твој, Јахве, над нама, као што чекасмо тебе!",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "Нека буде"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "хесед твој"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "над нама"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "као што"
+    },
+    {
+      "surface": "יחלנו",
+      "gloss": "чекасмо"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тебе"
+    }
+  ],
+  "timestamp": "2026-09-05T13:21:26.334714885Z",
+  "model": "glm-5.3"
+}

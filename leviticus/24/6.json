@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 24:6",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "И поставићеш ⟨את⟩ њих у два реда, шест по реду, на сто чисту пред Јахвеом.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "и поставићеш"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "њих (колаче)"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "два"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "реда"
+    },
+    {
+      "surface": "שש",
+      "gloss": "шест"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "ред"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "сто"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "чисту"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеом"
+    }
+  ],
+  "timestamp": "2026-09-05T10:25:29.424174093Z",
+  "model": "glm-5.3"
+}

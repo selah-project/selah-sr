@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 44:1",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 44,
+  "translation": "А сад чуј, Јаакове (Јаков), слуго мој, и Израеле, кога изабрах:",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "а сад"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "чуј"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Јаакове"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "слуго мој"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "и Израеле"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "изабрах"
+    },
+    {
+      "surface": "בו",
+      "gloss": "у њега"
+    }
+  ],
+  "timestamp": "2026-09-05T12:14:12.094079936Z",
+  "model": "glm-5.3"
+}

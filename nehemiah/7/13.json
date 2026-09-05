@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "nehemiah 7:13",
+  "book": "nehemiah",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Синови Затуа (Затуових), осам стотина четрдесет и пет.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "Затуа"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "осам"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "стотина"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "четрдесет"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "и пет"
+    }
+  ],
+  "timestamp": "2026-09-05T14:30:43.702904021Z",
+  "model": "glm-5.3"
+}

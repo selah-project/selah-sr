@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 23:24",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "Радује се силно отац праведников; родилац мудраца радује се у њему.",
+  "tokens": [
+    {
+      "surface": "גול",
+      "gloss": "радосно"
+    },
+    {
+      "surface": "יגול",
+      "gloss": "радује се"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "отац"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "праведников"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "родилац"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мудраца"
+    },
+    {
+      "surface": "וישמח",
+      "gloss": "и радује се"
+    },
+    {
+      "surface": "בו",
+      "gloss": "у њему"
+    }
+  ],
+  "timestamp": "2026-09-05T13:51:51.957570243Z",
+  "model": "glm-5.3"
+}

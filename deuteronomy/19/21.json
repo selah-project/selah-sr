@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 19,
+  "translation": "и нека не поштеди око твоје: душа за душу, око за око, зуб за зуб, рука за руку, нога за ногу.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "нека поштеди"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "око твоје"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "душа"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "за душу"
+    },
+    {
+      "surface": "עין",
+      "gloss": "око"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "за око"
+    },
+    {
+      "surface": "שן",
+      "gloss": "зуб"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "за зуб"
+    },
+    {
+      "surface": "יד",
+      "gloss": "рука"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "за руку"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "нога"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "за ногу"
+    }
+  ],
+  "timestamp": "2026-09-05T10:50:17.948755475Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 18:5",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "Дизање лица безбожнику није добро, да би се праведник савијао у суду.",
+  "tokens": [
+    {
+      "surface": "שאת",
+      "gloss": "дизање"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лица"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "безбожнику"
+    },
+    {
+      "surface": "לא",
+      "gloss": "није"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "להטות",
+      "gloss": "да би се савијао"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "праведник"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "у суду"
+    }
+  ],
+  "timestamp": "2026-09-05T13:50:08.869181650Z",
+  "model": "glm-5.3"
+}

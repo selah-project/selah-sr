@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 1:30",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "не хтеше мој савет, презреше сваку моју укору.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אבו",
+      "gloss": "хтеше"
+    },
+    {
+      "surface": "לעצתי",
+      "gloss": "мој савет"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "презреше"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сву"
+    },
+    {
+      "surface": "תוכחתי",
+      "gloss": "укору моју"
+    }
+  ],
+  "timestamp": "2026-09-05T13:45:47.196980454Z",
+  "model": "glm-5.3"
+}

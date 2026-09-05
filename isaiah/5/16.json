@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 5:16",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "И узвиси се Јахве Цеваот у суду, и Ел Свети посвети се у правди.",
+  "tokens": [
+    {
+      "surface": "ויגבה",
+      "gloss": "И узвиси се"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "у суду"
+    },
+    {
+      "surface": "והאל",
+      "gloss": "и Ел"
+    },
+    {
+      "surface": "הקדוש",
+      "gloss": "Свети"
+    },
+    {
+      "surface": "נקדש",
+      "gloss": "посвети се"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "у правди"
+    }
+  ],
+  "timestamp": "2026-09-05T12:02:33.150190451Z",
+  "model": "glm-5.3"
+}

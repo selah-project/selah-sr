@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 1:14",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "И рече Јахве к мени: Са севера отвориће се зло на све становнике земље.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "к мени"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "Са севера"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "отвориће се"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "зло"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "становнике"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земље"
+    }
+  ],
+  "timestamp": "2026-09-05T12:20:23.232931715Z",
+  "model": "glm-5.3"
+}

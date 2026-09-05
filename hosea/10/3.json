@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 10:3",
+  "book": "hosea",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "Јер сада ће рећи: „Нема нам краља, јер не бојасмо Јахвеа ⟨את⟩; а краљ — шта ће нам ⟨он⟩ учинити?“",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "сада"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "ће рећи"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "краља"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "нам"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יראנו",
+      "gloss": "бојасмо"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јахвеа"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "а краљ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "шта"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "учинити"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "нам"
+    }
+  ],
+  "timestamp": "2026-09-05T13:03:20.839059199Z",
+  "model": "glm-5.3"
+}

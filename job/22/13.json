@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 22:13",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "И казао си: Шта ће Ел знати? Кроз сумрак ⟨да⟩ суди?",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "и казао си"
+    },
+    {
+      "surface": "מה",
+      "gloss": "шта"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "зна"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "הבעד",
+      "gloss": "кроз"
+    },
+    {
+      "surface": "ערפל",
+      "gloss": "сумрак"
+    },
+    {
+      "surface": "ישפוט",
+      "gloss": "суди"
+    }
+  ],
+  "timestamp": "2026-09-05T16:04:21.085932264Z",
+  "model": "glm-5.3"
+}

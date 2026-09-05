@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 6:38",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "Цадок син његов, Ахимац син његов.",
+  "tokens": [
+    {
+      "surface": "צדוק",
+      "gloss": "Цадок"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син његов"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "Ахимац"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син његов"
+    }
+  ],
+  "timestamp": "2026-09-05T14:36:19.853697944Z",
+  "model": "glm-5.3"
+}

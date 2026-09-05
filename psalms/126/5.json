@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 126:5",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 126,
+  "translation": "Који сеју у сузама, у радосној песми жњети ⟨ће⟩.",
+  "tokens": [
+    {
+      "surface": "הזרעים",
+      "gloss": "који сеју"
+    },
+    {
+      "surface": "בדמעה",
+      "gloss": "у сузама"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "у радосној песми"
+    },
+    {
+      "surface": "יקצרו",
+      "gloss": "жњети ⟨ће⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T13:41:56.979627405Z",
+  "model": "glm-5.3"
+}

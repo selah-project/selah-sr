@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 32:10",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 32,
+  "translation": "Дане изнад године дрхтаћете, поуздане, јер сврши берба, скупљање ⟨неће⟩ доћи.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "дане"
+    },
+    {
+      "surface": "על",
+      "gloss": "изнад"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "године"
+    },
+    {
+      "surface": "תרגזנה",
+      "gloss": "дрхтаћете"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "поуздане"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "сврши"
+    },
+    {
+      "surface": "בציר",
+      "gloss": "берба"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "скупљање"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "⟨не⟩"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "доћи"
+    }
+  ],
+  "timestamp": "2026-09-05T12:08:58.582225629Z",
+  "model": "glm-5.3"
+}

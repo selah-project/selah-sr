@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 78:14",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 78,
+  "translation": "И водаше их облаком дању, а све ноћи светлошћу ватре.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "и водаше"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "облаком"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "дању"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "а све"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ноћи"
+    },
+    {
+      "surface": "באור",
+      "gloss": "светлошћу"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ватре"
+    }
+  ],
+  "timestamp": "2026-09-05T17:10:07.202766363Z",
+  "model": "glm-5.3"
+}

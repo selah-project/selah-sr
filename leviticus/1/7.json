@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 1:7",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "И ставе синови Ахарона (Арона) свештеника огањ на жртвеник, и поређају дрва на ⟨огањ⟩.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "и ставе"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ахарона (Арона)"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "свештеника"
+    },
+    {
+      "surface": "אש",
+      "gloss": "огањ"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "жртвеник"
+    },
+    {
+      "surface": "וערכו",
+      "gloss": "и поређају"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "дрва"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "האש",
+      "gloss": "⟨огањ⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T15:05:55.749091392Z",
+  "model": "glm-5.3"
+}

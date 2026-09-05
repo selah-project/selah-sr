@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 16:9",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 16,
+  "translation": "И опрах те водом, и исперх твоју крв са тебе, и помазах те уљем.",
+  "tokens": [
+    {
+      "surface": "וארחצך",
+      "gloss": "и опрах те"
+    },
+    {
+      "surface": "במים",
+      "gloss": "водом"
+    },
+    {
+      "surface": "ואשטף",
+      "gloss": "и исперх"
+    },
+    {
+      "surface": "דמיך",
+      "gloss": "твоју крв"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "са тебе"
+    },
+    {
+      "surface": "ואסכך",
+      "gloss": "и помазах те"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "уљем"
+    }
+  ],
+  "timestamp": "2026-09-05T12:46:16.399178461Z",
+  "model": "glm-5.3"
+}

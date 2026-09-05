@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 31:6",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 31,
+  "translation": "Дајте жестоко пиће ономе што пропада, и вино онима од горке душе.",
+  "tokens": [
+    {
+      "surface": "תנו",
+      "gloss": "дајте"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "жестоко пиће"
+    },
+    {
+      "surface": "לאובד",
+      "gloss": "ономе што пропада"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "и вино"
+    },
+    {
+      "surface": "למרי",
+      "gloss": "онима од горке"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "душе"
+    }
+  ],
+  "timestamp": "2026-09-05T13:54:01.858575345Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "lamentations 3:42",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Ми смо преступили и побунили се ⟨против тебе⟩ — ти ниси опростио.",
+  "tokens": [
+    {
+      "surface": "נחנו",
+      "gloss": "ми"
+    },
+    {
+      "surface": "פשענו",
+      "gloss": "преступили смо"
+    },
+    {
+      "surface": "ומרינו",
+      "gloss": "и побунили смо се"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ниси"
+    },
+    {
+      "surface": "סלחת",
+      "gloss": "опростио"
+    }
+  ],
+  "timestamp": "2026-09-05T14:09:12.420997113Z",
+  "model": "glm-5.3"
+}

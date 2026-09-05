@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 50:2",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 50,
+  "translation": "Из Циона, савршенства лепоте, Елохим засија.",
+  "tokens": [
+    {
+      "surface": "מציון",
+      "gloss": "Из Циона"
+    },
+    {
+      "surface": "מכלל",
+      "gloss": "савршенства"
+    },
+    {
+      "surface": "יפי",
+      "gloss": "лепоте"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "засија"
+    }
+  ],
+  "timestamp": "2026-09-05T16:43:20.223226260Z",
+  "model": "glm-5.3"
+}

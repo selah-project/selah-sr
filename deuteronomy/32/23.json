@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 32:23",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 32,
+  "translation": "Наспашћу на њих зла, стреле своје исцрпћу на њих.",
+  "tokens": [
+    {
+      "surface": "אספה",
+      "gloss": "Наспашћу"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "на њих"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "зла"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "стреле своје"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "исцрпћу"
+    },
+    {
+      "surface": "בם",
+      "gloss": "на њих"
+    }
+  ],
+  "timestamp": "2026-09-05T10:55:49.191046074Z",
+  "model": "glm-5.3"
+}

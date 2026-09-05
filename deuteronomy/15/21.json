@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 15:21",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 15,
+  "translation": "Ако буде на њему мана — хромило или слепило, било каква рђава мана — не коли га Јахвеу, Елохиму своме.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Ако"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "буде"
+    },
+    {
+      "surface": "בו",
+      "gloss": "на њему"
+    },
+    {
+      "surface": "מום",
+      "gloss": "мана"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "хромило"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "עור",
+      "gloss": "слепило"
+    },
+    {
+      "surface": "כל",
+      "gloss": "било каква"
+    },
+    {
+      "surface": "מום",
+      "gloss": "мана"
+    },
+    {
+      "surface": "רע",
+      "gloss": "рђава"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תזבחנו",
+      "gloss": "коли га"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Јахвеу"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Елохиму своме"
+    }
+  ],
+  "timestamp": "2026-09-05T10:48:25.982725992Z",
+  "model": "glm-5.3"
+}

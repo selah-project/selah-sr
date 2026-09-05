@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 30:7",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 30,
+  "translation": "А ја рекох у спокојству свом: нећу се поколебати довека.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "А ја"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "рекох"
+    },
+    {
+      "surface": "בשלוי",
+      "gloss": "у спокојству свом"
+    },
+    {
+      "surface": "בל",
+      "gloss": "не"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "ћу се поколебати"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "довека"
+    }
+  ],
+  "timestamp": "2026-09-05T13:23:33.225524275Z",
+  "model": "glm-5.3"
+}

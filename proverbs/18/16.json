@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 18:16",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "Дар човека шири му ⟨простор⟩, и пред велике води га.",
+  "tokens": [
+    {
+      "surface": "מתן",
+      "gloss": "Дар"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човека"
+    },
+    {
+      "surface": "ירחיב",
+      "gloss": "шири"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "и пред"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "велике"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "води га"
+    }
+  ],
+  "timestamp": "2026-09-05T16:00:18.150076497Z",
+  "model": "glm-5.3"
+}

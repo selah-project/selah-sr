@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 4:15",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "Јер глас јавља из Дана, и оглашава беду са горе Ефраимове.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "קול",
+      "gloss": "глас"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "јавља"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "из Дана"
+    },
+    {
+      "surface": "ומשמיע",
+      "gloss": "и оглашава"
+    },
+    {
+      "surface": "און",
+      "gloss": "беду"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "са горе"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Ефраимове"
+    }
+  ],
+  "timestamp": "2026-09-05T12:22:11.084038398Z",
+  "model": "glm-5.3"
+}

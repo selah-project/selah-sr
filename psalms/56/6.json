@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 56:6",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 56,
+  "translation": "Сав дан изопачују речи моје, против мене све мисли њихове — на зло.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "сав"
+    },
+    {
+      "surface": "היום",
+      "gloss": "дан"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "речи моје"
+    },
+    {
+      "surface": "יעצבו",
+      "gloss": "изопачују"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "против мене"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "мисли њихове"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "на зло"
+    }
+  ],
+  "timestamp": "2026-09-05T13:28:01.748075998Z",
+  "model": "glm-5.3"
+}

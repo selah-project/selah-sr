@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 2:25",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "И бијаху обоје гои, човјек и жена његова, и не постидје се.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "и бијаху"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "обоје"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "гои"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "човек"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "и жена његова"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יתבששו",
+      "gloss": "постидје се"
+    }
+  ],
+  "timestamp": "2026-09-05T16:54:08.247108016Z",
+  "model": "glm-5.3"
+}

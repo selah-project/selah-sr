@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 31:7",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 31,
+  "translation": "Нека пије и заборави сиромаштво своје, и труд свој да не помни више.",
+  "tokens": [
+    {
+      "surface": "ישתה",
+      "gloss": "Нека пије"
+    },
+    {
+      "surface": "וישכח",
+      "gloss": "и заборави"
+    },
+    {
+      "surface": "רישו",
+      "gloss": "сиромаштво своје"
+    },
+    {
+      "surface": "ו עמלו",
+      "gloss": "и труд свој"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "да помни"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "више"
+    }
+  ],
+  "timestamp": "2026-09-05T13:54:01.858711686Z",
+  "model": "glm-5.3"
+}

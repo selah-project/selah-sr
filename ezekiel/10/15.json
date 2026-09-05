@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 10:15",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "И подигоше се керуби — то ⟨је⟩ она жива бића што видех на реци Кевар.",
+  "tokens": [
+    {
+      "surface": "וירמו",
+      "gloss": "и подигоше се"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "керуби"
+    },
+    {
+      "surface": "היא",
+      "gloss": "то"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "жива бића"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "видех"
+    },
+    {
+      "surface": "בנהר",
+      "gloss": "на реци"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "Кевар"
+    }
+  ],
+  "timestamp": "2026-09-05T12:44:55.278861445Z",
+  "model": "glm-5.3"
+}

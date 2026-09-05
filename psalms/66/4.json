@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 66:4",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 66,
+  "translation": "Сва земља поклониће се теби и свираће теби, свираће имени твоме. Села.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "сва"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земља"
+    },
+    {
+      "surface": "ישתחוו",
+      "gloss": "поклониће се"
+    },
+    {
+      "surface": "לך",
+      "gloss": "теби"
+    },
+    {
+      "surface": "ויזמרו",
+      "gloss": "и свираће"
+    },
+    {
+      "surface": "לך",
+      "gloss": "теби"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "свираће"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "имени твоме"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Села"
+    }
+  ],
+  "timestamp": "2026-09-05T13:28:54.408192773Z",
+  "model": "glm-5.3"
+}

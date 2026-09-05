@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 73:22",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 73,
+  "translation": "А ја безумен бејах и не знађах; стока бејах ⟨са⟩ тобом.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "а ја"
+    },
+    {
+      "surface": "בער",
+      "gloss": "безумен"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "знађах"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "стока"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "бејах"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "са тобом"
+    }
+  ],
+  "timestamp": "2026-09-05T13:30:58.163518819Z",
+  "model": "glm-5.3"
+}

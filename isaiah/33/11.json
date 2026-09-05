@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 33:11",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 33,
+  "translation": "Зачнете плају, родите сламу; дах ваш ⟨као⟩ ватра појест ће вас.",
+  "tokens": [
+    {
+      "surface": "תהרו",
+      "gloss": "Зачнете"
+    },
+    {
+      "surface": "חשש",
+      "gloss": "плају"
+    },
+    {
+      "surface": "תלדו",
+      "gloss": "родите"
+    },
+    {
+      "surface": "קש",
+      "gloss": "сламу"
+    },
+    {
+      "surface": "רוחכם",
+      "gloss": "дах ваш"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ватра"
+    },
+    {
+      "surface": "תאכלכם",
+      "gloss": "појест ће вас"
+    }
+  ],
+  "timestamp": "2026-09-05T12:08:51.419393449Z",
+  "model": "glm-5.3"
+}

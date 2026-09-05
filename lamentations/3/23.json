@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "lamentations 3:23",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Нове су свакога јутра — велика је верност твоја.",
+  "tokens": [
+    {
+      "surface": "חדשים",
+      "gloss": "нове"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "свакога јутра"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "велика"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "верност твоја"
+    }
+  ],
+  "timestamp": "2026-09-05T16:07:12.983808121Z",
+  "model": "glm-5.3"
+}

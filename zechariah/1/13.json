@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 1:13",
+  "book": "zechariah",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "И одговори Јахве ⟨את⟩ анђела који говораше у мени речи добре, речи утешне.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "И одговори"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "анђела"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "анђела"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "који говораше"
+    },
+    {
+      "surface": "בי",
+      "gloss": "у мени"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "речи"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "добре"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "речи"
+    },
+    {
+      "surface": "נחמים",
+      "gloss": "утешне"
+    }
+  ],
+  "timestamp": "2026-09-05T13:12:40.753065471Z",
+  "model": "glm-5.3"
+}

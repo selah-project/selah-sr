@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 22:17",
+  "book": "2-samuel",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "Посла ⟨одозго⟩, узе ме; извуче ме из вода многих.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "посла"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "одозго"
+    },
+    {
+      "surface": "יקחני",
+      "gloss": "узе ме"
+    },
+    {
+      "surface": "ימשני",
+      "gloss": "извуче ме"
+    },
+    {
+      "surface": "ממים",
+      "gloss": "из вода"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "многих"
+    }
+  ],
+  "timestamp": "2026-09-05T11:36:54.877056240Z",
+  "model": "glm-5.3"
+}

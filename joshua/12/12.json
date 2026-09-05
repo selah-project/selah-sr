@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 12:12",
+  "book": "joshua",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "цар Еглона један; цар Гезера (Гезар) један;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "Еглона"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "један"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Гезера"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "један"
+    }
+  ],
+  "timestamp": "2026-09-05T15:17:11.625252806Z",
+  "model": "glm-5.3"
+}

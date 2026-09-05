@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 17:3",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 17,
+  "translation": "Човек, човек из дома Израиљевог који закоље вола или јагње или козу у логору, или који закоље изван логора,",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "из дома"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљевог"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "закоље"
+    },
+    {
+      "surface": "שור",
+      "gloss": "вола"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "јагње"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "עז",
+      "gloss": "козу"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "у логору"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "закоље"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "изван"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "логора"
+    }
+  ],
+  "timestamp": "2026-09-05T15:07:50.911421139Z",
+  "model": "glm-5.3"
+}

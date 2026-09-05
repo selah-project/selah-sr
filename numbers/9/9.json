@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 9:9",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "И рече Јахве Мошеу (Мојсију), говорећи:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Мошеу"
+    },
+    {
+      "surface": "משה",
+      "gloss": "(Мојсију)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорећи"
+    }
+  ],
+  "timestamp": "2026-09-05T15:09:03.742144080Z",
+  "model": "glm-5.3"
+}

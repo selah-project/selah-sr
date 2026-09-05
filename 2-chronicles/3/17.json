@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 3:17",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "И подиже ⟨את⟩ стубове пред лице храма — један с десна и један с левa — и даде име десном Јахин, а левом Боаз.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "подиже"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "стубове"
+    },
+    {
+      "surface": "העמודים",
+      "gloss": "стубове"
+    },
+    {
+      "surface": "על",
+      "gloss": "пред"
+    },
+    {
+      "surface": "пни",
+      "gloss": "лице"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "храма"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "један"
+    },
+    {
+      "surface": "מимин",
+      "gloss": "с десна"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "и један"
+    },
+    {
+      "surface": "מהשמאול",
+      "gloss": "с левa"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "и даде имя"
+    },
+    {
+      "surface": "שם",
+      "gloss": "име"
+    },
+    {
+      "surface": "הימיני",
+      "gloss": "десном"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "Јахин"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "а име"
+    },
+    {
+      "surface": "השמאלי",
+      "gloss": "левом"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Боаз"
+    }
+  ],
+  "timestamp": "2026-09-05T14:44:52.295922531Z",
+  "model": "glm-5.3"
+}

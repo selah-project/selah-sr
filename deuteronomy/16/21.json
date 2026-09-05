@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 16:21",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 16,
+  "translation": "Не сади себи ашеру ⟨од⟩ никакво дрво уз жртвеник Јахве, Елохима твога, који подигнеш себи.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תטע",
+      "gloss": "сади"
+    },
+    {
+      "surface": "לך",
+      "gloss": "себи"
+    },
+    {
+      "surface": "אשרה",
+      "gloss": "ашеру"
+    },
+    {
+      "surface": "כל",
+      "gloss": "никакво"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "дрво"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "уз"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "жртвеник"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Елохима твога"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "подигнеш"
+    },
+    {
+      "surface": "לך",
+      "gloss": "себи"
+    }
+  ],
+  "timestamp": "2026-09-05T15:13:41.223189427Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 12:13",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "Крај речи, све ⟨је⟩ чујено: бој се Елохима и држи ⟨את⟩ заповести његове, јер то је цео човек.",
+  "tokens": [
+    {
+      "surface": "סוף",
+      "gloss": "крај"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "речи"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "све"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "чује се"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Елохима"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елохима"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "бој се"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "заповести његове"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "заповести његове"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "држи"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "זה",
+      "gloss": "то"
+    },
+    {
+      "surface": "כל",
+      "gloss": "цео"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "човек"
+    }
+  ],
+  "timestamp": "2026-09-05T14:14:07.596546018Z",
+  "model": "glm-5.3"
+}

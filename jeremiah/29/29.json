@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 29:29",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 29,
+  "translation": "И прочита Цефанија свештеник ⟨את⟩ ово писмо ушима Јермији пророку.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "И прочита"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "Цефанија"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "свештеник"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ово писмо"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "писмо"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ово"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "ушима"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Јермији"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "пророку"
+    }
+  ],
+  "timestamp": "2026-09-05T12:32:22.111506723Z",
+  "model": "glm-5.3"
+}

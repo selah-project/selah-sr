@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 148:1",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 148,
+  "translation": "Хвалите Јаха! Хвалите ⟨את⟩ Јахвеа из небеса, хвалите га у висинама!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Хвалите"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Јаха"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Хвалите"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јахвеа"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "מן",
+      "gloss": "из"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небеса"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "хвалите га"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "у висинама"
+    }
+  ],
+  "timestamp": "2026-09-05T13:45:02.967150403Z",
+  "model": "glm-5.3"
+}

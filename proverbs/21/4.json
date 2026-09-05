@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 21:4",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "Узвишеност очију и пространост срца, светиљка злих ⟨је⟩ грех.",
+  "tokens": [
+    {
+      "surface": "רום",
+      "gloss": "узвишеност"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "очију"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "и пространост"
+    },
+    {
+      "surface": "לב",
+      "gloss": "срца"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "светиљка"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "злих"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "грех"
+    }
+  ],
+  "timestamp": "2026-09-05T16:01:57.706232127Z",
+  "model": "glm-5.3"
+}

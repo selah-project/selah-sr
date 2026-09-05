@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 18:9",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "Кад дођеш у земљу коју ти даје Јахве, Елохим твој, не учи се да чиниш по гадости оних народа.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Кад"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "בא",
+      "gloss": "дођеш"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земљу"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "коју"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Елохим твој"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "даје"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תלמד",
+      "gloss": "учи се"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "да чиниш"
+    },
+    {
+      "surface": "כתועבת",
+      "gloss": "по гадости"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "оних народа"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "оних"
+    }
+  ],
+  "timestamp": "2026-09-05T10:50:34.283843181Z",
+  "model": "glm-5.3"
+}

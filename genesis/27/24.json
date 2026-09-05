@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 27:24",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 27,
+  "translation": "И рече: „Јеси ли ти мој син Есав?“ А он рече: „Јесам.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Јеси ли"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "בני",
+      "gloss": "мој син"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Есав"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "А он рече"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Јесам"
+    }
+  ],
+  "timestamp": "2026-09-05T09:48:11.820761983Z",
+  "model": "glm-5.3"
+}

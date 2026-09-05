@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ecclesiastes 7:28",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "што још тражи душа моја, а не нађох: једнога човека од хиљаду нађох, а жену међу свим овима не нађох.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "још"
+    },
+    {
+      "surface": "בקשה",
+      "gloss": "тражи"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душа моја"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "а не"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "нађох"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човека"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "једнога"
+    },
+    {
+      "surface": "מאלף",
+      "gloss": "од хиљаду"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "нађох"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "а жену"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "међу свим"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "овима"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "нађох"
+    }
+  ],
+  "timestamp": "2026-09-05T14:12:59.121996252Z",
+  "model": "glm-5.3"
+}

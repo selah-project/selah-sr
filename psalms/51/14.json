@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 51:14",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 51,
+  "translation": "Врати ми радост спасења свога, и духом вољним ме подржи.",
+  "tokens": [
+    {
+      "surface": "השיבה",
+      "gloss": "врати"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "ששון",
+      "gloss": "радост"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "спасења свога"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "и духом"
+    },
+    {
+      "surface": "נדיבה",
+      "gloss": "вољним"
+    },
+    {
+      "surface": "תסמכני",
+      "gloss": "ме подржи"
+    }
+  ],
+  "timestamp": "2026-09-05T13:27:28.521266307Z",
+  "model": "glm-5.3"
+}

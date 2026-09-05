@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Не буди мудар у очима својим; бој се Јахвеа ⟨את⟩ и одступи од зла:",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "буди"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мудар"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "у очима својим"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "бој се"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јахвеа"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "и одступи"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "од зла"
+    }
+  ],
+  "timestamp": "2026-09-05T16:44:18.939170525Z",
+  "model": "glm-5.3"
+}

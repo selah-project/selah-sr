@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 14:7",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "Иди с лица човека глупога, а да не познаш усне знања.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "иди"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "с лица"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "човека"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "глупога"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "а да не"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "познаш"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "усне"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "знања"
+    }
+  ],
+  "timestamp": "2026-09-05T13:49:06.029605468Z",
+  "model": "glm-5.3"
+}

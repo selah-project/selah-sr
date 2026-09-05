@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 26:9",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 26,
+  "translation": "Држи лице престола, простире над њим облак свој.",
+  "tokens": [
+    {
+      "surface": "מאחז",
+      "gloss": "Држи"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лице"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "престола"
+    },
+    {
+      "surface": "פרשז",
+      "gloss": "простире"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "над њим"
+    },
+    {
+      "surface": "עננו",
+      "gloss": "облак свој"
+    }
+  ],
+  "timestamp": "2026-09-05T14:01:03.524247381Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 28:17",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "Још дођоше Едомци, и поразише у Јуди, и одведоше робље.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "још"
+    },
+    {
+      "surface": "אדומים",
+      "gloss": "Едомци"
+    },
+    {
+      "surface": "באו",
+      "gloss": "дођоше"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "и поразише"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "у Јуди"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "и одведоше"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "робље"
+    }
+  ],
+  "timestamp": "2026-09-05T14:53:13.448011336Z",
+  "model": "glm-5.3"
+}

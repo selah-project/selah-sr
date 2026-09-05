@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 10:20",
+  "book": "ezra",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "И од синова Имерових: Ханани и Зевадија.",
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "И од синова"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "Имерових"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "Ханани"
+    },
+    {
+      "surface": "וזבדיה",
+      "gloss": "и Зевадија"
+    }
+  ],
+  "timestamp": "2026-09-05T16:45:06.503210139Z",
+  "model": "glm-5.3"
+}

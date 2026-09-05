@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 9:32",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "А пшеница и спела не беше поражено, јер ⟨су⟩ позне.”",
+  "tokens": [
+    {
+      "surface": "והחטה",
+      "gloss": "А пшеница"
+    },
+    {
+      "surface": "והכסמת",
+      "gloss": "и спела"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "беше поражено"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "אפילת",
+      "gloss": "позне"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "⟨су⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T10:01:58.355373739Z",
+  "model": "glm-5.3"
+}

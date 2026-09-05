@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 17:8",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 17,
+  "translation": "И дође Амалек, па се бори са Израиљем у Рефидиму.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "И дође"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Амалек"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "па се бори"
+    },
+    {
+      "surface": "עם",
+      "gloss": "са"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљем"
+    },
+    {
+      "surface": "ברפידם",
+      "gloss": "у Рефидиму"
+    }
+  ],
+  "timestamp": "2026-09-05T10:06:07.479356756Z",
+  "model": "glm-5.3"
+}

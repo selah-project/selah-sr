@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 132:6",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 132,
+  "translation": "Ено, чусмо је у Ефрати, нађосмо је у пољима Јаровим.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ено"
+    },
+    {
+      "surface": "שמענוה",
+      "gloss": "чусмо је"
+    },
+    {
+      "surface": "באפרתה",
+      "gloss": "у Ефрати"
+    },
+    {
+      "surface": "מצאנוה",
+      "gloss": "нађосмо је"
+    },
+    {
+      "surface": "בשדי",
+      "gloss": "у пољима"
+    },
+    {
+      "surface": "יער",
+      "gloss": "Јаровим"
+    }
+  ],
+  "timestamp": "2026-09-05T15:59:41.557739190Z",
+  "model": "glm-5.3"
+}

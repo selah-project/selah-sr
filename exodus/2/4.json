@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 2:4",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "И стајаше сестра његова издалека да сазна шта ће му бити учињено.",
+  "tokens": [
+    {
+      "surface": "ותתצב",
+      "gloss": "и стајаше"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "сестра његова"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "издалека"
+    },
+    {
+      "surface": "לדעה",
+      "gloss": "да сазна"
+    },
+    {
+      "surface": "מה",
+      "gloss": "шта"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ће бити учињено"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    }
+  ],
+  "timestamp": "2026-09-05T09:59:28.923075673Z",
+  "model": "glm-5.3"
+}

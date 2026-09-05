@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 11:24",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "Свако место на које ступи табан ноге ваше — вама биће: од пустиње и од Ливана, од реке, реке Перат, и до мора задњег — биће међа ваша.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "свако"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "место"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "које"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "ступи"
+    },
+    {
+      "surface": "כף",
+      "gloss": "табан"
+    },
+    {
+      "surface": "רגלכם",
+      "gloss": "ноге ваше"
+    },
+    {
+      "surface": "בו",
+      "gloss": "на њему"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вама"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "биће"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "пустиње"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "и Ливана"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "реке"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "река"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Перат"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и до"
+    },
+    {
+      "surface": "הים",
+      "gloss": "мора"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "задњег"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "биће"
+    },
+    {
+      "surface": "גבלכם",
+      "gloss": "међа ваша"
+    }
+  ],
+  "timestamp": "2026-09-05T15:13:38.080293958Z",
+  "model": "glm-5.3"
+}

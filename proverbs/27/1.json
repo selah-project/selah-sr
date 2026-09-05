@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 27:1",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 27,
+  "translation": "Не хвали се даном сутрашњим, јер не знаш шта ће ⟨се⟩ родити у дану.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "хвали се"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "даном"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "сутрашњим"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "знаш"
+    },
+    {
+      "surface": "מה",
+      "gloss": "шта"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ће родити"
+    },
+    {
+      "surface": "יום",
+      "gloss": "дан"
+    }
+  ],
+  "timestamp": "2026-09-05T13:53:11.542434712Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "jeremiah 51:49",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 51,
+  "translation": "Тако Вавилон за пад убијених Израиља — тако у Вавилону падоше убијени целе земље.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "тако"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Вавилон"
+    },
+    {
+      "surface": "לנפל",
+      "gloss": "за пад"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "убијених"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиља"
+    },
+    {
+      "surface": "גם",
+      "gloss": "тако"
+    },
+    {
+      "surface": "לבבל",
+      "gloss": "у Вавилону"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "падоше"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "убијени"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целе"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земље"
+    }
+  ],
+  "timestamp": "2026-09-05T12:41:07.192508135Z",
+  "model": "glm-5.3"
+}

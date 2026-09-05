@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 20:13",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 20,
+  "translation": "Не љуби сан, да не осиромашиш; отвори очи своје, насити се хлеба.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאהב",
+      "gloss": "љуби"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "сон"
+    },
+    {
+      "surface": "פן",
+      "gloss": "да не"
+    },
+    {
+      "surface": "תורש",
+      "gloss": "осиромашиш"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "отвори"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "очи своје"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "насити се"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хлеба"
+    }
+  ],
+  "timestamp": "2026-09-05T13:51:07.093571699Z",
+  "model": "glm-5.3"
+}

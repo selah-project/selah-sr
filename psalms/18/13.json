@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 18:13",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "Од сјаја пред њим облаци његови пређоше: град и угљеви огњени.",
+  "tokens": [
+    {
+      "surface": "מנגה",
+      "gloss": "Од сјаја"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "пред њим"
+    },
+    {
+      "surface": "עביו",
+      "gloss": "облаци његови"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "пређоше"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "град"
+    },
+    {
+      "surface": "וגחלי",
+      "gloss": "и угљеви"
+    },
+    {
+      "surface": "אש",
+      "gloss": "огањ"
+    }
+  ],
+  "timestamp": "2026-09-05T15:53:44.614211482Z",
+  "model": "glm-5.3"
+}

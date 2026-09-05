@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 9:5",
+  "book": "hosea",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "Шта ћете чинити у дан одређени, и у дан празника Јахвеовог?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Шта"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "ћете чинити"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "у дан"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "одређени"
+    },
+    {
+      "surface": "וליום",
+      "gloss": "и у дан"
+    },
+    {
+      "surface": "חג",
+      "gloss": "празника"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеовог"
+    }
+  ],
+  "timestamp": "2026-09-05T13:03:18.982441985Z",
+  "model": "glm-5.3"
+}

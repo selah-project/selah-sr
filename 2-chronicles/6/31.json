@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-chronicles 6:31",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "да би те се бојали, да ходе путевима твојим све дане што живе на лицу земље коју си дао оцима нашим.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "да би"
+    },
+    {
+      "surface": "ייראוך",
+      "gloss": "те се бојали"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "да ходе"
+    },
+    {
+      "surface": "בדרכיך",
+      "gloss": "путевима твојим"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "дане"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "הם",
+      "gloss": "они"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "живе"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицу"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "земље"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "коју"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "си дао"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "оцима нашим"
+    }
+  ],
+  "timestamp": "2026-09-05T14:46:31.059285429Z",
+  "model": "glm-5.3"
+}

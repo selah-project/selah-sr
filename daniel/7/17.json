@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "daniel 7:17",
+  "book": "daniel",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Ове зверке велике, које су ⟨они⟩ четири, ⟨јесу⟩ четири краља; устаће из земље.",
+  "tokens": [
+    {
+      "surface": "אלין",
+      "gloss": "Ове"
+    },
+    {
+      "surface": "חיותא",
+      "gloss": "зверке"
+    },
+    {
+      "surface": "רברבתא",
+      "gloss": "велике"
+    },
+    {
+      "surface": "די",
+      "gloss": "које"
+    },
+    {
+      "surface": "אנין",
+      "gloss": "⟨они⟩"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "четири"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "четири"
+    },
+    {
+      "surface": "מלכין",
+      "gloss": "краља"
+    },
+    {
+      "surface": "יקומון",
+      "gloss": "устаће"
+    },
+    {
+      "surface": "מן",
+      "gloss": "из"
+    },
+    {
+      "surface": "ארעא",
+      "gloss": "земље"
+    }
+  ],
+  "timestamp": "2026-09-05T16:10:53.565311119Z",
+  "model": "glm-5.3"
+}

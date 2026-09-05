@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 51:1",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 51,
+  "translation": "Тако рече Јахве: Ево ја подижем на Вавилон и на становнике Лева-Камаја ветар рушилац.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Тако"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ево ја"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "подижем"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Вавилон"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "становнике"
+    },
+    {
+      "surface": "לב",
+      "gloss": "Лева"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "Камаја"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ветар"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "рушилац"
+    }
+  ],
+  "timestamp": "2026-09-05T12:40:28.396737249Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 21:18",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "Јер проба ⟨јесте⟩, и шта ако чак жезак погнуша? Неће бити, порука ⟨је⟩ Адонаја Јахвеа.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "בחן",
+      "gloss": "проба"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "и шта"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "גם",
+      "gloss": "чак"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "жезак"
+    },
+    {
+      "surface": "מאסת",
+      "gloss": "погнуша"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ће бити"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "порука"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонаја"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    }
+  ],
+  "timestamp": "2026-09-05T12:49:21.077760832Z",
+  "model": "glm-5.3"
+}

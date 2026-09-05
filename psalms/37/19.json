@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 37:19",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 37,
+  "translation": "Неће се постидети у време зло, и у данима глади наситиће се.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יבשу",
+      "gloss": "постидети се"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "у време"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зло"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "и у данима"
+    },
+    {
+      "surface": "רעבון",
+      "gloss": "глади"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "наситиће се"
+    }
+  ],
+  "timestamp": "2026-09-05T13:24:39.519603075Z",
+  "model": "glm-5.3"
+}

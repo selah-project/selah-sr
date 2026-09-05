@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 137:2",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 137,
+  "translation": "На врбама усред њих обесисмо киноре своје.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "На"
+    },
+    {
+      "surface": "ערבים",
+      "gloss": "врбама"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "усред њих"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "обесисмо"
+    },
+    {
+      "surface": "כנרותינו",
+      "gloss": "киноре своје"
+    }
+  ],
+  "timestamp": "2026-09-05T13:43:46.653859329Z",
+  "model": "glm-5.3"
+}

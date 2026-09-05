@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "judges 6:16",
+  "book": "judges",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "И рече му Јахве: „Јер ја бих ⟨са⟩ тобом, и ударићеш ⟨את⟩ Мидијан као један човек.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "му"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ја бих"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "⟨с⟩ тобом"
+    },
+    {
+      "surface": "והכית",
+      "gloss": "и ударићеш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мидијан"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Мидијан"
+    },
+    {
+      "surface": "кאיש",
+      "gloss": "као човек"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "један"
+    }
+  ],
+  "timestamp": "2026-09-05T15:18:40.224694220Z",
+  "model": "glm-5.3"
+}

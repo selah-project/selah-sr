@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 12:9",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "јер нисте дошли до сада ⟨до⟩ починка и ⟨до⟩ наслеђа које даје Јахве, Елохим твој, теби.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "нисте дошли"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "сада"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨до⟩"
+    },
+    {
+      "surface": "המנוחה",
+      "gloss": "починка"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и ⟨до⟩"
+    },
+    {
+      "surface": "הנחלה",
+      "gloss": "наслеђа"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "које"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Елохим твој"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "даје"
+    },
+    {
+      "surface": "לך",
+      "gloss": "теби"
+    }
+  ],
+  "timestamp": "2026-09-05T16:35:39.168626828Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 14:17",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "И изађе име Давида (Давид) по свим земљама, а Јахве даде ⟨את⟩ страх његов на све народе.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "И изађе"
+    },
+    {
+      "surface": "שם",
+      "gloss": "име"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давида (Давид)"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "по свим"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "земљама"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "а Јахве"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "даде"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "страх његов"
+    },
+    {
+      "surface": "פחדו",
+      "gloss": "страх његов"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "народе"
+    }
+  ],
+  "timestamp": "2026-09-05T14:38:42.800777945Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 48:22",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 48,
+  "translation": "Нема мира, рече Јахве, безбожницима.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Нема"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мира"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "безбожницима"
+    }
+  ],
+  "timestamp": "2026-09-05T15:37:06.671193079Z",
+  "model": "glm-5.3"
+}

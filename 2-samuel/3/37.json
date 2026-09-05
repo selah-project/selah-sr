@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-samuel 3:37",
+  "book": "2-samuel",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "И сазнадоше сав народ и сав Израиљ у дан онај да није било од краља да погуби ⟨את⟩ Авнера, сина Неровог.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "и сазнадоше"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сав"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и сав"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "у дан"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "онај"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "било"
+    },
+    {
+      "surface": "מהמלך",
+      "gloss": "од краља"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "да погуби"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Авнера"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Авнера"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "נר",
+      "gloss": "Неров"
+    }
+  ],
+  "timestamp": "2026-09-05T11:27:55.551811861Z",
+  "model": "glm-5.3"
+}

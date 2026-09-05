@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "numbers 26:53",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 26,
+  "translation": "Овима ће се поделити земља у наслеђе, по броју имена.",
+  "tokens": [
+    {
+      "surface": "לאלה",
+      "gloss": "Овима"
+    },
+    {
+      "surface": "תחלק",
+      "gloss": "ће се поделити"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земља"
+    },
+    {
+      "surface": "בנחלה",
+      "gloss": "у наслеђе"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "по броју"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "имена"
+    }
+  ],
+  "timestamp": "2026-09-05T10:39:07.620470790Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 21:16",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "Човек који скреће с пута разумевања почиваће у скупу мртвих-сена.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "човек"
+    },
+    {
+      "surface": "תועה",
+      "gloss": "скреће"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "с пута"
+    },
+    {
+      "surface": "השכל",
+      "gloss": "разумевања"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "у скупу"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "мртвих-сена"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "почиваће"
+    }
+  ],
+  "timestamp": "2026-09-05T13:50:49.405858377Z",
+  "model": "glm-5.3"
+}

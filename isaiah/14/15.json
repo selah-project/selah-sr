@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 14:15",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "Ипак — у Шеол свален бићеш, до крајева јаме.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "ипак"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шеол"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "свален бићеш"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "крајева"
+    },
+    {
+      "surface": "בור",
+      "gloss": "јаме"
+    }
+  ],
+  "timestamp": "2026-09-05T12:04:12.555546960Z",
+  "model": "glm-5.3"
+}

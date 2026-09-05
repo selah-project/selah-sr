@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 128,
+  "translation": "Ено, заиста тако биће благословен човек који се боји Јахвеа.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ено"
+    },
+    {
+      "surface": "כי",
+      "gloss": "заиста"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тако"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "биће благословен"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "човек"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "који се боји"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    }
+  ],
+  "timestamp": "2026-09-05T13:41:42.021038601Z",
+  "model": "glm-5.3"
+}

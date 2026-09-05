@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-samuel 22:29",
+  "book": "2-samuel",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "Јер си ти светило моје, Јахве, и Јахве обасјава тму моју.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "נירי",
+      "gloss": "светило моје"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "и Јахве"
+    },
+    {
+      "surface": "יגיה",
+      "gloss": "обасјава"
+    },
+    {
+      "surface": "חשכי",
+      "gloss": "тму моју"
+    }
+  ],
+  "timestamp": "2026-09-05T11:36:50.808610228Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 20:25",
+  "book": "2-samuel",
+  "lang": "sr",
+  "chapter": 20,
+  "translation": "и Шева ⟨је⟩ писар, а Цадок и Евјатар свештеници.",
+  "tokens": [
+    {
+      "surface": "ושיא",
+      "gloss": "и Шева"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "писар"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "а Цадок"
+    },
+    {
+      "surface": "ואביתר",
+      "gloss": "и Евјатар"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "свештеници"
+    }
+  ],
+  "timestamp": "2026-09-05T11:34:42.409197918Z",
+  "model": "glm-5.3"
+}

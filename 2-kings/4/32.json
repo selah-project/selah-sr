@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 4:32",
+  "book": "2-kings",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "И уђе Елиша у кућу, и гле — дечак мртав, лежећи на постељи својој.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "И уђе"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Елиша"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "у кућу"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и гле"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "дечак"
+    },
+    {
+      "surface": "מת",
+      "gloss": "мртав"
+    },
+    {
+      "surface": "משכב",
+      "gloss": "лежећи"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "постељи својој"
+    }
+  ],
+  "timestamp": "2026-09-05T11:51:55.157310187Z",
+  "model": "glm-5.3"
+}

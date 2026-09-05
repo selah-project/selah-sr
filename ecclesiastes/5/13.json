@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 5:13",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "и пропаде благо то у злом послу, и роди ⟨сина⟩, и нема ништа у руци својој.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "и пропаде"
+    },
+    {
+      "surface": "העשר",
+      "gloss": "благо"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "то"
+    },
+    {
+      "surface": "בענין",
+      "gloss": "у послу"
+    },
+    {
+      "surface": "רע",
+      "gloss": "злом"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "и роди"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨сина⟩"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и нема"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "у руци својој"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "ништа"
+    }
+  ],
+  "timestamp": "2026-09-05T16:45:06.579672823Z",
+  "model": "glm-5.3"
+}

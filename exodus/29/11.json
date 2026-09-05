@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 29:11",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 29,
+  "translation": "И закољеш ⟨את⟩ говоче пред Јахвеом, на улазу шатора састанка.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "и закољеш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "говоче"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "говоче"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеом"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "на улазу"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "шатора"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "састанка"
+    }
+  ],
+  "timestamp": "2026-09-05T10:10:25.659705541Z",
+  "model": "glm-5.3"
+}

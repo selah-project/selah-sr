@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 9:23",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "Ако бич усмрти изненада, на муку невиних подсмева ⟨се⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "бич"
+    },
+    {
+      "surface": "ימית",
+      "gloss": "усмрти"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "изненада"
+    },
+    {
+      "surface": "למסת",
+      "gloss": "на муку"
+    },
+    {
+      "surface": "נקים",
+      "gloss": "невиних"
+    },
+    {
+      "surface": "ילעג",
+      "gloss": "подсмева"
+    }
+  ],
+  "timestamp": "2026-09-05T13:57:21.794247543Z",
+  "model": "glm-5.3"
+}

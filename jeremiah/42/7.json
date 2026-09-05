@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 42:7",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 42,
+  "translation": "И би на крају десет дана, и би реч Јахвеа Јермијаху (Јеремији):",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "и би"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "на крају"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "десет"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дана"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и би"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "реч"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ка"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Јермијаху"
+    }
+  ],
+  "timestamp": "2026-09-05T17:53:09.051104217Z",
+  "model": "glm-5.3"
+}

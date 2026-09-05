@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 16:16",
+  "book": "2-kings",
+  "lang": "sr",
+  "chapter": 16,
+  "translation": "И учини Урија свештеник по свему што заповеди краљ Ахаз.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "И учини"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Урија"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "свештеник"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "по свему"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповеди"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "краљ"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ахаз"
+    }
+  ],
+  "timestamp": "2026-09-05T11:57:08.488598813Z",
+  "model": "glm-5.3"
+}

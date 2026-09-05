@@ -1,0 +1,109 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "haggai 1:11",
+  "book": "haggai",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "И дозвах сушу на земљу и на горе, и на жито, и на мошт, и на уље, и на све што рађа њива, и на човека, и на стоку, и на сав рад руку ⟨нихових⟩.",
+  "tokens": [
+    {
+      "surface": "ואקרא",
+      "gloss": "и дозвах"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "сушу"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земљу"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "горе"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "הדגן",
+      "gloss": "жито"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "התירוש",
+      "gloss": "мошт"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "היצהר",
+      "gloss": "уље"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "рађа"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "њива"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "човека"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "стоку"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сав"
+    },
+    {
+      "surface": "יגיע",
+      "gloss": "рад"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "руку"
+    }
+  ],
+  "timestamp": "2026-09-05T13:11:42.932149850Z",
+  "model": "glm-5.3"
+}

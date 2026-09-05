@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 88:18",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 88,
+  "translation": "Опколили су ме као воде сав дан; заједно су ме обишли.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "опколили су ме"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "као воде"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сав"
+    },
+    {
+      "surface": "היום",
+      "gloss": "дан"
+    },
+    {
+      "surface": "הקיפו",
+      "gloss": "обишли су"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "мене"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "заједно"
+    }
+  ],
+  "timestamp": "2026-09-05T15:57:15.523919773Z",
+  "model": "glm-5.3"
+}

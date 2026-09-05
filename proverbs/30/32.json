@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 30:32",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 30,
+  "translation": "Ако си глупо поступио уздижући се, и ако си зло смислио — руку на уста!",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "нבלת",
+      "gloss": "глупо поступи"
+    },
+    {
+      "surface": "בהתנשא",
+      "gloss": "уздижући се"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "и ако"
+    },
+    {
+      "surface": "зמות",
+      "gloss": "зло смисли"
+    },
+    {
+      "surface": "יד",
+      "gloss": "руку"
+    },
+    {
+      "surface": "לפה",
+      "gloss": "на уста"
+    }
+  ],
+  "timestamp": "2026-09-05T13:53:44.675871086Z",
+  "model": "glm-5.3"
+}

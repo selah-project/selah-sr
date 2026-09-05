@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 27:16",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 27,
+  "translation": "Проклет који понижава оца свога и матер своју; и рече сав народ: Амен.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Проклет"
+    },
+    {
+      "surface": "מקלה",
+      "gloss": "који понижава"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "оца свога"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "и матер своју"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сав"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Амен"
+    }
+  ],
+  "timestamp": "2026-09-05T10:53:24.547178300Z",
+  "model": "glm-5.3"
+}

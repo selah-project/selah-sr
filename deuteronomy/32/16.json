@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 32:16",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 32,
+  "translation": "Туђим ⟨боговима⟩ изазиваху му љубомору, гадошћу га расрдише.",
+  "tokens": [
+    {
+      "surface": "יקנאהו",
+      "gloss": "изазиваху му љубомору"
+    },
+    {
+      "surface": "בזרים",
+      "gloss": "туђим"
+    },
+    {
+      "surface": "בתועבת",
+      "gloss": "гадошћу"
+    },
+    {
+      "surface": "יכעיסהו",
+      "gloss": "расрдише га"
+    }
+  ],
+  "timestamp": "2026-09-05T15:15:24.963131493Z",
+  "model": "glm-5.3"
+}

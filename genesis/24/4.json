@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 24:4",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "него у земљу моју и у род мој отићи ћеш, и узећеш жену сину мом Ицхаку (Исаку).",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "него"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "земљу моју"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и у"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "род мој"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "отићи ћеш"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "и узећеш"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "жену"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "сину мом"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Ицхаку"
+    }
+  ],
+  "timestamp": "2026-09-05T09:46:04.782716989Z",
+  "model": "glm-5.3"
+}

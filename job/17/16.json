@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 17:16",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 17,
+  "translation": "У преграде Шеола силазиће; ако заједно на праху починемо.",
+  "tokens": [
+    {
+      "surface": "בדי",
+      "gloss": "У преграде"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "Шеола"
+    },
+    {
+      "surface": "תרדנה",
+      "gloss": "силазиће"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "заједно"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "праху"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "починемо"
+    }
+  ],
+  "timestamp": "2026-09-05T13:59:16.286320776Z",
+  "model": "glm-5.3"
+}

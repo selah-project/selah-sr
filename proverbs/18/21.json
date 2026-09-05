@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 18:21",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "Смрт и живот ⟨су⟩ у руци језика, и љубитељи његови јећи ⟨ће⟩ плод његов.",
+  "tokens": [
+    {
+      "surface": "מות",
+      "gloss": "Смрт"
+    },
+    {
+      "surface": "וחיים",
+      "gloss": "и живот"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "у руци"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "језика"
+    },
+    {
+      "surface": "ואהביה",
+      "gloss": "и љубитељи његови"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "једу"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "плод његов"
+    }
+  ],
+  "timestamp": "2026-09-05T13:50:31.481762444Z",
+  "model": "glm-5.3"
+}

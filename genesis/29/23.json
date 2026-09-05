@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 29:23",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 29,
+  "translation": "И би у вече, па узе ⟨את⟩ Леу, кћер своју, и доведе ⟨את⟩ њу к њему; и уђе к њој.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И би"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "у вече"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "па узе"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Леу"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Леу"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "кћер своју"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "и доведе"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ њу"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "к њему"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "и уђе"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "к њој"
+    }
+  ],
+  "timestamp": "2026-09-05T09:48:16.350049306Z",
+  "model": "glm-5.3"
+}

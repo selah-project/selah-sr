@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 18:28",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "Јер ти народ потлачен спашаваш, а очи надмене понижаваш.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "потлачен"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "спашаваш"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "а очи"
+    },
+    {
+      "surface": "רמות",
+      "gloss": "надмене"
+    },
+    {
+      "surface": "תשפיל",
+      "gloss": "понижаваш"
+    }
+  ],
+  "timestamp": "2026-09-05T15:54:11.444393758Z",
+  "model": "glm-5.3"
+}

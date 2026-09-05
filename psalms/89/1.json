@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 89:1",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 89,
+  "translation": "Поуке (маскил) Еитана (Етана) Езрахијева.",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "маскил (поука)"
+    },
+    {
+      "surface": "לאיתן",
+      "gloss": "Еитану (Етану)"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "Езрахијев"
+    }
+  ],
+  "timestamp": "2026-09-05T13:34:25.113899608Z",
+  "model": "glm-5.3"
+}

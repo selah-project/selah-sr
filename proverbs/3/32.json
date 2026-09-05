@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 3:32",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Јер гадост ⟨је⟩ Јахвеу преврнути, а са правима ⟨את⟩ тајна његова.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "гадост"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеу"
+    },
+    {
+      "surface": "נלוז",
+      "gloss": "преврнути"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "правима"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "правима"
+    },
+    {
+      "surface": "סודו",
+      "gloss": "тајна његова"
+    }
+  ],
+  "timestamp": "2026-09-05T16:00:33.303926834Z",
+  "model": "glm-5.3"
+}

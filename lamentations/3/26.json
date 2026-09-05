@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "lamentations 3:26",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Добро ⟨је⟩ надати се и тихо ћутати на спасење Јахвеа.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Добро"
+    },
+    {
+      "surface": "ויחיל",
+      "gloss": "надати се"
+    },
+    {
+      "surface": "ודומם",
+      "gloss": "и тихо ћутати"
+    },
+    {
+      "surface": "לתשועת",
+      "gloss": "на спасење"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    }
+  ],
+  "timestamp": "2026-09-05T14:09:37.874654770Z",
+  "model": "glm-5.3"
+}

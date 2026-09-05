@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 1:24",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "И кренуше, и узиђоше у гору, и дођоше до долине Ешкол, и извидеше ⟨את⟩ њу.",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "И кренуше"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "и узиђоше"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "у гору"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "и дођоше"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "долине"
+    },
+    {
+      "surface": "אשכל",
+      "gloss": "Ешкол"
+    },
+    {
+      "surface": "וירגלו",
+      "gloss": "и извидеше"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "њу (земљу)"
+    }
+  ],
+  "timestamp": "2026-09-05T10:43:26.963085121Z",
+  "model": "glm-5.3"
+}

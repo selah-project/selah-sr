@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ruth 4:8",
+  "book": "ruth",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "И рече откупитељ Боазу: „Купи себи“ — и скину своју обућу.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "הגאל",
+      "gloss": "откупитељ"
+    },
+    {
+      "surface": "לבעז",
+      "gloss": "Боазу"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "купи"
+    },
+    {
+      "surface": "לך",
+      "gloss": "себи"
+    },
+    {
+      "surface": "וישלף",
+      "gloss": "и скину"
+    },
+    {
+      "surface": "נעלו",
+      "gloss": "обућу своју"
+    }
+  ],
+  "timestamp": "2026-09-05T16:46:00.738018253Z",
+  "model": "glm-5.3"
+}

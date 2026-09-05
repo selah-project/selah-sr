@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 82:1",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 82,
+  "translation": "Мизмор Асафов. Елохим стоји у сабору Ела, усред богова суди.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Мизмор"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Асафов"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "стоји"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "у сабору"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ела"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "усред"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "богова"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "суди"
+    }
+  ],
+  "timestamp": "2026-09-05T13:32:43.425613988Z",
+  "model": "glm-5.3"
+}

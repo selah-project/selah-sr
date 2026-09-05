@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 11:15",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "И даћу траву у пољу твоме за стоку твоју, и јешћеш и наситићеш се.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "и даћу"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "траву"
+    },
+    {
+      "surface": "בשדך",
+      "gloss": "у пољу твоме"
+    },
+    {
+      "surface": "לבהמתך",
+      "gloss": "за стоку твоју"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "и јешћеш"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "и наситићеш се"
+    }
+  ],
+  "timestamp": "2026-09-05T10:47:29.626092717Z",
+  "model": "glm-5.3"
+}

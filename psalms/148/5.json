@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 148:5",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 148,
+  "translation": "Нека хвале ⟨את⟩ име Јахвеа, јер ⟨он⟩ заповеди и бише створени.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "нека хвале"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "име"
+    },
+    {
+      "surface": "שם",
+      "gloss": "име"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨он⟩"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповеди"
+    },
+    {
+      "surface": "ונבראו",
+      "gloss": "и бише створени"
+    }
+  ],
+  "timestamp": "2026-09-05T13:45:03.145548795Z",
+  "model": "glm-5.3"
+}

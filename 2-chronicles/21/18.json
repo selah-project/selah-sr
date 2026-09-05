@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 21:18",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "И после свега тога удари Јахве утробу његову болешћу без исцељења.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "и после"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сва"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "овога"
+    },
+    {
+      "surface": "נגפו",
+      "gloss": "удари"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "במעיו",
+      "gloss": "утробу његову"
+    },
+    {
+      "surface": "לחלי",
+      "gloss": "болешћу"
+    },
+    {
+      "surface": "ללאין",
+      "gloss": "без"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "исцељења"
+    }
+  ],
+  "timestamp": "2026-09-05T14:51:33.423691063Z",
+  "model": "glm-5.3"
+}

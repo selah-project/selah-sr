@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 10:18",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "И изађе од Фараона, и помоли се Јахвеу.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "И изађе"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "од"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Фараона"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "и помоли се"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ка"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеу"
+    }
+  ],
+  "timestamp": "2026-09-05T10:03:06.773452485Z",
+  "model": "glm-5.3"
+}

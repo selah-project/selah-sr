@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 1:22",
+  "book": "judges",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "И попе се дом Јосифов, тако и они, на Бет Ел; и Јахве бејаше с њима.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "и попе се"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Јосифов"
+    },
+    {
+      "surface": "גם",
+      "gloss": "тако"
+    },
+    {
+      "surface": "הם",
+      "gloss": "и они"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "и Јахве"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "бејаше с њима"
+    }
+  ],
+  "timestamp": "2026-09-05T11:05:08.634830754Z",
+  "model": "glm-5.3"
+}

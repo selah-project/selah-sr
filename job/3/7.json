@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 3:7",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Ено, ноћ ону нека буде пуста; да не дође радосан клич у њу.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ено"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ноћ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ону"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "нека буде"
+    },
+    {
+      "surface": "גלמוד",
+      "gloss": "пуста"
+    },
+    {
+      "surface": "אל",
+      "gloss": "да не"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "дође"
+    },
+    {
+      "surface": "רננה",
+      "gloss": "радосан клич"
+    },
+    {
+      "surface": "בו",
+      "gloss": "у њу"
+    }
+  ],
+  "timestamp": "2026-09-05T13:54:35.670994974Z",
+  "model": "glm-5.3"
+}

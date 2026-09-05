@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joel 2:6",
+  "book": "joel",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Мимо лица његовог грче се народи; сва лица скупише жар.",
+  "tokens": [
+    {
+      "surface": "מפניו",
+      "gloss": "мимо лица његовог"
+    },
+    {
+      "surface": "יחילו",
+      "gloss": "грче се"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "народи"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сва"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "лица"
+    },
+    {
+      "surface": "кבצו",
+      "gloss": "скупише"
+    },
+    {
+      "surface": "פארור",
+      "gloss": "жар"
+    }
+  ],
+  "timestamp": "2026-09-05T13:04:18.267825715Z",
+  "model": "glm-5.3"
+}

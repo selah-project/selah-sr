@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 15:3",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 15,
+  "translation": "Јахве ⟨јесте⟩ човек рата, Јахве ⟨је⟩ име његово.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "рата"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "име његово"
+    }
+  ],
+  "timestamp": "2026-09-05T10:04:39.644726597Z",
+  "model": "glm-5.3"
+}

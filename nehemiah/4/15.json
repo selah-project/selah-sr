@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 4:15",
+  "book": "nehemiah",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "И ми смо у послу, а пола њих држи копља, од изласка зоре до изласка звезда.",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "И ми"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "у послу смо"
+    },
+    {
+      "surface": "במלאכה",
+      "gloss": "у послу"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "а пола"
+    },
+    {
+      "surface": "מחזיקים",
+      "gloss": "држи"
+    },
+    {
+      "surface": "ברמחים",
+      "gloss": "копља"
+    },
+    {
+      "surface": "מעלות",
+      "gloss": "од изласка"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "зоре"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "изласка"
+    },
+    {
+      "surface": "הכוכבים",
+      "gloss": "звезда"
+    }
+  ],
+  "timestamp": "2026-09-05T14:29:11.771860134Z",
+  "model": "glm-5.3"
+}

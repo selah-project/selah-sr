@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 31:22",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 31,
+  "translation": "И јави се Лавану трећега дана да је побегао Јааков.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "јави се"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "Лавану"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "у дан"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "трећи"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "побегао"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Јааков"
+    }
+  ],
+  "timestamp": "2026-09-05T09:49:57.983960654Z",
+  "model": "glm-5.3"
+}

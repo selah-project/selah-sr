@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 26:2",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 26,
+  "translation": "Као врабац у лутању, као ласта у лету, тако клетва без разлога не долази.",
+  "tokens": [
+    {
+      "surface": "כצפור",
+      "gloss": "као врабац"
+    },
+    {
+      "surface": "לנוד",
+      "gloss": "у лутању"
+    },
+    {
+      "surface": "כדרור",
+      "gloss": "као ласта"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "у лету"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тако"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "клетва"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "без разлога"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "долази"
+    }
+  ],
+  "timestamp": "2026-09-05T13:52:38.842101748Z",
+  "model": "glm-5.3"
+}

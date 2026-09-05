@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 42:1",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 42,
+  "translation": "За управника. Поука. Синовима Кораховим.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "за управника"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "поука"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "синовима"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Кораховим"
+    }
+  ],
+  "timestamp": "2026-09-05T15:54:58.036338212Z",
+  "model": "glm-5.3"
+}

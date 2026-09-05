@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 27:26",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 27,
+  "translation": "Јагњад ⟨јесте⟩ за одело твоје, а за цену њиве — јарци.",
+  "tokens": [
+    {
+      "surface": "כבשים",
+      "gloss": "јагњад"
+    },
+    {
+      "surface": "ללבושך",
+      "gloss": "за одело твоје"
+    },
+    {
+      "surface": "ומחיר",
+      "gloss": "а за цену"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "њиве"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "јарци"
+    }
+  ],
+  "timestamp": "2026-09-05T13:53:02.619433064Z",
+  "model": "glm-5.3"
+}

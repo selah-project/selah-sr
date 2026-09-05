@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 5:31",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "И бише сви дани Лемеха седамдесет и седам година и седам стотина година, и умре.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И бише"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сви"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дани"
+    },
+    {
+      "surface": "למך",
+      "gloss": "Лемеха"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "седам"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "и седамдесет"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "година"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "и седам"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "стотина"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "година"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "и умре"
+    }
+  ],
+  "timestamp": "2026-09-05T14:58:07.939427354Z",
+  "model": "glm-5.3"
+}

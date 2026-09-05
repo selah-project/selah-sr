@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 28:42",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "Сав твој род ⟨את⟩ дрвеће и ⟨את⟩ плод земље твоје наследиће скакавац.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Сав"
+    },
+    {
+      "surface": "עצך",
+      "gloss": "твој род дрвећа"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "и плод"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "земље твоје"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "наследиће"
+    },
+    {
+      "surface": "הצלצל",
+      "gloss": "скакавац"
+    }
+  ],
+  "timestamp": "2026-09-05T17:53:13.318484237Z",
+  "model": "glm-5.3"
+}

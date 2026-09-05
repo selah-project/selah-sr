@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 2:1",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Ово су синови Израиљеви: Рувен, Шимон, Леви и Јехуда, Исахар и Звулун.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ово"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљеви"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Рувен"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Шимон"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Леви"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "и Јехуда"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Исахар"
+    },
+    {
+      "surface": "וזבלון",
+      "gloss": "и Звулун"
+    }
+  ],
+  "timestamp": "2026-09-05T14:34:04.343454962Z",
+  "model": "glm-5.3"
+}

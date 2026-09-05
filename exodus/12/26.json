@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 12:26",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "И биће, кад кажу вам синови ваши: „Шта ⟨је⟩ вама ова служба?“",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "И биће"
+    },
+    {
+      "surface": "כי",
+      "gloss": "кад"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "кажу"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "синови ваши"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Шта"
+    },
+    {
+      "surface": "העבדה",
+      "gloss": "служба"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ова"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вама"
+    }
+  ],
+  "timestamp": "2026-09-05T16:55:04.598288312Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 45:3",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 45,
+  "translation": "Рече си: јао мени сада, јер додаде Јахве бол на муку моју; изнемогох у уздаху своме, и покоја не нађох.",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "Рече си"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "јао"
+    },
+    {
+      "surface": "נא",
+      "gloss": "сада"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мени"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "додаде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "יגון",
+      "gloss": "бол"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "מכאבי",
+      "gloss": "муку моју"
+    },
+    {
+      "surface": "יגעתי",
+      "gloss": "изнемогох"
+    },
+    {
+      "surface": "באנחתי",
+      "gloss": "у уздаху своме"
+    },
+    {
+      "surface": "ומנוחה",
+      "gloss": "и покоја"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "нађох"
+    }
+  ],
+  "timestamp": "2026-09-05T12:37:12.087116244Z",
+  "model": "glm-5.3"
+}

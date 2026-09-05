@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 12:26",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "Од синова Шимонових, јунака силних за војску, седам хиљада и једну стотину.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Од"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синова"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Шимонових"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "јунака"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "силних"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "за војску"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "седам"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "хиљада"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "и једну стотину"
+    }
+  ],
+  "timestamp": "2026-09-05T14:39:08.957103029Z",
+  "model": "glm-5.3"
+}

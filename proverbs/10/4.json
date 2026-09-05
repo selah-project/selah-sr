@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 10:4",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "Осиромаши ⟨онај који⟩ чини шаку трому, а рука вредних обогати.",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "Осиромаши"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "чини"
+    },
+    {
+      "surface": "כף",
+      "gloss": "шаку"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "трому"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "а рука"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "вредних"
+    },
+    {
+      "surface": "תעשיר",
+      "gloss": "обогати"
+    }
+  ],
+  "timestamp": "2026-09-05T13:48:03.475142035Z",
+  "model": "glm-5.3"
+}

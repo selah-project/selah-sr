@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 8:26",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "И изађе Моше од Пароа и помоли се Јахвеу.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "И изађе"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "од"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Пароа"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "и помоли се"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеу"
+    }
+  ],
+  "timestamp": "2026-09-05T10:02:15.605427892Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 13:25",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "Зар ћеш уплашити лист одуван, и ⟨את⟩ суву плеву гонити?",
+  "tokens": [
+    {
+      "surface": "העלה",
+      "gloss": "зар лист"
+    },
+    {
+      "surface": "נדף",
+      "gloss": "одуван"
+    },
+    {
+      "surface": "תערוץ",
+      "gloss": "уплашити"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "суву плеву"
+    },
+    {
+      "surface": "קש",
+      "gloss": "плеву"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "суву"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "гонити"
+    }
+  ],
+  "timestamp": "2026-09-05T16:03:41.514318412Z",
+  "model": "glm-5.3"
+}

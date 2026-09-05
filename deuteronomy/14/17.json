@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 14:17",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "и пеликана, и ⟨את⟩ белоглавог супа, и ⟨את⟩ корморана.",
+  "tokens": [
+    {
+      "surface": "והקאת",
+      "gloss": "и пеликана"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "белоглавог супа"
+    },
+    {
+      "surface": "הרחמה",
+      "gloss": "белоглавог супа"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "корморана"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "корморана"
+    }
+  ],
+  "timestamp": "2026-09-05T10:48:24.810188400Z",
+  "model": "glm-5.3"
+}

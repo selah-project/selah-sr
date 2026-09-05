@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 26:6",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 26,
+  "translation": "И настани се Ицхак (Исак) у Герару.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "И настани се"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Ицхак"
+    },
+    {
+      "surface": "בגרר",
+      "gloss": "у Герару"
+    }
+  ],
+  "timestamp": "2026-09-05T09:47:28.910931574Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 18:10",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "И сави небеса и сиђе, и густа тама под ногама ⟨његовим⟩.",
+  "tokens": [
+    {
+      "surface": "ויט",
+      "gloss": "и сави"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "небеса"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "и сиђе"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "и густа тама"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "רגליв",
+      "gloss": "ногама његовим"
+    }
+  ],
+  "timestamp": "2026-09-05T13:19:23.685539585Z",
+  "model": "glm-5.3"
+}

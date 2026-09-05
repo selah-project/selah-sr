@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "Рече у срцу свом: „Нећу се покренути, ⟨нећу бити⟩ у злу поколење за поколењем.“",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "у срцу свом"
+    },
+    {
+      "surface": "בל",
+      "gloss": "не"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "покренућу се"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "за поколење"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "и поколење"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨који⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "у злу"
+    }
+  ],
+  "timestamp": "2026-09-05T13:18:48.315256703Z",
+  "model": "glm-5.3"
+}

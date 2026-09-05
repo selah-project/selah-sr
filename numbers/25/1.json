@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 25:1",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 25,
+  "translation": "И седе Израил у Шитиму, и поче народ блуд ⟨не⟩ чинити с кћерима Моава.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "И седе"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израил"
+    },
+    {
+      "surface": "בשטים",
+      "gloss": "у Шитиму"
+    },
+    {
+      "surface": "ויחל",
+      "gloss": "и поче"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "לזנות",
+      "gloss": "блуд чинити"
+    },
+    {
+      "surface": "אל",
+      "gloss": "с"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "кћерима"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моава"
+    }
+  ],
+  "timestamp": "2026-09-05T10:37:55.638521290Z",
+  "model": "glm-5.3"
+}

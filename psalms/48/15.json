@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 48:15",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 48,
+  "translation": "Јер ово ⟨је⟩ Елохим, Елохим наш, довека и у век; он ће водити нас ⟨и⟩ кроз смрт.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ово"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Елохим наш"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "довека"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и у век"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "ינהגנו",
+      "gloss": "ће водити нас"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨и⟩ кроз"
+    },
+    {
+      "surface": "מות",
+      "gloss": "смрт"
+    }
+  ],
+  "timestamp": "2026-09-05T13:26:03.938609107Z",
+  "model": "glm-5.3"
+}

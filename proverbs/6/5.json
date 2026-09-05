@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 6:5",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "Избави се као срна из руке ⟨ловца⟩, и као птица из руке замке.",
+  "tokens": [
+    {
+      "surface": "הנצל",
+      "gloss": "Избави се"
+    },
+    {
+      "surface": "כצבי",
+      "gloss": "као срна"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "из руке"
+    },
+    {
+      "surface": "וכצפור",
+      "gloss": "и као птица"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "из руке"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "замке"
+    }
+  ],
+  "timestamp": "2026-09-05T13:47:11.237517117Z",
+  "model": "glm-5.3"
+}

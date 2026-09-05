@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 118:8",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 118,
+  "translation": "Добро ⟨је⟩ склонити се Јахвеу него уздати се у човека.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "склонити се"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Јахвеу"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "уздати се"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "у човека"
+    }
+  ],
+  "timestamp": "2026-09-05T13:39:33.921809483Z",
+  "model": "glm-5.3"
+}

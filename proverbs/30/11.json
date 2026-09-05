@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 30,
+  "translation": "Поколење оца својега проклиње, а ⟨את⟩ матер своју не благосиља.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "поколење"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "оца својега"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "проклиње"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "матер своју"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "матер своју"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "благосиља"
+    }
+  ],
+  "timestamp": "2026-09-05T13:53:22.431082322Z",
+  "model": "glm-5.3"
+}

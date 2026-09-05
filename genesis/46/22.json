@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 46:22",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 46,
+  "translation": "Ово су синови Рахељини, који се родише Јаакову (Јакову): свега душа четрнаест.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ово"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Рахељини"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "родише се"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Јаакову (Јакову)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "душе"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "четири"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "наест"
+    }
+  ],
+  "timestamp": "2026-09-05T09:56:41.889180444Z",
+  "model": "glm-5.3"
+}

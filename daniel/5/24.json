@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "daniel 5:24",
+  "book": "daniel",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Тада би од пред њим послан длан руке, и напис овај би уклесан.",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "Тада"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "קדמוהי",
+      "gloss": "пред њим"
+    },
+    {
+      "surface": "שליח",
+      "gloss": "послан"
+    },
+    {
+      "surface": "פסא",
+      "gloss": "длан"
+    },
+    {
+      "surface": "די",
+      "gloss": "руке"
+    },
+    {
+      "surface": "ידא",
+      "gloss": "руке"
+    },
+    {
+      "surface": "וכתבא",
+      "gloss": "и напис"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "овај"
+    },
+    {
+      "surface": "רשים",
+      "gloss": "би уклесан"
+    }
+  ],
+  "timestamp": "2026-09-05T14:19:24.822976471Z",
+  "model": "glm-5.3"
+}

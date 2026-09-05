@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 16:31",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 16,
+  "translation": "Венац лепоте ⟨је⟩ седина; на путу правде налази се.",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "венац"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "лепоте"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "седина"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "на путу"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "правде"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "налази се"
+    }
+  ],
+  "timestamp": "2026-09-05T13:49:48.801801544Z",
+  "model": "glm-5.3"
+}

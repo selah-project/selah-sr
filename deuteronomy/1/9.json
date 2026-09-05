@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "И рекох вам у оно време, говорећи: не могу ⟨да⟩ носим сам ⟨את⟩ вас.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "И рекох"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "у време"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "оно"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорећи"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "могу"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "сам"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "носити"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ вас",
+      "marks": "вас"
+    }
+  ],
+  "timestamp": "2026-09-05T10:43:21.014307805Z",
+  "model": "glm-5.3"
+}

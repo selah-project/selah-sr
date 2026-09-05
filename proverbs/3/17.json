@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 3:17",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Путање су јој путање сладости, и све стазе њезине ⟨су⟩ мир.",
+  "tokens": [
+    {
+      "surface": "דרכיה",
+      "gloss": "путање су јој"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "путање"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "сладости"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и све"
+    },
+    {
+      "surface": "נתיבותיה",
+      "gloss": "стазе њезине"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мир"
+    }
+  ],
+  "timestamp": "2026-09-05T13:46:15.915787384Z",
+  "model": "glm-5.3"
+}

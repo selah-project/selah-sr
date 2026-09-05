@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 5:4",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "И дођоше све старешине Израелове, и подигоше Левити ⟨את⟩ ковчег.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "И дођоше"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "старешине"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израелове"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "и подигоше"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Левити"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ковчег"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "ковчег"
+    }
+  ],
+  "timestamp": "2026-09-05T14:46:24.872562500Z",
+  "model": "glm-5.3"
+}

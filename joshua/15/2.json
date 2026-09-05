@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 15:2",
+  "book": "joshua",
+  "lang": "sr",
+  "chapter": 15,
+  "translation": "И би им граница јужна од краја мртвог мора, од заливâ што гледа јужно.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И би"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "граница"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "јужна"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "од краја"
+    },
+    {
+      "surface": "ים",
+      "gloss": "мора"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "мртвог"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "הלשן",
+      "gloss": "заливâ"
+    },
+    {
+      "surface": "הפנה",
+      "gloss": "што гледа"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "јужно"
+    }
+  ],
+  "timestamp": "2026-09-05T11:02:08.532645714Z",
+  "model": "glm-5.3"
+}

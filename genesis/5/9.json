@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 5:9",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "И поживи Енош (Енос) деведесет година, и роди ⟨את⟩ Каинана.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "и поживи"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Енош (Енос)"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "деведесет"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "година"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "и роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Каинана"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Каинана"
+    }
+  ],
+  "timestamp": "2026-09-05T09:39:19.313665814Z",
+  "model": "glm-5.3"
+}

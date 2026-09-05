@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 14:30",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "Живот тела ⟨је⟩ срце лековито, а трулеж костију завист.",
+  "tokens": [
+    {
+      "surface": "חיי",
+      "gloss": "живот"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "тела"
+    },
+    {
+      "surface": "לב",
+      "gloss": "срце"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "лековито"
+    },
+    {
+      "surface": "ורקב",
+      "gloss": "а трулеж"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "костију"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "завист"
+    }
+  ],
+  "timestamp": "2026-09-05T13:49:22.043909988Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 12:19",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "Усна истине утврђена ⟨је⟩ за свагда, а ⟨само⟩ док трена — језик лажи.",
+  "tokens": [
+    {
+      "surface": "שפת",
+      "gloss": "усна"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "истине"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "утврђена ⟨је⟩"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "за свагда"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "а док"
+    },
+    {
+      "surface": "ארגיעה",
+      "gloss": "трена"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "језик"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "лажи"
+    }
+  ],
+  "timestamp": "2026-09-05T16:00:56.222868975Z",
+  "model": "glm-5.3"
+}

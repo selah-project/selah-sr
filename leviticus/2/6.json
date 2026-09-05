@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 2:6",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Изломи је ⟨את⟩ на комаде и прелиј на њу уље — дар ⟨је⟩ то.",
+  "tokens": [
+    {
+      "surface": "פתות",
+      "gloss": "изломи"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "на комаде"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "комаде"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "и прелиј"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "на њу"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "уље"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "дар"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "то"
+    }
+  ],
+  "timestamp": "2026-09-05T10:15:43.555988040Z",
+  "model": "glm-5.3"
+}

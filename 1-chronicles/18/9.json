@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 18:9",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "И чу Тоу (Тој), краљ Хамата, да је Давид поразио ⟨את⟩ сву војску Хададезера, краља Цове.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "И чу"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "Тоу"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "краљ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Хамата"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "поразио"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сву војску Хададезера"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сву"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "војску"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Хададезера"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "краља"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Цове"
+    }
+  ],
+  "timestamp": "2026-09-05T14:40:56.667771021Z",
+  "model": "glm-5.3"
+}

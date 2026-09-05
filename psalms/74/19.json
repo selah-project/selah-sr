@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 74:19",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 74,
+  "translation": "Не дај звери душу грлице твоје; не заборави довека живот сиромаха твојих.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "дај"
+    },
+    {
+      "surface": "לחית",
+      "gloss": "звери"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "душу"
+    },
+    {
+      "surface": "תורך",
+      "gloss": "грлице твоје"
+    },
+    {
+      "surface": "חית",
+      "gloss": "живот"
+    },
+    {
+      "surface": "ענייך",
+      "gloss": "сиромаха твојих"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "заборави"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "довека"
+    }
+  ],
+  "timestamp": "2026-09-05T13:31:47.933946589Z",
+  "model": "glm-5.3"
+}

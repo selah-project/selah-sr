@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 3:15",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "И даћу вам пастире по срцу моме, и пасће ⟨את⟩ вас знањем и разумевањем.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "и-даћу"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "пастире"
+    },
+    {
+      "surface": "כלבי",
+      "gloss": "по-срцу-моме"
+    },
+    {
+      "surface": "ורעו",
+      "gloss": "и-пасће"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "вас"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "знањем"
+    },
+    {
+      "surface": "והשכיל",
+      "gloss": "и-разумевањем"
+    }
+  ],
+  "timestamp": "2026-09-05T17:18:34.711966509Z",
+  "model": "glm-5.3"
+}

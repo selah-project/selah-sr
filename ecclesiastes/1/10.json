@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 1:10",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "Има ли ствар о којој се каже: „Гле, ово је ново“? Одавно је већ било ⟨у⟩ вечности́ма, које су биле пред нама.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "има"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ствар"
+    },
+    {
+      "surface": "שיאמר",
+      "gloss": "о којој се каже"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "гле"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ово"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ново"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "јесте"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "одавно"
+    },
+    {
+      "surface": "היה",
+      "gloss": "било"
+    },
+    {
+      "surface": "לעלמים",
+      "gloss": "⟨у⟩ вечности́ма"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "које"
+    },
+    {
+      "surface": "היה",
+      "gloss": "биле"
+    },
+    {
+      "surface": "מלפננו",
+      "gloss": "пред нама"
+    }
+  ],
+  "timestamp": "2026-09-05T16:08:33.319451094Z",
+  "model": "glm-5.3"
+}

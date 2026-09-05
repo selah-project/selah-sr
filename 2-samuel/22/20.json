@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 22:20",
+  "book": "2-samuel",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "И изведе ме на пространо место ⟨את⟩, избави ме, јер ме љубаше.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "и изведе"
+    },
+    {
+      "surface": "למרחב",
+      "gloss": "на пространо место"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "мене"
+    },
+    {
+      "surface": "יחלצני",
+      "gloss": "избави ме"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "љубаше"
+    },
+    {
+      "surface": "בי",
+      "gloss": "мене"
+    }
+  ],
+  "timestamp": "2026-09-05T11:36:54.877626541Z",
+  "model": "glm-5.3"
+}

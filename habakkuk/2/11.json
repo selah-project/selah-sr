@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 2:11",
+  "book": "habakkuk",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "јер камен из зида ће узвикнути, и спона из дрвета одговориће му.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "камен"
+    },
+    {
+      "surface": "мקיר",
+      "gloss": "из зида"
+    },
+    {
+      "surface": "תזעק",
+      "gloss": "ће узвикнути"
+    },
+    {
+      "surface": "וכפיס",
+      "gloss": "и спона"
+    },
+    {
+      "surface": "מעץ",
+      "gloss": "из дрвета"
+    },
+    {
+      "surface": "יעננה",
+      "gloss": "одговориће му"
+    }
+  ],
+  "timestamp": "2026-09-05T13:08:55.366203321Z",
+  "model": "glm-5.3"
+}

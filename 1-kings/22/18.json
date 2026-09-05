@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 22:18",
+  "book": "1-kings",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "И рече цар Израиљев Јехошафату: Зар ти не рекох да не прориче он мени добро, него зло?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљев"
+    },
+    {
+      "surface": "אל",
+      "gloss": "према"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Јехошафату"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Зар не"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "рекох"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יתנבא",
+      "gloss": "прориче"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "мени"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "כי",
+      "gloss": "него"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨што⟩"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зло"
+    }
+  ],
+  "timestamp": "2026-09-05T11:50:31.911303735Z",
+  "model": "glm-5.3"
+}

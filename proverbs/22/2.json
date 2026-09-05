@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 22:2",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "Богат и сиромах сретнуше се; све њих начини Јахве.",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "Богат"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "и сиромах"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "сретнуше се"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "начини"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "све њих"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-09-05T13:51:31.596187634Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 7:43",
+  "book": "1-kings",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "И ⟨את⟩ постоља десет, и ⟨את⟩ корита десет на постољима.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "постоља"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "постоља"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "десет"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "корита"
+    },
+    {
+      "surface": "הכירת",
+      "gloss": "корита"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "десет"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "постољима"
+    }
+  ],
+  "timestamp": "2026-09-05T11:40:52.506928339Z",
+  "model": "glm-5.3"
+}

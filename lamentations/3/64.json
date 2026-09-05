@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "lamentations 3:64",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Вратићеш им плату, Јахве, као дело руку њихових.",
+  "tokens": [
+    {
+      "surface": "תשיב",
+      "gloss": "Вратићеш"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "плату"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "као дело"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "руку њихових"
+    }
+  ],
+  "timestamp": "2026-09-05T17:12:23.684816896Z",
+  "model": "glm-5.3"
+}

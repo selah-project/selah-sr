@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 36:23",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 36,
+  "translation": "И ово су синови Шовалови: Алван, и Манахат, и Евал, Шефо и Онам.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "И ово"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "Шовалови"
+    },
+    {
+      "surface": "עלון",
+      "gloss": "Алван"
+    },
+    {
+      "surface": "ומנחת",
+      "gloss": "и Манахат"
+    },
+    {
+      "surface": "ועיבל",
+      "gloss": "и Евал"
+    },
+    {
+      "surface": "שפו",
+      "gloss": "Шефо"
+    },
+    {
+      "surface": "ואונם",
+      "gloss": "и Онам"
+    }
+  ],
+  "timestamp": "2026-09-05T09:52:12.793919971Z",
+  "model": "glm-5.3"
+}

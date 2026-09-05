@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 41:24",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 41,
+  "translation": "Ено, ви сте ништавило, и дело ваше ништавно; гадост ⟨је⟩ који вас бира.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Ено"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ви"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "ништавило"
+    },
+    {
+      "surface": "ופעלכם",
+      "gloss": "и дело ваше"
+    },
+    {
+      "surface": "מאפע",
+      "gloss": "ништавно"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "гадост"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "који бира"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "вас"
+    }
+  ],
+  "timestamp": "2026-09-05T12:13:46.598781611Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,92 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 7:11",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "И доврши Шломо ⟨את⟩ дом Јахвеов и ⟨את⟩ дом царев, и ⟨את⟩ све што дође на срце Шломоу да учини у дому Јахвеовом и у дому свом — успе.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "доврши"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шломо"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дом"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "дом"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царев"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "све"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "што дође"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "לב",
+      "gloss": "срце"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шломоу"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "да учини"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "у дому"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ובביתו",
+      "gloss": "и у дому свом"
+    },
+    {
+      "surface": "הצליח",
+      "gloss": "успе"
+    }
+  ],
+  "timestamp": "2026-09-05T14:47:58.567593861Z",
+  "model": "glm-5.3"
+}

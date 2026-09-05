@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 29:24",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 29,
+  "translation": "Ко дели с лоповом мрзи душу своју; клетву чује, а не јавља.",
+  "tokens": [
+    {
+      "surface": "חולק",
+      "gloss": "Ко дели"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "лоповом"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "мрзи"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "душу своју"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "клетву"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "чује"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "а не"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "јавља"
+    }
+  ],
+  "timestamp": "2026-09-05T13:53:24.557602298Z",
+  "model": "glm-5.3"
+}

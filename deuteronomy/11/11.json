@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 11:11",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "А земља у коју прелазите онамо да је задобијете — земља планина и долина, од кише небâ пије воду.",
+  "tokens": [
+    {
+      "surface": "והארץ",
+      "gloss": "А земља"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "коју"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ви"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "прелазите"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "онамо"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "да је задобијете"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земља"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "планина"
+    },
+    {
+      "surface": "ובקעת",
+      "gloss": "и долина"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "од кише"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небâ"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "пије"
+    },
+    {
+      "surface": "מים",
+      "gloss": "воду"
+    }
+  ],
+  "timestamp": "2026-09-05T10:47:09.686277963Z",
+  "model": "glm-5.3"
+}

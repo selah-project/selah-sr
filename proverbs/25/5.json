@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 25:5",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 25,
+  "translation": "Уклони безбожника испред краља, и у правди се учврсти престо његов.",
+  "tokens": [
+    {
+      "surface": "הגו",
+      "gloss": "Уклони"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "безбожника"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "испред"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "краља"
+    },
+    {
+      "surface": "ויכון",
+      "gloss": "и учврсти се"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "у правди"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "престо његов"
+    }
+  ],
+  "timestamp": "2026-09-05T13:52:35.940310215Z",
+  "model": "glm-5.3"
+}

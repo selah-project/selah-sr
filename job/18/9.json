@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 18:9",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "Схвати за пету паст, учврсти се над њим замка.",
+  "tokens": [
+    {
+      "surface": "יאחז",
+      "gloss": "схвати"
+    },
+    {
+      "surface": "בעקב",
+      "gloss": "за пету"
+    },
+    {
+      "surface": "פח",
+      "gloss": "паст"
+    },
+    {
+      "surface": "יחזק",
+      "gloss": "учврсти се"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "над њим"
+    },
+    {
+      "surface": "צמים",
+      "gloss": "замка"
+    }
+  ],
+  "timestamp": "2026-09-05T13:58:52.813447708Z",
+  "model": "glm-5.3"
+}

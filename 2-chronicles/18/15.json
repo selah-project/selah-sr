@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 18:15",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "И рече њему краљ: Докле ме ћеш клетвено заклињати да не говориш мени ништа осим истине у име Јахвеа?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "њему"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "краљ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Докле"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "колико"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "пута"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "משביעך",
+      "gloss": "те заклињем"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "да"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "говориш"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мени"
+    },
+    {
+      "surface": "רק",
+      "gloss": "осим"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "истине"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "у име"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    }
+  ],
+  "timestamp": "2026-09-05T14:50:06.908852721Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 12:9",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "И путова Аврам (Аврам), идући и путујући, према југу.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "и путова"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Аврам (Аврам)"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "идући"
+    },
+    {
+      "surface": "ונסוע",
+      "gloss": "и путујући"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "према југу"
+    }
+  ],
+  "timestamp": "2026-09-05T09:42:09.761339207Z",
+  "model": "glm-5.3"
+}

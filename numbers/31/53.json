@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "numbers 31:53",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 31,
+  "translation": "Људи војске пленише, сваки за себе.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "Људи"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "војске"
+    },
+    {
+      "surface": "בזזו",
+      "gloss": "пленише"
+    },
+    {
+      "surface": "איש",
+      "gloss": "сваки"
+    },
+    {
+      "surface": "לו",
+      "gloss": "за себе"
+    }
+  ],
+  "timestamp": "2026-09-05T10:40:20.452708653Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 40:25",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 40,
+  "translation": "И на кога ћете ме упоредити, да му ⟨будем⟩ раван? — рече Свети.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "И на"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кого"
+    },
+    {
+      "surface": "תדמיוני",
+      "gloss": "упоредићете ме"
+    },
+    {
+      "surface": "ואשוה",
+      "gloss": "и да будем раван"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "Свети"
+    }
+  ],
+  "timestamp": "2026-09-05T12:13:06.566151393Z",
+  "model": "glm-5.3"
+}

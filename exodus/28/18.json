@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 28:18",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "А ред други: гранат, сафир и дијамант.",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "А ред"
+    },
+    {
+      "surface": "השני",
+      "gloss": "други"
+    },
+    {
+      "surface": "נפך",
+      "gloss": "гранат"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "сафир"
+    },
+    {
+      "surface": "ויהלם",
+      "gloss": "и дијамант"
+    }
+  ],
+  "timestamp": "2026-09-05T10:09:43.623202296Z",
+  "model": "glm-5.3"
+}

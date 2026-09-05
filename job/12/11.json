@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 12:11",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "Зар не проба ухо речи, и непце храну себи не окуси?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "зар не"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ухо"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "ријечи"
+    },
+    {
+      "surface": "תבחן",
+      "gloss": "проба"
+    },
+    {
+      "surface": "וחך",
+      "gloss": "и непце"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "храну"
+    },
+    {
+      "surface": "יטעם",
+      "gloss": "окуси"
+    },
+    {
+      "surface": "לו",
+      "gloss": "себи"
+    }
+  ],
+  "timestamp": "2026-09-05T13:57:14.115503467Z",
+  "model": "glm-5.3"
+}

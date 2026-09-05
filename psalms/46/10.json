@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 46:10",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 46,
+  "translation": "Зауставља ратове до краја земље: лук ломи, и копље сече, кола ⟨ратна⟩ спаљује у огњу.",
+  "tokens": [
+    {
+      "surface": "משבית",
+      "gloss": "зауставља"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "ратове"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "краја"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земље"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "лук"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "ломи"
+    },
+    {
+      "surface": "וקצץ",
+      "gloss": "и сече"
+    },
+    {
+      "surface": "חנית",
+      "gloss": "копље"
+    },
+    {
+      "surface": "עגלות",
+      "gloss": "кола"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "спаљује"
+    },
+    {
+      "surface": "באש",
+      "gloss": "у огњу"
+    }
+  ],
+  "timestamp": "2026-09-05T13:26:12.618912159Z",
+  "model": "glm-5.3"
+}

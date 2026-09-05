@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 89:27",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 89,
+  "translation": "Он ће ме звати: Отац мој јеси ти, Ел мој и стена спасења мога.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "יקראני",
+      "gloss": "зваће ме"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "Отац мој"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Ел мој"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "и стена"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "спасења мога"
+    }
+  ],
+  "timestamp": "2026-09-05T15:57:24.587164430Z",
+  "model": "glm-5.3"
+}

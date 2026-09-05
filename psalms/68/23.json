@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 68:23",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 68,
+  "translation": "Рече Адонај: из Башана вратићу, вратићу ⟨ћу⟩ из дубина мора.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Рече"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "מבשן",
+      "gloss": "из Башана"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "вратићу"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "вратићу"
+    },
+    {
+      "surface": "ממצלות",
+      "gloss": "из дубина"
+    },
+    {
+      "surface": "ים",
+      "gloss": "мора"
+    }
+  ],
+  "timestamp": "2026-09-05T15:55:42.736432992Z",
+  "model": "glm-5.3"
+}

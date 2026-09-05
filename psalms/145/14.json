@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 145:14",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 145,
+  "translation": "Подупире Јахве све пале и исправља све погнуте.",
+  "tokens": [
+    {
+      "surface": "סומך",
+      "gloss": "Подупире"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "све"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "пале"
+    },
+    {
+      "surface": "וזוקף",
+      "gloss": "и исправља"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "све"
+    },
+    {
+      "surface": "הכפופים",
+      "gloss": "погнуте"
+    }
+  ],
+  "timestamp": "2026-09-05T13:44:53.120080551Z",
+  "model": "glm-5.3"
+}

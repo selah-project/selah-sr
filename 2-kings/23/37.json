@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-kings 23:37",
+  "book": "2-kings",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "И учини зло у очима Јахве, као све што учинише оци његови.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "И учини"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "зло"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "у очима"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "као све"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "учинише"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "оци његови"
+    }
+  ],
+  "timestamp": "2026-09-05T11:59:51.314026001Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 14:4",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "Где нема воловâ, јасле су чисте, а обилан род долази снагом вола.",
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "Где нема"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "волова"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "јасле"
+    },
+    {
+      "surface": "בר",
+      "gloss": "чисте"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "а обилан"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "род"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "снагом"
+    },
+    {
+      "surface": "שור",
+      "gloss": "вола"
+    }
+  ],
+  "timestamp": "2026-09-05T13:49:07.949551248Z",
+  "model": "glm-5.3"
+}

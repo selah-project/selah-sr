@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 19:9",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 19,
+  "translation": "Сведок лажи неће ⟨бити⟩ поштеђен, а ко издихује лажи пропашће.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "сведок"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "лажи"
+    },
+    {
+      "surface": "לא",
+      "gloss": "неће"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "бити поштеђен"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "а ко издихује"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "лажи"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "пропашће"
+    }
+  ],
+  "timestamp": "2026-09-05T13:50:36.735169404Z",
+  "model": "glm-5.3"
+}

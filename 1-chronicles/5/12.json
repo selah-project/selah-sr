@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 5:12",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Јоел глава, и Шафам други, и Јаанај и Шафат у Башану.",
+  "tokens": [
+    {
+      "surface": "יואל",
+      "gloss": "Јоел"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "глава"
+    },
+    {
+      "surface": "ושפם",
+      "gloss": "и Шафам"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "други"
+    },
+    {
+      "surface": "ויעני",
+      "gloss": "и Јаанај"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "и Шафат"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "у Башану"
+    }
+  ],
+  "timestamp": "2026-09-05T14:35:05.515820378Z",
+  "model": "glm-5.3"
+}

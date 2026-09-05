@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 13:21",
+  "book": "2-samuel",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "И чу Давид краљ ⟨את⟩ све речи те, и разгори се љутња у њему врло.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "и краљ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "чу"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "све речи те"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "речи"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "те"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "разгори се"
+    },
+    {
+      "surface": "לו",
+      "gloss": "у њему"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "врло"
+    }
+  ],
+  "timestamp": "2026-09-05T15:24:58.985408514Z",
+  "model": "glm-5.3"
+}

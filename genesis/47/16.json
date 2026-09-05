@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 47:16",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 47,
+  "translation": "И рече Јосеф: Дајте стоку своју, и даћу вам ⟨за⟩ стоку вашу, ако неста новца.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Јосеф"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "дајте"
+    },
+    {
+      "surface": "מקניכם",
+      "gloss": "стоку своју"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "и даћу"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "במקניכם",
+      "gloss": "за стоку вашу"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "אפס",
+      "gloss": "неста"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "новца"
+    }
+  ],
+  "timestamp": "2026-09-05T09:57:48.657980007Z",
+  "model": "glm-5.3"
+}

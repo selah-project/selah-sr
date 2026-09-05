@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 22:7",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "Пустићеш пустити ⟨את⟩ мајку, а ⟨את⟩ младе узећеш себи, да ти буде добро и да продужиш дане.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "пустићеш"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "пустити"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "мајку"
+    },
+    {
+      "surface": "האם",
+      "gloss": "мајку"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "а ⟨את⟩",
+      "marks": "младе"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "младе"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "узећеш"
+    },
+    {
+      "surface": "לך",
+      "gloss": "себи"
+    },
+    {
+      "surface": "למען",
+      "gloss": "да"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "буде добро"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "והארכת",
+      "gloss": "и да продужиш"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дане"
+    }
+  ],
+  "timestamp": "2026-09-05T10:51:39.496712359Z",
+  "model": "glm-5.3"
+}

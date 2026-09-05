@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 94:14",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 94,
+  "translation": "Јер неће напустити Јахве народа својега, и наслеђе своје неће оставити.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יטש",
+      "gloss": "напустити"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "народ свој"
+    },
+    {
+      "surface": "ונחלתו",
+      "gloss": "и наслеђе своје"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יעזב",
+      "gloss": "оставити"
+    }
+  ],
+  "timestamp": "2026-09-05T13:35:43.482220762Z",
+  "model": "glm-5.3"
+}

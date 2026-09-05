@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 35:2",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 35,
+  "translation": "Сине човјечји, постави лице своје према гори Сеиру и прориц против ње:",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Сине"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човјечји"
+    },
+    {
+      "surface": "שים",
+      "gloss": "постави"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "лице своје"
+    },
+    {
+      "surface": "על",
+      "gloss": "према"
+    },
+    {
+      "surface": "הר",
+      "gloss": "гори"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Сеиру"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "и прориц"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "против ње"
+    }
+  ],
+  "timestamp": "2026-09-05T12:54:37.604633927Z",
+  "model": "glm-5.3"
+}

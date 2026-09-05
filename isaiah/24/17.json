@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 24:17",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "Страх и јама и мрежа ⟨су⟩ на теби, становниче земље.",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "Страх"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "и јама"
+    },
+    {
+      "surface": "ופח",
+      "gloss": "и мрежа"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "на теби"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "становниче"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земље"
+    }
+  ],
+  "timestamp": "2026-09-05T12:08:01.327480292Z",
+  "model": "glm-5.3"
+}

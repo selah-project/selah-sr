@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 22:27",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "И у земљу за којом дижу ⟨את⟩ душу своју да се врате, онамо неће се вратити.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "И у"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земљу"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "коју"
+    },
+    {
+      "surface": "הם",
+      "gloss": "они"
+    },
+    {
+      "surface": "מנשאים",
+      "gloss": "дижу"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "душу своју"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "душу своју"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "да се врате"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тамо"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "онамо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "врате се"
+    }
+  ],
+  "timestamp": "2026-09-05T15:40:17.848448958Z",
+  "model": "glm-5.3"
+}

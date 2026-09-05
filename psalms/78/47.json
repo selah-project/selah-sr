@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 78:47",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 78,
+  "translation": "Поби градом лозе њихове, и смокве њихове — сланом.",
+  "tokens": [
+    {
+      "surface": "יהרג",
+      "gloss": "поби"
+    },
+    {
+      "surface": "בברד",
+      "gloss": "градом"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "лозе њихове"
+    },
+    {
+      "surface": "ושקמותם",
+      "gloss": "и смокве њихове"
+    },
+    {
+      "surface": "בחנמל",
+      "gloss": "сланом"
+    }
+  ],
+  "timestamp": "2026-09-05T13:32:26.850708243Z",
+  "model": "glm-5.3"
+}

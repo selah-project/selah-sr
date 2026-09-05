@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 26:4",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 26,
+  "translation": "Не одговарај луду по лудости његовој, да не будеш једнак њему ⟨и⟩ ти.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תען",
+      "gloss": "одговарај"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "луду"
+    },
+    {
+      "surface": "כאולתו",
+      "gloss": "по лудости његовој"
+    },
+    {
+      "surface": "פן",
+      "gloss": "да не"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "будеш једнак"
+    },
+    {
+      "surface": "לו",
+      "gloss": "њему"
+    },
+    {
+      "surface": "גם",
+      "gloss": "⟨и⟩"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    }
+  ],
+  "timestamp": "2026-09-05T13:52:38.842360113Z",
+  "model": "glm-5.3"
+}

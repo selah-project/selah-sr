@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-samuel 1:27",
+  "book": "1-samuel",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "За овог дечака мољах, и даде Јахве мени ⟨את⟩ молбу моју коју исках од њега.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "За"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "дечака"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овог"
+    },
+    {
+      "surface": "התפללתי",
+      "gloss": "мољах"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "и даде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мени"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "молбу моју"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "молбу моју"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "коју"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "исках"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "од њега"
+    }
+  ],
+  "timestamp": "2026-09-05T11:15:31.305472149Z",
+  "model": "glm-5.3"
+}

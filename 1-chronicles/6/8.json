@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 6:8",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "Елкана, син његов; и Евиасаф, син његов; и Асир, син његов.",
+  "tokens": [
+    {
+      "surface": "אלקנה",
+      "gloss": "Елкана"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син његов"
+    },
+    {
+      "surface": "ואביסף",
+      "gloss": "и Евиасаф"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син његов"
+    },
+    {
+      "surface": "ואסיר",
+      "gloss": "и Асир"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син његов"
+    }
+  ],
+  "timestamp": "2026-09-05T14:35:28.668812745Z",
+  "model": "glm-5.3"
+}

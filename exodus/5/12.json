@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 5:12",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "И расуо се народ по свој земљи Мицрајим да скупља плеву за сламу.",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "и расуо се"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "по свој"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земљи"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрајим"
+    },
+    {
+      "surface": "לקשש",
+      "gloss": "да скупља"
+    },
+    {
+      "surface": "קש",
+      "gloss": "плеву"
+    },
+    {
+      "surface": "לתבן",
+      "gloss": "за сламу"
+    }
+  ],
+  "timestamp": "2026-09-05T09:59:58.142161952Z",
+  "model": "glm-5.3"
+}

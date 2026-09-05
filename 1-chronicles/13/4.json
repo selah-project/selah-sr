@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 13:4",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "И рече сав збор да се тако учини, јер ⟨бејаше⟩ ствар права у очима свега народа.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сав"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "збор"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "да се учини"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тако"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "права"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ствар"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "у очима"
+    },
+    {
+      "surface": "כל",
+      "gloss": "свега"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народа"
+    }
+  ],
+  "timestamp": "2026-09-05T14:39:56.690146050Z",
+  "model": "glm-5.3"
+}

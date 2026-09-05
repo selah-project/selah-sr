@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 24:11",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "Девети Јешуи, десети Шеханији.",
+  "tokens": [
+    {
+      "surface": "לישוע",
+      "gloss": "Јешуи"
+    },
+    {
+      "surface": "התשעי",
+      "gloss": "Девети"
+    },
+    {
+      "surface": "לשכניהו",
+      "gloss": "Шеханији"
+    },
+    {
+      "surface": "העשרי",
+      "gloss": "десети"
+    }
+  ],
+  "timestamp": "2026-09-05T14:41:38.756135376Z",
+  "model": "glm-5.3"
+}

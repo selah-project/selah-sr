@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "job 39:27",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 39,
+  "translation": "Зар на уста твоја орао се уздиже, и гнездо своје подиже?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "зар"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "уста твоја"
+    },
+    {
+      "surface": "יגביה",
+      "gloss": "уздиже се"
+    },
+    {
+      "surface": "נשר",
+      "gloss": "орао"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "и зар"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "подиже"
+    },
+    {
+      "surface": "קנו",
+      "gloss": "гнездо своје"
+    }
+  ],
+  "timestamp": "2026-09-05T14:04:49.008290402Z",
+  "model": "glm-5.3"
+}

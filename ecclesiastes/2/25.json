@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Јер ко ће јести, а ко ће пожурити ⟨на то⟩ осим мене?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ко"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ће јести"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "а ко"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "ће пожурити"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "осим"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "мене"
+    }
+  ],
+  "timestamp": "2026-09-05T14:11:15.440385191Z",
+  "model": "glm-5.3"
+}

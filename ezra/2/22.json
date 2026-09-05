@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezra 2:22",
+  "book": "ezra",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Људи из Нетофе, педесет и шест.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "Људи"
+    },
+    {
+      "surface": "נטפה",
+      "gloss": "из Нетофе"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "педесет"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "и шест"
+    }
+  ],
+  "timestamp": "2026-09-05T14:23:26.513134039Z",
+  "model": "glm-5.3"
+}

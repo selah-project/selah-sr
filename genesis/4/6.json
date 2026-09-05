@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 4:6",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "И рече Јахве Каину: зашто ти се разгневи и зашто падоше лица твоја?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Каину"
+    },
+    {
+      "surface": "קין",
+      "gloss": "⟨Каину⟩"
+    },
+    {
+      "surface": "למה",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "ти се разгневи"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "и зашто"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "падоше"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "лица твоја"
+    }
+  ],
+  "timestamp": "2026-09-05T16:54:22.375993056Z",
+  "model": "glm-5.3"
+}

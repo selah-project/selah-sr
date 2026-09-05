@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 18:17",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "И рече Јахве: да ли да сакријем од Аврахама (Аврама) шта чиним?",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "И рече Јахве"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "да ли да сакријем"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "מאברהם",
+      "gloss": "од Аврахама"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "шта"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "чиним"
+    }
+  ],
+  "timestamp": "2026-09-05T09:43:34.583111635Z",
+  "model": "glm-5.3"
+}

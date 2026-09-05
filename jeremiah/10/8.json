@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 10:8",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "А једнако ⟨глупи су⟩ и луди: поука таштина ⟨јесте⟩ — дрво оно ⟨јесте⟩.",
+  "tokens": [
+    {
+      "surface": "ובאחת",
+      "gloss": "а једнако"
+    },
+    {
+      "surface": "יבערו",
+      "gloss": "глупи су"
+    },
+    {
+      "surface": "ויכסלו",
+      "gloss": "и луди"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "поука"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "таштина"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "дрво"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "оно"
+    }
+  ],
+  "timestamp": "2026-09-05T12:23:42.877593115Z",
+  "model": "glm-5.3"
+}

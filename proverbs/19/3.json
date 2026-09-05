@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 19:3",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 19,
+  "translation": "Лудост човека изопачује пут његов, а на Јахвеа се срди срце његово.",
+  "tokens": [
+    {
+      "surface": "אולת",
+      "gloss": "лудост"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човека"
+    },
+    {
+      "surface": "תסלף",
+      "gloss": "изопачује"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "пут његов"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "а на"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "יזעף",
+      "gloss": "срди се"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "срце његово"
+    }
+  ],
+  "timestamp": "2026-09-05T13:50:56.530085218Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 17:8",
+  "book": "joshua",
+  "lang": "sr",
+  "chapter": 17,
+  "translation": "Менаши би земља Тапуах, а Тапуах на граници Менаше ⟨би⟩ синовима Ефраима.",
+  "tokens": [
+    {
+      "surface": "למנשה",
+      "gloss": "Менаши"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "би"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земља"
+    },
+    {
+      "surface": "תפוח",
+      "gloss": "Тапуах"
+    },
+    {
+      "surface": "ותפוח",
+      "gloss": "а Тапуах"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "граници"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Менаше"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "синовима"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Ефраима"
+    }
+  ],
+  "timestamp": "2026-09-05T11:03:02.263400297Z",
+  "model": "glm-5.3"
+}

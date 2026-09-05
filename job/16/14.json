@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 16:14",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 16,
+  "translation": "Проби ме пробојем на пробој, јуриша на ме као јунак.",
+  "tokens": [
+    {
+      "surface": "יפרצני",
+      "gloss": "проби ме"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "пробојем"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "פני",
+      "gloss": "површину ⟨на⟩"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "пробој"
+    },
+    {
+      "surface": "ירץ",
+      "gloss": "јуриша"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "на ме"
+    },
+    {
+      "surface": "כגבור",
+      "gloss": "као јунак"
+    }
+  ],
+  "timestamp": "2026-09-05T17:12:06.042222898Z",
+  "model": "glm-5.3"
+}

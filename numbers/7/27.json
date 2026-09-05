@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 7:27",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Један во, младе из говеда, један ован, једно јагње од године своје за жртву паљеницу.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "во"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "један"
+    },
+    {
+      "surface": "בן",
+      "gloss": "младе"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "из говеда"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ован"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "један"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "јагње"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "једно"
+    },
+    {
+      "surface": "בן",
+      "gloss": "од"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "године своје"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "за жртву паљеницу"
+    }
+  ],
+  "timestamp": "2026-09-05T10:29:42.662098168Z",
+  "model": "glm-5.3"
+}

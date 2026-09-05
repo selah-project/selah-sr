@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 3:8",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Лек ⟨ће бити⟩ пупку твојему и појило костима твојим.",
+  "tokens": [
+    {
+      "surface": "רפאות",
+      "gloss": "лек"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "⟨ће бити⟩"
+    },
+    {
+      "surface": "לשרך",
+      "gloss": "пупку твојему"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "и појило"
+    },
+    {
+      "surface": "לעצמותיך",
+      "gloss": "костима твојим"
+    }
+  ],
+  "timestamp": "2026-09-05T16:44:18.939420577Z",
+  "model": "glm-5.3"
+}

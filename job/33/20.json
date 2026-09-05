@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 33:20",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 33,
+  "translation": "И огади живот његов хлеб, и нефеш му јело жељено.",
+  "tokens": [
+    {
+      "surface": "וזהמתו",
+      "gloss": "огади"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "живот његов"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хлеб"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "и нефеш му"
+    },
+    {
+      "surface": "מאכל",
+      "gloss": "јело"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "жељено"
+    }
+  ],
+  "timestamp": "2026-09-05T16:05:24.947025068Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 6:18",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "Зато чујте, народи, и знај, зборо, ⟨את⟩ што ⟨је⟩ у њима.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "зато"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "чујте"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "народи"
+    },
+    {
+      "surface": "ודעי",
+      "gloss": "и знај"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "зборо"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "што ⟨је⟩ у њима"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "בם",
+      "gloss": "у њима"
+    }
+  ],
+  "timestamp": "2026-09-05T15:38:49.839323801Z",
+  "model": "glm-5.3"
+}

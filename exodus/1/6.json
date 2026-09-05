@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "И умре Јосеф и сва браћа његова и сав онај род.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "И умре"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Јосеф"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и сва"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "браћа његова"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и сав"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "род"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "онај"
+    }
+  ],
+  "timestamp": "2026-09-05T09:58:33.138451785Z",
+  "model": "glm-5.3"
+}

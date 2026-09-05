@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 19:2",
+  "book": "2-samuel",
+  "lang": "sr",
+  "chapter": 19,
+  "translation": "И јавише Јоаву: ено, краљ плаче и тугује за Авшаломом.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "јавише"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "Јоаву"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ено"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "краљ"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "плаче"
+    },
+    {
+      "surface": "ויתאבל",
+      "gloss": "тугује"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "Авшаломом"
+    }
+  ],
+  "timestamp": "2026-09-05T11:35:59.299001584Z",
+  "model": "glm-5.3"
+}

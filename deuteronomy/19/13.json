@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 19:13",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 19,
+  "translation": "Не да поштеди око твоје њега, и искоренићеш крв невина из Израиља, и биће ти добро.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "да поштеди"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "око твоје"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "њега"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "и искоренићеш"
+    },
+    {
+      "surface": "דם",
+      "gloss": "крв"
+    },
+    {
+      "surface": "הנקי",
+      "gloss": "невина"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "из Израиља"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "и биће добро"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    }
+  ],
+  "timestamp": "2026-09-05T10:50:28.908140278Z",
+  "model": "glm-5.3"
+}

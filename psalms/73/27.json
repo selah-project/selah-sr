@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 73:27",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 73,
+  "translation": "Јер, ево, далеки од тебе гину; истрибио си сваког ко блудни од тебе.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ево"
+    },
+    {
+      "surface": "רחקיך",
+      "gloss": "далеки од тебе"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "гину"
+    },
+    {
+      "surface": "הצמתה",
+      "gloss": "истрибио си"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сваког"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "ко блудни"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "од тебе"
+    }
+  ],
+  "timestamp": "2026-09-05T13:31:00.754134466Z",
+  "model": "glm-5.3"
+}

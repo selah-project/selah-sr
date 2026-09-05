@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "judges 1:36",
+  "book": "judges",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "А међа Амораца ⟨бејаше⟩ од успона Акрабим, од Селе навише.",
+  "tokens": [
+    {
+      "surface": "וגבול",
+      "gloss": "и међа"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Амораца"
+    },
+    {
+      "surface": "ממעלה",
+      "gloss": "од успона"
+    },
+    {
+      "surface": "עקרבים",
+      "gloss": "Акрабим"
+    },
+    {
+      "surface": "מהסלע",
+      "gloss": "од Селе"
+    },
+    {
+      "surface": "ומעלה",
+      "gloss": "навише"
+    }
+  ],
+  "timestamp": "2026-09-05T11:05:24.840418027Z",
+  "model": "glm-5.3"
+}

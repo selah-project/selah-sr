@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 32:2",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 32,
+  "translation": "Благо човеку коме Јахве не урачунава безакоње и у чијем духу нема преваре.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "благо"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човеку"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "урачунава"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "לו",
+      "gloss": "њему"
+    },
+    {
+      "surface": "עון",
+      "gloss": "безакоње"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и нема"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "у духу његовом"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "преваре"
+    }
+  ],
+  "timestamp": "2026-09-05T13:22:33.220633966Z",
+  "model": "glm-5.3"
+}

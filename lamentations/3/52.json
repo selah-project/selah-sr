@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "lamentations 3:52",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Ловити — ловише ме као птицу непријатељи моји, без разлога.",
+  "tokens": [
+    {
+      "surface": "צוד",
+      "gloss": "Ловити"
+    },
+    {
+      "surface": "צדוני",
+      "gloss": "ловише ме"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "као птицу"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "непријатељи моји"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "без разлога"
+    }
+  ],
+  "timestamp": "2026-09-05T17:18:57.116950347Z",
+  "model": "glm-5.3"
+}

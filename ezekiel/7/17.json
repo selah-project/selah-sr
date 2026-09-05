@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 7:17",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Све руке клонуће, и сва колена отићи ће ⟨као⟩ воде.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "הידים",
+      "gloss": "руке"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "клонуће"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и сва"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "колена"
+    },
+    {
+      "surface": "תלכנה",
+      "gloss": "отићи ће"
+    },
+    {
+      "surface": "מים",
+      "gloss": "⟨као⟩ воде"
+    }
+  ],
+  "timestamp": "2026-09-05T12:43:38.990533350Z",
+  "model": "glm-5.3"
+}

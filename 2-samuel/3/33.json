@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 3:33",
+  "book": "2-samuel",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "И закука цар за Авнером и рече: Зар као што умире безумник умре Авнер?",
+  "tokens": [
+    {
+      "surface": "ויקנן",
+      "gloss": "и закука"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "אל",
+      "gloss": "за"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Авнером"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "הכמות",
+      "gloss": "као што умире"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "безумник"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "умре"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Авнер"
+    }
+  ],
+  "timestamp": "2026-09-05T11:28:22.908598607Z",
+  "model": "glm-5.3"
+}

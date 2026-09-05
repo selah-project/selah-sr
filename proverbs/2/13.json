@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 2:13",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "који напуштају стазе правоте, да ходе путевима таме,",
+  "tokens": [
+    {
+      "surface": "העזבים",
+      "gloss": "који напуштају"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "стазе"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "правоте"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "да ходе"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "путевима"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "таме"
+    }
+  ],
+  "timestamp": "2026-09-05T13:45:55.479525946Z",
+  "model": "glm-5.3"
+}

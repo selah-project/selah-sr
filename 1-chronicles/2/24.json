@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 2:24",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "И после смрти Хецрона у Калев Ефрати, жена Хецронова Авија роди њему ⟨את⟩ Ашхура, оца Текојског.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "И после"
+    },
+    {
+      "surface": "מות",
+      "gloss": "смрти"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Хецрона"
+    },
+    {
+      "surface": "בכלב",
+      "gloss": "у Калев"
+    },
+    {
+      "surface": "אפרתה",
+      "gloss": "Ефрати"
+    },
+    {
+      "surface": "ואשת",
+      "gloss": "жена"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Хецронова"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Авија"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "לו",
+      "gloss": "њему"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ашхура"
+    },
+    {
+      "surface": "אשחור",
+      "gloss": "Ашхура"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "оца"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "Текојског"
+    }
+  ],
+  "timestamp": "2026-09-05T14:34:06.178467485Z",
+  "model": "glm-5.3"
+}

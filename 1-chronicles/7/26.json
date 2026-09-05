@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 7:26",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Лаадан син његов, Амиуд син његов, Елишама син његов;",
+  "tokens": [
+    {
+      "surface": "לעדן",
+      "gloss": "Лаадан"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син његов"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "Амиуд"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син његов"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Елишама"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син његов"
+    }
+  ],
+  "timestamp": "2026-09-05T14:36:32.587690418Z",
+  "model": "glm-5.3"
+}

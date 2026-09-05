@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 12:12",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "Пожели безбожник мрежу злих, а корен праведних даје ⟨плод⟩.",
+  "tokens": [
+    {
+      "surface": "חמד",
+      "gloss": "пожели"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "безбожник"
+    },
+    {
+      "surface": "מצוד",
+      "gloss": "мрежу"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "злих"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "а корен"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "праведних"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "даје"
+    }
+  ],
+  "timestamp": "2026-09-05T16:00:25.914681645Z",
+  "model": "glm-5.3"
+}

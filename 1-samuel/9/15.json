@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 9:15",
+  "book": "1-samuel",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "А Јахве откри ухо Шемуелово дан пре доласка Шауловог, говорећи:",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "а Јахве"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "откри"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ухо"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ухо"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шемуелово"
+    },
+    {
+      "surface": "יום",
+      "gloss": "дан"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "један"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пре"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "доласка"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шауловог"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорећи"
+    }
+  ],
+  "timestamp": "2026-09-05T11:18:50.830104286Z",
+  "model": "glm-5.3"
+}

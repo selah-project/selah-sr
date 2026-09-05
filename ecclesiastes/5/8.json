@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "И добит земље у свему ⟨јесте⟩ она: краљ подложан пољу ⟨служи⟩.",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "И добит"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земље"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "у свему"
+    },
+    {
+      "surface": "היא",
+      "gloss": "она"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "краљ"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "пољу"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "служи"
+    }
+  ],
+  "timestamp": "2026-09-05T16:08:34.189732417Z",
+  "model": "glm-5.3"
+}

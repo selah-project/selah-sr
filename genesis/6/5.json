@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 6:5",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "И виде Јахве да је велика злоба човека на земљи, и да је сваки наклон помисли срца његовог само зло сав дан.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "и виде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "велика"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "злоба"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "човека"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "на земљи"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и сваки"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "наклон"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "помисао"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "срца његовог"
+    },
+    {
+      "surface": "רק",
+      "gloss": "само"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зло"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сав"
+    },
+    {
+      "surface": "היום",
+      "gloss": "дан"
+    }
+  ],
+  "timestamp": "2026-09-05T09:40:57.508727903Z",
+  "model": "glm-5.3"
+}

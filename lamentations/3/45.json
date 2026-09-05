@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "lamentations 3:45",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Смеће и одбачено учинио си нас усред народâ.",
+  "tokens": [
+    {
+      "surface": "סחי",
+      "gloss": "смеће"
+    },
+    {
+      "surface": "ומאוס",
+      "gloss": "и одбачено"
+    },
+    {
+      "surface": "תשימנו",
+      "gloss": "учинио си нас"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "усред"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "народâ"
+    }
+  ],
+  "timestamp": "2026-09-05T14:09:06.765371435Z",
+  "model": "glm-5.3"
+}

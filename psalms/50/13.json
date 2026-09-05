@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 50:13",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 50,
+  "translation": "Да ли једем месо бикова, и крв јарцâ да пијем?",
+  "tokens": [
+    {
+      "surface": "האוכל",
+      "gloss": "Да ли једем"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "месо"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "бикова"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "и крв"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "јарцâ"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "пијем"
+    }
+  ],
+  "timestamp": "2026-09-05T13:26:39.136669226Z",
+  "model": "glm-5.3"
+}

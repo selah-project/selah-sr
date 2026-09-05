@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 6:28",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "син Јахата, син Гершома, син Левија.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Јахата"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Гершома"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Левија"
+    }
+  ],
+  "timestamp": "2026-09-05T14:36:23.277943347Z",
+  "model": "glm-5.3"
+}

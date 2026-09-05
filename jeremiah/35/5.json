@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 35:5",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 35,
+  "translation": "И дадох пред синовима дома Рехабија пехаре пуне вина и чаше, и рекох им: пијте вина.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "и дадох"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовима"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "הרכבים",
+      "gloss": "Рехабија"
+    },
+    {
+      "surface": "גבעים",
+      "gloss": "пехаре"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "пуне"
+    },
+    {
+      "surface": "יין",
+      "gloss": "вина"
+    },
+    {
+      "surface": "וכסות",
+      "gloss": "и чаше"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "и рекох"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "пијте"
+    },
+    {
+      "surface": "יין",
+      "gloss": "вина"
+    }
+  ],
+  "timestamp": "2026-09-05T12:34:19.120394705Z",
+  "model": "glm-5.3"
+}

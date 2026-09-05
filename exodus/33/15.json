@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 33:15",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 33,
+  "translation": "И рече му: ако лице твоје не иде, не изводи нас одавде.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "му"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "אין",
+      "gloss": "не"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "лице твоје"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "иде"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעלנו",
+      "gloss": "изводи нас"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "одавде"
+    }
+  ],
+  "timestamp": "2026-09-05T10:12:55.246092107Z",
+  "model": "glm-5.3"
+}

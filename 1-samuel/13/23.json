@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 13:23",
+  "book": "1-samuel",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "И изађе стража Плиштимаца ка превазу Михмаша (Микмаш).",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "И изађе"
+    },
+    {
+      "surface": "מצב",
+      "gloss": "стража"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Плиштимаца"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ка"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "превазу"
+    },
+    {
+      "surface": "מכמש",
+      "gloss": "Михмашу"
+    }
+  ],
+  "timestamp": "2026-09-05T15:21:40.214245828Z",
+  "model": "glm-5.3"
+}

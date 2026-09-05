@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 66:21",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 66,
+  "translation": "И још ћу узети ⟨од њих⟩ за свештенике и за Левите, рече Јахве.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "И још"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "од њих"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "узећу"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "за свештенике"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "за Левите"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-09-05T12:20:21.100702491Z",
+  "model": "glm-5.3"
+}

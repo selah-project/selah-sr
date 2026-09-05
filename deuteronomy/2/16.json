@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 2:16",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "И би кад сви људи ратници изамреше из усред народа,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И би"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "кад"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "изамреше"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сви"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "људи"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ратници"
+    },
+    {
+      "surface": "למות",
+      "gloss": "⟨насмрт⟩"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "из усред"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народа"
+    }
+  ],
+  "timestamp": "2026-09-05T10:43:24.244490762Z",
+  "model": "glm-5.3"
+}

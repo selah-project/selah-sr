@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "deuteronomy 32:31",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 32,
+  "translation": "Јер није као Стена наша стена њихова, и непријатељи наши ⟨су⟩ судије.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "није"
+    },
+    {
+      "surface": "כצורנו",
+      "gloss": "као Стена наша"
+    },
+    {
+      "surface": "צורם",
+      "gloss": "стена њихова"
+    },
+    {
+      "surface": "ואיבינו",
+      "gloss": "и непријатељи наши"
+    },
+    {
+      "surface": "פלילים",
+      "gloss": "судије"
+    }
+  ],
+  "timestamp": "2026-09-05T16:35:41.006721999Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 10:15",
+  "book": "joshua",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "И врати се Јехошуа (Исус Навин) и сав Израиљ с њим у логор, у Гилгал.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "И врати се"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Јехошуа"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и сав"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "с њим"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "логор"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "Гилгал"
+    }
+  ],
+  "timestamp": "2026-09-05T11:00:18.096685085Z",
+  "model": "glm-5.3"
+}

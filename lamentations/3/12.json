@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 3:12",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Затегну лук свој и постави ме као мету за стрелу.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "Затегну"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "лук свој"
+    },
+    {
+      "surface": "ויציבני",
+      "gloss": "и постави ме"
+    },
+    {
+      "surface": "כמטרא",
+      "gloss": "као мету"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "за стрелу"
+    }
+  ],
+  "timestamp": "2026-09-05T14:09:14.804086023Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 33:5",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 33,
+  "translation": "И сагради жртвенике за сву војску небеса у два двора дома Јахвеа.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "и сагради"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "жртвенике"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "за сву"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "војску"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небеса"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "у два"
+    },
+    {
+      "surface": "חצרות",
+      "gloss": "двора"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    }
+  ],
+  "timestamp": "2026-09-05T14:56:32.033982102Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 17:22",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 17,
+  "translation": "Срце весело чини добро лекарство, а дух поражен суши кост.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "срце"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "весело"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "чини добро"
+    },
+    {
+      "surface": "גהה",
+      "gloss": "лекарство"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "а дух"
+    },
+    {
+      "surface": "נכאה",
+      "gloss": "поражен"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "суши"
+    },
+    {
+      "surface": "גרם",
+      "gloss": "кост"
+    }
+  ],
+  "timestamp": "2026-09-05T13:49:47.765107571Z",
+  "model": "glm-5.3"
+}

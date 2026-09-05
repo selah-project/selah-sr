@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 8:16",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "и Михаел, и Ишпа, и Јоха — синови Беријини.",
+  "tokens": [
+    {
+      "surface": "ומיכאל",
+      "gloss": "и Михаел"
+    },
+    {
+      "surface": "וישפה",
+      "gloss": "и Ишпа"
+    },
+    {
+      "surface": "ויוחא",
+      "gloss": "и Јоха"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "Беријини"
+    }
+  ],
+  "timestamp": "2026-09-05T14:36:45.871616772Z",
+  "model": "glm-5.3"
+}

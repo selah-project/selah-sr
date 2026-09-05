@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 6:23",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "Јер заповест је жижак, а Тора светлост, и пут живота — корективи поуке.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "נר",
+      "gloss": "жижак"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "заповест"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "а Тора"
+    },
+    {
+      "surface": "אור",
+      "gloss": "светлост"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "и пут"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "живота"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "корективи"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "поуке"
+    }
+  ],
+  "timestamp": "2026-09-05T13:47:05.221021535Z",
+  "model": "glm-5.3"
+}

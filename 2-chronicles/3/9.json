@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 3:9",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "И тежина клинова ⟨изнесе⟩ педесет шелека златa, а горње одаје обложи златом.",
+  "tokens": [
+    {
+      "surface": "ומשקל",
+      "gloss": "и тежина"
+    },
+    {
+      "surface": "למסמרות",
+      "gloss": "клинова"
+    },
+    {
+      "surface": "לשקלים",
+      "gloss": "шелека"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "педесет"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "злата"
+    },
+    {
+      "surface": "והעליות",
+      "gloss": "а горње одаје"
+    },
+    {
+      "surface": "חפה",
+      "gloss": "обложи"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "златом"
+    }
+  ],
+  "timestamp": "2026-09-05T14:45:25.885698916Z",
+  "model": "glm-5.3"
+}

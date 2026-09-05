@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 16:4",
+  "book": "judges",
+  "lang": "sr",
+  "chapter": 16,
+  "translation": "И би после тога, па заволи жену у долини Сореку, а име јој беше Делила.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И би"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "после"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тога"
+    },
+    {
+      "surface": "ויאהב",
+      "gloss": "па заволи"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "жену"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "у долини"
+    },
+    {
+      "surface": "שרק",
+      "gloss": "Сореку"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "а име јој"
+    },
+    {
+      "surface": "דלילה",
+      "gloss": "Делила"
+    }
+  ],
+  "timestamp": "2026-09-05T11:13:25.506573764Z",
+  "model": "glm-5.3"
+}

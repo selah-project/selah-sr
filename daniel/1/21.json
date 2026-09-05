@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 1:21",
+  "book": "daniel",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "И би Даниел ⟨све⟩ до године прве Кореша краља.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И би"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Даниел"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "године"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "прве"
+    },
+    {
+      "surface": "לכורש",
+      "gloss": "Кореша"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "краља"
+    }
+  ],
+  "timestamp": "2026-09-05T14:15:48.173983891Z",
+  "model": "glm-5.3"
+}

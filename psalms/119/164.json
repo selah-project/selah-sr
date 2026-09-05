@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 164,
+  "ref": "psalms 119:164",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 119,
+  "translation": "Седам пута на дан хвалих те због пресуда правде твоје.",
+  "tokens": [
+    {
+      "surface": "שבע",
+      "gloss": "Седам пута"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "на дан"
+    },
+    {
+      "surface": "הללתיך",
+      "gloss": "хвалих те"
+    },
+    {
+      "surface": "על",
+      "gloss": "због"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "пресуда"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "правде твоје"
+    }
+  ],
+  "timestamp": "2026-09-05T15:59:29.890156808Z",
+  "model": "glm-5.3"
+}

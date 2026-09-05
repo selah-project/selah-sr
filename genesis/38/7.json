@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 38:7",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 38,
+  "translation": "И би Ер, прворођенац Јехудин, зао у очима Јахвеа, те га усмрти Јахве.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "и би"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ер"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "прворођенац"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јехудин"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зао"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "у очима"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "וימתהו",
+      "gloss": "те га усмрти"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-09-05T09:53:32.051815284Z",
+  "model": "glm-5.3"
+}

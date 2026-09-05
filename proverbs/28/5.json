@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 28:5",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "Људи зла не разумеју правду, а они што траже Јахвеа разумеју све.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "људи"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зла"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "разумеју"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "правду"
+    },
+    {
+      "surface": "ומבקשי",
+      "gloss": "а тражиоци"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "разумеју"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    }
+  ],
+  "timestamp": "2026-09-05T13:53:29.388921279Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 12:14",
+  "book": "joshua",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "краљ Хорме, један; краљ Арада, један;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "краљ"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "Хорме"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "један"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "краљ"
+    },
+    {
+      "surface": "ערד",
+      "gloss": "Арада"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "један"
+    }
+  ],
+  "timestamp": "2026-09-05T11:00:56.228966862Z",
+  "model": "glm-5.3"
+}

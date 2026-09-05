@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 26:7",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 26,
+  "translation": "Опуштене висе ноге охлога — и поговорка у устима безумника.",
+  "tokens": [
+    {
+      "surface": "דליו",
+      "gloss": "опуштене висе"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "ноге"
+    },
+    {
+      "surface": "מפסח",
+      "gloss": "охлога"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "и поговорка"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "у устима"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "безумника"
+    }
+  ],
+  "timestamp": "2026-09-05T16:01:52.278970957Z",
+  "model": "glm-5.3"
+}

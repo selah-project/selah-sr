@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 2:8",
+  "book": "daniel",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Одговори краљ и рече: од сигурности знам ја да време купујете, све зато што видите да је реч отишла од мене.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "Одговори"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "краљ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "יציב",
+      "gloss": "сигурности"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "знам"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "ја"
+    },
+    {
+      "surface": "די",
+      "gloss": "да"
+    },
+    {
+      "surface": "עדנא",
+      "gloss": "време"
+    },
+    {
+      "surface": "אנתון",
+      "gloss": "ви"
+    },
+    {
+      "surface": "זבנין",
+      "gloss": "купујете"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "зато што"
+    },
+    {
+      "surface": "די",
+      "gloss": "да"
+    },
+    {
+      "surface": "חזיתון",
+      "gloss": "видите"
+    },
+    {
+      "surface": "די",
+      "gloss": "да"
+    },
+    {
+      "surface": "אזדא",
+      "gloss": "отишла"
+    },
+    {
+      "surface": "מני",
+      "gloss": "од мене"
+    },
+    {
+      "surface": "מלתא",
+      "gloss": "реч"
+    }
+  ],
+  "timestamp": "2026-09-05T16:10:07.824016606Z",
+  "model": "glm-5.3"
+}

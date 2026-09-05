@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "judges 9:39",
+  "book": "judges",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "И изађе Гаал пред господаре Шхема, и би се с Авимелехом.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "И изађе"
+    },
+    {
+      "surface": "געל",
+      "gloss": "Гаал"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "господаре"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Шхема"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "и би се"
+    },
+    {
+      "surface": "באבימלך",
+      "gloss": "с Авимелехом"
+    }
+  ],
+  "timestamp": "2026-09-05T11:09:16.193085338Z",
+  "model": "glm-5.3"
+}

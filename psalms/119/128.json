@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 128,
+  "ref": "psalms 119:128",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 119,
+  "translation": "Зато све уредбе твоје сматрам правима у свему; сваку стазу лажи замрзех.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "зато (на)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "зато"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "уредбе"
+    },
+    {
+      "surface": "כל",
+      "gloss": "у свему"
+    },
+    {
+      "surface": "ישרתי",
+      "gloss": "сматрам правима"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сваку"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "стазу"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "лажи"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "замрзех"
+    }
+  ],
+  "timestamp": "2026-09-05T13:40:35.954240974Z",
+  "model": "glm-5.3"
+}

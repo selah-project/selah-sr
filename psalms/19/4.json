@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 19,
+  "translation": "Нема ⟨изговорене⟩ речи и нема речи, без тога да се чује глас њихов.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Нема"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "⟨изговорене⟩ речи"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и нема"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "речи"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "без"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "да се чује"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "глас њихов"
+    }
+  ],
+  "timestamp": "2026-09-05T13:19:59.235165555Z",
+  "model": "glm-5.3"
+}

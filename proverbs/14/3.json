@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 14:3",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "У устима безумника ⟨је⟩ штап охолости, а усне мудрих чувају их.",
+  "tokens": [
+    {
+      "surface": "בפי",
+      "gloss": "У устима"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "безумника"
+    },
+    {
+      "surface": "חטר",
+      "gloss": "штап"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "охолости"
+    },
+    {
+      "surface": "ושפתי",
+      "gloss": "а усне"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "мудрих"
+    },
+    {
+      "surface": "תשמורם",
+      "gloss": "чувају их"
+    }
+  ],
+  "timestamp": "2026-09-05T13:49:07.949408201Z",
+  "model": "glm-5.3"
+}

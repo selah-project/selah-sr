@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 3:5",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Уздај се у Јахвеа свим срцем својим, и на разум свој ⟨не⟩ ослањај се.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "Уздај се"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "свим"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "срцем својим"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "בינתך",
+      "gloss": "разум свој"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨не⟩"
+    },
+    {
+      "surface": "תשען",
+      "gloss": "ослањај се"
+    }
+  ],
+  "timestamp": "2026-09-05T15:59:50.532279654Z",
+  "model": "glm-5.3"
+}

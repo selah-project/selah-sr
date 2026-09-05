@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 144:3",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 144,
+  "translation": "Јахве, шта је човек да га знаш, син смртника да га памтиш?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "מה",
+      "gloss": "шта"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човек"
+    },
+    {
+      "surface": "ותדעהו",
+      "gloss": "да га знаш"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "смртника"
+    },
+    {
+      "surface": "ותחשבהו",
+      "gloss": "да га памтиш"
+    }
+  ],
+  "timestamp": "2026-09-05T13:44:09.426749798Z",
+  "model": "glm-5.3"
+}

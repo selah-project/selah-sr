@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 41:18",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 41,
+  "translation": "и ено их из реке излазе седам крава, угојених месом и лепих изгледом, и пасле у трсти.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "и ено"
+    },
+    {
+      "surface": "מן",
+      "gloss": "из"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "реке"
+    },
+    {
+      "surface": "עלת",
+      "gloss": "излазе"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "седам"
+    },
+    {
+      "surface": "פרות",
+      "gloss": "крава"
+    },
+    {
+      "surface": "בריאות",
+      "gloss": "угојених"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "месом"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "и лепих"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "изгледом"
+    },
+    {
+      "surface": "ותרעינה",
+      "gloss": "и пасле"
+    },
+    {
+      "surface": "באחו",
+      "gloss": "у трсти"
+    }
+  ],
+  "timestamp": "2026-09-05T09:54:38.986291857Z",
+  "model": "glm-5.3"
+}

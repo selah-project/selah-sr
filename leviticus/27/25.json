@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 27:25",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 27,
+  "translation": "И свака твоја оцена биће у шеклу светиње: двадесет гера биће шекал.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "И свака"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "твоја оцена"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "биће"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "у шеклу"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "светиње"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двадесет"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "гера"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "биће"
+    },
+    {
+      "surface": "השקל",
+      "gloss": "шекал"
+    }
+  ],
+  "timestamp": "2026-09-05T10:27:30.810074615Z",
+  "model": "glm-5.3"
+}

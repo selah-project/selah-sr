@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 121:8",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 121,
+  "translation": "Јахве чува излазак твој и долазак твој, одсад и довека.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "чува"
+    },
+    {
+      "surface": "צאתך",
+      "gloss": "излазак твој"
+    },
+    {
+      "surface": "ובואך",
+      "gloss": "и долазак твој"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "одсад"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и до"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "века"
+    }
+  ],
+  "timestamp": "2026-09-05T13:41:37.573056211Z",
+  "model": "glm-5.3"
+}

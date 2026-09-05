@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 5:14",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Ово су синови Авихаила, сина Хурија, сина Јароаха, сина Гилада, сина Михаела, сина Јешишаја, сина Јахдоа, сина Буза.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ово"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "אביחיל",
+      "gloss": "Авихаила"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "חורי",
+      "gloss": "Хурија"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "ירוח",
+      "gloss": "Јароаха"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Гилада"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "מיכאל",
+      "gloss": "Михаела"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "ישישי",
+      "gloss": "Јешишаја"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "Јахдоа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "Буза"
+    }
+  ],
+  "timestamp": "2026-09-05T14:35:07.346395372Z",
+  "model": "glm-5.3"
+}

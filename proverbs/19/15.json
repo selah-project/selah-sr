@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 19:15",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 19,
+  "translation": "Ленјост обара у дубок сан, и душа немарна гладује.",
+  "tokens": [
+    {
+      "surface": "עצלה",
+      "gloss": "ленјост"
+    },
+    {
+      "surface": "תפיל",
+      "gloss": "обара"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "у дубок сан"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "и душа"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "немарна"
+    },
+    {
+      "surface": "תרעב",
+      "gloss": "гладује"
+    }
+  ],
+  "timestamp": "2026-09-05T13:50:57.333160737Z",
+  "model": "glm-5.3"
+}

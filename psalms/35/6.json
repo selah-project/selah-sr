@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 35:6",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 35,
+  "translation": "Нек им пут ⟨буде⟩ тама и клизавост, и анђео Јахвеов да их гони.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "нек буде"
+    },
+    {
+      "surface": "דרכם",
+      "gloss": "пут њихов"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "тама"
+    },
+    {
+      "surface": "וחלקלקות",
+      "gloss": "и клизавост"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "и анђео"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеов"
+    },
+    {
+      "surface": "רדפם",
+      "gloss": "гони их"
+    }
+  ],
+  "timestamp": "2026-09-05T13:22:17.022630355Z",
+  "model": "glm-5.3"
+}

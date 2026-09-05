@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 1:12",
+  "book": "amos",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "И послаћу огањ на Тејман, и изгрину тврђаве Боцре.",
+  "tokens": [
+    {
+      "surface": "ושלחתי",
+      "gloss": "И послаћу"
+    },
+    {
+      "surface": "אש",
+      "gloss": "огањ"
+    },
+    {
+      "surface": "בתימן",
+      "gloss": "на Тејман"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "и изгрину"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "тврђаве"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "Боцре"
+    }
+  ],
+  "timestamp": "2026-09-05T13:04:01.316259936Z",
+  "model": "glm-5.3"
+}

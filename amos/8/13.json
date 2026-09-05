@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "amos 8:13",
+  "book": "amos",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "У тај дан усхнуће девице лепе и младићи од жеђи.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "У дан"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тај"
+    },
+    {
+      "surface": "תתעלפנה",
+      "gloss": "усхнуће"
+    },
+    {
+      "surface": "הבתולת",
+      "gloss": "девице"
+    },
+    {
+      "surface": "היפות",
+      "gloss": "лепе"
+    },
+    {
+      "surface": "והבחורים",
+      "gloss": "и младићи"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "од жеђи"
+    }
+  ],
+  "timestamp": "2026-09-05T13:05:30.582391790Z",
+  "model": "glm-5.3"
+}

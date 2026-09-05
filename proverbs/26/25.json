@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 26:25",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 26,
+  "translation": "Кад учини глас милозивим, не веруј му, јер седам гнусоба ⟨је⟩ у срцу његовом.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Кад"
+    },
+    {
+      "surface": "יחנן",
+      "gloss": "учини милозивим"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "глас"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאמן",
+      "gloss": "веруј"
+    },
+    {
+      "surface": "בו",
+      "gloss": "му"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "седам"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "гнусоба"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "у срцу његовом"
+    }
+  ],
+  "timestamp": "2026-09-05T13:52:42.163523516Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 10:8",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "Мудар срцем заповести прима, а глупан усана бива оборен.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "Мудар"
+    },
+    {
+      "surface": "лב",
+      "gloss": "срцем"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "прима"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "заповести"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "а глупан"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "усана"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "бива оборен"
+    }
+  ],
+  "timestamp": "2026-09-05T13:47:54.916157398Z",
+  "model": "glm-5.3"
+}

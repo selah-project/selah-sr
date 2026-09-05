@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 96:1",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 96,
+  "translation": "Певајте Јахвеу песму нову, певајте Јахвеу, сва земљо!",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Певајте"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Јахвеу"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "песму"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "нову"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "певајте"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Јахвеу"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сва"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земљо"
+    }
+  ],
+  "timestamp": "2026-09-05T13:35:11.734022313Z",
+  "model": "glm-5.3"
+}

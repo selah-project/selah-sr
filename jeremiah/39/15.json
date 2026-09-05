@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 39:15",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 39,
+  "translation": "И би реч Јахвеова Јермији, док беше заточен у двору страже, говорећи:",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "И ка"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Јермији"
+    },
+    {
+      "surface": "היה",
+      "gloss": "би"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "реч"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеова"
+    },
+    {
+      "surface": "בהיתו",
+      "gloss": "док беше"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "заточен"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "у двор"
+    },
+    {
+      "surface": "המטרה",
+      "gloss": "страже"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорећи"
+    }
+  ],
+  "timestamp": "2026-09-05T15:41:09.752234390Z",
+  "model": "glm-5.3"
+}

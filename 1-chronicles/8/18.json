@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 8:18",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "и Ишмраји, и Излија, и Јовав — синови Елпаалови.",
+  "tokens": [
+    {
+      "surface": "וישמרי",
+      "gloss": "и Ишмраји"
+    },
+    {
+      "surface": "ויזליאה",
+      "gloss": "и Излија"
+    },
+    {
+      "surface": "ויובב",
+      "gloss": "и Јовав"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Елпаалови"
+    }
+  ],
+  "timestamp": "2026-09-05T14:36:18.035863700Z",
+  "model": "glm-5.3"
+}

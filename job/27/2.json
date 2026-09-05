@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 27:2",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 27,
+  "translation": "Жив Ел, који ми уклони право, и Шадај, који огорчи душу моју —",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "Жив"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "уклони"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "право моје"
+    },
+    {
+      "surface": "ו�די",
+      "gloss": "и Шадај"
+    },
+    {
+      "surface": "המר",
+      "gloss": "огорчи"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душу моју"
+    }
+  ],
+  "timestamp": "2026-09-05T14:01:27.939501738Z",
+  "model": "glm-5.3"
+}

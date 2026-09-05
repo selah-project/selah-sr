@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "И сваки принос свештенички сасвим нека буде: не сме се јести.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "И сваки"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "принос"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "свештенички"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "сасвим"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "нека буде"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "сме се јести"
+    }
+  ],
+  "timestamp": "2026-09-05T10:17:11.207351737Z",
+  "model": "glm-5.3"
+}

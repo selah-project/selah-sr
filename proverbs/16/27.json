@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 16:27",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 16,
+  "translation": "Човек безвредни копа зло, и на уснама његовим ⟨је⟩ као огањ жар.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "безвредни"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "копа"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зло"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "уснама његовим"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "као огањ"
+    },
+    {
+      "surface": "צרבת",
+      "gloss": "жар"
+    }
+  ],
+  "timestamp": "2026-09-05T13:49:40.081094716Z",
+  "model": "glm-5.3"
+}

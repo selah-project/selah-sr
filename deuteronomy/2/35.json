@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 2:35",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Само ⟨את⟩ стоку опљачкасмо за себе, и плен градова које заузесмо.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "само"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "стоку"
+    },
+    {
+      "surface": "בזזנו",
+      "gloss": "опљачкасмо"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "за себе"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "и плен"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "градова"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "које"
+    },
+    {
+      "surface": "לכדנו",
+      "gloss": "заузесмо"
+    }
+  ],
+  "timestamp": "2026-09-05T10:44:23.893733291Z",
+  "model": "glm-5.3"
+}

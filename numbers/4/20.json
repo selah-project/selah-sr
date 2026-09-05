@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 4:20",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "и нека не улазе да гледају ⟨את⟩ светињу ни за трен, па да не умру.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "и нека не"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "улазе"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "да гледају"
+    },
+    {
+      "surface": "כבלע",
+      "gloss": "ни за трен"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "светињу"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "светињу"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "па да не умру"
+    }
+  ],
+  "timestamp": "2026-09-05T10:28:40.134721191Z",
+  "model": "glm-5.3"
+}

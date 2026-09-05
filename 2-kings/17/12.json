@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 17:12",
+  "book": "2-kings",
+  "lang": "sr",
+  "chapter": 17,
+  "translation": "И служише идолима, за које рече Јахве њима: не чините ⟨את⟩ ствар ову.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "и служише"
+    },
+    {
+      "surface": "הגללים",
+      "gloss": "идолима"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "за које"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "להם",
+      "gloss": "њима"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "чините"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ствар ову"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ствар"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ову"
+    }
+  ],
+  "timestamp": "2026-09-05T11:56:58.245299166Z",
+  "model": "glm-5.3"
+}

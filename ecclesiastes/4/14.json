@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 4:14",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "Јер из дома заточеника изиђе ⟨тај⟩ да краљује, јер и у краљевству своме роди се као сиромах.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "из дома"
+    },
+    {
+      "surface": "הסורים",
+      "gloss": "заточеника"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "изиђе"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "да краљује"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "במלכותו",
+      "gloss": "у краљевству своме"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "роди се"
+    },
+    {
+      "surface": "רש",
+      "gloss": "као сиромах"
+    }
+  ],
+  "timestamp": "2026-09-05T14:11:36.122526447Z",
+  "model": "glm-5.3"
+}

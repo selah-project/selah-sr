@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 5:21",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Јер су наспрам очију Јахвеа путеви човека, и све стазе његове Он премерава.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "наспрам"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "очију"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "путеви"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човека"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и све"
+    },
+    {
+      "surface": "מעגלתיו",
+      "gloss": "стазе његове"
+    },
+    {
+      "surface": "מפלס",
+      "gloss": "премерава"
+    }
+  ],
+  "timestamp": "2026-09-05T16:00:56.788662468Z",
+  "model": "glm-5.3"
+}

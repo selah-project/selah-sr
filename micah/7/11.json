@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "micah 7:11",
+  "book": "micah",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Дан ⟨је⟩ за зидање бедема твојих; у дан онај удаљиће се међа.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "дан"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "за зидање"
+    },
+    {
+      "surface": "גדריך",
+      "gloss": "бедема твојих"
+    },
+    {
+      "surface": "יום",
+      "gloss": "дан"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "онај"
+    },
+    {
+      "surface": "ירחק",
+      "gloss": "удаљиће се"
+    },
+    {
+      "surface": "חק",
+      "gloss": "међа"
+    }
+  ],
+  "timestamp": "2026-09-05T13:09:03.834816921Z",
+  "model": "glm-5.3"
+}

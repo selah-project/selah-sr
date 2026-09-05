@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 25:10",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 25,
+  "translation": "трећи Закуру, синови његови и браћа његова дванаест.",
+  "tokens": [
+    {
+      "surface": "השלשי",
+      "gloss": "трећи"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "Закуру"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "синови његови"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "и браћа његова"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "два"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "наест"
+    }
+  ],
+  "timestamp": "2026-09-05T14:41:47.629283624Z",
+  "model": "glm-5.3"
+}

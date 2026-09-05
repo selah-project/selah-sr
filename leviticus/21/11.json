@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 21:11",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "И уз сваку душу умрлу нека не улази; за оца свога и за матер своју нека се не оскврни.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "и уз"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сваку"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "душу"
+    },
+    {
+      "surface": "מת",
+      "gloss": "умрлу"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "улази"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "за оца свога"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "и за матер своју"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "оскврни се"
+    }
+  ],
+  "timestamp": "2026-09-05T10:23:52.157207969Z",
+  "model": "glm-5.3"
+}

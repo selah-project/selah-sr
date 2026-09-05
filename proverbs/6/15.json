@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 6:15",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "Зато изненада доћи ће пропаст његова, тренутно биће сломљен, и нема лека.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "зато"
+    },
+    {
+      "surface": "כן",
+      "gloss": "зато"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "изненада"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "доћи ће"
+    },
+    {
+      "surface": "אידו",
+      "gloss": "пропаст његова"
+    },
+    {
+      "surface": "פתע",
+      "gloss": "тренутно"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "биће сломљен"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и нема"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "лека"
+    }
+  ],
+  "timestamp": "2026-09-05T13:47:11.362105982Z",
+  "model": "glm-5.3"
+}

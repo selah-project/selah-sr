@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 9:5",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "Јер живи знају да ће умрети, а мртви не знају ништа, и немају више никакве плате, јер заборављен ⟨је⟩ спомен њихов.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "живи"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "знају"
+    },
+    {
+      "surface": "שימתו",
+      "gloss": "да ће умрети"
+    },
+    {
+      "surface": "והמתים",
+      "gloss": "а мртви"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "не"
+    },
+    {
+      "surface": "יודעים",
+      "gloss": "знају"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "ништа"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и нема"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "више"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "плате"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "נשכח",
+      "gloss": "заборављен"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "спомен њихов"
+    }
+  ],
+  "timestamp": "2026-09-05T17:19:01.931670757Z",
+  "model": "glm-5.3"
+}

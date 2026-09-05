@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 12:2",
+  "book": "2-samuel",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "Богатоме беше ситно сточанство и говеда врло много.",
+  "tokens": [
+    {
+      "surface": "לעשיר",
+      "gloss": "Богатоме"
+    },
+    {
+      "surface": "היה",
+      "gloss": "беше"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ситно сточанство"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "и говеда"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "много"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "врло"
+    }
+  ],
+  "timestamp": "2026-09-05T15:24:54.655859852Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 82:4",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 82,
+  "translation": "Избавите слабог и убогог, из руке безбожника спасите ⟨их⟩.",
+  "tokens": [
+    {
+      "surface": "פלטו",
+      "gloss": "Избавите"
+    },
+    {
+      "surface": "דל",
+      "gloss": "слабог"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "и убогог"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "из руке"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "безбожника"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "спасите"
+    }
+  ],
+  "timestamp": "2026-09-05T13:32:43.426150974Z",
+  "model": "glm-5.3"
+}

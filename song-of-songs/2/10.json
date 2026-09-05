@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 2:10",
+  "book": "song-of-songs",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Одговори додол мой и рече ми: устани ти, драга моја, лепотицо моја, и ходај ти!",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "одговори"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "додол мой"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "устани"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "драга моја"
+    },
+    {
+      "surface": "יפתי",
+      "gloss": "лепотицо моја"
+    },
+    {
+      "surface": "ולכי",
+      "gloss": "и ходај"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    }
+  ],
+  "timestamp": "2026-09-05T14:06:11.315779454Z",
+  "model": "glm-5.3"
+}

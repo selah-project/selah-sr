@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 30:5",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 30,
+  "translation": "И начини ⟨את⟩ мотке од акацијевог дрвета, и обложи их ⟨את⟩ златом.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "и начини"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "мотке"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "мотке"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "од дрвета"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "акацијевог"
+    },
+    {
+      "surface": "וצפית",
+      "gloss": "и обложи"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "их ⟨את⟩",
+      "marks": "златом"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "златом"
+    }
+  ],
+  "timestamp": "2026-09-05T10:10:27.218110535Z",
+  "model": "glm-5.3"
+}

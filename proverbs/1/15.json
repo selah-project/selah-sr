@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 1:15",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "Сине мој, не иди путем ⟨את⟩ с њима; задржи ногу своју од стаза њихових.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сине мој"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "иди"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "путем"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "с њима"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "задржи"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "ногу своју"
+    },
+    {
+      "surface": "מנתיבתם",
+      "gloss": "од стаза њихових"
+    }
+  ],
+  "timestamp": "2026-09-05T13:45:35.308122844Z",
+  "model": "glm-5.3"
+}

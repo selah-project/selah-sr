@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 5:4",
+  "book": "esther",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "И рече Естер: „Ако је добро у очима краља, нека дође краљ и Хаман данас на гозбу коју начиних њему.“",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Естер"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Ако"
+    },
+    {
+      "surface": "על",
+      "gloss": "у очима"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "краља"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "нека дође"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "краљ"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "и Хаман"
+    },
+    {
+      "surface": "היום",
+      "gloss": "данас"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "гозбу"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "коју"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "начиних"
+    },
+    {
+      "surface": "לו",
+      "gloss": "њему"
+    }
+  ],
+  "timestamp": "2026-09-05T14:15:59.865477372Z",
+  "model": "glm-5.3"
+}

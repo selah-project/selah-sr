@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 21:22",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "Хлеб Елохима свога — од најсветијих светиња и од светих — једе.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "Хлеб"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Елохима свога"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "од најсветијих"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "светиња"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "и од"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "светих"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "једе"
+    }
+  ],
+  "timestamp": "2026-09-05T10:23:52.038439945Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 14:11",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "Кућа безбожника разориће се, а шатор правихних процвета.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "Кућа"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "безбожника"
+    },
+    {
+      "surface": "ישמד",
+      "gloss": "разориће се"
+    },
+    {
+      "surface": "ואהל",
+      "gloss": "а шатор"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "правихних"
+    },
+    {
+      "surface": "יפריח",
+      "gloss": "процвета"
+    }
+  ],
+  "timestamp": "2026-09-05T13:48:26.940409857Z",
+  "model": "glm-5.3"
+}

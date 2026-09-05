@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 42:18",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 42,
+  "translation": "Чујте, глуваци, и слепци, погледајте да видите!",
+  "tokens": [
+    {
+      "surface": "החרשים",
+      "gloss": "глуваци"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "чујте"
+    },
+    {
+      "surface": "והעורים",
+      "gloss": "и слепци"
+    },
+    {
+      "surface": "הביטו",
+      "gloss": "погледајте"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "да видите"
+    }
+  ],
+  "timestamp": "2026-09-05T16:38:34.032759149Z",
+  "model": "glm-5.3"
+}

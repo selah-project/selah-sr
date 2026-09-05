@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-kings 18:41",
+  "book": "1-kings",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "И рече Елијаху Ахаву: Успни се, једи и пиј, јер ⟨е⟩ глас хуке кише.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Елијаху"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "Ахаву"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "Успни се"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "једи"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "и пиј"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "קול",
+      "gloss": "глас"
+    },
+    {
+      "surface": "המון",
+      "gloss": "хуке"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "кише"
+    }
+  ],
+  "timestamp": "2026-09-05T11:47:30.366561397Z",
+  "model": "glm-5.3"
+}

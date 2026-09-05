@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 12:1",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "Ко љуби васпиту, љуби знање, а ко мрзи покору — безуман ⟨је⟩.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "Ко љуби"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "васпиту"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "љуби"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "знање"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "а ко мрзи"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "покору"
+    },
+    {
+      "surface": "בער",
+      "gloss": "безуман"
+    }
+  ],
+  "timestamp": "2026-09-05T13:48:43.551636888Z",
+  "model": "glm-5.3"
+}

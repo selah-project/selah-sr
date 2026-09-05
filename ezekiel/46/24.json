@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 46:24",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 46,
+  "translation": "И рече ми: ово су куће за куварје, где ће кухати тамо служитељи дома ⟨את⟩ жртву народа.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ово"
+    },
+    {
+      "surface": "בית",
+      "gloss": "куће"
+    },
+    {
+      "surface": "המבשלים",
+      "gloss": "за куварје"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "где"
+    },
+    {
+      "surface": "יבשלו",
+      "gloss": "кухати"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тамо"
+    },
+    {
+      "surface": "משרתי",
+      "gloss": "служитељи"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жртву народа"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "жртву"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народа"
+    }
+  ],
+  "timestamp": "2026-09-05T12:58:32.144694617Z",
+  "model": "glm-5.3"
+}

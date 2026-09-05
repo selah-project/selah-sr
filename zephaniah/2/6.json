@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zephaniah 2:6",
+  "book": "zephaniah",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "И биће појас морски насеља пастирска, пашишта пастирска и торнице овца.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "и биће"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "појас"
+    },
+    {
+      "surface": "הים",
+      "gloss": "морски"
+    },
+    {
+      "surface": "נות",
+      "gloss": "насеља"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "пашишта"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "пастирска"
+    },
+    {
+      "surface": "וגדרות",
+      "gloss": "и торнице"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "овца"
+    }
+  ],
+  "timestamp": "2026-09-05T17:29:50.618503943Z",
+  "model": "glm-5.3"
+}

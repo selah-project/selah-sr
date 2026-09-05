@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 41:1",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 41,
+  "translation": "Управнику. Мизмор Давидов (Давида).",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Управнику"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мизмор"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидов"
+    }
+  ],
+  "timestamp": "2026-09-05T15:54:59.355625586Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 3:15",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Што бејаше, већ јесте; и што треба да буде, већ бејаше; и Елохим тражи ⟨את⟩ прогнаног.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Што"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "бејаше"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "већ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "јесте"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "и што"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "да буде"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "већ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "бејаше"
+    },
+    {
+      "surface": "והאלהים",
+      "gloss": "и Елохим"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "тражи"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "прогнаног"
+    },
+    {
+      "surface": "נרדף",
+      "gloss": "прогнаног"
+    }
+  ],
+  "timestamp": "2026-09-05T14:11:28.272519635Z",
+  "model": "glm-5.3"
+}

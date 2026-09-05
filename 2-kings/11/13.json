@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 11:13",
+  "book": "2-kings",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "И чу Аталија ⟨את⟩ глас тркача, народа, и уђе к народу ⟨у⟩ дом Јахвеов.",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "и чу"
+    },
+    {
+      "surface": "עתליה",
+      "gloss": "Аталија"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "глас"
+    },
+    {
+      "surface": "קול",
+      "gloss": "глас"
+    },
+    {
+      "surface": "הרצין",
+      "gloss": "тркача"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народа"
+    },
+    {
+      "surface": "ותבא",
+      "gloss": "и уђе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народу"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеов"
+    }
+  ],
+  "timestamp": "2026-09-05T11:55:24.397224353Z",
+  "model": "glm-5.3"
+}

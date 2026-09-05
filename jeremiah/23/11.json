@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 23:11",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "Јер и пророк и свештеник опоганише се; и у дому Мом нађох злоћу њихову, рече Јахве.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "пророк"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "свештеник"
+    },
+    {
+      "surface": "חנפו",
+      "gloss": "опоганише се"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "בביתי",
+      "gloss": "у дому Мом"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "нађох"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "злоћу њихову"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-09-05T12:29:20.335961652Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 8:4",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "И гле, тамо ⟨је⟩ слава Елохима Израиљевог, као изглед који видех у долини.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "И гле"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тамо"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "слава"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохима"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљевог"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "као изглед"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "видех"
+    },
+    {
+      "surface": "בבקעה",
+      "gloss": "у долини"
+    }
+  ],
+  "timestamp": "2026-09-05T12:44:18.503390555Z",
+  "model": "glm-5.3"
+}

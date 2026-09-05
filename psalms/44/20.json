@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 44:20",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 44,
+  "translation": "Јер сломи нас на месту чакала, и покри нас сенком смрти.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "דכיתנו",
+      "gloss": "сломи нас"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "на месту"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "чакала"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "и покри"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "нас"
+    },
+    {
+      "surface": "בצלמות",
+      "gloss": "сенком смрти"
+    }
+  ],
+  "timestamp": "2026-09-05T13:25:48.639843847Z",
+  "model": "glm-5.3"
+}

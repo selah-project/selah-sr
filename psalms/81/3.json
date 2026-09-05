@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 81:3",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 81,
+  "translation": "Подигните песму, ударите у бубањ, мили кинор с невелом.",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "Подигните"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "песму"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "ударите"
+    },
+    {
+      "surface": "תף",
+      "gloss": "у бубањ"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "кинор"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "мил�и"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "невелом"
+    }
+  ],
+  "timestamp": "2026-09-05T13:33:02.861994039Z",
+  "model": "glm-5.3"
+}

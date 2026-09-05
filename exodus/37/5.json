@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 37:5",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 37,
+  "translation": "И унесе ⟨את⟩ полуге у прстенове на боковимá ковчега, да носе ⟨את⟩ ковчег.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "И унесе"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "полуге"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "полуге"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "у прстенове"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "боковимá"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ковчега"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "да носе"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ковчег"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ковчег"
+    }
+  ],
+  "timestamp": "2026-09-05T10:13:55.427376982Z",
+  "model": "glm-5.3"
+}

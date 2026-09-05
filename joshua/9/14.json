@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 9:14",
+  "book": "joshua",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "И узеше људи од њихове хране, а ⟨את⟩ уста Јахвеа не попиташе.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "И узеше"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "људи"
+    },
+    {
+      "surface": "מצידם",
+      "gloss": "од њихове хране"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "уста"
+    },
+    {
+      "surface": "פי",
+      "gloss": "уста"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "попиташе"
+    }
+  ],
+  "timestamp": "2026-09-05T10:59:19.792452162Z",
+  "model": "glm-5.3"
+}

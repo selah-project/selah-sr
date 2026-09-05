@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 10:17",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "Пут к животу ⟨јесте⟩ ко чува поуку, а ко напушта укор, лута.",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "пут"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "к животу"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "чува"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "поуку"
+    },
+    {
+      "surface": "ועוזב",
+      "gloss": "а ко напушта"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "укор"
+    },
+    {
+      "surface": "מתעה",
+      "gloss": "лута"
+    }
+  ],
+  "timestamp": "2026-09-05T13:48:11.714225644Z",
+  "model": "glm-5.3"
+}

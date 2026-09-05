@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 12:7",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "Није тако слуга мој Моше (Мојсије): у целом дому мојем веран је он.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тако"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "слуга мој"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше (Мојсије)"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "у целом"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "дому мојем"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "веран"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    }
+  ],
+  "timestamp": "2026-09-05T10:33:53.676877875Z",
+  "model": "glm-5.3"
+}

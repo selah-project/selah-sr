@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 27:18",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 27,
+  "translation": "И дође к оцу својему и рече: „Оче мој!“ А он рече: „Ено ме; ко си ти, сине мој?“",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "и дође"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "Аביו",
+      "gloss": "оцу својему"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "оче мој"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "а рече"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ено ме"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ко"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "си ти"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сине мој"
+    }
+  ],
+  "timestamp": "2026-09-05T14:59:59.169126143Z",
+  "model": "glm-5.3"
+}

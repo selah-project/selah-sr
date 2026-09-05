@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 26:20",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 26,
+  "translation": "Без дрва огњу се гаси ⟨пламен⟩, и без оговарача престаје свађа.",
+  "tokens": [
+    {
+      "surface": "באפס",
+      "gloss": "без"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "дрва"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "се гаси"
+    },
+    {
+      "surface": "אש",
+      "gloss": "огњу"
+    },
+    {
+      "surface": "ובאין",
+      "gloss": "и без"
+    },
+    {
+      "surface": "נרגן",
+      "gloss": "оговарача"
+    },
+    {
+      "surface": "ישתק",
+      "gloss": "престаје"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "свађа"
+    }
+  ],
+  "timestamp": "2026-09-05T13:52:38.568264328Z",
+  "model": "glm-5.3"
+}

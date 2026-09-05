@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 14:20",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "И рече Јахве: опростио сам као реч твоју.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "סלחתי",
+      "gloss": "опростио сам"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "као реч твоју"
+    }
+  ],
+  "timestamp": "2026-09-05T15:09:44.972179773Z",
+  "model": "glm-5.3"
+}

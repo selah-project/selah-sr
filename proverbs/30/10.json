@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 30:10",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 30,
+  "translation": "Не оговарај слугу господару његовому, да те не прокуне и ⟨да⟩ не сагрешиш.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תלשן",
+      "gloss": "оговарај"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "слугу"
+    },
+    {
+      "surface": "אל",
+      "gloss": "према"
+    },
+    {
+      "surface": "אדנו",
+      "gloss": "господару његовом"
+    },
+    {
+      "surface": "פן",
+      "gloss": "да не"
+    },
+    {
+      "surface": "יקללך",
+      "gloss": "прокуне те"
+    },
+    {
+      "surface": "ואשמת",
+      "gloss": "и сагрешиш"
+    }
+  ],
+  "timestamp": "2026-09-05T13:53:22.430914759Z",
+  "model": "glm-5.3"
+}

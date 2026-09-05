@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 47:4",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 47,
+  "translation": "Покори народе под нас и племена под стопала наша.",
+  "tokens": [
+    {
+      "surface": "ידבר",
+      "gloss": "покори"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "народе"
+    },
+    {
+      "surface": "תחתינו",
+      "gloss": "под нас"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "и племена"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "стопала наша"
+    }
+  ],
+  "timestamp": "2026-09-05T16:43:46.597858399Z",
+  "model": "glm-5.3"
+}

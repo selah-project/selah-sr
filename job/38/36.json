@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "job 38:36",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 38,
+  "translation": "Ко је ставио у унутрашњости мудрост, или ко је дао петлу разум?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ко"
+    },
+    {
+      "surface": "שת",
+      "gloss": "стави"
+    },
+    {
+      "surface": "ב טחות",
+      "gloss": "у унутрашњости"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мудрост"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ко"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "даје"
+    },
+    {
+      "surface": "ל שכוי",
+      "gloss": "петлу"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "разум"
+    }
+  ],
+  "timestamp": "2026-09-05T14:05:24.668386363Z",
+  "model": "glm-5.3"
+}

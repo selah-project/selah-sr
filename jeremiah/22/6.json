@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 22:6",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "Јер овако рече Јахве о дому краља Јехуде: Гилеад си ми, врху Ливана! Ако те не поставим за пустињу, градове ненастањене —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "כה",
+      "gloss": "овако"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "על",
+      "gloss": "о"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дому"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "краља"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јехуде"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Гилеад"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "си"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "врху"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Ливана"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Ако"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אשיתך",
+      "gloss": "те поставим"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "за пустињу"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "градове"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не-"
+    },
+    {
+      "surface": "נושבה",
+      "gloss": "настањене"
+    }
+  ],
+  "timestamp": "2026-09-05T12:27:41.277785813Z",
+  "model": "glm-5.3"
+}

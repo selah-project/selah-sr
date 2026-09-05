@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 49:15",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 49,
+  "translation": "Јер, ето, мало те учиних међу народима, презрена међу људима.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ето"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "мало"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "учиних те"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "међу народима"
+    },
+    {
+      "surface": "בזוי",
+      "gloss": "презрена"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "међу људима"
+    }
+  ],
+  "timestamp": "2026-09-05T12:39:49.572996630Z",
+  "model": "glm-5.3"
+}

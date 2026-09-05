@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 47,
+  "translation": "Јер је краљ целе земље Елохим — певајте ⟨му⟩ умено.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "краљ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целе"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земље"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "певајте"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "умено"
+    }
+  ],
+  "timestamp": "2026-09-05T17:09:53.560672309Z",
+  "model": "glm-5.3"
+}

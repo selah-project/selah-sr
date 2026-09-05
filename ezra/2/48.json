@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "ezra 2:48",
+  "book": "ezra",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "синови Рецина, синови Некоде, синови Газама.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Рецина"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "נקודא",
+      "gloss": "Некоде"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "גזם",
+      "gloss": "Газама"
+    }
+  ],
+  "timestamp": "2026-09-05T14:25:03.832932782Z",
+  "model": "glm-5.3"
+}

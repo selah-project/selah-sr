@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nahum 2:7",
+  "book": "nahum",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Отворена су ⟨врата⟩ река, а двор ⟨се⟩ растаче.",
+  "tokens": [
+    {
+      "surface": "שערי",
+      "gloss": "врата"
+    },
+    {
+      "surface": "הנהרות",
+      "gloss": "река"
+    },
+    {
+      "surface": "נפתחו",
+      "gloss": "отворена су"
+    },
+    {
+      "surface": "וההיכל",
+      "gloss": "а двор"
+    },
+    {
+      "surface": "נמוג",
+      "gloss": "растаче се"
+    }
+  ],
+  "timestamp": "2026-09-05T16:41:48.370763455Z",
+  "model": "glm-5.3"
+}

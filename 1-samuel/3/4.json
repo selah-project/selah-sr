@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 3:4",
+  "book": "1-samuel",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "И позва Јахве Шемуела, а он рече: ено ме.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "И позва"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шемуела"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "а он рече"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ено ме"
+    }
+  ],
+  "timestamp": "2026-09-05T11:16:05.694071469Z",
+  "model": "glm-5.3"
+}

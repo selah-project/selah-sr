@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 9:18",
+  "book": "1-kings",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "и ⟨את⟩ Баалат и ⟨את⟩ Тамор (Тадмор) у пустињи, у земљи.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Баалат"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "Баалат"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Тамор"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Тамор"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "у пустињи"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "у земљи"
+    }
+  ],
+  "timestamp": "2026-09-05T11:42:41.477556883Z",
+  "model": "glm-5.3"
+}

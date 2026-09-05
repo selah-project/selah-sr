@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 4:4",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "И знајте да издвоји Јахве хасида ⟨себи⟩; Јахве чује кад зовем к њему.",
+  "tokens": [
+    {
+      "surface": "ודעו",
+      "gloss": "и знајте"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "הפלה",
+      "gloss": "издвоји"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "חסיד",
+      "gloss": "хасида"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨себи⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "чује"
+    },
+    {
+      "surface": "בקראי",
+      "gloss": "кад зовем"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "к њему"
+    }
+  ],
+  "timestamp": "2026-09-05T13:16:31.407597872Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 23:2",
+  "book": "2-samuel",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "Дах Јахвеа проговори кроза ме, и реч Његова на језику мом.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "Дах"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "проговори"
+    },
+    {
+      "surface": "בי",
+      "gloss": "кроза ме"
+    },
+    {
+      "surface": "ומלתו",
+      "gloss": "и реч Његова"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "језику мом"
+    }
+  ],
+  "timestamp": "2026-09-05T11:37:36.354170926Z",
+  "model": "glm-5.3"
+}

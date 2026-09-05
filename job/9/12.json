@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 9:12",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "Ено, уграби — ко ће ⟨га⟩ вратити? ко ће рећи њему: шта чиниш?",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Ено"
+    },
+    {
+      "surface": "יחתף",
+      "gloss": "уграби"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ко"
+    },
+    {
+      "surface": "ישיבנו",
+      "gloss": "ће ⟨га⟩ вратити"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ко"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ће рећи"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "њему"
+    },
+    {
+      "surface": "מה",
+      "gloss": "шта"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "чиниш"
+    }
+  ],
+  "timestamp": "2026-09-05T13:56:04.195125958Z",
+  "model": "glm-5.3"
+}

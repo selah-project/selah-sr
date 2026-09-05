@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "esther 1:21",
+  "book": "esther",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "И би добра реч у очима цара и кнезова, и учини цар као реч Мемухана.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "И би добра"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "реч"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "у очима"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "цара"
+    },
+    {
+      "surface": "והשרים",
+      "gloss": "и кнезова"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "и учини"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "као реч"
+    },
+    {
+      "surface": "ממוכן",
+      "gloss": "Мемухана"
+    }
+  ],
+  "timestamp": "2026-09-05T14:14:08.178767403Z",
+  "model": "glm-5.3"
+}

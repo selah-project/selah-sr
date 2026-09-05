@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 35:21",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 35,
+  "translation": "И раширише на ме уста своја, рекоше: Хеах, хеах, видело око наше.",
+  "tokens": [
+    {
+      "surface": "וירחיבו",
+      "gloss": "И раширише"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "на ме"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "уста своја"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "рекоше"
+    },
+    {
+      "surface": "האח",
+      "gloss": "Хеах"
+    },
+    {
+      "surface": "האח",
+      "gloss": "хеах"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "видело"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "око наше"
+    }
+  ],
+  "timestamp": "2026-09-05T13:21:52.429281631Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 3:8",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "И узесмо у то време ⟨את⟩ земљу из руке два краља Емореја, који бејаху с ону страну Јардена, од потока Арнон до горе Хермон.",
+  "tokens": [
+    {
+      "surface": "ונקח",
+      "gloss": "и узесмо"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "у"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "то време"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "земљу"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земљу"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "из руке"
+    },
+    {
+      "surface": "שני",
+      "gloss": "два"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "краља"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Емореја"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "с ону страну"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Јардена"
+    },
+    {
+      "surface": "מנחל",
+      "gloss": "од потока"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Арнон"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "הר",
+      "gloss": "горе"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Хермон"
+    }
+  ],
+  "timestamp": "2026-09-05T10:43:51.267839972Z",
+  "model": "glm-5.3"
+}

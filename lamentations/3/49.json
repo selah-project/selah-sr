@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "lamentations 3:49",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Око моје се изли и неће престати, јер нема одмора.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "око моје"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "изли се"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и неће"
+    },
+    {
+      "surface": "תדמה",
+      "gloss": "престати"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "јер нема"
+    },
+    {
+      "surface": "הפגות",
+      "gloss": "одмора"
+    }
+  ],
+  "timestamp": "2026-09-05T14:09:05.936537618Z",
+  "model": "glm-5.3"
+}

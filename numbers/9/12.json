@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 9:12",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "Не оставе ништа од њега до јутра, и кост не сломе на њему; по све уредбе Песаха спреме ⟨את⟩ њега.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישאירו",
+      "gloss": "оставе"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "од њега"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "јутра"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "и кост"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "сломе"
+    },
+    {
+      "surface": "בו",
+      "gloss": "на њему"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "по све"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "уредбе"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Песаха"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "спреме"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "њега (Песах)"
+    }
+  ],
+  "timestamp": "2026-09-05T15:09:33.032555947Z",
+  "model": "glm-5.3"
+}

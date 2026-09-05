@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "И намести Аврахам ⟨את⟩ седам овчица стоке саме за себе.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "И намести"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврахам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "седам овчица"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "седам"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "овчица"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "стоке"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "саме за себе"
+    }
+  ],
+  "timestamp": "2026-09-05T09:45:03.020265695Z",
+  "model": "glm-5.3"
+}

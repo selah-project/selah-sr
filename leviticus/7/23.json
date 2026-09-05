@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 7:23",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Говори синовима Израиљевим, говорећи: сваку масноћу вола и овце и козе не изједите.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Говори"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ка"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовима"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљевим"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорећи"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сву"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "масноћу"
+    },
+    {
+      "surface": "שור",
+      "gloss": "вола"
+    },
+    {
+      "surface": "וכשב",
+      "gloss": "и овце"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "и козе"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "изједите"
+    }
+  ],
+  "timestamp": "2026-09-05T15:05:51.429233153Z",
+  "model": "glm-5.3"
+}

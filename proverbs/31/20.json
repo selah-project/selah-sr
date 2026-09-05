@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 31:20",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 31,
+  "translation": "Длан свој рашири сиромаху, и руке своје пружи неверном ⟨нужном⟩.",
+  "tokens": [
+    {
+      "surface": "כפה",
+      "gloss": "длан свој"
+    },
+    {
+      "surface": "פרשה",
+      "gloss": "рашири"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "сиромаху"
+    },
+    {
+      "surface": "וידיה",
+      "gloss": "и руке своје"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "пружи"
+    },
+    {
+      "surface": "לאביון",
+      "gloss": "неверном"
+    }
+  ],
+  "timestamp": "2026-09-05T13:54:30.284964306Z",
+  "model": "glm-5.3"
+}

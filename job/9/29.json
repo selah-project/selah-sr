@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "job 9:29",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "Ја ⟨сам⟩ крив; зашто то? Узалуд се трудим.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ја"
+    },
+    {
+      "surface": "ארשע",
+      "gloss": "крив ⟨сам⟩"
+    },
+    {
+      "surface": "למה",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "זה",
+      "gloss": "то"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "узалуд"
+    },
+    {
+      "surface": "איגע",
+      "gloss": "трудим се"
+    }
+  ],
+  "timestamp": "2026-09-05T16:49:29.969183607Z",
+  "model": "glm-5.3"
+}

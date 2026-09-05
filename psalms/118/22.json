@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 118:22",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 118,
+  "translation": "Камен који одбацише зидари поста ⟨је⟩ главни угла.",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "камен"
+    },
+    {
+      "surface": "מאסו",
+      "gloss": "одбацише"
+    },
+    {
+      "surface": "הבונים",
+      "gloss": "зидари"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "поста"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "главни"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "угао"
+    }
+  ],
+  "timestamp": "2026-09-05T13:39:27.323098320Z",
+  "model": "glm-5.3"
+}

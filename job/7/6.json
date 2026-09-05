@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 7:6",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Дани моји бржи су од разбоја, и свршише се без наде.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "дани моји"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "лакши су \/ бржи су"
+    },
+    {
+      "surface": "מני",
+      "gloss": "од"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "разбоја"
+    },
+    {
+      "surface": "ויכלו",
+      "gloss": "и свршише се"
+    },
+    {
+      "surface": "באפס",
+      "gloss": "без"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "наде"
+    }
+  ],
+  "timestamp": "2026-09-05T17:12:19.041584026Z",
+  "model": "glm-5.3"
+}

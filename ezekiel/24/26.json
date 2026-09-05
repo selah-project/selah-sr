@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 24:26",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "У дан онај доћи ће ⟨те› који се спасе к теби да чују уши ⟨твоје›.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "У дан"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "онај"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "доћи ће"
+    },
+    {
+      "surface": "הפליט",
+      "gloss": "који се спасе"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "к теби"
+    },
+    {
+      "surface": "лהשמעות",
+      "gloss": "да чују"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "уши"
+    }
+  ],
+  "timestamp": "2026-09-05T12:49:59.129664603Z",
+  "model": "glm-5.3"
+}

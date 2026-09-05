@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 25:25",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 25,
+  "translation": "Као хладна вода за изнемоглу душу, тако је добра вест из земље далеке.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "вода"
+    },
+    {
+      "surface": "קרים",
+      "gloss": "хладна"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "душу"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "изнемоглу"
+    },
+    {
+      "surface": "ושמועה",
+      "gloss": "и вест"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "добра"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "из земље"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "далеке"
+    }
+  ],
+  "timestamp": "2026-09-05T13:52:26.752414547Z",
+  "model": "glm-5.3"
+}

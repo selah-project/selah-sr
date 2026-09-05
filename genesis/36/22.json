@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 36:22",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 36,
+  "translation": "И бише синови Лотанови: Хори и Хејам; а сестра Лотанова беше Тимна.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "И бише"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "Лотанови"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "Хори"
+    },
+    {
+      "surface": "והימם",
+      "gloss": "и Хејам"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "а сестра"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "Лотанова"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "Тимна"
+    }
+  ],
+  "timestamp": "2026-09-05T09:52:12.793771407Z",
+  "model": "glm-5.3"
+}

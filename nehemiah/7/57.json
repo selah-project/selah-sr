@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "nehemiah 7:57",
+  "book": "nehemiah",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Синови слуга Шеломоових: синови Сотаја (Сотaи), синови Соферет, синови Перуда.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "слуга"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломоових"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "סוטי",
+      "gloss": "Сотаја"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "סופרת",
+      "gloss": "Соферет"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "פרידא",
+      "gloss": "Перуда"
+    }
+  ],
+  "timestamp": "2026-09-05T14:31:04.526723654Z",
+  "model": "glm-5.3"
+}

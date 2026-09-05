@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 38:2",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 38,
+  "translation": "И виде тамо Јехуда кћер човека кенаанског, а име му Шуа; и узе је, и уђе к њој.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "И виде"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тамо"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јехуда"
+    },
+    {
+      "surface": "בת",
+      "gloss": "кћер"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човека"
+    },
+    {
+      "surface": "כנעני",
+      "gloss": "кенаанског"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "а име му"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "Шуа"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "и узе је"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "и уђе"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "к њој"
+    }
+  ],
+  "timestamp": "2026-09-05T09:54:13.134385408Z",
+  "model": "glm-5.3"
+}

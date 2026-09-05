@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 32:3",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 32,
+  "translation": "Кад ћутах, стадоше кости моје, од тутњаве моје цео ⟨тај⟩ дан.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "кад"
+    },
+    {
+      "surface": "החרשתי",
+      "gloss": "ћутах"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "стадоше"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "кости моје"
+    },
+    {
+      "surface": "בשאגתי",
+      "gloss": "од тутњаве моје"
+    },
+    {
+      "surface": "כל",
+      "gloss": "цео"
+    },
+    {
+      "surface": "היום",
+      "gloss": "дан"
+    }
+  ],
+  "timestamp": "2026-09-05T17:08:48.799836685Z",
+  "model": "glm-5.3"
+}

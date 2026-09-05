@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 106:26",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 106,
+  "translation": "И подиже руку своју на њих, да их обори у пустињи,",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "и подиже"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "руку своју"
+    },
+    {
+      "surface": "להם",
+      "gloss": "на њих"
+    },
+    {
+      "surface": "להפיל",
+      "gloss": "да обори"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "њих (у пустињи)"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "у пустињи"
+    }
+  ],
+  "timestamp": "2026-09-05T13:38:01.608505406Z",
+  "model": "glm-5.3"
+}

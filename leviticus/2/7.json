@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 2:7",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "А ако је дар из лонца принос твој, бело брашно са уљем нека се начини.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "а ако"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "дар"
+    },
+    {
+      "surface": "מרחשת",
+      "gloss": "из лонца"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "принос твој"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "бело брашно"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "са уљем"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "нека се начини"
+    }
+  ],
+  "timestamp": "2026-09-05T10:15:43.556161261Z",
+  "model": "glm-5.3"
+}

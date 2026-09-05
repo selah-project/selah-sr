@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 19:28",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 19,
+  "translation": "Сведок Белијалов руга се правди, и уста злих гутају безакоње.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "сведок"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "Белијалов"
+    },
+    {
+      "surface": "יליץ",
+      "gloss": "руга се"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "правди"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "и уста"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "злих"
+    },
+    {
+      "surface": "יבלע",
+      "gloss": "гутају"
+    },
+    {
+      "surface": "און",
+      "gloss": "безакоње"
+    }
+  ],
+  "timestamp": "2026-09-05T13:51:05.488288657Z",
+  "model": "glm-5.3"
+}

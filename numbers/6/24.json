@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 6:24",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "Нека те благослови Јахве и нека те чува.",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "Нека те благослови"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "וישמרך",
+      "gloss": "и нека те чува"
+    }
+  ],
+  "timestamp": "2026-09-05T10:29:34.528194873Z",
+  "model": "glm-5.3"
+}

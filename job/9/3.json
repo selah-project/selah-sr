@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 9:3",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "Ако заисте да се прè са њим — не одговори му ⟨ни⟩ једну од хиљаду.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ако"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "заисте"
+    },
+    {
+      "surface": "לריב",
+      "gloss": "да се прè"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "са њим"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "одговори му"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "⟨ни⟩ једну"
+    },
+    {
+      "surface": "מני",
+      "gloss": "од"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "хиљаду"
+    }
+  ],
+  "timestamp": "2026-09-05T13:56:52.240490405Z",
+  "model": "glm-5.3"
+}

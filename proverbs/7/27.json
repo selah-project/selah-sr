@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 7:27",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Путеви Шеола ⟨су⟩ дом њен, силазе у одаје смрти.",
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "Путеви"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шеола"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "дом њен"
+    },
+    {
+      "surface": "ירדות",
+      "gloss": "силазе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "одаје"
+    },
+    {
+      "surface": "מות",
+      "gloss": "смрти"
+    }
+  ],
+  "timestamp": "2026-09-05T13:47:28.920959717Z",
+  "model": "glm-5.3"
+}

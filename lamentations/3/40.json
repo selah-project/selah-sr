@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "lamentations 3:40",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Да испитамо путеве своје и да просудимо, па да се вратимо ка Јахвеу.",
+  "tokens": [
+    {
+      "surface": "נחפשה",
+      "gloss": "Да испитамо"
+    },
+    {
+      "surface": "דרכינו",
+      "gloss": "путеве своје"
+    },
+    {
+      "surface": "ונחקרה",
+      "gloss": "и да просудимо"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "па да се вратимо"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ка"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеу"
+    }
+  ],
+  "timestamp": "2026-09-05T14:09:35.117629696Z",
+  "model": "glm-5.3"
+}

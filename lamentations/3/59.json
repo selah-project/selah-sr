@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "lamentations 3:59",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Видео си, Јахве, насиље моје; суди суд мој.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "Видео си"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "עותתי",
+      "gloss": "насиље моје"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "суди"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "суд мој"
+    }
+  ],
+  "timestamp": "2026-09-05T14:09:26.081926690Z",
+  "model": "glm-5.3"
+}

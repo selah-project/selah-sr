@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 22:16",
+  "book": "1-samuel",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "И рече краљ: Смрт ћеш умрети, Ахимелеку, ти и сав дом оца твојега.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "краљ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "Смрт"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "ћеш умрети"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Ахимелеку"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и сав"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "апобимך",
+      "gloss": "оца твојега",
+      "surface_note": "אביך"
+    }
+  ],
+  "timestamp": "2026-09-05T11:24:48.797680274Z",
+  "model": "glm-5.3"
+}

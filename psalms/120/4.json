@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 120:4",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 120,
+  "translation": "Стрелице јунака оштре, ⟨и⟩ сагореви ретамовог дрвета.",
+  "tokens": [
+    {
+      "surface": "חצי",
+      "gloss": "Стрелице"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "јунака"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "оштре"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨и⟩ са"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "сагореви"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "ретамовог дрвета"
+    }
+  ],
+  "timestamp": "2026-09-05T13:41:24.877654625Z",
+  "model": "glm-5.3"
+}

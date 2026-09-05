@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 42:14",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 42,
+  "translation": "И рече им Јосеф: то ⟨је⟩ што рекох вама говорећи: извидници сте.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "има"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Јосеф"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "то"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "рекох"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "вама"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорећи"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "извидници"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "сте"
+    }
+  ],
+  "timestamp": "2026-09-05T09:56:02.820338395Z",
+  "model": "glm-5.3"
+}

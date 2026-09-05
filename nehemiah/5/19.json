@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 5:19",
+  "book": "nehemiah",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Опомени ме, Елохим мој, за добро, све што учиних за овај народ.",
+  "tokens": [
+    {
+      "surface": "זכרה",
+      "gloss": "Опомени"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мене"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим мој"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "за добро"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "учиних"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овај"
+    }
+  ],
+  "timestamp": "2026-09-05T14:29:11.666229013Z",
+  "model": "glm-5.3"
+}

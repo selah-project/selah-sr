@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 12:8",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "Ти, Јахве, чуваш ⟨их⟩, чуваћеш ⟨га⟩ од нараштаја овога довека.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "תשמרם",
+      "gloss": "чуваш их"
+    },
+    {
+      "surface": "תצרנו",
+      "gloss": "чуваћеш га"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "нараштаја овога"
+    },
+    {
+      "surface": "זו",
+      "gloss": "овога"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "довека"
+    }
+  ],
+  "timestamp": "2026-09-05T13:18:46.955517606Z",
+  "model": "glm-5.3"
+}

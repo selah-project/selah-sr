@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 118:21",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 118,
+  "translation": "Хвалићу те ⟨јер⟩ одговори ми ⟨је⟩ и би ⟨ми⟩ спасење.",
+  "tokens": [
+    {
+      "surface": "אודך",
+      "gloss": "хвалићу те"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨јер⟩"
+    },
+    {
+      "surface": "עניתני",
+      "gloss": "одговори ми"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "и постаде"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "спасење"
+    }
+  ],
+  "timestamp": "2026-09-05T13:39:27.322802657Z",
+  "model": "glm-5.3"
+}

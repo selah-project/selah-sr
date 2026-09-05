@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 6:4",
+  "book": "zechariah",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "И одговорих и рекох анђелу што говораше у мени: шта су ови, господару мој?",
+  "tokens": [
+    {
+      "surface": "ואען",
+      "gloss": "и одговорих"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "и рекох"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨анђелу⟩"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "анђелу"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "што говораше"
+    },
+    {
+      "surface": "בי",
+      "gloss": "у мени"
+    },
+    {
+      "surface": "מה",
+      "gloss": "шта"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "су ови"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "господару мој"
+    }
+  ],
+  "timestamp": "2026-09-05T13:13:03.083278332Z",
+  "model": "glm-5.3"
+}

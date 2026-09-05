@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 5:20",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "И бише сви дани Јереда две и шездесет година и девет стотина година, и умре.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "И бише"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сви"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дани"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Јереда"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "две"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "и шездесет"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "године"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "и девет"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "стотина"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "година"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "и умре"
+    }
+  ],
+  "timestamp": "2026-09-05T14:58:26.991851689Z",
+  "model": "glm-5.3"
+}

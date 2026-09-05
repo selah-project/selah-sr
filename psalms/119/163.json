@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 163,
+  "ref": "psalms 119:163",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 119,
+  "translation": "Лаж замрзех и гнушам је се, Тору твоју заволех.",
+  "tokens": [
+    {
+      "surface": "שקר",
+      "gloss": "Лаж"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "замрзех"
+    },
+    {
+      "surface": "ואתעבה",
+      "gloss": "и гнушам се"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Тору твоју"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "заволех"
+    }
+  ],
+  "timestamp": "2026-09-05T15:59:29.889900121Z",
+  "model": "glm-5.3"
+}

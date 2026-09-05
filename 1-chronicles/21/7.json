@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 21:7",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "И зло би у очима Елохима због те ствари, и порази ⟨את⟩ Израиљ.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "И зло би"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "у очима"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елохима"
+    },
+    {
+      "surface": "על",
+      "gloss": "због"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ствари"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "те"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "и порази"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Израиљ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљ"
+    }
+  ],
+  "timestamp": "2026-09-05T14:40:43.075703880Z",
+  "model": "glm-5.3"
+}

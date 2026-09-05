@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 5:22",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "или нађе изгубљено, па у њему слаже, и закле се на лаж — о једном од свега што чини човек да сагреши у њему.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "нађе"
+    },
+    {
+      "surface": "אבדה",
+      "gloss": "изгубљено"
+    },
+    {
+      "surface": "וכחש",
+      "gloss": "па слаже"
+    },
+    {
+      "surface": "בה",
+      "gloss": "у њему"
+    },
+    {
+      "surface": "ונשבע",
+      "gloss": "и закле се"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "лаж"
+    },
+    {
+      "surface": "על",
+      "gloss": "о"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "једном"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "од свега"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "чини"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "човек"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "да сагреши"
+    },
+    {
+      "surface": "בהנה",
+      "gloss": "у њему"
+    }
+  ],
+  "timestamp": "2026-09-05T10:17:43.713004118Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "jeremiah 48:43",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 48,
+  "translation": "Страх и јама и замка — на теби, становниче Моава, рече Јахве.",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "страх"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "и јама"
+    },
+    {
+      "surface": "ופח",
+      "gloss": "и замка"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "на теби"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "становниче"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моава"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-09-05T12:39:01.900297439Z",
+  "model": "glm-5.3"
+}

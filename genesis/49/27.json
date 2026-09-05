@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 49:27",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 49,
+  "translation": "Венијамин — вук који кида: ујутро једе плен, а увече дели добыч.",
+  "tokens": [
+    {
+      "surface": "בנימין",
+      "gloss": "Венијамин"
+    },
+    {
+      "surface": "зאב",
+      "gloss": "вук"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "кида"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ујутро"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "једе"
+    },
+    {
+      "surface": "עד",
+      "gloss": "плен"
+    },
+    {
+      "surface": "ולערב",
+      "gloss": "а увече"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "дели"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "добыч"
+    }
+  ],
+  "timestamp": "2026-09-05T09:59:36.362526114Z",
+  "model": "glm-5.3"
+}

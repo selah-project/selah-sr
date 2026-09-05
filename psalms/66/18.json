@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 66:18",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 66,
+  "translation": "Безакоње ако гледах у срцу својему, Адонај не би чуо.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "Безакоње"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "гледах"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "у срцу својему"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "би чуо"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    }
+  ],
+  "timestamp": "2026-09-05T13:28:54.530762089Z",
+  "model": "glm-5.3"
+}

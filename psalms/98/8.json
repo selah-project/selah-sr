@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 98:8",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 98,
+  "translation": "Реке нека заплескају дланом, заједно брда нека кличу.",
+  "tokens": [
+    {
+      "surface": "נהרות",
+      "gloss": "реке"
+    },
+    {
+      "surface": "ימחאו",
+      "gloss": "нека заплескају"
+    },
+    {
+      "surface": "כף",
+      "gloss": "дланом"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "заједно"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "брда"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "нека кличу"
+    }
+  ],
+  "timestamp": "2026-09-05T13:36:33.686150008Z",
+  "model": "glm-5.3"
+}

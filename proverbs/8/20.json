@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 8:20",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "По стази правде ходим, усред стаза суда.",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "по стази"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "правде"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "ходим"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "усред"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "стаза"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "суда"
+    }
+  ],
+  "timestamp": "2026-09-05T13:47:54.919856571Z",
+  "model": "glm-5.3"
+}

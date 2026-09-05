@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 11:7",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "И настани се Давид у утврди; зато је назваше град Давидов.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "и настани се"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "במצד",
+      "gloss": "у утврди"
+    },
+    {
+      "surface": "על",
+      "gloss": "зато"
+    },
+    {
+      "surface": "כן",
+      "gloss": "што"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "назваше"
+    },
+    {
+      "surface": "לו",
+      "gloss": "је"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "град"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давидов"
+    }
+  ],
+  "timestamp": "2026-09-05T14:37:16.881236583Z",
+  "model": "glm-5.3"
+}

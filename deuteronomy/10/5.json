@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 10:5",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "И окренух се и сиђох с горе, и ставих ⟨את⟩ таблице у ковчег који начних; и бише тамо, као што ми заповеди Јахве.",
+  "tokens": [
+    {
+      "surface": "ואפן",
+      "gloss": "и окренух се"
+    },
+    {
+      "surface": "וארד",
+      "gloss": "и сиђох"
+    },
+    {
+      "surface": "מן",
+      "gloss": "с"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "горе"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "и ставих"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "таблице"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "таблице"
+    },
+    {
+      "surface": "בארון",
+      "gloss": "у ковчег"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "начних"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "и бише"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тамо"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "као што"
+    },
+    {
+      "surface": "צוני",
+      "gloss": "заповеди ми"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-09-05T10:46:54.285530076Z",
+  "model": "glm-5.3"
+}

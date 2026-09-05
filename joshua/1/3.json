@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 1:3",
+  "book": "joshua",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "Свако место на које ступи табан ноге ваше — вама га дадох, као што говорих Мошеу.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Свако"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "место"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "на које"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "ступи"
+    },
+    {
+      "surface": "כף",
+      "gloss": "табан"
+    },
+    {
+      "surface": "רגלכם",
+      "gloss": "ноге ваше"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨на њега⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вама"
+    },
+    {
+      "surface": "נתתיו",
+      "gloss": "га дадох"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "као што"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "говорих"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨коме⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошеу"
+    }
+  ],
+  "timestamp": "2026-09-05T10:58:10.811716311Z",
+  "model": "glm-5.3"
+}

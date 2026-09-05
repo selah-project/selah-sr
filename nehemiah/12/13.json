@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "nehemiah 12:13",
+  "book": "nehemiah",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "За Езру Мешулам, за Амарију Јехоханан;",
+  "tokens": [
+    {
+      "surface": "לעזרא",
+      "gloss": "за Езру"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "Мешулам"
+    },
+    {
+      "surface": "לאמריה",
+      "gloss": "за Амарију"
+    },
+    {
+      "surface": "יהוחנן",
+      "gloss": "Јехоханан"
+    }
+  ],
+  "timestamp": "2026-09-05T14:32:18.647514016Z",
+  "model": "glm-5.3"
+}

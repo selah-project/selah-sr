@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 12:2",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "И рекоше: Зар само с Мошеом говори Јахве? Зар не говори и с нама? И чу Јахве.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "и рекоше"
+    },
+    {
+      "surface": "הרק",
+      "gloss": "зар"
+    },
+    {
+      "surface": "אך",
+      "gloss": "само"
+    },
+    {
+      "surface": "במשה",
+      "gloss": "с Мошеом"
+    },
+    {
+      "surface": "дבר",
+      "gloss": "говори"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "зар не"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "с нама"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говори"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "и чу"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-09-05T10:33:48.819821612Z",
+  "model": "glm-5.3"
+}

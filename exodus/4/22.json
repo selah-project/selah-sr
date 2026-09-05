@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 4:22",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "И реци Фараону: овако рече Јахве: син мој, првенац мој ⟨је⟩ Израел.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "И реци"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Фараону"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "—"
+    },
+    {
+      "surface": "кхо\/כה",
+      "gloss": "овако"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "בני",
+      "gloss": "син мој"
+    },
+    {
+      "surface": "בכרי",
+      "gloss": "првенац мој"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израел"
+    }
+  ],
+  "timestamp": "2026-09-05T10:00:13.888078963Z",
+  "model": "glm-5.3"
+}

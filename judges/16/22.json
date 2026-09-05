@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 16:22",
+  "book": "judges",
+  "lang": "sr",
+  "chapter": 16,
+  "translation": "И поче коса главе његове да расте, као што беше обријан.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "и поче"
+    },
+    {
+      "surface": "שער",
+      "gloss": "коса"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "главе његове"
+    },
+    {
+      "surface": "לצמח",
+      "gloss": "да расте"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "као што"
+    },
+    {
+      "surface": "גלח",
+      "gloss": "беше обријан"
+    }
+  ],
+  "timestamp": "2026-09-05T11:12:56.444297131Z",
+  "model": "glm-5.3"
+}

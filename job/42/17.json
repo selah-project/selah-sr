@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 42:17",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 42,
+  "translation": "И умре Ијов, стар и ⟨пун⟩ данâ.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "И умре"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ијов"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "стар"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "и сит"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "данâ"
+    }
+  ],
+  "timestamp": "2026-09-05T14:05:40.920811851Z",
+  "model": "glm-5.3"
+}

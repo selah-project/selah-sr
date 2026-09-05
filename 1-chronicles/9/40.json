@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 9:40",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "А син Јехонатанов ⟨бејаше⟩ Мерив-Баал; и Мерив-Баал роди ⟨את⟩ Миху.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "а син"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Јехонатанов"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "Мерив-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Баал"
+    },
+    {
+      "surface": "ומרי",
+      "gloss": "и Мерив-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Баал"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Миху"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Миху"
+    }
+  ],
+  "timestamp": "2026-09-05T14:37:33.328745334Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 29:11",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 29,
+  "translation": "Јер ја знам ⟨את⟩ намере које ја смишљам о вама, изрека Јахве: намере мира, а не зла, да вам дам будућност и наду.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ја"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "знам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "намере"
+    },
+    {
+      "surface": "המחשבת",
+      "gloss": "намере"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "које"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ја"
+    },
+    {
+      "surface": "חשב",
+      "gloss": "смишљам"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "о вама"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "изрека"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "намере"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мира"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "а не"
+    },
+    {
+      "surface": "לרעה",
+      "gloss": "зла"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "да дам"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вама"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "будућност"
+    },
+    {
+      "surface": "ותקוה",
+      "gloss": "и наду"
+    }
+  ],
+  "timestamp": "2026-09-05T12:31:09.061567751Z",
+  "model": "glm-5.3"
+}

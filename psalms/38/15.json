@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 38:15",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 38,
+  "translation": "И бејах као човек који не чује, и нема у устима његовим прекора.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "и бејах"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "као човек"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "чује"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и нема"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "у устима његовим"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "прекора"
+    }
+  ],
+  "timestamp": "2026-09-05T13:25:00.738480572Z",
+  "model": "glm-5.3"
+}

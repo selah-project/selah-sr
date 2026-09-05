@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 18:17",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "Спомен његов изгине са земље, и нема имена ⟨његовог⟩ на лицу напоља.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "спомен његов"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "изгине"
+    },
+    {
+      "surface": "מני",
+      "gloss": "са"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земље"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "שם",
+      "gloss": "име"
+    },
+    {
+      "surface": "לו",
+      "gloss": "његов"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицу"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "напоља"
+    }
+  ],
+  "timestamp": "2026-09-05T13:59:09.783502791Z",
+  "model": "glm-5.3"
+}

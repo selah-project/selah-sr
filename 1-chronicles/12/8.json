@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 12:8",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "и Јоела, и Завадјаху, синови Јерохамови, из Гедора.",
+  "tokens": [
+    {
+      "surface": "ויועאלה",
+      "gloss": "и Јоела"
+    },
+    {
+      "surface": "וזבדיה",
+      "gloss": "и Завадјаху"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "Јерохамови"
+    },
+    {
+      "surface": "מן",
+      "gloss": "из"
+    },
+    {
+      "surface": "הגדור",
+      "gloss": "Гедора"
+    }
+  ],
+  "timestamp": "2026-09-05T14:37:52.730692102Z",
+  "model": "glm-5.3"
+}

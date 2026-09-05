@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 3:23",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "И измолих милост од Јахвеа у време оно говорећи:",
+  "tokens": [
+    {
+      "surface": "ואתחנן",
+      "gloss": "измолих милост"
+    },
+    {
+      "surface": "אל",
+      "gloss": "од"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "у време"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "оно"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорећи"
+    }
+  ],
+  "timestamp": "2026-09-05T10:43:49.997341361Z",
+  "model": "glm-5.3"
+}

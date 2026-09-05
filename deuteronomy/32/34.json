@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 32:34",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 32,
+  "translation": "Није ли то скупљено код мене, запечаћено у ризницама мојим?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Није ли"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "то"
+    },
+    {
+      "surface": "כמס",
+      "gloss": "скупљено"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "код мене"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "запечаћено"
+    },
+    {
+      "surface": "באוצרתי",
+      "gloss": "у ризницама мојим"
+    }
+  ],
+  "timestamp": "2026-09-05T15:15:27.955728896Z",
+  "model": "glm-5.3"
+}

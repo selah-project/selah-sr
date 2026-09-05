@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 3:9",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Загради путеве моје тесним камењем, стазе моје искриви.",
+  "tokens": [
+    {
+      "surface": "גדר",
+      "gloss": "Загради"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "путеве моје"
+    },
+    {
+      "surface": "בגזית",
+      "gloss": "тесним камењем"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "стазе моје"
+    },
+    {
+      "surface": "עוה",
+      "gloss": "искриви"
+    }
+  ],
+  "timestamp": "2026-09-05T14:09:14.803637606Z",
+  "model": "glm-5.3"
+}

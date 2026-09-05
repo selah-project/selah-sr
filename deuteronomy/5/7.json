@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 5:7",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Неће бити теби богова других на лицу мојему.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ће бити"
+    },
+    {
+      "surface": "לך",
+      "gloss": "теби"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "богова"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "других"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицу мојему"
+    }
+  ],
+  "timestamp": "2026-09-05T10:44:57.620086832Z",
+  "model": "glm-5.3"
+}

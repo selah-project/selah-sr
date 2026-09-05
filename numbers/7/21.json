@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 7:21",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "један јунац, син стоке, један ован, једно јагње, син године своје, за жртву паљеницу.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "јунац"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "један"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "стоке"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ован"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "један"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "јагње"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "једно"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "године своје"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "за жртву паљеницу"
+    }
+  ],
+  "timestamp": "2026-09-05T10:30:26.250505176Z",
+  "model": "glm-5.3"
+}

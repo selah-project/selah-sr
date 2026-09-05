@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 26:26",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 26,
+  "translation": "Покрива се мржња преваром, откриће се злоћа његова у скупу.",
+  "tokens": [
+    {
+      "surface": "תכסה",
+      "gloss": "покрива се"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "мржња"
+    },
+    {
+      "surface": "במשאון",
+      "gloss": "преваром"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "откриће се"
+    },
+    {
+      "surface": "רעתו",
+      "gloss": "злоћа његова"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "у скупу"
+    }
+  ],
+  "timestamp": "2026-09-05T13:52:42.163733895Z",
+  "model": "glm-5.3"
+}

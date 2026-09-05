@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 2:16",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "И заповеди Јахве Елохим човеку говорећи: са сваког дрвета врта једи — јести ћеш.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "и заповеди"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "על",
+      "gloss": "човеку"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "човеку"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорећи"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "са сваког"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "дрвета"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "врта"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "једи"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "јести ћеш"
+    }
+  ],
+  "timestamp": "2026-09-05T09:39:13.568849020Z",
+  "model": "glm-5.3"
+}

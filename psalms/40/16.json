@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 40:16",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 40,
+  "translation": "Нек опусте због срамоте своје они што ми говоре: аха, аха!",
+  "tokens": [
+    {
+      "surface": "ישמו",
+      "gloss": "опусте"
+    },
+    {
+      "surface": "על",
+      "gloss": "због"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "последице"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "срамоте своје"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "они што говоре"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мене"
+    },
+    {
+      "surface": "האח",
+      "gloss": "аха"
+    },
+    {
+      "surface": "האח",
+      "gloss": "аха"
+    }
+  ],
+  "timestamp": "2026-09-05T13:25:21.561902166Z",
+  "model": "glm-5.3"
+}

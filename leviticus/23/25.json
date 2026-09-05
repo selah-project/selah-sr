@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 23:25",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "Никакав посао службе нећете чинити, и принесћете огњену жртву Јахвеу.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "никакав"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "посао"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "службе"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нећете"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "чинити"
+    },
+    {
+      "surface": "והקרבתם",
+      "gloss": "и принесћете"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "огњену жртву"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Јахвеу"
+    }
+  ],
+  "timestamp": "2026-09-05T10:26:11.837593575Z",
+  "model": "glm-5.3"
+}

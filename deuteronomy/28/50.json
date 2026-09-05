@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "deuteronomy 28:50",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "народ жестока лица, који неће поштедети лице старца, ни младићу неће показати милост.",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "народ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "жестока"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "лица"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "поштедети"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "лице"
+    },
+    {
+      "surface": "לזקן",
+      "gloss": "старца"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "ни младићу"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "показати милост"
+    }
+  ],
+  "timestamp": "2026-09-05T10:55:11.788757391Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 55:8",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 55,
+  "translation": "Ено, далеко бих одлутао, ноћио у пустињи. Села.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ено"
+    },
+    {
+      "surface": "ארחיק",
+      "gloss": "далеко"
+    },
+    {
+      "surface": "נדод",
+      "gloss": "бих одлутао"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "ноћио"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "у пустињи"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Села"
+    }
+  ],
+  "timestamp": "2026-09-05T13:27:22.288789490Z",
+  "model": "glm-5.3"
+}

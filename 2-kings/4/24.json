@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-kings 4:24",
+  "book": "2-kings",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "И опреми магарицу и рече слуги својему: „Води, и иди; не кочи ми јахање, осим ако ти рекнем.“",
+  "tokens": [
+    {
+      "surface": "ותחבש",
+      "gloss": "опреми"
+    },
+    {
+      "surface": "האתון",
+      "gloss": "магарицу"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "אל",
+      "gloss": "слози"
+    },
+    {
+      "surface": "נערה",
+      "gloss": "слуги својему"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "води"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "и иди"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעצר",
+      "gloss": "кочи"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "לרכב",
+      "gloss": "јахање"
+    },
+    {
+      "surface": "כי",
+      "gloss": "осим"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "рекнем"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    }
+  ],
+  "timestamp": "2026-09-05T11:51:25.807662117Z",
+  "model": "glm-5.3"
+}

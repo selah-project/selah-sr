@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 15:11",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 15,
+  "translation": "Шеол и Авадон стоје наспрам Јахвеа — а камоли срца синова људских!",
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "Шеол"
+    },
+    {
+      "surface": "ואבדון",
+      "gloss": "и Авадон"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "наспрам"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "אף",
+      "gloss": "а"
+    },
+    {
+      "surface": "כי",
+      "gloss": "камоли"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "срца"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синова"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "људских"
+    }
+  ],
+  "timestamp": "2026-09-05T13:49:25.036013904Z",
+  "model": "glm-5.3"
+}

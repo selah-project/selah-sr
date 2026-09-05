@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 31:19",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 31,
+  "translation": "Руке своје пружи на вретено, и дланце своје држе предиво.",
+  "tokens": [
+    {
+      "surface": "ידיה",
+      "gloss": "руке своје"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "пружи"
+    },
+    {
+      "surface": "בכישור",
+      "gloss": "на вретено"
+    },
+    {
+      "surface": "וכפיה",
+      "gloss": "и дланце своје"
+    },
+    {
+      "surface": "תמכו",
+      "gloss": "држе"
+    },
+    {
+      "surface": "פלך",
+      "gloss": "предиво"
+    }
+  ],
+  "timestamp": "2026-09-05T13:54:30.284833552Z",
+  "model": "glm-5.3"
+}

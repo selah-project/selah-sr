@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 20:22",
+  "book": "1-samuel",
+  "lang": "sr",
+  "chapter": 20,
+  "translation": "А ако овако кажем младићу: ето, стреле су даље од тебе — иди, јер послао те Јахве.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "а ако"
+    },
+    {
+      "surface": "כה",
+      "gloss": "овако"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "кажем"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "младићу"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ето"
+    },
+    {
+      "surface": "החצים",
+      "gloss": "стреле"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "од тебе"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "даље"
+    },
+    {
+      "surface": "לך",
+      "gloss": "иди"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "שלחך",
+      "gloss": "послао те"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-09-05T11:21:44.563929889Z",
+  "model": "glm-5.3"
+}

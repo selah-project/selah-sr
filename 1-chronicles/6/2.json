@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 6:2",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "И ово су имена синова Гершомових: Ливни и Шимеи.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "И ово"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "су имена"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синова"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "Гершомових"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "Ливни"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "и Шимеи"
+    }
+  ],
+  "timestamp": "2026-09-05T14:35:44.523610871Z",
+  "model": "glm-5.3"
+}

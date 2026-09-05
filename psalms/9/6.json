@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 9:6",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "Дерну народе, погиби сте нечести; име им избрише ⟨сав⟩ до века и довека.",
+  "tokens": [
+    {
+      "surface": "גערת",
+      "gloss": "Дерну"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "народе"
+    },
+    {
+      "surface": "אבדת",
+      "gloss": "погиби сте"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "нечести"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "име им"
+    },
+    {
+      "surface": "מחית",
+      "gloss": "избрише"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "до века"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и довека"
+    }
+  ],
+  "timestamp": "2026-09-05T13:18:04.189801578Z",
+  "model": "glm-5.3"
+}

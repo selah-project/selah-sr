@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 10:21",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "Усне праведника пасу многе, а луди у недостатку срца умиру.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "Усне"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "праведника"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "пасу"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "многе"
+    },
+    {
+      "surface": "ואוילים",
+      "gloss": "а луди"
+    },
+    {
+      "surface": "בחסר",
+      "gloss": "у недостатку"
+    },
+    {
+      "surface": "לב",
+      "gloss": "срца"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "умиру"
+    }
+  ],
+  "timestamp": "2026-09-05T13:48:18.233387051Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 7:34",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "И синови Шемера: Ахи, и Роха, и Јехува, и Арам.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "И синови"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "Шемера"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "Ахи"
+    },
+    {
+      "surface": "ורוהגה",
+      "gloss": "и Роха"
+    },
+    {
+      "surface": "יחבה",
+      "gloss": "и Јехува"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "и Арам"
+    }
+  ],
+  "timestamp": "2026-09-05T14:36:28.745800719Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 10:15",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "И над војском племена синова Јисасхара ⟨беше⟩ Нетанел син Цуара.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "И над"
+    },
+    {
+      "surface": "цбא",
+      "gloss": "",
+      "comment": ""
+    },
+    {
+      "surface": "מטה",
+      "gloss": "племена"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синова"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Јисасхара"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "⟨беше⟩ Нетанел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "Цуара"
+    }
+  ],
+  "timestamp": "2026-09-05T10:31:31.824245640Z",
+  "model": "glm-5.3"
+}

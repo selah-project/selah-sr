@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 5:8",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Међутим, ја тражићу Ела, и пред Елохим ставићу своју реч.",
+  "tokens": [
+    {
+      "surface": "אולם",
+      "gloss": "међутим"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "тражићу"
+    },
+    {
+      "surface": "אל",
+      "gloss": "пед"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ела"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и пред"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "ставићу"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "своју реч"
+    }
+  ],
+  "timestamp": "2026-09-05T13:56:34.102529720Z",
+  "model": "glm-5.3"
+}

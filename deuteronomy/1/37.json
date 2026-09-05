@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 1:37",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "И на мене се разгневи Јахве због вас говорећи: и ти нећеш ући онамо.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "בי",
+      "gloss": "на мене"
+    },
+    {
+      "surface": "התאנף",
+      "gloss": "разгневи се"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "בגללכם",
+      "gloss": "због вас"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорећи"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "ћеш ући"
+    },
+    {
+      "surface": "שם",
+      "gloss": "онамо"
+    }
+  ],
+  "timestamp": "2026-09-05T10:43:42.711469521Z",
+  "model": "glm-5.3"
+}

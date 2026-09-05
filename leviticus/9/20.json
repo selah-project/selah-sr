@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 9:20",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "И метнуше ⟨את⟩ масноће на прса, и накади ⟨את⟩ масноће на жртвеник.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "И метнуше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "масноће"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "масноће"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "החזות",
+      "gloss": "прса"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "и накади"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "масноће"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "на жртвеник"
+    }
+  ],
+  "timestamp": "2026-09-05T10:19:05.313715247Z",
+  "model": "glm-5.3"
+}

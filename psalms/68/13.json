@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 68:13",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 68,
+  "translation": "Краљеви војски бежаше, бежаше, а она што борави у дому дели плен.",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "Краљеви"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "војски"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "бежаше"
+    },
+    {
+      "surface": "ידדון",
+      "gloss": "бежаше"
+    },
+    {
+      "surface": "ונות",
+      "gloss": "а она што борави"
+    },
+    {
+      "surface": "בית",
+      "gloss": "у дому"
+    },
+    {
+      "surface": "תחלק",
+      "gloss": "дели"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "плен"
+    }
+  ],
+  "timestamp": "2026-09-05T17:10:20.657173352Z",
+  "model": "glm-5.3"
+}

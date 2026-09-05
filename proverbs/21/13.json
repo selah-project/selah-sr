@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 21:13",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "Ко зачепи уво од вапаја сиромаха — и сам ће зовнути, и неће му се одговорити.",
+  "tokens": [
+    {
+      "surface": "אטם",
+      "gloss": "зачепи"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "уво"
+    },
+    {
+      "surface": "מזעקת",
+      "gloss": "од вапаја"
+    },
+    {
+      "surface": "דל",
+      "gloss": "сиромаха"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "сам"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "зовути"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "одговори"
+    }
+  ],
+  "timestamp": "2026-09-05T13:50:49.405285840Z",
+  "model": "glm-5.3"
+}

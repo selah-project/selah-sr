@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 105:44",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 105,
+  "translation": "И даде им земље народа, и труд племена наследише.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "и даде"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "ארצות",
+      "gloss": "земље"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "народа"
+    },
+    {
+      "surface": "ויעמל... ועמל",
+      "gloss": "и труд"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "племена"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "наследише"
+    }
+  ],
+  "timestamp": "2026-09-05T13:37:21.932796021Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 5:13",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "И пророци ће постати ветар, и речи нема у њима; тако ће се њима учинити.",
+  "tokens": [
+    {
+      "surface": "והנביאים",
+      "gloss": "и пророци"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "постаће"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "ветар"
+    },
+    {
+      "surface": "והדבר",
+      "gloss": "и реч"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "у њима"
+    },
+    {
+      "surface": "כה",
+      "gloss": "тако"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "учиниће се"
+    },
+    {
+      "surface": "להם",
+      "gloss": "њима"
+    }
+  ],
+  "timestamp": "2026-09-05T12:21:45.493013313Z",
+  "model": "glm-5.3"
+}

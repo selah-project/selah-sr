@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "genesis 24:38",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "не, него ћеш отићи кући оца мојега и породици мојој, и узећеш жену за сина мојега.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "בית",
+      "gloss": "кући"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "оца мојега"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ћеш отићи"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и к"
+    },
+    {
+      "surface": "משפחתי",
+      "gloss": "породици мојој"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "и узећеш"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "жену"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "за сина мојега"
+    }
+  ],
+  "timestamp": "2026-09-05T09:47:14.335813649Z",
+  "model": "glm-5.3"
+}

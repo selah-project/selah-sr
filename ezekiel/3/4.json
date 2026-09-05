@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 3:4",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "И рече ми: сине човечји, иди, уђи дому Израиљевом и говори речима мојим њима.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сине"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човечји"
+    },
+    {
+      "surface": "לך",
+      "gloss": "иди"
+    },
+    {
+      "surface": "בא",
+      "gloss": "уђи"
+    },
+    {
+      "surface": "אל",
+      "gloss": "према"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дому"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљевом"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "и говори"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "речима мојим"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "њима"
+    }
+  ],
+  "timestamp": "2026-09-05T12:43:35.625110191Z",
+  "model": "glm-5.3"
+}

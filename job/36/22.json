@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 36:22",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 36,
+  "translation": "Ено, Ел уздиже се силом својом — ко је као Он, учитељ?",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Ено"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "ישגיב",
+      "gloss": "уздиже се"
+    },
+    {
+      "surface": "בכחו",
+      "gloss": "силом својом"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ко"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "као Он"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "учитељ"
+    }
+  ],
+  "timestamp": "2026-09-05T14:03:32.512260152Z",
+  "model": "glm-5.3"
+}

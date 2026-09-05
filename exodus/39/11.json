@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 39:11",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 39,
+  "translation": "А ред други: нофех, сапир и јахалом.",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "а ред"
+    },
+    {
+      "surface": "השני",
+      "gloss": "други"
+    },
+    {
+      "surface": "נפך",
+      "gloss": "нофех"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "сапир"
+    },
+    {
+      "surface": "ויהלם",
+      "gloss": "и јахалом"
+    }
+  ],
+  "timestamp": "2026-09-05T10:14:10.164381454Z",
+  "model": "glm-5.3"
+}

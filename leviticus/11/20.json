@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 11:20",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "Сву ситину што се роји од птица, што ходи на четири ⟨ноге⟩ — одвратност је то за вас.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "сву"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "ситину што се роји"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "од птица"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "што ходи"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "четири"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "одвратност"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "то ⟨је⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "за вас"
+    }
+  ],
+  "timestamp": "2026-09-05T10:19:05.361222049Z",
+  "model": "glm-5.3"
+}

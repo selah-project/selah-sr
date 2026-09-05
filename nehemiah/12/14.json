@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 12:14",
+  "book": "nehemiah",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "за Малухија Јонатан, за Шеванију Јосеф;",
+  "tokens": [
+    {
+      "surface": "למלוכי",
+      "gloss": "за Малухија"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Јонатан"
+    },
+    {
+      "surface": "לשבניה",
+      "gloss": "за Шеванију"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Јосеф"
+    }
+  ],
+  "timestamp": "2026-09-05T14:32:18.647791030Z",
+  "model": "glm-5.3"
+}

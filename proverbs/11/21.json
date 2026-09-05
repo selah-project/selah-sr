@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 11:21",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "Рука уз руку — неће ⟨се⟩ поштедети зло, а потомство праведних спасиће ⟨се⟩.",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "Рука"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "уз руку"
+    },
+    {
+      "surface": "לא",
+      "gloss": "неће"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "поштедети"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зло"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "а потомство"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "праведних"
+    },
+    {
+      "surface": "נמלט",
+      "gloss": "спасиће се"
+    }
+  ],
+  "timestamp": "2026-09-05T16:01:07.856724438Z",
+  "model": "glm-5.3"
+}

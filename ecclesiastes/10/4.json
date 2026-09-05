@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 10:4",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "Ако се дух владара дигне на те, место своје не напуштај, јер благост умирује прекршаје велике.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "дух"
+    },
+    {
+      "surface": "המושל",
+      "gloss": "владара"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "дигне се"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "на те"
+    },
+    {
+      "surface": "מקומך",
+      "gloss": "место своје"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "напуштај"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "благост"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "умирује"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "прекршаје"
+    },
+    {
+      "surface": "גדולים",
+      "gloss": "велике"
+    }
+  ],
+  "timestamp": "2026-09-05T14:12:53.715750695Z",
+  "model": "glm-5.3"
+}

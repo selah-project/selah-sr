@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 29:10",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 29,
+  "translation": "Јахве уз потоп седе, и седе Јахве краљ довека.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "уз потоп"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "седе"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "и седе"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "краљ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "довека"
+    }
+  ],
+  "timestamp": "2026-09-05T13:20:20.865854291Z",
+  "model": "glm-5.3"
+}

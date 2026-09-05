@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 28:26",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "И биће леш твој за храну свим птицама небеса и зверима земље, и нема ⟨ко⟩ да одагне.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "и биће"
+    },
+    {
+      "surface": "נבלתך",
+      "gloss": "леш твој"
+    },
+    {
+      "surface": "למאכל",
+      "gloss": "за храну"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "свим"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "птицама"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небеса"
+    },
+    {
+      "surface": "ולבהמת",
+      "gloss": "и зверима"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земље"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и нема"
+    },
+    {
+      "surface": "מחריד",
+      "gloss": "да одагне"
+    }
+  ],
+  "timestamp": "2026-09-05T15:14:54.827816463Z",
+  "model": "glm-5.3"
+}

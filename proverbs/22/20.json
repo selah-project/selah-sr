@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 22:20",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "Нисам ли ти написао тројицом ⟨одломака⟩ у саветима и знању?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Нисам ли"
+    },
+    {
+      "surface": "כתבתי",
+      "gloss": "написао"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "тројицом ⟨одломака⟩"
+    },
+    {
+      "surface": "במועצת",
+      "gloss": "у саветима"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "и знању"
+    }
+  ],
+  "timestamp": "2026-09-05T13:51:24.652232542Z",
+  "model": "glm-5.3"
+}

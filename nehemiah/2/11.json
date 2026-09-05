@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 2:11",
+  "book": "nehemiah",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "И дођох у Јерушалајм и бих тамо дане три.",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "и дођох"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Јерушалајм"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "и бих"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тамо"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дане"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "три"
+    }
+  ],
+  "timestamp": "2026-09-05T14:29:26.711392318Z",
+  "model": "glm-5.3"
+}

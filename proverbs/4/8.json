@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 4:8",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "Узвиси је, и уздигнуће те; почастиће те кад је пригрлиш.",
+  "tokens": [
+    {
+      "surface": "סלסלה",
+      "gloss": "Узвиси је"
+    },
+    {
+      "surface": "ותרוממך",
+      "gloss": "и уздигнуће те"
+    },
+    {
+      "surface": "תכבדך",
+      "gloss": "почастиће те"
+    },
+    {
+      "surface": "כי",
+      "gloss": "кад"
+    },
+    {
+      "surface": "תחבקנה",
+      "gloss": "пригрлиш је"
+    }
+  ],
+  "timestamp": "2026-09-05T13:46:20.169191167Z",
+  "model": "glm-5.3"
+}

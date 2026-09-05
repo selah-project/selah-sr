@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 1:10",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "Јахве, Елохим ваш, умножи ⟨את⟩ вас — и ено вас данас као звезде небеса за мноштво.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Елохим ваш"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "умножи"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ вас",
+      "marks": "вас"
+    },
+    {
+      "surface": "והנכם",
+      "gloss": "и ено вас"
+    },
+    {
+      "surface": "היום",
+      "gloss": "данас"
+    },
+    {
+      "surface": "ככוכבי",
+      "gloss": "као звезде"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небеса"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "за мноштво"
+    }
+  ],
+  "timestamp": "2026-09-05T10:43:21.014559674Z",
+  "model": "glm-5.3"
+}

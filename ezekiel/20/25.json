@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 20:25",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 20,
+  "translation": "И ја сам им дао наредбе што нису добре и одредбе у којима се не живи.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "И још"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "дах"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "חקים",
+      "gloss": "наредбе"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "добре"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "и одредбе"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "живи се"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "у њима"
+    }
+  ],
+  "timestamp": "2026-09-05T12:49:11.169590216Z",
+  "model": "glm-5.3"
+}

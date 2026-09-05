@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 7:27",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Свака душа која буде јела икакав крв — биће истребљена та душа између народа својих.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Свака"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "душа"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "која"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "буде јела"
+    },
+    {
+      "surface": "כל",
+      "gloss": "икаакв"
+    },
+    {
+      "surface": "דם",
+      "gloss": "крв"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "биће истребљена"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "душа"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "та"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "између народа својих"
+    }
+  ],
+  "timestamp": "2026-09-05T10:17:12.903711640Z",
+  "model": "glm-5.3"
+}

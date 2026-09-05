@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "lamentations 3:47",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Ужас и јама беху нам, пропаст и слом.",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "ужас"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "и јама"
+    },
+    {
+      "surface": "היה",
+      "gloss": "беху"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "нам"
+    },
+    {
+      "surface": "השאת",
+      "gloss": "пропаст"
+    },
+    {
+      "surface": "והשבר",
+      "gloss": "и слом"
+    }
+  ],
+  "timestamp": "2026-09-05T14:09:06.765719063Z",
+  "model": "glm-5.3"
+}

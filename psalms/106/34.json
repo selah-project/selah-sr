@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 106:34",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 106,
+  "translation": "Не истребише ⟨את⟩ народâ које им рече Јахве ⟨да истребе⟩,",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "השמידו",
+      "gloss": "истребише"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "народâ"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "народâ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "које"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    }
+  ],
+  "timestamp": "2026-09-05T13:37:43.213213026Z",
+  "model": "glm-5.3"
+}

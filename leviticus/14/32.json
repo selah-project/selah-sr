@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 14:32",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "Ово је Тора за онога у ком је рана губе, коме рука не достиже ⟨до⟩ очишћења његовог.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Ово"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Тора"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "за онога"
+    },
+    {
+      "surface": "בו",
+      "gloss": "у ком"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "рана"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "губе"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "коме"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "достигне"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "рука"
+    },
+    {
+      "surface": "בטהרתו",
+      "gloss": "очишћење његово"
+    }
+  ],
+  "timestamp": "2026-09-05T10:20:41.906259089Z",
+  "model": "glm-5.3"
+}

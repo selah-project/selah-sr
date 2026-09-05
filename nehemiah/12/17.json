@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 12:17",
+  "book": "nehemiah",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "Од Авије, Зихри; од Минјамина; од Моадије, Пилтај;",
+  "tokens": [
+    {
+      "surface": "לאביה",
+      "gloss": "Од Авије"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "Зихри"
+    },
+    {
+      "surface": "למנימין",
+      "gloss": "од Минјамина"
+    },
+    {
+      "surface": "למועדיה",
+      "gloss": "од Моадије"
+    },
+    {
+      "surface": "פלטי",
+      "gloss": "Пилтај"
+    }
+  ],
+  "timestamp": "2026-09-05T14:32:40.449661448Z",
+  "model": "glm-5.3"
+}

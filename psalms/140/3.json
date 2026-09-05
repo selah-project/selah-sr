@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 140:3",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 140,
+  "translation": "који смислише зла у срцу, сваки дан спремају ратове.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "חשבו",
+      "gloss": "смислише"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "зла"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "у срцу"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сваки"
+    },
+    {
+      "surface": "יום",
+      "gloss": "дан"
+    },
+    {
+      "surface": "יגורו",
+      "gloss": "спремају"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "ратове"
+    }
+  ],
+  "timestamp": "2026-09-05T15:59:50.107295725Z",
+  "model": "glm-5.3"
+}

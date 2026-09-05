@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 5:6",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Ја ⟨сам⟩ Јахве, Елохим твој, који те изведе из земље Мицрајим (Египат), из дома робља.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ја"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Елохим твој"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "הוצאתיך",
+      "gloss": "изведе те"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "из земље"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрајим"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "из дома"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "робља"
+    }
+  ],
+  "timestamp": "2026-09-05T10:44:57.619932540Z",
+  "model": "glm-5.3"
+}

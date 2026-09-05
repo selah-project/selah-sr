@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 5:20",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "У гладу искупиће те од смрти, а у рату од руке мача.",
+  "tokens": [
+    {
+      "surface": "ברעב",
+      "gloss": "У гладу"
+    },
+    {
+      "surface": "פדך",
+      "gloss": "искупиће те"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "од смрти"
+    },
+    {
+      "surface": "ובמלחמה",
+      "gloss": "а у рату"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "од руке"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "мача"
+    }
+  ],
+  "timestamp": "2026-09-05T16:02:49.494095260Z",
+  "model": "glm-5.3"
+}

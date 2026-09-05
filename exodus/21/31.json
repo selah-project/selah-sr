@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 21:31",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "Ако забоде сина или забоде кћер, по овој пресуди учиниће му се.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "ако"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "забоде"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "בת",
+      "gloss": "кћер"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "забоде"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "по пресуди"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овој"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "учиниће се"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    }
+  ],
+  "timestamp": "2026-09-05T10:08:23.484854628Z",
+  "model": "glm-5.3"
+}

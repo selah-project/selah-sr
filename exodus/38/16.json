@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 38:16",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 38,
+  "translation": "Сви застори двора около ⟨беху⟩ од пређеног лана.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "сви"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "застори"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "двора"
+    },
+    {
+      "surface": "סבив",
+      "gloss": "около"
+    },
+    {
+      "surface": "שש",
+      "gloss": "лана"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "пређеног"
+    }
+  ],
+  "timestamp": "2026-09-05T10:13:52.279358299Z",
+  "model": "glm-5.3"
+}

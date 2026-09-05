@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 33:10",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 33,
+  "translation": "И говори Јахве Менашеу и народу његовом, али не послушаше.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "и говори"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Менашеу"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Менашеу"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "народу његовом"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "али не"
+    },
+    {
+      "surface": "הקשיבו",
+      "gloss": "послушаше"
+    }
+  ],
+  "timestamp": "2026-09-05T17:15:08.946853753Z",
+  "model": "glm-5.3"
+}

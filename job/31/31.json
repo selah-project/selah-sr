@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "job 31:31",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 31,
+  "translation": "Ако људи шатора мога нису рекли: „Ко да да од меса његовог — ни насите се!“",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ако"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "рекли"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "људи"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "шатора мога"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ко"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "да да"
+    },
+    {
+      "surface": "מבשרו",
+      "gloss": "од меса његовог"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "насите се"
+    }
+  ],
+  "timestamp": "2026-09-05T14:03:02.273393553Z",
+  "model": "glm-5.3"
+}

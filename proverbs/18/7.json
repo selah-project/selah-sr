@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 18:7",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "Уста лудога пропаст су његова, и усне његове замка су души његовој.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "уста"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "лудога"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "пропаст"
+    },
+    {
+      "surface": "לו",
+      "gloss": "његова"
+    },
+    {
+      "surface": "ושפתיו",
+      "gloss": "и усне његове"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "замка"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "души његовој"
+    }
+  ],
+  "timestamp": "2026-09-05T13:50:08.869778563Z",
+  "model": "glm-5.3"
+}

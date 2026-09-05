@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 113:7",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 113,
+  "translation": "Диже слабога из праха, из ђубришта подиже сиромаха.",
+  "tokens": [
+    {
+      "surface": "מקימי",
+      "gloss": "диже"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "из праха"
+    },
+    {
+      "surface": "דל",
+      "gloss": "слабога"
+    },
+    {
+      "surface": "מאשפת",
+      "gloss": "из ђубришта"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "подиже"
+    },
+    {
+      "surface": "אביון",
+      "gloss": "сиромаха"
+    }
+  ],
+  "timestamp": "2026-09-05T13:38:32.011942566Z",
+  "model": "glm-5.3"
+}

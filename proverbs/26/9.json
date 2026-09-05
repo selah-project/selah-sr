@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 26:9",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 26,
+  "translation": "Трн се диге у руку пијанице, и притча у устима безумника.",
+  "tokens": [
+    {
+      "surface": "חוח",
+      "gloss": "трн"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "се диге"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "у руку"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "пијанице"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "и притча"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "у устима"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "безумника"
+    }
+  ],
+  "timestamp": "2026-09-05T16:44:58.881400934Z",
+  "model": "glm-5.3"
+}

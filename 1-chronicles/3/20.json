@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 3:20",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "и Хашува, и Охел, и Барехја, и Хасадја, Јушав-Хесед — петоро.",
+  "tokens": [
+    {
+      "surface": "וחשבה",
+      "gloss": "и Хашува"
+    },
+    {
+      "surface": "ואהל",
+      "gloss": "и Охел"
+    },
+    {
+      "surface": "וברכיה",
+      "gloss": "и Барехја"
+    },
+    {
+      "surface": "וחסדיה",
+      "gloss": "и Хасадја"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "Јушав-"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "Хесед"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "петоро"
+    }
+  ],
+  "timestamp": "2026-09-05T14:35:02.007961952Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 4:13",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "И рече Каин Јахвеу: „Велика је кривица моја од ношења.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Каин"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Јахвеу"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеу"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "Велика"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "кривица моја"
+    },
+    {
+      "surface": "מנשא",
+      "gloss": "од ношења"
+    }
+  ],
+  "timestamp": "2026-09-05T09:39:25.741823241Z",
+  "model": "glm-5.3"
+}

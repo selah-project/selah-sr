@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 32:17",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 32,
+  "translation": "И би у дванаестој години, у петнаести ⟨дан⟩ месеца, би реч Јахве мени, говорећи:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И би"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "у дванаест"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "наестој"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "години"
+    },
+    {
+      "surface": "בחמשה",
+      "gloss": "у пет"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "наести"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "месеца"
+    },
+    {
+      "surface": "היה",
+      "gloss": "би"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "реч"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мени"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорећи"
+    }
+  ],
+  "timestamp": "2026-09-05T12:53:26.900932242Z",
+  "model": "glm-5.3"
+}

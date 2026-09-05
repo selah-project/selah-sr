@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "Лудак грли ⟨את⟩ руке своје и једе ⟨את⟩ месо своје.",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "Лудак"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "грли"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "руке своје"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "руке своје"
+    },
+    {
+      "surface": "ו אכל",
+      "gloss": "и једе"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "месо своје"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "месо своје"
+    }
+  ],
+  "timestamp": "2026-09-05T14:12:01.527477468Z",
+  "model": "glm-5.3"
+}

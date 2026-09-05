@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 19:22",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 19,
+  "translation": "Жеља човека ⟨је⟩ хесед његов; и бољи је сиромах од човека лажовa.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "Жеља"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човека"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "хесед његов"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "и бољи"
+    },
+    {
+      "surface": "רש",
+      "gloss": "сиромах"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "од човека"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "лажова"
+    }
+  ],
+  "timestamp": "2026-09-05T13:50:26.870209860Z",
+  "model": "glm-5.3"
+}

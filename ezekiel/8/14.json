@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 8:14",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "И доведе ме ⟨את⟩ на улаз врата дома Јахвеовог који је према северу, и гле — тамо седе жене плачући ⟨את⟩ Тамуза.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "И доведе"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ме"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "улаз"
+    },
+    {
+      "surface": "שער",
+      "gloss": "врата"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеовог"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који је"
+    },
+    {
+      "surface": "אל",
+      "gloss": "према"
+    },
+    {
+      "surface": "הצפונה",
+      "gloss": "северу"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и гле"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тамо"
+    },
+    {
+      "surface": "הנשים",
+      "gloss": "жене"
+    },
+    {
+      "surface": "ישבות",
+      "gloss": "седе"
+    },
+    {
+      "surface": "מבכות",
+      "gloss": "плачући"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Тамуза"
+    },
+    {
+      "surface": "התמוז",
+      "gloss": "Тамуза"
+    }
+  ],
+  "timestamp": "2026-09-05T12:45:01.040918190Z",
+  "model": "glm-5.3"
+}

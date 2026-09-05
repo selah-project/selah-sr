@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 28:25",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "Да учини ветру тежину, а воде измјери мером.",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "Да учини"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "ветру"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "тежину"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "а воде"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "измјери"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "мером"
+    }
+  ],
+  "timestamp": "2026-09-05T14:01:46.997497281Z",
+  "model": "glm-5.3"
+}

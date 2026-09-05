@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 11:9",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "А при силажењу росе ноћу на табор, силажаше ман ⟨на њу⟩.",
+  "tokens": [
+    {
+      "surface": "וברדת",
+      "gloss": "а при силажењу"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "росе"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "табор"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ноћу"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "силажаше"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ман"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "⟨на њу⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T10:33:11.197809747Z",
+  "model": "glm-5.3"
+}

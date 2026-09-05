@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 1:16",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "Јер ноге њихове к злу трче, и журе да крв пролију.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "ноге њихове"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "к злу"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "трче"
+    },
+    {
+      "surface": "וימהרу",
+      "gloss": "и журе"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "да пролију"
+    },
+    {
+      "surface": "דם",
+      "gloss": "крв"
+    }
+  ],
+  "timestamp": "2026-09-05T13:45:35.308247311Z",
+  "model": "glm-5.3"
+}

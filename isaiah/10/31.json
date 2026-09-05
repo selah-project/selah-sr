@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "isaiah 10:31",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "Побеге Мадмена; житељи Гевима дадоше се у бег.",
+  "tokens": [
+    {
+      "surface": "נדדה",
+      "gloss": "Побеге"
+    },
+    {
+      "surface": "מדמנה",
+      "gloss": "Мадмена"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "житељи"
+    },
+    {
+      "surface": "הגבים",
+      "gloss": "Гевима"
+    },
+    {
+      "surface": "העיזו",
+      "gloss": "дадоше се у бег"
+    }
+  ],
+  "timestamp": "2026-09-05T12:04:23.430978552Z",
+  "model": "glm-5.3"
+}

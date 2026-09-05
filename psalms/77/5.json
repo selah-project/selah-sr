@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 77:5",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 77,
+  "translation": "Држиш капке очију мојих; узнемирен сам и не говорим.",
+  "tokens": [
+    {
+      "surface": "אחזת",
+      "gloss": "Држиш"
+    },
+    {
+      "surface": "שמרות",
+      "gloss": "капке"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "очију мојих"
+    },
+    {
+      "surface": "נפעמתי",
+      "gloss": "узнемирен сам"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "говорим"
+    }
+  ],
+  "timestamp": "2026-09-05T13:31:02.380633915Z",
+  "model": "glm-5.3"
+}

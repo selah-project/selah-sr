@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 8:22",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "и Јишпан, и Евер, и Елиел",
+  "tokens": [
+    {
+      "surface": "וישפן",
+      "gloss": "и Јишпан"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "и Евер"
+    },
+    {
+      "surface": "ואליאל",
+      "gloss": "и Елиел"
+    }
+  ],
+  "timestamp": "2026-09-05T14:35:58.780304910Z",
+  "model": "glm-5.3"
+}

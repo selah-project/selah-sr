@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 45:11",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 45,
+  "translation": "и хранићу те ⟨את⟩ тамо, јер још пет година глади ⟨има⟩ — да не осиромашеш ти и дом твој и све што је твоје.",
+  "tokens": [
+    {
+      "surface": "וכלכלתי",
+      "gloss": "и хранићу"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тамо"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "још"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "пет"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "година"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "глади"
+    },
+    {
+      "surface": "פן",
+      "gloss": "да не"
+    },
+    {
+      "surface": "תורש",
+      "gloss": "осиромашеш"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "וביתך",
+      "gloss": "и дом твој"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и све"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "לך",
+      "gloss": "је твоје"
+    }
+  ],
+  "timestamp": "2026-09-05T09:57:10.227796051Z",
+  "model": "glm-5.3"
+}

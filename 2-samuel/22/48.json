@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "2-samuel 22:48",
+  "book": "2-samuel",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "Ел ⟨који⟩ даје освету мени и покорава народе пода мном —",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "Ел ⟨који⟩"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "даје"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "освету"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мени"
+    },
+    {
+      "surface": "ומוריד",
+      "gloss": "и покорава"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "народе"
+    },
+    {
+      "surface": "תחתני",
+      "gloss": "пода мном"
+    }
+  ],
+  "timestamp": "2026-09-05T11:37:07.763338833Z",
+  "model": "glm-5.3"
+}

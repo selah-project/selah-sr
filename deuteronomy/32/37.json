@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 32:37",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 32,
+  "translation": "И рече: где су богови њихови, стена ⟨у коју⟩ се уздаху?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אי",
+      "gloss": "где"
+    },
+    {
+      "surface": "אלהימו",
+      "gloss": "богови њихови"
+    },
+    {
+      "surface": "צור",
+      "gloss": "стена"
+    },
+    {
+      "surface": "חסיו",
+      "gloss": "уздаху се"
+    },
+    {
+      "surface": "בו",
+      "gloss": "у њ"
+    }
+  ],
+  "timestamp": "2026-09-05T10:55:43.865023690Z",
+  "model": "glm-5.3"
+}

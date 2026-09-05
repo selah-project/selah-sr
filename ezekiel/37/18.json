@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 37:18",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 37,
+  "translation": "И кад ти кажу синови народа твога говорећи: „Зар нећеш нам објавити шта ти је ово?“",
+  "tokens": [
+    {
+      "surface": "וכאשר",
+      "gloss": "и кад"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "кажу"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "народа твог"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорећи"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "зар не"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "објавиш"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "нам"
+    },
+    {
+      "surface": "מה",
+      "gloss": "шта"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ово"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    }
+  ],
+  "timestamp": "2026-09-05T12:55:58.489472850Z",
+  "model": "glm-5.3"
+}

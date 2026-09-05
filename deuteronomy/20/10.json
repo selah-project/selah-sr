@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 20:10",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 20,
+  "translation": "Када приступиш граду да се бориш против њега, понудићеш му мир.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Када"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "приступиш"
+    },
+    {
+      "surface": "אל",
+      "gloss": "граду"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "⟨град⟩"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "да се бориш"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "против њега"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "понудићеш"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "му"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "мир"
+    }
+  ],
+  "timestamp": "2026-09-05T10:50:25.351406038Z",
+  "model": "glm-5.3"
+}

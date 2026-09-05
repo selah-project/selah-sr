@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 35:20",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 35,
+  "translation": "Јер не мир говоре, и на мирне земље речи преварне смишљају.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мир"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "говоре"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "רגעי",
+      "gloss": "мирне"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земље"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "речи"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "преварне"
+    },
+    {
+      "surface": "יחשבון",
+      "gloss": "смишљају"
+    }
+  ],
+  "timestamp": "2026-09-05T13:22:31.673337389Z",
+  "model": "glm-5.3"
+}

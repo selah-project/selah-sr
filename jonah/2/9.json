@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 2:9",
+  "book": "jonah",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Чувајући таштине празнине, хесед свој напуштају.",
+  "tokens": [
+    {
+      "surface": "משמרים",
+      "gloss": "чувајући"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "таштине"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "празнине"
+    },
+    {
+      "surface": "חסדם",
+      "gloss": "хесед свој"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "напуштају"
+    }
+  ],
+  "timestamp": "2026-09-05T13:07:08.954740416Z",
+  "model": "glm-5.3"
+}

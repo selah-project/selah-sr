@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 24:2",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "И изађе она из дома његовог, и оде, и буде за човека другога.",
+  "tokens": [
+    {
+      "surface": "ויצאה",
+      "gloss": "и изађе"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "из дома његовог"
+    },
+    {
+      "surface": "והלכה",
+      "gloss": "и оде"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "и буде"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "за човека"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "другога"
+    }
+  ],
+  "timestamp": "2026-09-05T10:53:31.020123079Z",
+  "model": "glm-5.3"
+}

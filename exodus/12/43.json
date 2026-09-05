@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "exodus 12:43",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "И рече Јахве Мошеу и Ахарону: ово ⟨је⟩ наредба пасхе: сваки син туђина неће јести од ње.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошеу"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "и Ахарону"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ово"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "наредба"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "пасхе"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сваки"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "туђина"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ће јести"
+    },
+    {
+      "surface": "בו",
+      "gloss": "од ње"
+    }
+  ],
+  "timestamp": "2026-09-05T15:03:37.401978666Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 2:6",
+  "book": "1-samuel",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Јахве умртвљује и оживљује, спушта у Шеол и изводи.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ממית",
+      "gloss": "умртвљује"
+    },
+    {
+      "surface": "ומחיה",
+      "gloss": "и оживљује"
+    },
+    {
+      "surface": "מוריד",
+      "gloss": "спушта"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "у Шеол"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "и изводи"
+    }
+  ],
+  "timestamp": "2026-09-05T15:21:24.631908654Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 22:12",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "Очи Јахвеове чувају знање, а он поквари речи издајице.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Очи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеове"
+    },
+    {
+      "surface": "נצרו",
+      "gloss": "чувају"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "знање"
+    },
+    {
+      "surface": "ויסלף",
+      "gloss": "а поквари"
+    },
+    {
+      "surface": "дбрי",
+      "gloss": "речи"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "издајице"
+    }
+  ],
+  "timestamp": "2026-09-05T13:50:57.372232645Z",
+  "model": "glm-5.3"
+}

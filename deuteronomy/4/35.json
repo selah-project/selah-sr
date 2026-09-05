@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 4:35",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "Теби је показано да знаш да је Јахве ⟨он⟩ ⟨је⟩ Елохим — нема ⟨другог⟩ осим њега.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Теби"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "је показано"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "да знаш"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨он⟩"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨је⟩ Елохим"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "⟨другог⟩"
+    },
+    {
+      "surface": "мלבדו",
+      "gloss": "осим њега"
+    }
+  ],
+  "timestamp": "2026-09-05T10:45:52.872407282Z",
+  "model": "glm-5.3"
+}

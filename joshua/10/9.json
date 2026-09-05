@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 10:9",
+  "book": "joshua",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "И дође к њима Јехошуа изненада — сву ноћ се попе из Гилгала.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "И дође"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "к њима"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Јехошуа"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "изненада"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сву"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ноћ"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "се попе"
+    },
+    {
+      "surface": "מן",
+      "gloss": "из"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Гилгала"
+    }
+  ],
+  "timestamp": "2026-09-05T11:00:11.966079877Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 1:6",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "И четири лица ⟨има⟩ свако, и четири крила ⟨има⟩ свако од њих.",
+  "tokens": [
+    {
+      "surface": "וארבעה",
+      "gloss": "и четири"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "лица"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "свако"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "и четири"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "крила"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "свако"
+    },
+    {
+      "surface": "להם",
+      "gloss": "од њих"
+    }
+  ],
+  "timestamp": "2026-09-05T12:41:14.276711616Z",
+  "model": "glm-5.3"
+}

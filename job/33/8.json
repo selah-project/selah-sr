@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 33:8",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 33,
+  "translation": "Заиста, рекао ⟨си⟩ у ушима мојим, и глас речи чујем.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Заиста"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "рекао си"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "у ушима мојим"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "и глас"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "речи"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "чујем"
+    }
+  ],
+  "timestamp": "2026-09-05T14:03:11.490596663Z",
+  "model": "glm-5.3"
+}

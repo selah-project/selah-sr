@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 3:1",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Сине мој, Тору моју не заборави, а заповести моје нека чува срце твоје.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сине мој"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Тору моју"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "заборави"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "а заповести моје"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "нека чува"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "срце твоје"
+    }
+  ],
+  "timestamp": "2026-09-05T13:46:19.000139041Z",
+  "model": "glm-5.3"
+}

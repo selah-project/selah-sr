@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 29:4",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 29,
+  "translation": "И доведе свештенике и Левите, и сабра их на источни трг.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "И доведе"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "свештенике"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "свештенике"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Левите"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Левите"
+    },
+    {
+      "surface": "ויאספם",
+      "gloss": "и сабра их"
+    },
+    {
+      "surface": "לרחוב",
+      "gloss": "на трг"
+    },
+    {
+      "surface": "המזרח",
+      "gloss": "источни"
+    }
+  ],
+  "timestamp": "2026-09-05T16:19:21.429821423Z",
+  "model": "glm-5.3"
+}

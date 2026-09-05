@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 13:7",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "За племе Ишасхара (Исахара): Игал, син Јосефов.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "за племе"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Ишасхара"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "Игал"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Јосефов"
+    }
+  ],
+  "timestamp": "2026-09-05T10:32:41.196120983Z",
+  "model": "glm-5.3"
+}

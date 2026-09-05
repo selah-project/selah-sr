@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 36:1",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 36,
+  "translation": "И још додаде Елиху и рече:",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "и још додаде"
+    },
+    {
+      "surface": "אליהוא",
+      "gloss": "Елиху"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    }
+  ],
+  "timestamp": "2026-09-05T14:03:49.533501458Z",
+  "model": "glm-5.3"
+}

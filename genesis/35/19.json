@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 35:19",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 35,
+  "translation": "И умре Рахела (Рахиља), и би сахрањена на путу ка Ефрати — то јест Бет Лехем.",
+  "tokens": [
+    {
+      "surface": "ותמת",
+      "gloss": "И умре"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Рахела"
+    },
+    {
+      "surface": "ותקבר",
+      "gloss": "и би сахрањена"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "на путу"
+    },
+    {
+      "surface": "אפרתה",
+      "gloss": "ка Ефрати"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "то јест"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Лехем"
+    }
+  ],
+  "timestamp": "2026-09-05T09:52:53.309173444Z",
+  "model": "glm-5.3"
+}

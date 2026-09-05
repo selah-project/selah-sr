@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 28:23",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "И начини на хошену две табе од злата, и стави ⟨את⟩ две табе на два краја хошена.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "И начини"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "хошену"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "две"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "табе"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "од злата"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "и стави"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "две табе"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "две"
+    },
+    {
+      "surface": "הטבעות",
+      "gloss": "табе"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "שני",
+      "gloss": "два"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "краја"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "хошена"
+    }
+  ],
+  "timestamp": "2026-09-05T15:04:04.616011645Z",
+  "model": "glm-5.3"
+}

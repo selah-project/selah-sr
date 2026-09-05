@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 44:27",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 44,
+  "translation": "И рече слуга твој, отац мој, нама: Ви знате да је двојицу родила мене жена моја.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "слуга твој"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "отац мој"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "нама"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "Ви"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "знате"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "двојицу"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "је родила"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мене"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "жена моја"
+    }
+  ],
+  "timestamp": "2026-09-05T09:57:01.679736589Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 1:2",
+  "book": "song-of-songs",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "Нека ме љуби љубавима из уста његових, јер су љубави твоје боље од вина.",
+  "tokens": [
+    {
+      "surface": "ישקני",
+      "gloss": "Нека ме љуби"
+    },
+    {
+      "surface": "מנשיקות",
+      "gloss": "љубавима"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "из уста његових"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "боље"
+    },
+    {
+      "surface": "דדיך",
+      "gloss": "су љубави твоје"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "од вина"
+    }
+  ],
+  "timestamp": "2026-09-05T14:06:21.826187747Z",
+  "model": "glm-5.3"
+}

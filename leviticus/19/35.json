@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 19:35",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 19,
+  "translation": "Не чините неправду у суду, у мери, у тегу и у месури.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "чините"
+    },
+    {
+      "surface": "עול",
+      "gloss": "неправду"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "у суду"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "у мери"
+    },
+    {
+      "surface": "במשקל",
+      "gloss": "у тегу"
+    },
+    {
+      "surface": "ובמשורה",
+      "gloss": "и у месури"
+    }
+  ],
+  "timestamp": "2026-09-05T10:24:24.755004318Z",
+  "model": "glm-5.3"
+}

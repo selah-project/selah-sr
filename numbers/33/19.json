@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 33:19",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 33,
+  "translation": "И кренуше из Ритме и разбеше логор у Римон-Перецу.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "И кренуше"
+    },
+    {
+      "surface": "מרתמה",
+      "gloss": "из Ритме"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "и разбеше логор"
+    },
+    {
+      "surface": "ברמן",
+      "gloss": "у Римон-"
+    },
+    {
+      "surface": "пרץ",
+      "gloss": "Перецу"
+    }
+  ],
+  "timestamp": "2026-09-05T10:42:17.038095200Z",
+  "model": "glm-5.3"
+}

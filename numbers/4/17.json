@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 4:17",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "И рече Јахве Мошеу (Мојсију) и Арону (Ахарону), говорећи:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Мошеу"
+    },
+    {
+      "surface": "משה",
+      "gloss": "(Мојсију)"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и Арону"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "(Ахарону)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорећи"
+    }
+  ],
+  "timestamp": "2026-09-05T10:28:40.133972220Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 34:9",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 34,
+  "translation": "Зато, паствири, чујте реч Јахвеова:",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Зато"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "паствири"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "чујте"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "реч"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеова"
+    }
+  ],
+  "timestamp": "2026-09-05T12:53:08.955412060Z",
+  "model": "glm-5.3"
+}

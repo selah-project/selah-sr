@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 9:8",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "Који пружа небеса сам, и гази по висинама мора.",
+  "tokens": [
+    {
+      "surface": "נטה",
+      "gloss": "пружа"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "небеса"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "сам"
+    },
+    {
+      "surface": "ודורך",
+      "gloss": "и гази"
+    },
+    {
+      "surface": "על",
+      "gloss": "по"
+    },
+    {
+      "surface": "במתי",
+      "gloss": "висинама"
+    },
+    {
+      "surface": "ים",
+      "gloss": "мора"
+    }
+  ],
+  "timestamp": "2026-09-05T13:56:53.125290316Z",
+  "model": "glm-5.3"
+}

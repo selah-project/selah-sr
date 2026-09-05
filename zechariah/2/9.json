@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 2:9",
+  "book": "zechariah",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "И ја ћу бити њој — изрека Јахвеина — зид од огња унаоколо, и на славу ћу бити усред ње.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "и ја"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ћу бити"
+    },
+    {
+      "surface": "לה",
+      "gloss": "њој"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "изрека"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "зид"
+    },
+    {
+      "surface": "אש",
+      "gloss": "од огња"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "унаоколо"
+    },
+    {
+      "surface": "ולכבוד",
+      "gloss": "и на славу"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ћу бити"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "усред ње"
+    }
+  ],
+  "timestamp": "2026-09-05T13:12:43.564053214Z",
+  "model": "glm-5.3"
+}

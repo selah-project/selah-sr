@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 14:9",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "⟨את⟩ ово јесте можете јести од свега што ⟨је⟩ у водама: све што има пераје и крљушт можете јести.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ово"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ово"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "јесте"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "од свега"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "במים",
+      "gloss": "у водама"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "לו",
+      "gloss": "има"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "пераје"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "и крљушт"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "јесте"
+    }
+  ],
+  "timestamp": "2026-09-05T10:48:23.241174084Z",
+  "model": "glm-5.3"
+}

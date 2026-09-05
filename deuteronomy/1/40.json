@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "deuteronomy 1:40",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "А ви окрените се себи и крените у пустињу путем мора трске.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "а ви"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "окрените се"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "себи"
+    },
+    {
+      "surface": "וסעו",
+      "gloss": "и крените"
+    },
+    {
+      "surface": "המדברה",
+      "gloss": "у пустињу"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "путем"
+    },
+    {
+      "surface": "ים",
+      "gloss": "мора"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "трске"
+    }
+  ],
+  "timestamp": "2026-09-05T10:43:42.712227850Z",
+  "model": "glm-5.3"
+}

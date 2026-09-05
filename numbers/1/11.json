@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 1:11",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "За Венијамина (Венијамина): Авидан, син Гидонијев.",
+  "tokens": [
+    {
+      "surface": "לבנימן",
+      "gloss": "За Венијамина (Венијамина)"
+    },
+    {
+      "surface": "אבידן",
+      "gloss": "Авидан"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "גדעני",
+      "gloss": "Гидонијев"
+    }
+  ],
+  "timestamp": "2026-09-05T10:26:51.167702552Z",
+  "model": "glm-5.3"
+}

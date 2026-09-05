@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 2:14",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "А име треће реке ⟨је⟩ Хидекел — она тече источно од Ашура; а четврта река — она ⟨је⟩ Перат.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "а име"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "реке"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "треће"
+    },
+    {
+      "surface": "חדקל",
+      "gloss": "Хидекел"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "она"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "тече"
+    },
+    {
+      "surface": "קדמת",
+      "gloss": "источно"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "од Ашура"
+    },
+    {
+      "surface": "והנהר",
+      "gloss": "а река"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "четврта"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "она"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Перат"
+    }
+  ],
+  "timestamp": "2026-09-05T09:39:13.568264679Z",
+  "model": "glm-5.3"
+}

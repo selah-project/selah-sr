@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 10:11",
+  "book": "nehemiah",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "И браћа њихова: Шеванија, Ходија, Келита, Пелаја, Ханан.",
+  "tokens": [
+    {
+      "surface": "ואחיהם",
+      "gloss": "И браћа њихова"
+    },
+    {
+      "surface": "שבניה",
+      "gloss": "Шеванија"
+    },
+    {
+      "surface": "הודיה",
+      "gloss": "Ходија"
+    },
+    {
+      "surface": "קליטא",
+      "gloss": "Келита"
+    },
+    {
+      "surface": "פלאיה",
+      "gloss": "Пелаја"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "Ханан"
+    }
+  ],
+  "timestamp": "2026-09-05T14:31:44.479449342Z",
+  "model": "glm-5.3"
+}

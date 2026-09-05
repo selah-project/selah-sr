@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 30:31",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 30,
+  "translation": "задрта бедра ⟨или⟩ јарац, и краљ — неустајање ⟨је⟩ уз њега.",
+  "tokens": [
+    {
+      "surface": "זרזיר",
+      "gloss": "задрта"
+    },
+    {
+      "surface": "מתנים",
+      "gloss": "бедра"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "תיש",
+      "gloss": "јарац"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "и краљ"
+    },
+    {
+      "surface": "אלקום",
+      "gloss": "неустајање"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "уз њега"
+    }
+  ],
+  "timestamp": "2026-09-05T13:53:44.675742288Z",
+  "model": "glm-5.3"
+}

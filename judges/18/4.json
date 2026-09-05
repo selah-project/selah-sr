@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 18:4",
+  "book": "judges",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "И рече им: „Овако и овако учини мени Миха, и најми ме, и ја бих њему за свештеника.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "כזה",
+      "gloss": "Овако"
+    },
+    {
+      "surface": "וכזה",
+      "gloss": "и овако"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "учини"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мени"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Миха"
+    },
+    {
+      "surface": "וישכרני",
+      "gloss": "и најми ме"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "и ја бих"
+    },
+    {
+      "surface": "לו",
+      "gloss": "њему"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "за свештеника"
+    }
+  ],
+  "timestamp": "2026-09-05T11:13:43.927518241Z",
+  "model": "glm-5.3"
+}

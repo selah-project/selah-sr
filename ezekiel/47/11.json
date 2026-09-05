@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 47:11",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 47,
+  "translation": "Мочваре његове и баре његове неће се исцелити; за со су дате.",
+  "tokens": [
+    {
+      "surface": "בצאתו",
+      "gloss": "мочваре његове"
+    },
+    {
+      "surface": "וגבאיו",
+      "gloss": "и баре његове"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "ירפאו",
+      "gloss": "исцелити"
+    },
+    {
+      "surface": "למלח",
+      "gloss": "за со"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "су дате"
+    }
+  ],
+  "timestamp": "2026-09-05T12:59:08.878203883Z",
+  "model": "glm-5.3"
+}

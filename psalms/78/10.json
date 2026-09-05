@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 78:10",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 78,
+  "translation": "Не одржаше завет Елохимов и у Тори његовој одбише да ходе.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "одржаше"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "завет"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохимов"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "и у Тори његовој"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "одбише"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "да ходе"
+    }
+  ],
+  "timestamp": "2026-09-05T13:31:56.410227990Z",
+  "model": "glm-5.3"
+}

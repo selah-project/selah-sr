@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 24:12",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "Мукама се заморила, и не изађе из ње рђа њена велика; у огњу ⟨јесте⟩ рђа њена.",
+  "tokens": [
+    {
+      "surface": "תאנים",
+      "gloss": "Мукама"
+    },
+    {
+      "surface": "הלאת",
+      "gloss": "заморила се"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "изађе"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "из ње"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "велика"
+    },
+    {
+      "surface": "חלאתה",
+      "gloss": "рђа њена"
+    },
+    {
+      "surface": "באש",
+      "gloss": "у огњу"
+    },
+    {
+      "surface": "חלאתה",
+      "gloss": "рђа њена"
+    }
+  ],
+  "timestamp": "2026-09-05T12:49:37.075651231Z",
+  "model": "glm-5.3"
+}

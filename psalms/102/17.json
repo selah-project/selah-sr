@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 102:17",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 102,
+  "translation": "Јер сазида Јахве Цион, показа се у слави својој.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "сазида"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Цион"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "показа се"
+    },
+    {
+      "surface": "בכבודו",
+      "gloss": "у слави својој"
+    }
+  ],
+  "timestamp": "2026-09-05T15:58:11.425112972Z",
+  "model": "glm-5.3"
+}

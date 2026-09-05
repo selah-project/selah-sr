@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "isaiah 40:29",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 40,
+  "translation": "Даје снагу уморноме, и безмоћнима моћ јачином умножава.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "даје"
+    },
+    {
+      "surface": "ליעף",
+      "gloss": "уморноме"
+    },
+    {
+      "surface": "כח",
+      "gloss": "снагу"
+    },
+    {
+      "surface": "ולאין",
+      "gloss": "и безмоћнима"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "моћ"
+    },
+    {
+      "surface": "עצמה",
+      "gloss": "јачином"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "умножава"
+    }
+  ],
+  "timestamp": "2026-09-05T12:13:46.679222141Z",
+  "model": "glm-5.3"
+}

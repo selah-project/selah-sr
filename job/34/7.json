@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 34:7",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 34,
+  "translation": "Ко ⟨је⟩ човек као Ијов, да пије подсмех као воду?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ко"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "човек"
+    },
+    {
+      "surface": "כאיוב",
+      "gloss": "као Ијов"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "пије"
+    },
+    {
+      "surface": "לעג",
+      "gloss": "подсмех"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "као воду"
+    }
+  ],
+  "timestamp": "2026-09-05T14:04:04.093070440Z",
+  "model": "glm-5.3"
+}

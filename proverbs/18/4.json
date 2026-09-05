@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 18:4",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "Дубоке воде су речи устâ човекових, поток што извире — извор мудрости.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "воде"
+    },
+    {
+      "surface": "עמקים",
+      "gloss": "дубоке"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "речи"
+    },
+    {
+      "surface": "פי",
+      "gloss": "устâ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човекових"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "поток"
+    },
+    {
+      "surface": "נבע",
+      "gloss": "што извире"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "извор"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мудрости"
+    }
+  ],
+  "timestamp": "2026-09-05T13:50:16.456016070Z",
+  "model": "glm-5.3"
+}

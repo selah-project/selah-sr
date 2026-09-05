@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 25:8",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 25,
+  "translation": "Добар и праведан ⟨је⟩ Јахве; зато упућује грешнике на пут.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "добар"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "и праведан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "על",
+      "gloss": "зато"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨зато⟩"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "упућује"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "грешнике"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "на пут"
+    }
+  ],
+  "timestamp": "2026-09-05T13:20:31.767139301Z",
+  "model": "glm-5.3"
+}

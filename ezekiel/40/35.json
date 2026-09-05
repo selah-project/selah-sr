@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 40:35",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 40,
+  "translation": "И доведе ме к северним вратима, и измери ⟨их⟩ као те мере.",
+  "tokens": [
+    {
+      "surface": "ויביאני",
+      "gloss": "и доведе ме"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "שער",
+      "gloss": "вратима"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "северним"
+    },
+    {
+      "surface": "ומדד",
+      "gloss": "и измери"
+    },
+    {
+      "surface": "כמדות",
+      "gloss": "као мере"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "те"
+    }
+  ],
+  "timestamp": "2026-09-05T16:41:41.940059578Z",
+  "model": "glm-5.3"
+}

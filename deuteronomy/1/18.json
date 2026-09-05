@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 1:18",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "И заповедих ⟨את⟩ вам у време оно ⟨את⟩ све ствари које чините.",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "и заповедих"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ вам"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "у време"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "оно"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "све ствари"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ствари"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "које"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "чините"
+    }
+  ],
+  "timestamp": "2026-09-05T10:43:54.253173040Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "Домући и најамник не ће јести ⟨од⟩ њега.",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "домући"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "и најамник"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ће јести"
+    },
+    {
+      "surface": "בו",
+      "gloss": "од њега"
+    }
+  ],
+  "timestamp": "2026-09-05T10:03:35.627874640Z",
+  "model": "glm-5.3"
+}

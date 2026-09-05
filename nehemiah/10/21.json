@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 10:21",
+  "book": "nehemiah",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "Магпијаш (Магпиаш), Мешулам, Хезир,",
+  "tokens": [
+    {
+      "surface": "מגפיעש",
+      "gloss": "Магпијаш (Магпиаш)"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "Мешулам"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "Хезир"
+    }
+  ],
+  "timestamp": "2026-09-05T14:31:50.582080770Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 22:11",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "Не облачи шатнез, вуну и лан заједно.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תלבש",
+      "gloss": "облачи"
+    },
+    {
+      "surface": "שעטנז",
+      "gloss": "шатнез"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "вуну"
+    },
+    {
+      "surface": "ופשתים",
+      "gloss": "и лан"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "заједно"
+    }
+  ],
+  "timestamp": "2026-09-05T16:35:16.399953972Z",
+  "model": "glm-5.3"
+}

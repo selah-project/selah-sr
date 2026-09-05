@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 4:2",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "И рече Јахве њему: шта је то у руци твојој? А он рече: штап.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "њему"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "шта је то"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "у руци твојој"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "штап"
+    }
+  ],
+  "timestamp": "2026-09-05T15:02:04.511693145Z",
+  "model": "glm-5.3"
+}

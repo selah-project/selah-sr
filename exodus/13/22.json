@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 13:22",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "Не уклони се стуб облака дању, ни стуб огња ноћу, испред народа.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "уклони се"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "стуб"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "облака"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "дању"
+    },
+    {
+      "surface": "ועמוד",
+      "gloss": "ни стуб"
+    },
+    {
+      "surface": "האש",
+      "gloss": "огња"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ноћу"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "испред"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народа"
+    }
+  ],
+  "timestamp": "2026-09-05T10:03:13.556150201Z",
+  "model": "glm-5.3"
+}

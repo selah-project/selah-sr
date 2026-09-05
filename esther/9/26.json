@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "esther 9:26",
+  "book": "esther",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "Зато назваше данима тим ⟨име⟩ Пурим по имену Пура — зато, због свих речи писма овога, и шта видеше о томе, и шта их снађе.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "због"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тога"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "назваше"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "данима"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "тим"
+    },
+    {
+      "surface": "פורים",
+      "gloss": "Пурим"
+    },
+    {
+      "surface": "על",
+      "gloss": "по"
+    },
+    {
+      "surface": "שם",
+      "gloss": "имену"
+    },
+    {
+      "surface": "הפור",
+      "gloss": "Пура"
+    },
+    {
+      "surface": "על",
+      "gloss": "због"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тога"
+    },
+    {
+      "surface": "על",
+      "gloss": "због"
+    },
+    {
+      "surface": "כל",
+      "gloss": "свих"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "речи"
+    },
+    {
+      "surface": "האגרת",
+      "gloss": "писма"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "овога"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "и шта"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "видеше"
+    },
+    {
+      "surface": "על",
+      "gloss": "о"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "томе"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "и шта"
+    },
+    {
+      "surface": "הגיע",
+      "gloss": "снађе"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "их"
+    }
+  ],
+  "timestamp": "2026-09-05T16:10:20.422620975Z",
+  "model": "glm-5.3"
+}

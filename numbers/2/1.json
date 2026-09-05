@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 2:1",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "И рече Јахве Мошеу (Мојсију) и Арону говорећи:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Мошеу"
+    },
+    {
+      "surface": "משה",
+      "gloss": "(Мојсију)"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и Арону"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Арону"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорећи"
+    }
+  ],
+  "timestamp": "2026-09-05T10:27:54.064961030Z",
+  "model": "glm-5.3"
+}

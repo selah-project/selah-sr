@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 24:9",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "Намера лудости — грех ⟨је⟩, и одвратност ⟨је⟩ човеку подсмевач.",
+  "tokens": [
+    {
+      "surface": "זמת",
+      "gloss": "Намера"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "лудости"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "грех"
+    },
+    {
+      "surface": "ותועבת",
+      "gloss": "и одвратност"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "човеку"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "подсмевач"
+    }
+  ],
+  "timestamp": "2026-09-05T13:51:53.005994704Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 5:5",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Ноге њезине силазе ⟨ка⟩ смрти; Шеол кораци њезини хватају.",
+  "tokens": [
+    {
+      "surface": "רגליה",
+      "gloss": "ноге њезине"
+    },
+    {
+      "surface": "ירדות",
+      "gloss": "силазе"
+    },
+    {
+      "surface": "מות",
+      "gloss": "смрти"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шеол"
+    },
+    {
+      "surface": "צעדיה",
+      "gloss": "кораци њезини"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "хватају"
+    }
+  ],
+  "timestamp": "2026-09-05T13:46:06.497130748Z",
+  "model": "glm-5.3"
+}

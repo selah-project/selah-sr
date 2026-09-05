@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 2:4",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Увеличах дела своја: саградих себи домове, посадих себи винограде.",
+  "tokens": [
+    {
+      "surface": "הגדלתי",
+      "gloss": "увеличах"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "дела своја"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "саградих"
+    },
+    {
+      "surface": "לי",
+      "gloss": "себи"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "домове"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "посадих"
+    },
+    {
+      "surface": "לי",
+      "gloss": "себи"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "винограде"
+    }
+  ],
+  "timestamp": "2026-09-05T14:11:33.653611971Z",
+  "model": "glm-5.3"
+}

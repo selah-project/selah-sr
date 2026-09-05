@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "И удари ⟨את⟩ Моава, и постадоше Моавци слуге Давиду, носећи данак.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "и удари"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Моава"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моава"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "и постадоше"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моавци"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "слуге"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "Давиду"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "носећи"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "данак"
+    }
+  ],
+  "timestamp": "2026-09-05T14:40:18.947796606Z",
+  "model": "glm-5.3"
+}

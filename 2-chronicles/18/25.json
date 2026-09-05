@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 18:25",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "И рече цар Израиљев: Узмите ⟨את⟩ Микајху и вратите га Амону, кнезу града, и Јоашу, сину царевом.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљев"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "Узмите"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Микајху"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Микајху"
+    },
+    {
+      "surface": "והשיבהו",
+      "gloss": "и вратите га"
+    },
+    {
+      "surface": "אל",
+      "gloss": "код"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Амона"
+    },
+    {
+      "surface": "שר",
+      "gloss": "кнеза"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "града"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и код"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Јоаша"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царевог"
+    }
+  ],
+  "timestamp": "2026-09-05T14:50:05.176330332Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 38:6",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 38,
+  "translation": "Смрде и иструлишe модрице моје због лудости моје.",
+  "tokens": [
+    {
+      "surface": "הבאישו",
+      "gloss": "Смрде"
+    },
+    {
+      "surface": "נמקו",
+      "gloss": "иструлишe"
+    },
+    {
+      "surface": "חבורתי",
+      "gloss": "модрице моје"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "због"
+    },
+    {
+      "surface": "אולתי",
+      "gloss": "лудости моје"
+    }
+  ],
+  "timestamp": "2026-09-05T13:24:54.701477082Z",
+  "model": "glm-5.3"
+}

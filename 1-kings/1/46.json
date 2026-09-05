@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-kings 1:46",
+  "book": "1-kings",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "И такође седе Шломо (Соломон) на престо краљевства.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "и такође"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "седе"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шломо"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "престо"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "краљевства"
+    }
+  ],
+  "timestamp": "2026-09-05T11:38:38.962390217Z",
+  "model": "glm-5.3"
+}

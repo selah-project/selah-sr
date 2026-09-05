@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 33:14",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 33,
+  "translation": "И рече: лице моје иде, и даћу теби починак.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лице моје"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "иде"
+    },
+    {
+      "surface": "והנחתי",
+      "gloss": "и даћу починак"
+    },
+    {
+      "surface": "לך",
+      "gloss": "теби"
+    }
+  ],
+  "timestamp": "2026-09-05T10:12:55.245946197Z",
+  "model": "glm-5.3"
+}

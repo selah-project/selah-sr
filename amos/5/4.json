@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 5:4",
+  "book": "amos",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Јер овако рече Јахве дому Израиљевом: тражите ме и живите!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "כה",
+      "gloss": "овако"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "дому"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљевом"
+    },
+    {
+      "surface": "דרשוני",
+      "gloss": "тражите ме"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "и живите"
+    }
+  ],
+  "timestamp": "2026-09-05T13:06:25.836458207Z",
+  "model": "glm-5.3"
+}

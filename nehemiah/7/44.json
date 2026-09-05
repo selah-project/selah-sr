@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "nehemiah 7:44",
+  "book": "nehemiah",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Певачи: синови Асафа, сто четрдесет и осам.",
+  "tokens": [
+    {
+      "surface": "המשררים",
+      "gloss": "Певачи"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Асафа"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "четрдесет"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "и осам"
+    }
+  ],
+  "timestamp": "2026-09-05T14:30:50.561620087Z",
+  "model": "glm-5.3"
+}

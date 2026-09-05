@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "ezekiel 40:43",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 40,
+  "translation": "И ивице — длан један — начићене унутра около около; и на столове месо приноса.",
+  "tokens": [
+    {
+      "surface": "והשפתים",
+      "gloss": "И ивице"
+    },
+    {
+      "surface": "טפח",
+      "gloss": "длан"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "један"
+    },
+    {
+      "surface": "мוכנים",
+      "gloss": "начићене"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "унутра"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "около"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "около"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "השלחנות",
+      "gloss": "столове"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "месо"
+    },
+    {
+      "surface": "הקרבן",
+      "gloss": "приноса"
+    }
+  ],
+  "timestamp": "2026-09-05T12:57:34.496058582Z",
+  "model": "glm-5.3"
+}

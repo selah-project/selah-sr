@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "1-kings 8:62",
+  "book": "1-kings",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "И цар и сав Израиљ с њим приношаху жртву пред Јахвеом.",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "и цар"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и сав"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "с њим"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "приношаху жртве"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "жртву"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеом"
+    }
+  ],
+  "timestamp": "2026-09-05T11:43:03.546277495Z",
+  "model": "glm-5.3"
+}

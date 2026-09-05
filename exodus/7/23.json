@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 7:23",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "И окрену се Паро и уђе у дом свој, и не узе к срцу ни ово.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "и окрену се"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паро"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "и уђе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "дом свој"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "שת",
+      "gloss": "узе"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "к срцу"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ни"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "ово"
+    }
+  ],
+  "timestamp": "2026-09-05T10:00:09.870313254Z",
+  "model": "glm-5.3"
+}

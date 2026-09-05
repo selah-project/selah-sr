@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 137,
+  "translation": "Како да певамо ⟨את⟩ песму Јахвеову на туђем тлу?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "Како"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "да певамо"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "песму"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "песму"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеову"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "тлу"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "туђем"
+    }
+  ],
+  "timestamp": "2026-09-05T13:43:46.654125027Z",
+  "model": "glm-5.3"
+}

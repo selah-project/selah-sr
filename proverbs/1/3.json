@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 1:3",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "за примање васпитањаразумевања, правде и суда и правичности;",
+  "tokens": [
+    {
+      "surface": "לקחת",
+      "gloss": "за примање"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "васпитања"
+    },
+    {
+      "surface": "השכל",
+      "gloss": "разумевања"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "правде"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "и суда"
+    },
+    {
+      "surface": "ומישרים",
+      "gloss": "и правичности"
+    }
+  ],
+  "timestamp": "2026-09-05T13:45:24.566783368Z",
+  "model": "glm-5.3"
+}

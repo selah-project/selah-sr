@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "job 33:29",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 33,
+  "translation": "Ево, све ово чини Ел, два ⟨и⟩ три пута са човеком,",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Ево"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ово"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "чини"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "два ⟨и⟩ три пута"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": ""
+    },
+    {
+      "surface": "עם",
+      "gloss": "са"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "човеком"
+    }
+  ],
+  "timestamp": "2026-09-05T14:03:08.671637506Z",
+  "model": "glm-5.3"
+}

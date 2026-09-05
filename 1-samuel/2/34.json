@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-samuel 2:34",
+  "book": "1-samuel",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "А ово ти је знак који ће доћи на два сина твоја, на Хофнија и Пинхаса: у један дан умреће обојица.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "а ово"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "האות",
+      "gloss": "знак"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ће доћи"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "שני",
+      "gloss": "два"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "сина твоја"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "חפני",
+      "gloss": "Хофнија"
+    },
+    {
+      "surface": "ופינחס",
+      "gloss": "и Пинхаса"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "у један"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "дан"
+    },
+    {
+      "surface": "ימותו",
+      "gloss": "умреће"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "обојица"
+    }
+  ],
+  "timestamp": "2026-09-05T11:15:23.807514577Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 78:25",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 78,
+  "translation": "Хлеб јаких јео је ⟨сваки⟩ човек; ловину посла им ⟨до⟩ ситости.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "хлеб"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "јаких"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "јео је"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "צידה",
+      "gloss": "ловину"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "посла"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "до ситости"
+    }
+  ],
+  "timestamp": "2026-09-05T13:32:09.779086253Z",
+  "model": "glm-5.3"
+}

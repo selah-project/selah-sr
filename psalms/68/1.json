@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 68:1",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 68,
+  "translation": "За управника хора, Давидов, мизмор, песма.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "за управника хора"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидов"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мизмор"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "песма"
+    }
+  ],
+  "timestamp": "2026-09-05T17:09:52.185495064Z",
+  "model": "glm-5.3"
+}

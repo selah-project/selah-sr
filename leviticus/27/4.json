@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 27,
+  "translation": "А ако је женка, биће процена твоја тридесет шекела.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "а ако"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "женка"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "је"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "биће"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "процена твоја"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "тридесет"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "шекела"
+    }
+  ],
+  "timestamp": "2026-09-05T15:08:21.988977852Z",
+  "model": "glm-5.3"
+}

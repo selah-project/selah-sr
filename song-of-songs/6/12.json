@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 6:12",
+  "book": "song-of-songs",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "Не знах; душа моја постави ме ⟨на⟩ кола ⟨мога⟩ народа племенитога.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "знах"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душа моја"
+    },
+    {
+      "surface": "שמתני",
+      "gloss": "постави ме"
+    },
+    {
+      "surface": "מרכבות",
+      "gloss": "кола"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "⟨мога⟩ народа"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "племенитога"
+    }
+  ],
+  "timestamp": "2026-09-05T14:06:13.883762741Z",
+  "model": "glm-5.3"
+}

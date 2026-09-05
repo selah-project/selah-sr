@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 24:15",
+  "book": "1-samuel",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "За ким изађе цар Израиљев? За ким ти гониш? За мртвим псом, за једном бувом?",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "за"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ким"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "изађе"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљев"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "за"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ким"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "гониш"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "за"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "псом"
+    },
+    {
+      "surface": "מת",
+      "gloss": "мртвим"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "за"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "бувом"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "једном"
+    }
+  ],
+  "timestamp": "2026-09-05T11:23:35.427627170Z",
+  "model": "glm-5.3"
+}

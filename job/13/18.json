@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 13:18",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "Ето, сад наместих парницу ⟨своју⟩; знам да ћу се ја оправдати.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ето"
+    },
+    {
+      "surface": "נא",
+      "gloss": "сад"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "наместих"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "парницу"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "знам"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "אצדק",
+      "gloss": "ћу се оправдати"
+    }
+  ],
+  "timestamp": "2026-09-05T13:57:55.880234687Z",
+  "model": "glm-5.3"
+}

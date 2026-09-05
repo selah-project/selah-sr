@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "ezekiel 44:31",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 44,
+  "translation": "Сваку угинулину и рањенину, од птице и од стоке, неће јести свештеници.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Сватку"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "угинулину"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "и рањенину"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "птице"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "и од"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "стоке"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ће јести"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "свештеници"
+    }
+  ],
+  "timestamp": "2026-09-05T12:58:18.037031860Z",
+  "model": "glm-5.3"
+}

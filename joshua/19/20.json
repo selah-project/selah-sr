@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 19:20",
+  "book": "joshua",
+  "lang": "sr",
+  "chapter": 19,
+  "translation": "и ха-Рабит, и Кишјон, и Авец.",
+  "tokens": [
+    {
+      "surface": "והרבית",
+      "gloss": "и ха-Рабит"
+    },
+    {
+      "surface": "וקשיון",
+      "gloss": "и Кишјон"
+    },
+    {
+      "surface": "ואבץ",
+      "gloss": "и Авец"
+    }
+  ],
+  "timestamp": "2026-09-05T11:03:32.568099836Z",
+  "model": "glm-5.3"
+}

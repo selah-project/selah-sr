@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 64:6",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 64,
+  "translation": "Учвршћују себи реч злу, смисаљају ⟨о⟩ скривању замки; говоре: „Ко ће видети то?“",
+  "tokens": [
+    {
+      "surface": "יחזקו",
+      "gloss": "учвршћују"
+    },
+    {
+      "surface": "למו",
+      "gloss": "себи"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "реч"
+    },
+    {
+      "surface": "רע",
+      "gloss": "злу"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "смисаљају"
+    },
+    {
+      "surface": "לטמון",
+      "gloss": "о скривању"
+    },
+    {
+      "surface": "מוקשים",
+      "gloss": "замки"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "говоре"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ко"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "види"
+    },
+    {
+      "surface": "למו",
+      "gloss": "то"
+    }
+  ],
+  "timestamp": "2026-09-05T15:55:57.411605858Z",
+  "model": "glm-5.3"
+}

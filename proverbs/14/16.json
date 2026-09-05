@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 14:16",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "Мудар се боји и клони од зла, а глупан се разјарује и узда ⟨се⟩.",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "мудар"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "боји се"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "и клони"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "од зла"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "а глупан"
+    },
+    {
+      "surface": "מתעבר",
+      "gloss": "разјарује се"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "и узда се"
+    }
+  ],
+  "timestamp": "2026-09-05T13:48:59.797383865Z",
+  "model": "glm-5.3"
+}

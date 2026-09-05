@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 35:9",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 35,
+  "translation": "и камење шохам и камење за усецање, за ефод и за хошен.",
+  "tokens": [
+    {
+      "surface": "ואבני",
+      "gloss": "и камење"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "шохам"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "и камење"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "за усецање"
+    },
+    {
+      "surface": "לאפוד",
+      "gloss": "за ефод"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "и за хошен"
+    }
+  ],
+  "timestamp": "2026-09-05T10:11:56.639743923Z",
+  "model": "glm-5.3"
+}

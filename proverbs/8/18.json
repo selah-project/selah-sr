@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 8:18",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "Богатство и част ⟨јесу⟩ уз ⟨את⟩ ме; имање вековно и правда.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "богатство"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "и част"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ уз ме",
+      "marks": "богатство и част"
+    },
+    {
+      "surface": "הון",
+      "gloss": "имање"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "вековно"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "и правда"
+    }
+  ],
+  "timestamp": "2026-09-05T13:47:54.919586891Z",
+  "model": "glm-5.3"
+}

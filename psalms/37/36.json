@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 37:36",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 37,
+  "translation": "и прође, и гле — нема га; и тражих га, и не нађе се.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "и прође"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и гле"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "нема га"
+    },
+    {
+      "surface": "ואבקשהו",
+      "gloss": "и тражих га"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "нађе се"
+    }
+  ],
+  "timestamp": "2026-09-05T13:24:45.304718802Z",
+  "model": "glm-5.3"
+}

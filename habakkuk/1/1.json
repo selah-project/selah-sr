@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "habakkuk 1:1",
+  "book": "habakkuk",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "Бреме које виде Хавакук (Авакум), пророк.",
+  "tokens": [
+    {
+      "surface": "המשא",
+      "gloss": "бреме"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "које"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "виде"
+    },
+    {
+      "surface": "חבקוק",
+      "gloss": "Хавакук (Авакум)"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "пророк"
+    }
+  ],
+  "timestamp": "2026-09-05T17:08:36.317796729Z",
+  "model": "glm-5.3"
+}

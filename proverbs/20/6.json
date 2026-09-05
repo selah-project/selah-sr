@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 20:6",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 20,
+  "translation": "Мноштво људи зове ⟨се⟩ човеком хеседа својега, а човека верна ко ће наћи?",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "мноштво"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "људи"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "зове"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човеком"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "хеседа својега"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "а човека"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "верна"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ко"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ће наћи"
+    }
+  ],
+  "timestamp": "2026-09-05T13:50:32.669390317Z",
+  "model": "glm-5.3"
+}

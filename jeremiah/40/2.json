@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 40:2",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 40,
+  "translation": "И узе главар телача Јермију и рече му: Јахве, Елохим твој, изрече ⟨את⟩ ту несрећу на ово место.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "И узе"
+    },
+    {
+      "surface": "רב",
+      "gloss": "главар"
+    },
+    {
+      "surface": "טבחים",
+      "gloss": "телача"
+    },
+    {
+      "surface": "לירמיהו",
+      "gloss": "Јермију"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "му"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Елохим твој"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "изрече"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ту несрећу"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ту несрећу"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ту"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "место"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ово"
+    }
+  ],
+  "timestamp": "2026-09-05T15:42:04.580245236Z",
+  "model": "glm-5.3"
+}

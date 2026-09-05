@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 10:14",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "Мудри сакривају знање, а уста безумника — пропаст близу ⟨је⟩.",
+  "tokens": [
+    {
+      "surface": "חכמים",
+      "gloss": "мудри"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "сакривају"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "знање"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "а уста"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "безумника"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "пропаст"
+    },
+    {
+      "surface": "קרבה",
+      "gloss": "близу ⟨је⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T13:48:11.572086232Z",
+  "model": "glm-5.3"
+}

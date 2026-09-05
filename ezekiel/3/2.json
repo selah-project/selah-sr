@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 3:2",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "И отворих ⟨את⟩ уста своја, и даде ми да једем ⟨את⟩ свитак овај.",
+  "tokens": [
+    {
+      "surface": "ואפתח",
+      "gloss": "И отворих"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "уста своја"
+    },
+    {
+      "surface": "פי",
+      "gloss": "уста своја"
+    },
+    {
+      "surface": "ויאכלני",
+      "gloss": "и даде ми да једем"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "свитак овај"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "свитак"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "овај"
+    }
+  ],
+  "timestamp": "2026-09-05T12:43:35.624737208Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 2:4",
+  "book": "nehemiah",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "И рече ми цар: „Шта то тражиш?“ И помолих се Елохиму небеса.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "על",
+      "gloss": "За"
+    },
+    {
+      "surface": "מה",
+      "gloss": "шта"
+    },
+    {
+      "surface": "זה",
+      "gloss": "то"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "тражиш"
+    },
+    {
+      "surface": "ואתפלל",
+      "gloss": "И помолих се"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Елохиму"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохиму"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небеса"
+    }
+  ],
+  "timestamp": "2026-09-05T14:28:34.321296301Z",
+  "model": "glm-5.3"
+}

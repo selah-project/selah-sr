@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 9:10",
+  "book": "judges",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "И рекоше дрвета смокви: хајд, ти владај над нама.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "И рекоше"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "дрвета"
+    },
+    {
+      "surface": "לתאנה",
+      "gloss": "смокви"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "хајд"
+    },
+    {
+      "surface": "את",
+      "gloss": "ти"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "владај"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "над нама"
+    }
+  ],
+  "timestamp": "2026-09-05T11:09:07.045767436Z",
+  "model": "glm-5.3"
+}

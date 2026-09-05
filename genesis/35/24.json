@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 35:24",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 35,
+  "translation": "Синови Рахељини: Јосеф (Јосиф) и Бињамин.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синови"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Рахељини"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Јосеф"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "и Бињамин"
+    }
+  ],
+  "timestamp": "2026-09-05T09:52:00.557295702Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 73:6",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 73,
+  "translation": "Зато им охолост ⟨је⟩ огрлица, насиље се облачи ⟨њима⟩ као хаљина.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Зато"
+    },
+    {
+      "surface": "ענקתמו",
+      "gloss": "огрлица ⟨је⟩"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "охолост"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "облачи"
+    },
+    {
+      "surface": "שית",
+      "gloss": "као хаљина"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "насиље"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨њима⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T13:31:06.660422437Z",
+  "model": "glm-5.3"
+}

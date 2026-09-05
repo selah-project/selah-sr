@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 25:30",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 25,
+  "translation": "И метнућеш на сто хлеб лица пред лицем ⟨мојим⟩ непрестано.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "И метнућеш"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "сто"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хлеб"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "лица"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред лицем"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "непрестано"
+    }
+  ],
+  "timestamp": "2026-09-05T10:09:33.027734149Z",
+  "model": "glm-5.3"
+}

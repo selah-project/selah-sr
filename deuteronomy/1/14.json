@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 1:14",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "И одговористе ми ⟨את⟩, и рекосте: добра је ствар коју си говорио да се учини.",
+  "tokens": [
+    {
+      "surface": "ותענו",
+      "gloss": "И одговористе"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "мене"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "и рекосте"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добра"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ствар"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "коју"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "си говорио"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "да се учини"
+    }
+  ],
+  "timestamp": "2026-09-05T10:44:19.795371655Z",
+  "model": "glm-5.3"
+}

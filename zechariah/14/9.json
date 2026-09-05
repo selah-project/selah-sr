@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 14:9",
+  "book": "zechariah",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "И биће Јахве ⟨за⟩ краља над свом земљом; у дан онај биће Јахве један и име његово једно.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "и биће"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "⟨за⟩ краља"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "כל",
+      "gloss": "свом"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земљом"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "у дан"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "онај"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "биће"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "један"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "и име његово"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "једно"
+    }
+  ],
+  "timestamp": "2026-09-05T13:15:50.371112761Z",
+  "model": "glm-5.3"
+}

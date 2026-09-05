@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 3:11",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Јорам син његов, Ахазија син његов, Јоаш син његов.",
+  "tokens": [
+    {
+      "surface": "יורם",
+      "gloss": "Јорам"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син његов"
+    },
+    {
+      "surface": "אחזיהו",
+      "gloss": "Ахазија"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син његов"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Јоаш"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син његов"
+    }
+  ],
+  "timestamp": "2026-09-05T14:34:49.040940615Z",
+  "model": "glm-5.3"
+}

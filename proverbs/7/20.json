@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 7:20",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Свежањ сребра узео је у руку своју; о пуном месецу доћи ће у кућу своју.",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "свежањ"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "сребра"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "узео је"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "у руку своју"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "о"
+    },
+    {
+      "surface": "הכסא",
+      "gloss": "пуном месецу"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "доћи ће"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "у кућу своју"
+    }
+  ],
+  "timestamp": "2026-09-05T13:47:39.114258723Z",
+  "model": "glm-5.3"
+}

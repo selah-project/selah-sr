@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 51:1",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 51,
+  "translation": "Управнику ⟨од›› псалма››. Мизмор Давиду (Давидов).",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Управнику"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мизмор"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давиду (Давидов)"
+    }
+  ],
+  "timestamp": "2026-09-05T13:27:21.114029657Z",
+  "model": "glm-5.3"
+}

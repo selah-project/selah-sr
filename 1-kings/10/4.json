@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 10:4",
+  "book": "1-kings",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "И виде краљица Шебе ⟨את⟩ сву мудрост Шеломову и дом који сазида.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "И виде"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "краљица"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Шебе"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сву мудрост"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сву"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "мудрост"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломову"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "и дом"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "сазида"
+    }
+  ],
+  "timestamp": "2026-09-05T11:43:00.643462567Z",
+  "model": "glm-5.3"
+}

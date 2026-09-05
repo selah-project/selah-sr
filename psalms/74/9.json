@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 74:9",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 74,
+  "translation": "Знакове своје не видесмо: нема више пророка, ни ⟨с⟩ нама ⟨את⟩ ко зна докле.",
+  "tokens": [
+    {
+      "surface": "אותתינו",
+      "gloss": "знаке своје"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "видесмо"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "више"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "пророка"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ни"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩",
+      "marks": "с нама"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "зна"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "מה",
+      "gloss": "када"
+    }
+  ],
+  "timestamp": "2026-09-05T13:31:27.484316524Z",
+  "model": "glm-5.3"
+}

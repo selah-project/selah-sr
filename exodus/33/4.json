@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 33:4",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 33,
+  "translation": "И чу народ ⟨את⟩ реч ову злу, и ожалостише се, и не метну човек украс свој на себе.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "И чу"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "реч ову злу"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "реч"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "злу"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ову"
+    },
+    {
+      "surface": "ויתאבלו",
+      "gloss": "и ожалостише се"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "метну"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "украс свој"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "на себе"
+    }
+  ],
+  "timestamp": "2026-09-05T10:12:52.762400482Z",
+  "model": "glm-5.3"
+}

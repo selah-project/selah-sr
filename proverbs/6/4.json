@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 6:4",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "Не дај сан очима својим, ни дремку очним капцима својим.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "дај"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "сон"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "очима својим"
+    },
+    {
+      "surface": "ותנומה",
+      "gloss": "ни дремку"
+    },
+    {
+      "surface": "לעפעפיך",
+      "gloss": "очним капцима својим"
+    }
+  ],
+  "timestamp": "2026-09-05T13:46:38.691997771Z",
+  "model": "glm-5.3"
+}

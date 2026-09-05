@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "nehemiah 7:60",
+  "book": "nehemiah",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Сви натинимци и синови слуга Шеломоових: три стотине деведесет и два.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Сви"
+    },
+    {
+      "surface": "הנתינים",
+      "gloss": "натинимци"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "и синови"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "слуга"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломоових"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "три"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "стотине"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "деведесет"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "и два"
+    }
+  ],
+  "timestamp": "2026-09-05T14:31:04.527191629Z",
+  "model": "glm-5.3"
+}

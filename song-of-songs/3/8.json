@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 3:8",
+  "book": "song-of-songs",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Сви држе мач, увежбани у рату; сваки мач свој на бедру својем, од страха ноћног.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "Сви"
+    },
+    {
+      "surface": "אחזי",
+      "gloss": "држе"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "мач"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "увежбани"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "у рату"
+    },
+    {
+      "surface": "איש",
+      "gloss": "сваки"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "мач свој"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "бедру својем"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "од страха"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "ноћног"
+    }
+  ],
+  "timestamp": "2026-09-05T14:06:53.898588584Z",
+  "model": "glm-5.3"
+}

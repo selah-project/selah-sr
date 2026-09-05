@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 5:6",
+  "book": "zechariah",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "И рекох: Шта је то? И рече: Ово је ефа што излази. И рече: Ово је око њихово по свој земљи.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "И рекох"
+    },
+    {
+      "surface": "מה",
+      "gloss": "шта"
+    },
+    {
+      "surface": "היא",
+      "gloss": "је то"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ово"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "ефа"
+    },
+    {
+      "surface": "היוצאת",
+      "gloss": "што излази"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ово"
+    },
+    {
+      "surface": "עינם",
+      "gloss": "око њихово"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "по свој"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земљи"
+    }
+  ],
+  "timestamp": "2026-09-05T13:13:11.305659618Z",
+  "model": "glm-5.3"
+}

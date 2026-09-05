@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 11:5",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "и што учини вама у пустињи, до доласка вашег до места овога.",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "и што"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "учини"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вама"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "у пустињи"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "באכם",
+      "gloss": "доласка вашег"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "места"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овога"
+    }
+  ],
+  "timestamp": "2026-09-05T15:14:04.481797761Z",
+  "model": "glm-5.3"
+}

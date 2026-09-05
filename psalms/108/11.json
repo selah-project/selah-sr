@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 108:11",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 108,
+  "translation": "Ко ће ме довести у град-тврђаву? Ко ће ме одвести до Едома?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ко"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "ће ме довести"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "град"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "тврђаву"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ко"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "ће ме одвести"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Едома"
+    }
+  ],
+  "timestamp": "2026-09-05T13:38:24.490051612Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "job 36:31",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 36,
+  "translation": "Јер њима суди народима, даје храну у изобилу.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "בם",
+      "gloss": "њима"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "суди"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "народима"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "даје"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "храну"
+    },
+    {
+      "surface": "למכביר",
+      "gloss": "у изобилу"
+    }
+  ],
+  "timestamp": "2026-09-05T14:04:17.136274483Z",
+  "model": "glm-5.3"
+}

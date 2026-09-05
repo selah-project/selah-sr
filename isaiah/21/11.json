@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 21:11",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "Бреме Думе. К мени зове ⟨неко⟩ из Сеира: „Стражо, шта од ноћи? Стражо, шта од ноћи?“",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "бреме"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "Думе"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "к мени"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "зове"
+    },
+    {
+      "surface": "משעיר",
+      "gloss": "из Сеира"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "стражо"
+    },
+    {
+      "surface": "מה",
+      "gloss": "шта"
+    },
+    {
+      "surface": "מלילה",
+      "gloss": "од ноћи"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "стражо"
+    },
+    {
+      "surface": "מה",
+      "gloss": "шта"
+    },
+    {
+      "surface": "מליל",
+      "gloss": "од ноћи"
+    }
+  ],
+  "timestamp": "2026-09-05T15:34:00.588333790Z",
+  "model": "glm-5.3"
+}

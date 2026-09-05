@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 4:12",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "ветар пун, пуншија од ових, доћи ће мени; сада ћу и ја говорити пресуде ⟨את⟩ њих.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "ветар"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "пун"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "од ових"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "доћи ће"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мени"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "сада"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ћу говорити"
+    },
+    {
+      "surface": "משפטים",
+      "gloss": "пресуде"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ њих",
+      "marks": "њих (пресуде)"
+    }
+  ],
+  "timestamp": "2026-09-05T12:21:49.618831683Z",
+  "model": "glm-5.3"
+}

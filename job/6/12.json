@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 6:12",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "Да ли је снага моја снага камења? да ли је тело моје од бронзе?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "да ли"
+    },
+    {
+      "surface": "כח",
+      "gloss": "снага"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "камења"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "снага моја"
+    },
+    {
+      "surface": "אם",
+      "gloss": "да ли"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "тело моје"
+    },
+    {
+      "surface": "נחוש",
+      "gloss": "од бронзе"
+    }
+  ],
+  "timestamp": "2026-09-05T13:56:13.456510568Z",
+  "model": "glm-5.3"
+}

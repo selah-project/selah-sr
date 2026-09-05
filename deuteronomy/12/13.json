@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 12:13",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "Чувај се да не приносиш жртве паљенице своје на сваком месту које видиш:",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "Чувај се"
+    },
+    {
+      "surface": "לך",
+      "gloss": "себи"
+    },
+    {
+      "surface": "פן",
+      "gloss": "да не"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "приносиш"
+    },
+    {
+      "surface": "עלתיך",
+      "gloss": "жртве паљенице своје"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "на сваком"
+    },
+    {
+      "surface": "макום",
+      "gloss": "месту"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "које"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "видиш"
+    }
+  ],
+  "timestamp": "2026-09-05T15:13:37.943979542Z",
+  "model": "glm-5.3"
+}

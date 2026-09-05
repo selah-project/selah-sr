@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Јер долази сан у мноштву бригâ, а глас безумника у мноштву речи.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "בא",
+      "gloss": "долази"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "сон"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "у мноштву"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "бригâ"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "а глас"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "безумника"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "у мноштву"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "речи"
+    }
+  ],
+  "timestamp": "2026-09-05T16:08:33.581157205Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 3:10",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Видех ⟨את⟩ посао шта даде Елохим синовима човечјим да се њиме баве.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "видех"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "посао"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "посао"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "шта"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "даде"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "синовима"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "човечјим"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "да се баве"
+    },
+    {
+      "surface": "בו",
+      "gloss": "њиме"
+    }
+  ],
+  "timestamp": "2026-09-05T14:11:18.745309026Z",
+  "model": "glm-5.3"
+}

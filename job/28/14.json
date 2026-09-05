@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 28:14",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "Бездан рече: „није у мени“, и море рече: „нема је код мене“.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "Бездан"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "בי",
+      "gloss": "у мени"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨је⟩"
+    },
+    {
+      "surface": "וים",
+      "gloss": "и море"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "код мене"
+    }
+  ],
+  "timestamp": "2026-09-05T14:01:23.034860810Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 3:17",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Рекох ја у срцу своме: ⟨את⟩ праведника и ⟨את⟩ злога судиће Елохим, јер време ⟨има⟩ свакој жељи и за свако дело тамо.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Рекох"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "у срцу своме"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "праведника"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "праведника"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "злога"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "злога"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "судиће"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "עת",
+      "gloss": "време"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "свакој"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "жељи"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и за"
+    },
+    {
+      "surface": "כל",
+      "gloss": "свако"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "дело"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тамо"
+    }
+  ],
+  "timestamp": "2026-09-05T14:11:52.884365732Z",
+  "model": "glm-5.3"
+}

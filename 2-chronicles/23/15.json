@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 23:15",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "И ставише јој руке, и уђе ⟨она⟩ у улаз коњских врата дома краљевског, и убише је онде.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "И ставише"
+    },
+    {
+      "surface": "לה",
+      "gloss": "јој"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "руке"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "и уђе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "улаз"
+    },
+    {
+      "surface": "שער",
+      "gloss": "врата"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "коњских"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "краљевског"
+    },
+    {
+      "surface": "וימיתוה",
+      "gloss": "и убише је"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ондe"
+    }
+  ],
+  "timestamp": "2026-09-05T16:18:25.180257236Z",
+  "model": "glm-5.3"
+}

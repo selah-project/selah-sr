@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 31:11",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 31,
+  "translation": "Срце господара њезина узда се у њу, и плена неће недостајати.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "узда се"
+    },
+    {
+      "surface": "בה",
+      "gloss": "у њу"
+    },
+    {
+      "surface": "לב",
+      "gloss": "срце"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "господара њезина"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "и плена"
+    },
+    {
+      "surface": "לא",
+      "gloss": "неће"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "недостајати"
+    }
+  ],
+  "timestamp": "2026-09-05T13:54:24.004644567Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 28:7",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "Стазу не зна грабљивица, и не угледа је око соколово.",
+  "tokens": [
+    {
+      "surface": "נתיב",
+      "gloss": "стазу"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "зна"
+    },
+    {
+      "surface": "עיט",
+      "gloss": "грабљивица"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "שזפתו",
+      "gloss": "угледа је"
+    },
+    {
+      "surface": "עין",
+      "gloss": "око"
+    },
+    {
+      "surface": "איה",
+      "gloss": "соколово"
+    }
+  ],
+  "timestamp": "2026-09-05T14:01:47.307556011Z",
+  "model": "glm-5.3"
+}

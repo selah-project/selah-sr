@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 23:25",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "И рече Балак Биламу (Валааму): ни да клетом не кунеш га, ни да благосиљаш га.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Балак"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Биламу"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "⟨Билам⟩"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ни"
+    },
+    {
+      "surface": "קב",
+      "gloss": "да клетом"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תקבנו",
+      "gloss": "кунеш га"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ни"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "да благосиљаш"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תברכנו",
+      "gloss": "благосиљаш га"
+    }
+  ],
+  "timestamp": "2026-09-05T10:37:26.567209126Z",
+  "model": "glm-5.3"
+}

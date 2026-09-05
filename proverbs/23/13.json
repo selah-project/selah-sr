@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 23:13",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "Не ускраћуј детету васпиту, јер ако га удариш штапом, неће умрети.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "ускраћуј"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "детету"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "васпиту"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "תכנו",
+      "gloss": "удариш га"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "штапом"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "уме умрети"
+    }
+  ],
+  "timestamp": "2026-09-05T16:44:27.546693452Z",
+  "model": "glm-5.3"
+}

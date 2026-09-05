@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "lamentations 3:43",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Покрио си ⟨нас⟩ гневом и гонио си нас; побио си, ниси се сажалио.",
+  "tokens": [
+    {
+      "surface": "סכתה",
+      "gloss": "покрио си"
+    },
+    {
+      "surface": "באף",
+      "gloss": "гневом"
+    },
+    {
+      "surface": "ותרדפנו",
+      "gloss": "и гонио си нас"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "побио си"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ниси"
+    },
+    {
+      "surface": "חמלת",
+      "gloss": "сажалио се"
+    }
+  ],
+  "timestamp": "2026-09-05T14:09:12.421143442Z",
+  "model": "glm-5.3"
+}

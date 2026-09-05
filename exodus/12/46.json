@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "exodus 12:46",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "У једној кући биће поједено; не износи из куће ⟨ништа⟩ од меса напоље, и кост не ломите на њему.",
+  "tokens": [
+    {
+      "surface": "בבית",
+      "gloss": "у кући"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "једној"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "биће поједено"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "износи"
+    },
+    {
+      "surface": "מן",
+      "gloss": "из"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "куће"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "меса"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "напоље"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "и кост"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "ломите"
+    },
+    {
+      "surface": "בו",
+      "gloss": "на њему"
+    }
+  ],
+  "timestamp": "2026-09-05T10:03:35.628519540Z",
+  "model": "glm-5.3"
+}

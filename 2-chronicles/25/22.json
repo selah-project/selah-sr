@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 25:22",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 25,
+  "translation": "И би поражен Јуда пред Израиљем, и побеже свак човек у шатор свој.",
+  "tokens": [
+    {
+      "surface": "וינגף",
+      "gloss": "И би поражен"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јуда"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљем"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "и побеже"
+    },
+    {
+      "surface": "איש",
+      "gloss": "свак човек"
+    },
+    {
+      "surface": "לאהליו",
+      "gloss": "у шатор свој"
+    }
+  ],
+  "timestamp": "2026-09-05T14:53:41.879676776Z",
+  "model": "glm-5.3"
+}

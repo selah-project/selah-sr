@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 4:11",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "Лав погибоше без плена, и млади лавичини разиђоше се.",
+  "tokens": [
+    {
+      "surface": "ליש",
+      "gloss": "Лав"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "погибоше"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "без"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "плена"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "и млади"
+    },
+    {
+      "surface": "לביא",
+      "gloss": "лавичини"
+    },
+    {
+      "surface": "יתפרדו",
+      "gloss": "разиђоше се"
+    }
+  ],
+  "timestamp": "2026-09-05T13:54:13.893032012Z",
+  "model": "glm-5.3"
+}

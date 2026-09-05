@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 9:10",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "Почетак мудрости — страх Јахвеов, а знање Светих — разумевање ⟨је⟩.",
+  "tokens": [
+    {
+      "surface": "תחלת",
+      "gloss": "Почетак"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мудрости"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "страх"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "а знање"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "Светих"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "разумевање"
+    }
+  ],
+  "timestamp": "2026-09-05T13:47:17.498159180Z",
+  "model": "glm-5.3"
+}

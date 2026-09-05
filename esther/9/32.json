@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "esther 9:32",
+  "book": "esther",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "И наредба Естерина учврсти ове речи Пурима, и би записано у књизи.",
+  "tokens": [
+    {
+      "surface": "ומאמר",
+      "gloss": "и наредба"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Естер"
+    },
+    {
+      "surface": "קים",
+      "gloss": "учврсти"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "речи"
+    },
+    {
+      "surface": "הפורים",
+      "gloss": "Пурима"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ове"
+    },
+    {
+      "surface": "ונכתב",
+      "gloss": "и би записано"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "у књизи"
+    }
+  ],
+  "timestamp": "2026-09-05T14:17:06.327025972Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 18:5",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "И ако који човек буде праведан и чињаше суд и правду,",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "И човек"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ако"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "буде"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "праведан"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "и чињаше"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "суд"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "и правду"
+    }
+  ],
+  "timestamp": "2026-09-05T15:44:09.989772489Z",
+  "model": "glm-5.3"
+}

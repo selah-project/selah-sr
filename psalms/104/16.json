@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 104:16",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 104,
+  "translation": "Насите се дрвеће Јахвеа, кедрови Ливана, које ⟨је⟩ посадио.",
+  "tokens": [
+    {
+      "surface": "ישבעו",
+      "gloss": "Насите се"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "дрвеће"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "кедрови"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Ливана"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "које"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "посадио"
+    }
+  ],
+  "timestamp": "2026-09-05T17:10:39.104678967Z",
+  "model": "glm-5.3"
+}

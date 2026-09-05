@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 11:13",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "Ко ходи као оговарач открива савет, а ко је веран духом покрива ствар.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "ко ходи"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "као оговарач"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "открива"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "савет"
+    },
+    {
+      "surface": "ונאמן",
+      "gloss": "а ко је веран"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "духом"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "покрива"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ствар"
+    }
+  ],
+  "timestamp": "2026-09-05T13:48:48.140273766Z",
+  "model": "glm-5.3"
+}

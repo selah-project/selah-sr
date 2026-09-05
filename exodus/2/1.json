@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "И отиде човек од дома Левијевог (Леви) и узе ⟨את⟩ кћер Левијеву.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "и отиде"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "од дома"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Левијевог (Леви)"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "и узе"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кћер Левијеву"
+    },
+    {
+      "surface": "בת",
+      "gloss": "кћер"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Левијеву"
+    }
+  ],
+  "timestamp": "2026-09-05T09:59:28.922319015Z",
+  "model": "glm-5.3"
+}

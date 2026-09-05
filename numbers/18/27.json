@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 18:27",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "И биће вам урачунат прилога вашег као жито с гумна и као пуноћа из каце.",
+  "tokens": [
+    {
+      "surface": "ונחשב",
+      "gloss": "и биће урачунат"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "תרומתכם",
+      "gloss": "прилога вашег"
+    },
+    {
+      "surface": "כדגן",
+      "gloss": "као жито"
+    },
+    {
+      "surface": "מן",
+      "gloss": "с"
+    },
+    {
+      "surface": "הגרן",
+      "gloss": "гумна"
+    },
+    {
+      "surface": "וכמלאה",
+      "gloss": "и као пуноћа"
+    },
+    {
+      "surface": "מן",
+      "gloss": "из"
+    },
+    {
+      "surface": "היקב",
+      "gloss": "каце"
+    }
+  ],
+  "timestamp": "2026-09-05T10:36:13.739754977Z",
+  "model": "glm-5.3"
+}

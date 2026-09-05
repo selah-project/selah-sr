@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 2:5",
+  "book": "ezra",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Синови Араха (Ара), седам стотина седамдесет ⟨и⟩ пет.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синови"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "Араха (Ара)"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "седам"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "стотина"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "пет"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "и седамдесет"
+    }
+  ],
+  "timestamp": "2026-09-05T17:44:01.470670091Z",
+  "model": "glm-5.3"
+}

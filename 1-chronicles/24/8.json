@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 24:8",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "Хариму трећи, Сеориму четврти.",
+  "tokens": [
+    {
+      "surface": "לחרם",
+      "gloss": "Хариму"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "трећи"
+    },
+    {
+      "surface": "לשערים",
+      "gloss": "Сеориму"
+    },
+    {
+      "surface": "הרבעי",
+      "gloss": "четврти"
+    }
+  ],
+  "timestamp": "2026-09-05T14:42:14.312819111Z",
+  "model": "glm-5.3"
+}

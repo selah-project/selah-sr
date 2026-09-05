@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 18:11",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "Сада знам да је Јахве већи од свих богова, јер у ствари у којој се дрзнуше против њих.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "сада"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "знам"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "већи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "од свих"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "богова"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "у ствари"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "у којој"
+    },
+    {
+      "surface": "זדו",
+      "gloss": "дрзнуше се"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "против њих"
+    }
+  ],
+  "timestamp": "2026-09-05T10:05:29.265552619Z",
+  "model": "glm-5.3"
+}

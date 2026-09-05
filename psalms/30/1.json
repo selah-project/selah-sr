@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 30:1",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 30,
+  "translation": "Мизмор, песма посвећења ⟨ħе⟩ дома, Давиду (Давида).",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Мизмор"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "песма"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "посвећења"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давиду (Давида)"
+    }
+  ],
+  "timestamp": "2026-09-05T13:20:50.210589197Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "genesis 24:39",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "И рекох господару своме: можда неће жена поћи за мном.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "и рекох"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "господару своме"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "можда"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ће поћи"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "жена"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "за мном"
+    }
+  ],
+  "timestamp": "2026-09-05T09:47:14.336059301Z",
+  "model": "glm-5.3"
+}

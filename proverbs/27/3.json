@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 27:3",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 27,
+  "translation": "Тежина ⟨је⟩ камена и терет песка, а гнев лудака тежи од обојице.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "тежина"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "камена"
+    },
+    {
+      "surface": "ונטל",
+      "gloss": "и терет"
+    },
+    {
+      "surface": "החול",
+      "gloss": "песка"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "а гнев"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "лудака"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "тежи"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "од обојице"
+    }
+  ],
+  "timestamp": "2026-09-05T13:53:11.542767464Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 76:10",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 76,
+  "translation": "Кад устаде Елохим на суд, да спасе све кротке ⟨од⟩ земље. Села.",
+  "tokens": [
+    {
+      "surface": "בקום",
+      "gloss": "кад устаде"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "на суд"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "להושיע",
+      "gloss": "да спасе"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "ענוי",
+      "gloss": "кротке"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земље"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Села"
+    }
+  ],
+  "timestamp": "2026-09-05T15:56:29.791058735Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 4:6",
+  "book": "esther",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "И изађе Хатах ка Мордехају, на трг града који ⟨је⟩ пред вратима краљевим.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "И изађе"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Хатах"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ка"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Мордехају"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "трг"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "града"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "שער",
+      "gloss": "вратима"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "краљевим"
+    }
+  ],
+  "timestamp": "2026-09-05T14:15:39.583254287Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 28:6",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "Зато овако рече Адонај Јахве: јер даде ⟨את⟩ срце своје као срце Елохима,",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "зато"
+    },
+    {
+      "surface": "כה",
+      "gloss": "овако"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "יען",
+      "gloss": "јер"
+    },
+    {
+      "surface": "תתך",
+      "gloss": "даде"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "срце своје"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "срце своје"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "као срце"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохима"
+    }
+  ],
+  "timestamp": "2026-09-05T12:51:12.436480295Z",
+  "model": "glm-5.3"
+}

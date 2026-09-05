@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 27:11",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 27,
+  "translation": "Показаћу ⟨את⟩ вам ⟨у⟩ руци Еловој; што је код Шадаја нећу сакрити.",
+  "tokens": [
+    {
+      "surface": "אורה",
+      "gloss": "показаћу"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "вас"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "руци"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "עם",
+      "gloss": "код"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Шадај"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אכחד",
+      "gloss": "сакрити"
+    }
+  ],
+  "timestamp": "2026-09-05T16:04:24.525424224Z",
+  "model": "glm-5.3"
+}

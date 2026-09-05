@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 2:16",
+  "book": "daniel",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "И Данијел уђе и замоли цара да му се да време, и тумачење да јави цару.",
+  "tokens": [
+    {
+      "surface": "ודניאל",
+      "gloss": "и Данијел"
+    },
+    {
+      "surface": "על",
+      "gloss": "уђе"
+    },
+    {
+      "surface": "ובעה",
+      "gloss": "и замоли"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "цара"
+    },
+    {
+      "surface": "די",
+      "gloss": "да"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "време"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "се да"
+    },
+    {
+      "surface": "לה",
+      "gloss": "му"
+    },
+    {
+      "surface": "ופשרא",
+      "gloss": "и тумачење"
+    },
+    {
+      "surface": "להחויה",
+      "gloss": "да јави"
+    },
+    {
+      "surface": "למלכא",
+      "gloss": "цару"
+    }
+  ],
+  "timestamp": "2026-09-05T14:17:44.301616522Z",
+  "model": "glm-5.3"
+}

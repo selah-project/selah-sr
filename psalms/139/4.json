@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 139:4",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 139,
+  "translation": "Јер нема речи на језику мом а да, ево, Јахве, не знаш је сву.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "מלה",
+      "gloss": "речи"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "на језику мом"
+    },
+    {
+      "surface": "הן",
+      "gloss": "ево"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "знаш"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "сву"
+    }
+  ],
+  "timestamp": "2026-09-05T13:43:24.225753941Z",
+  "model": "glm-5.3"
+}

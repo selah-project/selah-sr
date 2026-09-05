@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 4:14",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "Лутаху слепи по улицама, упрљаше се крвљу, те не могаху да дотакну одежду своју.",
+  "tokens": [
+    {
+      "surface": "נעו",
+      "gloss": "Лутаху"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "слепи"
+    },
+    {
+      "surface": "בחוצות",
+      "gloss": "по улицама"
+    },
+    {
+      "surface": "נגאלו",
+      "gloss": "упрљаше се"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "крвљу"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "те не"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "могаху"
+    },
+    {
+      "surface": "יגעו",
+      "gloss": "да дотакну"
+    },
+    {
+      "surface": "בלבשיהם",
+      "gloss": "одежду своју"
+    }
+  ],
+  "timestamp": "2026-09-05T16:07:14.746304586Z",
+  "model": "glm-5.3"
+}

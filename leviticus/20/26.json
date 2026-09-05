@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 20:26",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 20,
+  "translation": "И бићете мени свети, јер свет сам Ја, Јахве; и разделих ⟨את⟩ вас од народâ да бисте били моји.",
+  "tokens": [
+    {
+      "surface": "והייתם",
+      "gloss": "И бићете"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мени"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "свети"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "свет"
+    },
+    {
+      "surface": "אני",
+      "gloss": "сам Ја"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ואבדל",
+      "gloss": "и разделих"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ вас",
+      "marks": "од народâ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "народâ"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "да бисте били"
+    },
+    {
+      "surface": "לי",
+      "gloss": "моји"
+    }
+  ],
+  "timestamp": "2026-09-05T10:23:24.454983067Z",
+  "model": "glm-5.3"
+}

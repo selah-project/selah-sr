@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 23:4",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "Не замарај се да се обогатиш; од разумевања свог престани.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תיגע",
+      "gloss": "замарај се"
+    },
+    {
+      "surface": "להעשיר",
+      "gloss": "да се обогатиш"
+    },
+    {
+      "surface": "מבינתך",
+      "gloss": "од разумевања свог"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "престани"
+    }
+  ],
+  "timestamp": "2026-09-05T13:52:21.099273715Z",
+  "model": "glm-5.3"
+}

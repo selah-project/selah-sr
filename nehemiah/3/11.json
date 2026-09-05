@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 3:11",
+  "book": "nehemiah",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Други део утврдише Малкија (Малхија) син Харимов и Хашув син Пахат-Моавов, и ⟨את⟩ кулу пећи.",
+  "tokens": [
+    {
+      "surface": "מדה",
+      "gloss": "део"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "други"
+    },
+    {
+      "surface": "החזיק",
+      "gloss": "утврдише"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "Малкија"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "Харимов"
+    },
+    {
+      "surface": "וחשוב",
+      "gloss": "и Хашув"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "Пахат-"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моавов"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "кулу пећи"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "кулу"
+    },
+    {
+      "surface": "התנורים",
+      "gloss": "пећи"
+    }
+  ],
+  "timestamp": "2026-09-05T14:28:48.595843955Z",
+  "model": "glm-5.3"
+}

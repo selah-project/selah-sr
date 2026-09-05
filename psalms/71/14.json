@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 71:14",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 71,
+  "translation": "А ја непрестано уздам се, и додаваћу на сваку хвалу твоју.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "а ја"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "непрестано"
+    },
+    {
+      "surface": "איחל",
+      "gloss": "уздам се"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "и додаваћу"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сву"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "хвалу твоју"
+    }
+  ],
+  "timestamp": "2026-09-05T13:30:09.824535875Z",
+  "model": "glm-5.3"
+}

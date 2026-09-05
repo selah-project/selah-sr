@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 42:12",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 42,
+  "translation": "И даћу вам милости, и смиловаће вам се, и вратиће вас ⟨он⟩ на тло ваше.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "и даћу"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "רחמים",
+      "gloss": "милости"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "и смиловаће"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "вам се"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "и вратиће"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "вас"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "тло ваше"
+    }
+  ],
+  "timestamp": "2026-09-05T12:37:40.309524906Z",
+  "model": "glm-5.3"
+}

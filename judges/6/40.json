@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "judges 6:40",
+  "book": "judges",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "И учини Елохим тако те ноћи, и би суша на руну самом, а на свој земљи би роса.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "И учини"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тако"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "те ноћи"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "те"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и би"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "суша"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "הגזה",
+      "gloss": "руну"
+    },
+    {
+      "surface": "לבדה",
+      "gloss": "самом"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "а на"
+    },
+    {
+      "surface": "כל",
+      "gloss": "свој"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земљи"
+    },
+    {
+      "surface": "היה",
+      "gloss": "би"
+    },
+    {
+      "surface": "טל",
+      "gloss": "роса"
+    }
+  ],
+  "timestamp": "2026-09-05T11:07:59.796941745Z",
+  "model": "glm-5.3"
+}

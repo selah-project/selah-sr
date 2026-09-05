@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 33:27",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 33,
+  "translation": "И кренуше из Тахата, и подигоше логор у Тараху.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "И кренуше"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "из Тахата"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "и подигоше логор"
+    },
+    {
+      "surface": "בתרח",
+      "gloss": "у Тарах"
+    }
+  ],
+  "timestamp": "2026-09-05T10:42:05.379631240Z",
+  "model": "glm-5.3"
+}

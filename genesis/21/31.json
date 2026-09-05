@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 21:31",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "Зато назва ⟨се⟩ место оно Беер-Шава (бунар заклетве), јер тамо се заклеше обојица.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Зато (на)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "зато"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "назва"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "место"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "оно"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Беер"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Шава"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тамо"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "заклеше се"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "обојица"
+    }
+  ],
+  "timestamp": "2026-09-05T09:45:23.609076312Z",
+  "model": "glm-5.3"
+}

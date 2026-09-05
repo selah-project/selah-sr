@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 22:30",
+  "book": "2-samuel",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "Јер се тобом ручим ⟨против⟩ чете, Елохимом мојим прескачем зид.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "тобом"
+    },
+    {
+      "surface": "ארוץ",
+      "gloss": "ручим"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "чету"
+    },
+    {
+      "surface": "באלהי",
+      "gloss": "Елохимом мојим"
+    },
+    {
+      "surface": "אדלג",
+      "gloss": "прескачем"
+    },
+    {
+      "surface": "שור",
+      "gloss": "зид"
+    }
+  ],
+  "timestamp": "2026-09-05T11:36:50.808826265Z",
+  "model": "glm-5.3"
+}

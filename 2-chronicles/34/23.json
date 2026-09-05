@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-chronicles 34:23",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 34,
+  "translation": "И рече им: „Овако рече Јахве, Елохим Израиљев: кажите човеку који посла вас к мени:",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "כה",
+      "gloss": "овако"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљев"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "кажите"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "човеку"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "посла"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ вас"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "к мени"
+    }
+  ],
+  "timestamp": "2026-09-05T14:57:01.298494023Z",
+  "model": "glm-5.3"
+}

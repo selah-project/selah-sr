@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 33:39",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 33,
+  "translation": "А Арон ⟨бејаше⟩ син сто двадесет и три године у смрти својој на гори Хор.",
+  "tokens": [
+    {
+      "surface": "ואהרן",
+      "gloss": "А Арон"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "три"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "и двадесет"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "и сто"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "године"
+    },
+    {
+      "surface": "במתו",
+      "gloss": "у смрти својој"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "на гори"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "Хор"
+    }
+  ],
+  "timestamp": "2026-09-05T10:42:37.195862588Z",
+  "model": "glm-5.3"
+}

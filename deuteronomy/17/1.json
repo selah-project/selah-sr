@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 17:1",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 17,
+  "translation": "Не коли Јахвеу, Елохиму своме, вола ни овцу у којој би ⟨био⟩ мана, било које зло: јер је гадост Јахвеу, Елохиму твојему, то.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "коли"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Јахвеу"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Елохиму твоме"
+    },
+    {
+      "surface": "שור",
+      "gloss": "вола"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "ни овцу"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "која"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "би"
+    },
+    {
+      "surface": "בו",
+      "gloss": "у њој"
+    },
+    {
+      "surface": "מום",
+      "gloss": "мана"
+    },
+    {
+      "surface": "כל",
+      "gloss": "било које"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "⟨што⟩"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зло"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "гадост"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеу"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Елохиму твоме"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "то"
+    }
+  ],
+  "timestamp": "2026-09-05T10:51:26.912218439Z",
+  "model": "glm-5.3"
+}

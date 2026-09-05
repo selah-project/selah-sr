@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 37:24",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 37,
+  "translation": "И узеше га, и бацише ⟨את⟩ њега у јаму; а јама беше празна — нема ⟨у њој⟩ воде.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "И узеше га"
+    },
+    {
+      "surface": "וישלכו",
+      "gloss": "и бацише"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ њега",
+      "marks": "њега"
+    },
+    {
+      "surface": "הברה",
+      "gloss": "у јаму"
+    },
+    {
+      "surface": "והבור",
+      "gloss": "а јама"
+    },
+    {
+      "surface": "רק",
+      "gloss": "празна"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "בו",
+      "gloss": "у њој"
+    },
+    {
+      "surface": "מים",
+      "gloss": "воде"
+    }
+  ],
+  "timestamp": "2026-09-05T09:54:26.383361446Z",
+  "model": "glm-5.3"
+}

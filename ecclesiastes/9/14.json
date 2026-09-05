@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 9:14",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "градић мали и мало људи у њему; и дође на њега цар велики, и опколи ⟨את⟩ њега, и подиже на њега утврђења велика.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "град"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "мали"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "и људи"
+    },
+    {
+      "surface": "בה",
+      "gloss": "у њему"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "мало"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "и дође"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "на њега"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "велики"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "и опколи"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "њега (град)"
+    },
+    {
+      "surface": "ובנה",
+      "gloss": "и подиже"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "на њега"
+    },
+    {
+      "surface": "מצודים",
+      "gloss": "утврђења"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "велика"
+    }
+  ],
+  "timestamp": "2026-09-05T14:13:05.992635780Z",
+  "model": "glm-5.3"
+}

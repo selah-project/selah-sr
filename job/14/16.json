@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 14:16",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "Јер тада кораке моје бројио би, греха мојега не би чувао.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "тада"
+    },
+    {
+      "surface": "צעדי",
+      "gloss": "кораке моје"
+    },
+    {
+      "surface": "תספור",
+      "gloss": "бројио би"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשמור",
+      "gloss": "би чувао"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "грехом мојим"
+    }
+  ],
+  "timestamp": "2026-09-05T16:03:02.906802651Z",
+  "model": "glm-5.3"
+}

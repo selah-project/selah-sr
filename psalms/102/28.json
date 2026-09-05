@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 102:28",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 102,
+  "translation": "А ти ⟨јеси⟩ исти, и године твоје неће се свршити.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "а ти"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "исти"
+    },
+    {
+      "surface": "ושנותיך",
+      "gloss": "и године твоје"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יתמו",
+      "gloss": "свршиће се"
+    }
+  ],
+  "timestamp": "2026-09-05T13:37:03.226660971Z",
+  "model": "glm-5.3"
+}

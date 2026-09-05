@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 1:8",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "За Исахара — Нетанел, син Цуара.",
+  "tokens": [
+    {
+      "surface": "ליששכר",
+      "gloss": "За Исахара"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "Нетанел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "Цуара"
+    }
+  ],
+  "timestamp": "2026-09-05T10:26:47.929312568Z",
+  "model": "glm-5.3"
+}

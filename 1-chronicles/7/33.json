@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 7:33",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "А синови Јафлета: Пасах, и Бимхал, и Ашват; ово су синови Јафлета.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "А синови"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "Јафлета"
+    },
+    {
+      "surface": "פסך",
+      "gloss": "Пасах"
+    },
+    {
+      "surface": "ובמהל",
+      "gloss": "и Бимхал"
+    },
+    {
+      "surface": "ועשות",
+      "gloss": "и Ашват"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ово"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "Јафлета"
+    }
+  ],
+  "timestamp": "2026-09-05T14:36:28.745548222Z",
+  "model": "glm-5.3"
+}

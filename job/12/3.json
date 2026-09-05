@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 12:3",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "И ја имам срце као и ви; нисам понижен ⟨исред⟩ вас — а ⟨את⟩ кога нема као ових?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ја"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "срце"
+    },
+    {
+      "surface": "כמוכם",
+      "gloss": "као и ви"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "нисам пао"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ја"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "од вас"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "кога"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кога"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "као"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ових"
+    }
+  ],
+  "timestamp": "2026-09-05T13:58:01.476560898Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 20:14",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 20,
+  "translation": "Проклет дан у коме сам рођен, дан у коме ме роди мати моја — да не буде благословен!",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Проклет"
+    },
+    {
+      "surface": "היום",
+      "gloss": "дан"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "у коме"
+    },
+    {
+      "surface": "ילדתי",
+      "gloss": "сам рођен"
+    },
+    {
+      "surface": "בו",
+      "gloss": "у њему"
+    },
+    {
+      "surface": "יום",
+      "gloss": "дан"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "у коме"
+    },
+    {
+      "surface": "ילדתני",
+      "gloss": "ме роди"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "мати моја"
+    },
+    {
+      "surface": "אל",
+      "gloss": "да не"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "буде"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "благословен"
+    }
+  ],
+  "timestamp": "2026-09-05T12:27:26.518332526Z",
+  "model": "glm-5.3"
+}

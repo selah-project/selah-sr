@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 10:14",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "А безумник множи речи: не зна човек шта ће бити, и што ће бити после њега — ко да му објави?",
+  "tokens": [
+    {
+      "surface": "והסכל",
+      "gloss": "а безумник"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "множи"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "речи"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "зна"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "човек"
+    },
+    {
+      "surface": "מה",
+      "gloss": "шта"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "ће бити"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "и што"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ће бити"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "после њега"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ко"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "да објави"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    }
+  ],
+  "timestamp": "2026-09-05T16:08:01.233634121Z",
+  "model": "glm-5.3"
+}

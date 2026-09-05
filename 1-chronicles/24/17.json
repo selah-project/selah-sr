@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 24:17",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "Јакину ⟨један⟩-и-двадесети, Гамулу два-и-двадесети.",
+  "tokens": [
+    {
+      "surface": "ליכין",
+      "gloss": "Јакину"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "један"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "и двадесет"
+    },
+    {
+      "surface": "לגמול",
+      "gloss": "Гамулу"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "два"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "и двадесет"
+    }
+  ],
+  "timestamp": "2026-09-05T14:41:56.660861540Z",
+  "model": "glm-5.3"
+}

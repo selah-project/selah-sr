@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 2:7",
+  "book": "zechariah",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "И гле, анђео који говораше у мени изађе, и други анђео изађе у сусрет њему.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "И гле"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "анђео"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "који говораше"
+    },
+    {
+      "surface": "בי",
+      "gloss": "у мени"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "изађе"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "и анђео"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "други"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "изађе"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "у сусрет њему"
+    }
+  ],
+  "timestamp": "2026-09-05T13:13:04.097794194Z",
+  "model": "glm-5.3"
+}

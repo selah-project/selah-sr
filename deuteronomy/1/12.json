@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 1:12",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "Како да носим сам ваш терет, и ваше бреме, и ваше парнице?",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "како"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "да носим"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "сам"
+    },
+    {
+      "surface": "טרחכם",
+      "gloss": "ваш терет"
+    },
+    {
+      "surface": "ומשאכם",
+      "gloss": "и ваше бреме"
+    },
+    {
+      "surface": "וריבכם",
+      "gloss": "и ваше парнице"
+    }
+  ],
+  "timestamp": "2026-09-05T10:43:21.014818317Z",
+  "model": "glm-5.3"
+}

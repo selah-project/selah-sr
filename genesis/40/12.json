@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 40:12",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 40,
+  "translation": "И рече му Јосеф (Јосиф): Ово је тумачење: три лозова грана — три су дана.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Јосеф (Јосиф)"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ово"
+    },
+    {
+      "surface": "פתרנו",
+      "gloss": "тумачење"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "три"
+    },
+    {
+      "surface": "השרגים",
+      "gloss": "лозове гране"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "три"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дана"
+    },
+    {
+      "surface": "הם",
+      "gloss": "су"
+    }
+  ],
+  "timestamp": "2026-09-05T15:01:25.576372547Z",
+  "model": "glm-5.3"
+}

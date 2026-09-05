@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 12:27",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "Од синова Левијевих четири хиљаде и шест стотина.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Од"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синова"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "Левијевих"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "четири"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "хиљаде"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "и шест"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "стотина"
+    }
+  ],
+  "timestamp": "2026-09-05T14:39:08.957256064Z",
+  "model": "glm-5.3"
+}

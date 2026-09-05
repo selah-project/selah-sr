@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 94:15",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 94,
+  "translation": "Јер ће се правди вратити суд, и за њим сви прави срцем.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "עד",
+      "gloss": "према"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "правди"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "вратиће се"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "суд"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "и за њим"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сви"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "прави"
+    },
+    {
+      "surface": "לב",
+      "gloss": "срцем"
+    }
+  ],
+  "timestamp": "2026-09-05T13:35:43.482344042Z",
+  "model": "glm-5.3"
+}

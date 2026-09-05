@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "Све речи су уморне — не може човек изрећи; не сити се око гледањем, ни не напуни се ухо слушањем.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Све"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "речи"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "су уморне"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "може"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "изрећи"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "сити се"
+    },
+    {
+      "surface": "עין",
+      "gloss": "око"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "гледањем"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ни не"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "напуни се"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ухо"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "слушањем"
+    }
+  ],
+  "timestamp": "2026-09-05T14:11:51.735504617Z",
+  "model": "glm-5.3"
+}

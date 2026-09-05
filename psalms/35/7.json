@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 35:7",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 35,
+  "translation": "Јер ни зашто скрише ми јаму — мрежу своју; ни зашто ископаше за душу моју.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ни зашто"
+    },
+    {
+      "surface": "טמנו",
+      "gloss": "скрише"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "јаму"
+    },
+    {
+      "surface": "רשתם",
+      "gloss": "мрежу своју"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ни зашто"
+    },
+    {
+      "surface": "חפרו",
+      "gloss": "ископаше"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "за душу моју"
+    }
+  ],
+  "timestamp": "2026-09-05T13:22:17.022755591Z",
+  "model": "glm-5.3"
+}

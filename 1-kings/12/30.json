@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 12:30",
+  "book": "1-kings",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "И би дело ово за грех, и отиде народ пред једним ⟨од њих⟩ до Дана.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И би"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "дело"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ово"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "за грех"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "и отиде"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "једним"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Дана"
+    }
+  ],
+  "timestamp": "2026-09-05T11:45:26.240005667Z",
+  "model": "glm-5.3"
+}

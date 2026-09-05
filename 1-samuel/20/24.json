@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-samuel 20:24",
+  "book": "1-samuel",
+  "lang": "sr",
+  "chapter": 20,
+  "translation": "И сакри се Давид у пољу, и би нови месец, и седе краљ ⟨на⟩ обеду да једе.",
+  "tokens": [
+    {
+      "surface": "ויסתר",
+      "gloss": "и сакри се"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "у пољу"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и би"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "нови месец"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "и седе"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "краљ"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "обеду"
+    },
+    {
+      "surface": "לאכול",
+      "gloss": "да једе"
+    }
+  ],
+  "timestamp": "2026-09-05T11:21:44.564199498Z",
+  "model": "glm-5.3"
+}

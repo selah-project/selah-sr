@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 18:4",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "Нека се узме, молим, мало воде, и оперите ноге своје, и ослоните се под дрво.",
+  "tokens": [
+    {
+      "surface": "יקח",
+      "gloss": "Нека се узме"
+    },
+    {
+      "surface": "נא",
+      "gloss": "молим"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "мало"
+    },
+    {
+      "surface": "מים",
+      "gloss": "воде"
+    },
+    {
+      "surface": "ורחצו",
+      "gloss": "и оперите"
+    },
+    {
+      "surface": "רגליכם",
+      "gloss": "ноге своје"
+    },
+    {
+      "surface": "והשענו",
+      "gloss": "и ослоните се"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "дрво"
+    }
+  ],
+  "timestamp": "2026-09-05T09:43:35.869841087Z",
+  "model": "glm-5.3"
+}

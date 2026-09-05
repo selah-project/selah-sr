@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 9:22",
+  "book": "judges",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "И владаше Авимелех над Израиљом три године.",
+  "tokens": [
+    {
+      "surface": "וישר",
+      "gloss": "и владаше"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Авимелех"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљом"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "три"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "године"
+    }
+  ],
+  "timestamp": "2026-09-05T11:09:00.447753831Z",
+  "model": "glm-5.3"
+}

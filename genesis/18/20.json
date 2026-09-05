@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 18:20",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "И рече Јахве: вика Содома и Гоморе је велика, и грех њихов — јер веома је тежак:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "זעקת",
+      "gloss": "вика"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Содома"
+    },
+    {
+      "surface": "ועמרה",
+      "gloss": "и Гоморе"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "велика"
+    },
+    {
+      "surface": "וחטאתם",
+      "gloss": "и грех њихов"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "כבדה",
+      "gloss": "тежак"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "веома"
+    }
+  ],
+  "timestamp": "2026-09-05T09:43:34.583905586Z",
+  "model": "glm-5.3"
+}

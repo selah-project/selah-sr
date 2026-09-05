@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 11:9",
+  "book": "daniel",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "И уђе у краљевство краља јужног, па се врати у земљу своју.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "и уђе"
+    },
+    {
+      "surface": "במלכות",
+      "gloss": "у краљевство"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "краља"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "јужног"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "и врати се"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "земљу своју"
+    }
+  ],
+  "timestamp": "2026-09-05T14:23:51.154734600Z",
+  "model": "glm-5.3"
+}

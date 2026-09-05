@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 7:21",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "И биће у дан онај: одржаће у животу човек јуницу говеда и две овце.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "И биће"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "у дан"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "онај"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "одржаће у животу"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "עגלת",
+      "gloss": "јуница"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "говеда"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "и две"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "овце"
+    }
+  ],
+  "timestamp": "2026-09-05T12:02:51.837823510Z",
+  "model": "glm-5.3"
+}

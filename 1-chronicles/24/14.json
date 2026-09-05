@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 24:14",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "Билги петнаести, Имеру шеснаести.",
+  "tokens": [
+    {
+      "surface": "לבלגה",
+      "gloss": "Билги"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "пет"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "наести"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "Имеру"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "шест"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "наести"
+    }
+  ],
+  "timestamp": "2026-09-05T14:41:51.635448451Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 12:4",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "Нека одсече Јахве све усне глатке, језик што говори велике ⟨ствари⟩.",
+  "tokens": [
+    {
+      "surface": "יכרת",
+      "gloss": "Нека одсече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "усне"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "глатке"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "језик"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "што говори"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "велике"
+    }
+  ],
+  "timestamp": "2026-09-05T13:18:20.155858916Z",
+  "model": "glm-5.3"
+}

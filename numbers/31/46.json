@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 31:46",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 31,
+  "translation": "и људских душа шеснаест хиљада —",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "и душа"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "људских"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "шес"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "наест"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "хиљада"
+    }
+  ],
+  "timestamp": "2026-09-05T10:40:27.947679288Z",
+  "model": "glm-5.3"
+}

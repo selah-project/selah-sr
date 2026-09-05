@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 32:27",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 32,
+  "translation": "Ево ме, ја сам Јахве, Елохим свакога тела — ⟨да ли⟩ је мени ⟨то⟩ предивно каква ствар?",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ево ме"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "כל",
+      "gloss": "свакога"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "тела"
+    },
+    {
+      "surface": "הממני",
+      "gloss": "од мене"
+    },
+    {
+      "surface": "יפלא",
+      "gloss": "предивно"
+    },
+    {
+      "surface": "כל",
+      "gloss": "каква"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ствар"
+    }
+  ],
+  "timestamp": "2026-09-05T15:40:27.577691717Z",
+  "model": "glm-5.3"
+}

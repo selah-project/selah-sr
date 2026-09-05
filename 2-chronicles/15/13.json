@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 15:13",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 15,
+  "translation": "И сваки ко не тражи Јахвеа, Елохима Израиљевог, да се погуби, од малог до великог, од човека до жене.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "И сваки"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ко"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידרש",
+      "gloss": "тражи"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохима"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљевог"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "да се погуби"
+    },
+    {
+      "surface": "למן",
+      "gloss": "од"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "малог"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "до"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "великог"
+    },
+    {
+      "surface": "למאיש",
+      "gloss": "од човека"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "до"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "жене"
+    }
+  ],
+  "timestamp": "2026-09-05T14:49:17.527503388Z",
+  "model": "glm-5.3"
+}

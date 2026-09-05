@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 13:11",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "За племе Јосефово, за племе Менашеово ⟨је⟩ Гади, син Сусијев.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "за племе"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Јосефово"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "за племе"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Менашеово"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Гади"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "סוסי",
+      "gloss": "Сусијев"
+    }
+  ],
+  "timestamp": "2026-09-05T10:32:42.096356910Z",
+  "model": "glm-5.3"
+}

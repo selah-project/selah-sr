@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 8:17",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "Ја оне што ме љубе љубим, и они што ме рано траже налазе ме.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ја"
+    },
+    {
+      "surface": "אהביה",
+      "gloss": "оне што ме љубе"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "љубим"
+    },
+    {
+      "surface": "ומשחרי",
+      "gloss": "и они што ме рано траже"
+    },
+    {
+      "surface": "ימצאנני",
+      "gloss": "налазе ме"
+    }
+  ],
+  "timestamp": "2026-09-05T13:47:54.919399910Z",
+  "model": "glm-5.3"
+}

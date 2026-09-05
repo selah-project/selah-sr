@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 10:7",
+  "book": "joshua",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "И попе се Јехошуа из Гилгала, он и сав народ ратни с њим, и сви јунаци јуначки.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "и попе се"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Јехошуа"
+    },
+    {
+      "surface": "מן",
+      "gloss": "из"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Гилгала"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и сав"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ратни"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "с њим"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и сви"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "јунаци"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "јуначки"
+    }
+  ],
+  "timestamp": "2026-09-05T11:00:30.632905340Z",
+  "model": "glm-5.3"
+}

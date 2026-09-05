@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 12:4",
+  "book": "1-samuel",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "И рекоше: ниси нас притискао, ни гњечио, ни узео из руке човека ништа.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "И рекоше"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ниси"
+    },
+    {
+      "surface": "עשקתנו",
+      "gloss": "нас притискао"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ни"
+    },
+    {
+      "surface": "רצותנו",
+      "gloss": "гњечио"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ни"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "узео"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "из руке"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човека"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "ништа"
+    }
+  ],
+  "timestamp": "2026-09-05T11:19:13.131072836Z",
+  "model": "glm-5.3"
+}

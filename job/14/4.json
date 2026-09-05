@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 14:4",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "Ко ће дати чисто из нечистога? Ниједан.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ко"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ће дати"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "чисто"
+    },
+    {
+      "surface": "מטמא",
+      "gloss": "из нечистога"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ниједан"
+    }
+  ],
+  "timestamp": "2026-09-05T16:03:25.159499326Z",
+  "model": "glm-5.3"
+}

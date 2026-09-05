@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 43:5",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 43,
+  "translation": "А ако га не шаљеш, нећемо сићи, јер нам човек рече: „Нећете видети лице моје, осим ако брат ваш ⟨не⟩ буде са вама.”",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "а ако"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "не"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "шаљеш"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נרד",
+      "gloss": "сићи"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "нам"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תראו",
+      "gloss": "ћете видети"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лице"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "осим"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "брат ваш"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "са вама"
+    }
+  ],
+  "timestamp": "2026-09-05T15:01:28.727577415Z",
+  "model": "glm-5.3"
+}

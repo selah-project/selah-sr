@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 32:16",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 32,
+  "translation": "И чеках — јер не говоре, јер стадоше, не одговорише више.",
+  "tokens": [
+    {
+      "surface": "והוחלתי",
+      "gloss": "и чеках"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "говоре"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "עמדу",
+      "gloss": "стадоше"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "одговорише"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "више"
+    }
+  ],
+  "timestamp": "2026-09-05T14:02:48.023705983Z",
+  "model": "glm-5.3"
+}

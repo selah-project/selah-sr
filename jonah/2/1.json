@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 2:1",
+  "book": "jonah",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "И одреди Јахве рибу велику да прогута ⟨את⟩ Јону, и би Јона у утроби рибе три дана и три ноћи.",
+  "tokens": [
+    {
+      "surface": "וימן",
+      "gloss": "И одреди"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "דג",
+      "gloss": "рибу"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "велику"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "да прогута"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јону"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Јону"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и би"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Јона"
+    },
+    {
+      "surface": "במעי",
+      "gloss": "у утроби"
+    },
+    {
+      "surface": "הדג",
+      "gloss": "рибe"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "три"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дана"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "и три"
+    },
+    {
+      "surface": "לילות",
+      "gloss": "ноћи"
+    }
+  ],
+  "timestamp": "2026-09-05T13:07:45.780233713Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 19:1",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 19,
+  "translation": "И врати се Јехошафат (Јосифат), цар Јуде, дому свом у миру, у Јерушалајим.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "И врати се"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Јехошафат"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јуде"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "дому свом"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "у миру"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "у Јерушалајим"
+    }
+  ],
+  "timestamp": "2026-09-05T16:17:50.795279218Z",
+  "model": "glm-5.3"
+}

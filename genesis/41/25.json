@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 41:25",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 41,
+  "translation": "И рече Јосеф (Јосиф) Фараону: „Сан Фараонов један ⟨је⟩; шта Елохим чини, јавио је Фараону.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Јосеф"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Фараону"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Фараону"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "Сан"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Фараонов"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "један"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨је⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "шта"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "шта"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "чини"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "јавио је"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "Фараону"
+    }
+  ],
+  "timestamp": "2026-09-05T09:54:36.257260299Z",
+  "model": "glm-5.3"
+}

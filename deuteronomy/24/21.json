@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 24:21",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "Кад береш свој виноград, не огледни за собом: да буде досељенику, сирочету и удовици.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Кад"
+    },
+    {
+      "surface": "תבצר",
+      "gloss": "береш"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "свој виноград"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעולל",
+      "gloss": "огледни"
+    },
+    {
+      "surface": "אחריך",
+      "gloss": "за собом"
+    },
+    {
+      "surface": "לגר",
+      "gloss": "досељенику"
+    },
+    {
+      "surface": "ליתום",
+      "gloss": "сирочету"
+    },
+    {
+      "surface": "ולאלמנה",
+      "gloss": "и удовици"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "да буде"
+    }
+  ],
+  "timestamp": "2026-09-05T10:52:05.778290291Z",
+  "model": "glm-5.3"
+}

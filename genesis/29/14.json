@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 29:14",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 29,
+  "translation": "И рече њему Лаван: заиста, ти ⟨си⟩ кост моја и тело моје. И оста са њим месец данâ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "לו",
+      "gloss": "њему"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Лаван"
+    },
+    {
+      "surface": "אך",
+      "gloss": "заиста"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "кост моја"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "и тело моје"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "и оста"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "са њим"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "месец"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "данâ"
+    }
+  ],
+  "timestamp": "2026-09-05T15:00:34.748840883Z",
+  "model": "glm-5.3"
+}

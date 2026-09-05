@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 18:35",
+  "book": "1-kings",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "И вода оде око жртвеника, и ⟨את⟩ залив ⟨је⟩ наполнио водом.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "И оде"
+    },
+    {
+      "surface": "המים",
+      "gloss": "вода"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "око"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "жртвеника"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "и такође"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "залив"
+    },
+    {
+      "surface": "התעלה",
+      "gloss": "залив"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "наполнио"
+    },
+    {
+      "surface": "מים",
+      "gloss": "водом"
+    }
+  ],
+  "timestamp": "2026-09-05T15:29:03.578513916Z",
+  "model": "glm-5.3"
+}

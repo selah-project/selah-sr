@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 31:5",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 31,
+  "translation": "И рече им: видим лице оца вашега, да није к мени као пре три дана; а Елохим оца мојега беше са мном.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "להן",
+      "gloss": "им"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "видим"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ја"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "лице"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лице"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "оца вашега"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "није"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "к мени"
+    },
+    {
+      "surface": "כתמל",
+      "gloss": "као јуче"
+    },
+    {
+      "surface": "שלשם",
+      "gloss": "пре три дана"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "а Елохим"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "оца мојега"
+    },
+    {
+      "surface": "היה",
+      "gloss": "беше"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "са мном"
+    }
+  ],
+  "timestamp": "2026-09-05T09:50:25.947506622Z",
+  "model": "glm-5.3"
+}

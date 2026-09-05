@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "lamentations 3:66",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Гони у гневу и истреби их испод небеса Јахвеових.",
+  "tokens": [
+    {
+      "surface": "תרדף",
+      "gloss": "Гони"
+    },
+    {
+      "surface": "באף",
+      "gloss": "у гневу"
+    },
+    {
+      "surface": "ותשמידם",
+      "gloss": "и истреби их"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "испод"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "небеса"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеових"
+    }
+  ],
+  "timestamp": "2026-09-05T14:09:05.233541306Z",
+  "model": "glm-5.3"
+}

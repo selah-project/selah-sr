@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 75:8",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 75,
+  "translation": "Јер Елохим суди: овога понижава, а онога уздиже.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "суди"
+    },
+    {
+      "surface": "זה",
+      "gloss": "овога"
+    },
+    {
+      "surface": "ישפיל",
+      "gloss": "понижава"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "а онога"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "уздиже"
+    }
+  ],
+  "timestamp": "2026-09-05T15:56:41.119999024Z",
+  "model": "glm-5.3"
+}

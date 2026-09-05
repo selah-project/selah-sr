@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 14:26",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "А од уља изли свештеник на длан свештеника леви.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "А од"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "уља"
+    },
+    {
+      "surface": "יצק",
+      "gloss": "изли"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "свештеник"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "כף",
+      "gloss": "длан"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "свештеника"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "леви"
+    }
+  ],
+  "timestamp": "2026-09-05T15:07:22.978287139Z",
+  "model": "glm-5.3"
+}

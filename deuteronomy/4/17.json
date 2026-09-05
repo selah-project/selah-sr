@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 4:17",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "облик сваке звери која ⟨је⟩ на земљи, облик сваке крилате птице која лети под небесима,",
+  "tokens": [
+    {
+      "surface": "תבנית",
+      "gloss": "облик"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сваке"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "звери"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "која"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "на земљи"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "облик"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сваке"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "птице"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "крилате"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "која"
+    },
+    {
+      "surface": "תעוף",
+      "gloss": "лети"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "под небесима"
+    }
+  ],
+  "timestamp": "2026-09-05T10:46:05.951738086Z",
+  "model": "glm-5.3"
+}

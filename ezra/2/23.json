@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezra 2:23",
+  "book": "ezra",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Људи из Анатота, сто двадесет и осам.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "Људи"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "из Анатота"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двадесет"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "и осам"
+    }
+  ],
+  "timestamp": "2026-09-05T14:23:26.513264164Z",
+  "model": "glm-5.3"
+}

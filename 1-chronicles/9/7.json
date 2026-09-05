@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 9:7",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "И од синова Венијамина: Салу син Мешулама, син Ходавје, син Хасенуе;",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "и од"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синова"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Венијамина"
+    },
+    {
+      "surface": "סלוא",
+      "gloss": "Салу"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "Мешулама"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "הודויה",
+      "gloss": "Ходавје"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "הסנאה",
+      "gloss": "Хасенуе"
+    }
+  ],
+  "timestamp": "2026-09-05T14:37:36.737253688Z",
+  "model": "glm-5.3"
+}

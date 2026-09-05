@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 2:4",
+  "book": "ezra",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Синова Шефатјиних: три стотине седамдесет и два.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синова"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "Шефатјиних"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "три"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "стотине"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "седамдесет"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "и два"
+    }
+  ],
+  "timestamp": "2026-09-05T14:24:21.787670031Z",
+  "model": "glm-5.3"
+}

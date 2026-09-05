@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 105:16",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 105,
+  "translation": "И позва ⟨је⟩ глад на земљу; сваки штап хлеба сломи.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "и позва"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "глад"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земљу"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сваки"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "штап"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хлеба"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "сломи"
+    }
+  ],
+  "timestamp": "2026-09-05T15:58:36.368798250Z",
+  "model": "glm-5.3"
+}

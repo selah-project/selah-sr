@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 29:22",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 29,
+  "translation": "И сабра Лаван ⟨את⟩ све људе тога места и приреди гозбу.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "И сабра"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Лаван"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "све људе тога места"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "људе"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "тога места"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "и приреди"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "гозбу"
+    }
+  ],
+  "timestamp": "2026-09-05T09:48:16.349635672Z",
+  "model": "glm-5.3"
+}

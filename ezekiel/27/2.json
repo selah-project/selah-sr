@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 27:2",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 27,
+  "translation": "А ти, сине човечји, подигни на Цор ⟨тужбалу⟩ку:",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "А ти"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сине"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човечји"
+    },
+    {
+      "surface": "שא",
+      "gloss": "подигни"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Цор"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "тужбалуку"
+    }
+  ],
+  "timestamp": "2026-09-05T15:46:24.085217798Z",
+  "model": "glm-5.3"
+}

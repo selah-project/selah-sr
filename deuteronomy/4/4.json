@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 4:4",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "А ви, који сте прионули уз Јахвеа, Елохима вашег — живи сте сви ви данас.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "а ви"
+    },
+    {
+      "surface": "הדבקים",
+      "gloss": "који сте прионули"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "уз Јахвеа"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Елохима вашег"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "живи"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "сви ви"
+    },
+    {
+      "surface": "היום",
+      "gloss": "данас"
+    }
+  ],
+  "timestamp": "2026-09-05T10:45:32.621278097Z",
+  "model": "glm-5.3"
+}

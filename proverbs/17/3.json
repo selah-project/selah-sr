@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 17:3",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 17,
+  "translation": "Тигањ ⟨је⟩ за сребро и пећ за злато, а Јахве ⟨испитује⟩ срца.",
+  "tokens": [
+    {
+      "surface": "מצרף",
+      "gloss": "тигањ"
+    },
+    {
+      "surface": "לכסף",
+      "gloss": "за сребро"
+    },
+    {
+      "surface": "וכור",
+      "gloss": "и пећ"
+    },
+    {
+      "surface": "לזהב",
+      "gloss": "за злато"
+    },
+    {
+      "surface": "ובחן",
+      "gloss": "а ⟨испитује⟩"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "срца"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-09-05T13:50:08.375568085Z",
+  "model": "glm-5.3"
+}

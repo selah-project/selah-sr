@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "nehemiah 7:42",
+  "book": "nehemiah",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Синови Харима: хиљаду и седамнаест.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синови"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "Харима"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "хиљаду"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "седам"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-наест"
+    }
+  ],
+  "timestamp": "2026-09-05T14:30:50.561296346Z",
+  "model": "glm-5.3"
+}

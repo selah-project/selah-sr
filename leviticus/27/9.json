@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 27:9",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 27,
+  "translation": "А ако ⟨је⟩ стока коју из ње признају жртву Јахвеу — све што да од ње Јахвеу, свето ће бити.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "а ако"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "стока"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "коју"
+    },
+    {
+      "surface": "יקריבו",
+      "gloss": "принесу"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "из ње"
+    },
+    {
+      "surface": "קרבן",
+      "gloss": "жртву"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Јахвеу"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "да"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "од ње"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Јахвеу"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "биће"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "свето"
+    }
+  ],
+  "timestamp": "2026-09-05T10:27:34.711507344Z",
+  "model": "glm-5.3"
+}

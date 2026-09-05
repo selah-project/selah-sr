@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "ezekiel 16:62",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 16,
+  "translation": "И утврдићу ја ⟨את⟩ завет свој ⟨את⟩ ⟨с тобом⟩, и знаћеш да ја ⟨јесам⟩ Јахве.",
+  "tokens": [
+    {
+      "surface": "והקימותי",
+      "gloss": "и утврдићу"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "завет свој"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "завет свој"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ⟨с тобом⟩"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "и знаћеш"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-09-05T12:46:20.526622313Z",
+  "model": "glm-5.3"
+}

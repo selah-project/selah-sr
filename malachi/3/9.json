@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "malachi 3:9",
+  "book": "malachi",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Проклетством сте проклети, а мене ⟨את⟩ преварате — народ ⟨тај⟩, сав цeо.",
+  "tokens": [
+    {
+      "surface": "במארה",
+      "gloss": "Проклетством"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "сте"
+    },
+    {
+      "surface": "נארים",
+      "gloss": "проклети"
+    },
+    {
+      "surface": "ואתי",
+      "gloss": "⟨את⟩ мене",
+      "marks": "мене"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "сте"
+    },
+    {
+      "surface": "קבעים",
+      "gloss": "преварате"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "народ ⟨тај⟩"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "сав цeо"
+    }
+  ],
+  "timestamp": "2026-09-05T17:08:59.704502611Z",
+  "model": "glm-5.3"
+}

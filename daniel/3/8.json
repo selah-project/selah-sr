@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 3:8",
+  "book": "daniel",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Због тога у тај час приступише људи Калдејци и 'поједоше' деле јудејске.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "због"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "тога"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "—"
+    },
+    {
+      "surface": "בה",
+      "gloss": "у"
+    },
+    {
+      "surface": "זמנא",
+      "gloss": "тај час"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "приступише"
+    },
+    {
+      "surface": "גברין",
+      "gloss": "људи"
+    },
+    {
+      "surface": "כשדאין",
+      "gloss": "Калдејци"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "и поједоше"
+    },
+    {
+      "surface": "קרציהון",
+      "gloss": "деле"
+    },
+    {
+      "surface": "די",
+      "gloss": "јудејске"
+    },
+    {
+      "surface": "יהודיא",
+      "gloss": "—"
+    }
+  ],
+  "timestamp": "2026-09-05T14:19:08.300753506Z",
+  "model": "glm-5.3"
+}

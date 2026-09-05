@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 5:9",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "И учинићу у теби ⟨את⟩ што нисам учинио и ⟨את⟩ што нећу учинити као то више, због свих гадости твојих.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "учинићу"
+    },
+    {
+      "surface": "בך",
+      "gloss": "у теби"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "што"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "учинио"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "што"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "учиним"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "као то"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "више"
+    },
+    {
+      "surface": "יען",
+      "gloss": "због"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сва"
+    },
+    {
+      "surface": "תועבתיך",
+      "gloss": "гадости твојих"
+    }
+  ],
+  "timestamp": "2026-09-05T12:43:31.044193809Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 89,
+  "ref": "psalms 119:89",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 119,
+  "translation": "До века, Јахве, реч Твоја стоји чврсто у небесима.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "До века"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "реч Твоја"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "стоји чврсто"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "у небесама"
+    }
+  ],
+  "timestamp": "2026-09-05T13:40:28.583349754Z",
+  "model": "glm-5.3"
+}

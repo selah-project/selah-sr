@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 7:15",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Гле, муке се заче ⟨с⟩ безакоњем, заче труд и роди лаж.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "гле"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "муке се"
+    },
+    {
+      "surface": "און",
+      "gloss": "безакоњем"
+    },
+    {
+      "surface": "והרה",
+      "gloss": "и заче"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "труд"
+    },
+    {
+      "surface": "וילד",
+      "gloss": "и роди"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "лаж"
+    }
+  ],
+  "timestamp": "2026-09-05T13:16:23.844440682Z",
+  "model": "glm-5.3"
+}

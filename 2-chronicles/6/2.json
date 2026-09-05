@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 6:2",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "А ја саздах дом пребивалишта теби, и место за уседиште твоје довека.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "А ја"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "саздах"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "пребивалишта"
+    },
+    {
+      "surface": "לך",
+      "gloss": "теби"
+    },
+    {
+      "surface": "ומכון",
+      "gloss": "и место"
+    },
+    {
+      "surface": "לשבתך",
+      "gloss": "за уседиште твоје"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "довека"
+    }
+  ],
+  "timestamp": "2026-09-05T14:46:04.532963789Z",
+  "model": "glm-5.3"
+}

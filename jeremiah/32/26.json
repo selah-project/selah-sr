@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 32:26",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 32,
+  "translation": "И би реч Јахвеова Јермији, говорећи:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И би"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "реч"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеова"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ка"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Јермији"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорећи:"
+    }
+  ],
+  "timestamp": "2026-09-05T15:39:56.378574626Z",
+  "model": "glm-5.3"
+}

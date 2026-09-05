@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "И попе се Моше на гору, и покри облак ⟨את⟩ гору.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "и попе се"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "гору"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "и покри"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "облак"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "гору"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "гору"
+    }
+  ],
+  "timestamp": "2026-09-05T10:08:03.570711443Z",
+  "model": "glm-5.3"
+}

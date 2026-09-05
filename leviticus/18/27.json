@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 18:27",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "Јер ⟨את⟩ све гнусобе ове чињаху људи земље који су били пред вама, и оскрнави се земља.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "све гнусобе ове"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "התועבת",
+      "gloss": "гнусобе"
+    },
+    {
+      "surface": "האל",
+      "gloss": "ове"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "чињаху"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "људи"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земље"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "пред вама"
+    },
+    {
+      "surface": "ותטמא",
+      "gloss": "и оскрнави се"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земља"
+    }
+  ],
+  "timestamp": "2026-09-05T10:21:54.918524362Z",
+  "model": "glm-5.3"
+}

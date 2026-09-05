@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zephaniah 3:16",
+  "book": "zephaniah",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "У дан онај рећи ⟨ће се⟩ Јерушалајиму: не бој се; Ционе, нека не клону руке твоје.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "У дан"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "онај"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "рећи"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "Јерушалајиму"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "бој се"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Ционе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "нека не"
+    },
+    {
+      "surface": "ירפו",
+      "gloss": "клону"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "руке твоје"
+    }
+  ],
+  "timestamp": "2026-09-05T13:10:44.661876218Z",
+  "model": "glm-5.3"
+}

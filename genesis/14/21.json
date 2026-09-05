@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 14:21",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "И рече краљ Содома Авраму (Абраму): Дај мени душе, а имот узми себи.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "краљ"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Содома"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Авраму (Абраму)"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "⟨а⟩"
+    },
+    {
+      "surface": "תן",
+      "gloss": "дај"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мени"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "душе",
+      "marks": "душе"
+    },
+    {
+      "surface": "והרכש",
+      "gloss": "а имот"
+    },
+    {
+      "surface": "קח",
+      "gloss": "узми"
+    },
+    {
+      "surface": "לך",
+      "gloss": "себи"
+    }
+  ],
+  "timestamp": "2026-09-05T17:42:46.837189363Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 17:15",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 17,
+  "translation": "Ето, они говоре мени: где је реч Јахвеова? Нек дође већ!",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ето"
+    },
+    {
+      "surface": "המה",
+      "gloss": "они"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "говоре"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мени"
+    },
+    {
+      "surface": "איה",
+      "gloss": "где"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "реч"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеова"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "нек дође"
+    },
+    {
+      "surface": "נא",
+      "gloss": "већ"
+    }
+  ],
+  "timestamp": "2026-09-05T15:38:46.264490448Z",
+  "model": "glm-5.3"
+}

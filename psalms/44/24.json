@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 44:24",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 44,
+  "translation": "Пробуди се, зашто спаваш, Адонај? Устај, не одбаци ⟨нас⟩ занавек!",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Пробуди се"
+    },
+    {
+      "surface": "למה",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "תישן",
+      "gloss": "спаваш"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "הקיצה",
+      "gloss": "Устај"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "одбаци"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "занавек"
+    }
+  ],
+  "timestamp": "2026-09-05T13:25:51.473927499Z",
+  "model": "glm-5.3"
+}

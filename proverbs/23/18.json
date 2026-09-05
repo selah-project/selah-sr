@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 23:18",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "Јер заиста има будућност, и нада твоја неће бити одсечена.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "אם",
+      "gloss": "заиста"
+    },
+    {
+      "surface": "יש",
+      "gloss": "има"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "будућност"
+    },
+    {
+      "surface": "ותקותך",
+      "gloss": "и нада твоја"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "биће одсечена"
+    }
+  ],
+  "timestamp": "2026-09-05T13:52:16.368836955Z",
+  "model": "glm-5.3"
+}

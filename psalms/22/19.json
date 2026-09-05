@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 22:19",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "Деле хаљине моје међу собом, а за одело моје бацају ждријеб.",
+  "tokens": [
+    {
+      "surface": "יחלקו",
+      "gloss": "Деле"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "хаљине моје"
+    },
+    {
+      "surface": "להם",
+      "gloss": "међу собом"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "а за"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "одело моје"
+    },
+    {
+      "surface": "יפילו",
+      "gloss": "бацају"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "ждријеб"
+    }
+  ],
+  "timestamp": "2026-09-05T13:19:51.494380543Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 3:24",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "И кнез очинског дома Гершоновог: Елијасаф, син Лаелов.",
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "И кнез"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "אב",
+      "gloss": "очинског"
+    },
+    {
+      "surface": "לגרשני",
+      "gloss": "Гершоновог"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "Елијасаф"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "Лаелов"
+    }
+  ],
+  "timestamp": "2026-09-05T10:28:02.365734387Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 81:5",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 81,
+  "translation": "Јер је наредба за Израел то, закон Елохиму Јааковљевом ⟨припада⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "חק",
+      "gloss": "наредба"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "за Израел"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "то"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "закон"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "Елохиму"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Јааковљевом"
+    }
+  ],
+  "timestamp": "2026-09-05T13:33:03.809792925Z",
+  "model": "glm-5.3"
+}

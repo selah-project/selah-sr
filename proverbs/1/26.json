@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 1:26",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "И ја ћу се у пропасти вашој смејати, ругаћу кад дође страх ваш.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "באידכם",
+      "gloss": "у пропасти вашој"
+    },
+    {
+      "surface": "אשחק",
+      "gloss": "смејаћу се"
+    },
+    {
+      "surface": "אלעג",
+      "gloss": "ругаћу"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "кад дође"
+    },
+    {
+      "surface": "פחדכם",
+      "gloss": "страх ваш"
+    }
+  ],
+  "timestamp": "2026-09-05T13:45:47.836774801Z",
+  "model": "glm-5.3"
+}

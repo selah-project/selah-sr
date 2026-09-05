@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 1:45",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "И умре Јовав, а зацара се место њега Хушам из земље Теманца.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "И умре"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Јовав"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "зачара се"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "место њега"
+    },
+    {
+      "surface": "חושם",
+      "gloss": "Хушам"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "из земље"
+    },
+    {
+      "surface": "התימני",
+      "gloss": "Теманаца"
+    }
+  ],
+  "timestamp": "2026-09-05T14:33:35.417270950Z",
+  "model": "glm-5.3"
+}

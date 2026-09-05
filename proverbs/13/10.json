@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 13:10",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "Само охолост доноси ⟨את⟩ препирку, а ⟨са⟩ саветницима ⟨јесте⟩ мудрост.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "само"
+    },
+    {
+      "surface": "בזדון",
+      "gloss": "охолост"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "доноси"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "препирку"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "препирку"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "саветницима"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мудрост"
+    }
+  ],
+  "timestamp": "2026-09-05T13:48:19.670562700Z",
+  "model": "glm-5.3"
+}

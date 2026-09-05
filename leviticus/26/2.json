@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 26:2",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 26,
+  "translation": "⟨את⟩ суботе моје чувате, и светињу моју страхујте; ја сам Јахве.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "суботе моје"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "суботе моје"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "чувате"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "и светињу моју"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "страхујте"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-09-05T10:26:31.049721410Z",
+  "model": "glm-5.3"
+}

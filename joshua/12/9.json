@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 12:9",
+  "book": "joshua",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "Цар Јерихона, један; цар Хајаја (Хаи), који је с стране Ветила (Бет-Eла), један;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Јерихона"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "један"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Хаија"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "מצד",
+      "gloss": "с стране"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-Eла"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "један"
+    }
+  ],
+  "timestamp": "2026-09-05T15:17:05.279700379Z",
+  "model": "glm-5.3"
+}

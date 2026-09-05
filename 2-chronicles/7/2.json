@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 7:2",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "И не могаху свештеници да уђу у дом Јахвеов, јер слава Јахвеа напуни ⟨את⟩ дом Јахвеов.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "могаху"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "свештеници"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "да уђу"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеов"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "напуни"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "слава"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дом Јахвеов"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеов"
+    }
+  ],
+  "timestamp": "2026-09-05T16:17:21.225625792Z",
+  "model": "glm-5.3"
+}

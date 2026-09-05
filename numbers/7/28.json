@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 7:28",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Један јарац од коза за жртву за грех.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "јарац"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "од коза"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "један"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "за жртву за грех"
+    }
+  ],
+  "timestamp": "2026-09-05T10:29:42.662227944Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 12:6",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "Речи злих — заседа за крв, а уста правих њих спашава.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Речи"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "злих"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "заседа"
+    },
+    {
+      "surface": "דם",
+      "gloss": "за крв"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "а уста"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "правих"
+    },
+    {
+      "surface": "יצילם",
+      "gloss": "спашава"
+    }
+  ],
+  "timestamp": "2026-09-05T13:48:31.625246978Z",
+  "model": "glm-5.3"
+}

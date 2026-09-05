@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 30:2",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 30,
+  "translation": "Овако рече Јахве, Елохим Израиљев, ⟨да каже⟩: Напиши себи ⟨את⟩ све речи које говорих теби на књигу.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Овако"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљев"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨да каже⟩"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "Напиши"
+    },
+    {
+      "surface": "לך",
+      "gloss": "себи"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "све речи"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "речи"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "које"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "говорих"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "теби"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "књигу"
+    }
+  ],
+  "timestamp": "2026-09-05T12:32:19.555094384Z",
+  "model": "glm-5.3"
+}

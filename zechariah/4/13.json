@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 4:13",
+  "book": "zechariah",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "И рече ми: „Зар не знаш шта су ови?“ А ја рекох: „Не, господару мој.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорећи"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "зар не"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "знаш"
+    },
+    {
+      "surface": "מה",
+      "gloss": "шта"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ови"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "а рекох"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "господару мој"
+    }
+  ],
+  "timestamp": "2026-09-05T13:12:16.177600312Z",
+  "model": "glm-5.3"
+}

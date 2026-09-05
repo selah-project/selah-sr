@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 1:12",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "Да их прогутамо као Шеол — живе, и целе, као што силазе у јаму.",
+  "tokens": [
+    {
+      "surface": "נבלעם",
+      "gloss": "Да их прогутамо"
+    },
+    {
+      "surface": "כשאול",
+      "gloss": "као Шеол"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "живе"
+    },
+    {
+      "surface": "ותמימים",
+      "gloss": "и целе"
+    },
+    {
+      "surface": "כיורדי",
+      "gloss": "као што силазе"
+    },
+    {
+      "surface": "בור",
+      "gloss": "у јаму"
+    }
+  ],
+  "timestamp": "2026-09-05T13:45:20.139260697Z",
+  "model": "glm-5.3"
+}

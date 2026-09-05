@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 2:22",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "И сагради Јахве Елохим ⟨את⟩ ребро које узе из човека за жену, и доведе је к човеку.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "И сагради"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ребро"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "ребро"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "које"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "узе"
+    },
+    {
+      "surface": "מן",
+      "gloss": "из"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "човека"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "за жену"
+    },
+    {
+      "surface": "ויבאה",
+      "gloss": "и доведе је"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "човеку"
+    }
+  ],
+  "timestamp": "2026-09-05T09:38:56.370406216Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 52:6",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 52,
+  "translation": "Волиш све речи прождирања, језиче преварни.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "волиш"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "речи"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "прождирања"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "језиче"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "преварни"
+    }
+  ],
+  "timestamp": "2026-09-05T15:55:28.150284730Z",
+  "model": "glm-5.3"
+}

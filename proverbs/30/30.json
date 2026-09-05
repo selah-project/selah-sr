@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 30:30",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 30,
+  "translation": "лав, силни међу зверима, који се не окреће од лица ничијега:",
+  "tokens": [
+    {
+      "surface": "ליש",
+      "gloss": "лав"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "силни"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "међу зверима"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "окреће се"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "од лица"
+    },
+    {
+      "surface": "כל",
+      "gloss": "свега"
+    }
+  ],
+  "timestamp": "2026-09-05T13:53:44.675608461Z",
+  "model": "glm-5.3"
+}

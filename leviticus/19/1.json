@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 19:1",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 19,
+  "translation": "И рече Јахве Мошеу (Мојсију) ⟨рече⟩:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Мошеу ⟨према⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошеу"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨рече⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T10:23:08.123363832Z",
+  "model": "glm-5.3"
+}

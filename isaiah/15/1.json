@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 15:1",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 15,
+  "translation": "Бремe Моава: јер у ноћи опустошен би Ар Моава, утиша се; јер у ноћи опустошена би Кир Моава, утиша се.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Бремe"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моава"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "у ноћи"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "опустошен би"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ар"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моава"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "утиша се"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "у ноћи"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "опустошена би"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "Кир"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моава"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "утиша се"
+    }
+  ],
+  "timestamp": "2026-09-05T12:06:08.043321605Z",
+  "model": "glm-5.3"
+}

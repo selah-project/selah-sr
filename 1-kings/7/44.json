@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "И ⟨את⟩ море једно, и ⟨את⟩ волова дванаест под морем.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "море"
+    },
+    {
+      "surface": "הים",
+      "gloss": "море"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "једно"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "волова"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "волова"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "дванаест"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(два-на-ест)"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "הים",
+      "gloss": "морем"
+    }
+  ],
+  "timestamp": "2026-09-05T11:40:52.507073412Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 35:14",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 35,
+  "translation": "Тако рече Адонај Јахве: кад се радује сва земља, пустош ћу од тебе учинити.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "тако"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "כשמח",
+      "gloss": "кад се радује"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сва"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земља"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "пустош"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "учинићу"
+    },
+    {
+      "surface": "לך",
+      "gloss": "од тебе"
+    }
+  ],
+  "timestamp": "2026-09-05T12:54:33.546260543Z",
+  "model": "glm-5.3"
+}

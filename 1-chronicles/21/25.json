@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 21:25",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "И даде Давид (Давид) Орнану за место шекле злата — тежине шест стотина.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "И даде"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид (Давид)"
+    },
+    {
+      "surface": "לארנן",
+      "gloss": "Орнану"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "за место"
+    },
+    {
+      "surface": "שקלי",
+      "gloss": "шекле"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "злата"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "тежине"
+    },
+    {
+      "surface": "שש",
+      "gloss": "шест"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "стотина"
+    }
+  ],
+  "timestamp": "2026-09-05T14:40:17.060506392Z",
+  "model": "glm-5.3"
+}

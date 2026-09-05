@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 9:14",
+  "book": "1-kings",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "И посла Хирам цару сто и двадесет таланата злата.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "И посла"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Хирам"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "цару"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "и двадесет"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "таланата"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "злата"
+    }
+  ],
+  "timestamp": "2026-09-05T11:43:37.161772948Z",
+  "model": "glm-5.3"
+}

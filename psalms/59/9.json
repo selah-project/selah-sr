@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 59,
+  "translation": "А ти, Јахве, смејаш им се; подсмеваш се свим народима.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "А ти"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "смејаш се"
+    },
+    {
+      "surface": "למו",
+      "gloss": "им"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "подсмеваш се"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "свим"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "народима"
+    }
+  ],
+  "timestamp": "2026-09-05T13:28:27.627440297Z",
+  "model": "glm-5.3"
+}

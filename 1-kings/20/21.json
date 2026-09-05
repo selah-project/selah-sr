@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-kings 20:21",
+  "book": "1-kings",
+  "lang": "sr",
+  "chapter": 20,
+  "translation": "И изађе цар Израиљев и поби ⟨את⟩ коње и ⟨את⟩ кола, и удари у Араму велики удар.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "И изађе"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљев"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "и поби"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "коње"
+    },
+    {
+      "surface": "הסוס",
+      "gloss": "коње"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "кола"
+    },
+    {
+      "surface": "הרכב",
+      "gloss": "кола"
+    },
+    {
+      "surface": "והכה",
+      "gloss": "и удари"
+    },
+    {
+      "surface": "בארם",
+      "gloss": "у Араму"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "удар"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "велики"
+    }
+  ],
+  "timestamp": "2026-09-05T11:48:18.769528181Z",
+  "model": "glm-5.3"
+}

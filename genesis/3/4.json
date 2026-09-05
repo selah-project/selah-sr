@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "И рече змија жени: „Нећете ⟨са сигурношћу⟩ умрети —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "змија"
+    },
+    {
+      "surface": "אל",
+      "gloss": "жени"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "⟨жени⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Нећете"
+    },
+    {
+      "surface": "מות",
+      "gloss": "умрети"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "умрети"
+    }
+  ],
+  "timestamp": "2026-09-05T09:39:46.427845369Z",
+  "model": "glm-5.3"
+}

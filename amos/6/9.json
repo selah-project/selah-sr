@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "amos 6:9",
+  "book": "amos",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "И биће ако остане десет људи у једној кући, и умреће.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "И биће"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "יותרו",
+      "gloss": "остане"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "десет"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "људи"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "у кући"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "једној"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "и умреће"
+    }
+  ],
+  "timestamp": "2026-09-05T13:05:57.378779167Z",
+  "model": "glm-5.3"
+}

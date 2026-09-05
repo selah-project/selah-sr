@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 1:8",
+  "book": "2-samuel",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "И рече ми: ко си ти? А ја му рекох: Амалечкијац сам.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ко"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "си ти"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рекох"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "њему"
+    },
+    {
+      "surface": "עמלקי",
+      "gloss": "Амалечкијац"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "сам"
+    }
+  ],
+  "timestamp": "2026-09-05T15:24:04.076826815Z",
+  "model": "glm-5.3"
+}

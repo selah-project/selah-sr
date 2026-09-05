@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 7:6",
+  "book": "zechariah",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "И кад једете и кад пијете — зар не једете ви за себе и пијете ви за себе?",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "и кад"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "једете"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "и кад"
+    },
+    {
+      "surface": "תשתו",
+      "gloss": "пијете"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "зар не"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ви"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "који једете ⟨за себе⟩"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "и ви"
+    },
+    {
+      "surface": "השתים",
+      "gloss": "који пијете ⟨за себе⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T13:13:03.271170732Z",
+  "model": "glm-5.3"
+}

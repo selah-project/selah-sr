@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 16:35",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 16,
+  "translation": "Зато, блуднице, чуј реч Јахвеову.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "зато"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "блуднице"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "чуј"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "реч"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-09-05T12:47:23.131861127Z",
+  "model": "glm-5.3"
+}

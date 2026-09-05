@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 58:1",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 58,
+  "translation": "Диригенту, „Не уништавај“ — Давидов, Мицтам.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Диригенту"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "уништавај"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидов"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "Мицтам"
+    }
+  ],
+  "timestamp": "2026-09-05T13:28:07.415972500Z",
+  "model": "glm-5.3"
+}

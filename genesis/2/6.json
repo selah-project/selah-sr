@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "И извор се дијаше из земље, и натапао ⟨את⟩ сво лице земље.",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "и извор"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "дијаше се"
+    },
+    {
+      "surface": "מן",
+      "gloss": "из"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земље"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "и натапао"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сво лице"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сво"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лице"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "земље"
+    }
+  ],
+  "timestamp": "2026-09-05T09:38:58.710803029Z",
+  "model": "glm-5.3"
+}

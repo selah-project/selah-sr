@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "leviticus 25:39",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 25,
+  "translation": "И ако осиромаши брат твој уз тебе, и прода ⟨се⟩ теби — не приморавај га да служи службу роба:",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "и ако"
+    },
+    {
+      "surface": "ימוך",
+      "gloss": "осиромаши"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "брат твој"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "уз тебе"
+    },
+    {
+      "surface": "ונמכר",
+      "gloss": "и прода се"
+    },
+    {
+      "surface": "לך",
+      "gloss": "теби"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "приморавај да служи"
+    },
+    {
+      "surface": "בו",
+      "gloss": "га"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "службу"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "роба"
+    }
+  ],
+  "timestamp": "2026-09-05T10:25:42.470453478Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 20:22",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 20,
+  "translation": "И рече Јахве Мошеу: Тако кажи синовима Израиљевим: Ви сте видели да сам с небеса говорио с вама.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошеу"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Тако"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "кажи"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовима"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљевим"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "Ви"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "сте видели"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "מן",
+      "gloss": "с"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небеса"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "говорио сам"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "с вама"
+    }
+  ],
+  "timestamp": "2026-09-05T10:06:32.403828642Z",
+  "model": "glm-5.3"
+}

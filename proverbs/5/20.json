@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 5:20",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "И зашто да, сине мој, луташ са туђинком, и грлиш недра странкиње?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "И зашто"
+    },
+    {
+      "surface": "תשגה",
+      "gloss": "да луташ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сине мој"
+    },
+    {
+      "surface": "בזרה",
+      "gloss": "са туђинком"
+    },
+    {
+      "surface": "ותחבק",
+      "gloss": "и грлиш"
+    },
+    {
+      "surface": "חק",
+      "gloss": "недра"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "странкиње"
+    }
+  ],
+  "timestamp": "2026-09-05T13:46:26.108967910Z",
+  "model": "glm-5.3"
+}

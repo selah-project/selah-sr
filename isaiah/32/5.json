@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 32:5",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 32,
+  "translation": "Неће се више безбожник звати племићем, а тврдици неће се рећи моћник.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "неће се"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "звати"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "више"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "безбожник"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "племићем"
+    },
+    {
+      "surface": "ולכילי",
+      "gloss": "а тврдици"
+    },
+    {
+      "surface": "לא",
+      "gloss": "неће се"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "рећи"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "моћник"
+    }
+  ],
+  "timestamp": "2026-09-05T12:10:23.260580342Z",
+  "model": "glm-5.3"
+}

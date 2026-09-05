@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "Овце и волове, све њих, и звери пољске.",
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "овце"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "и волове"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "све њих"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "и још"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "звери"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "пољске"
+    }
+  ],
+  "timestamp": "2026-09-05T13:17:52.814709354Z",
+  "model": "glm-5.3"
+}

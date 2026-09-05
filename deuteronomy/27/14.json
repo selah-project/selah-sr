@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 27:14",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 27,
+  "translation": "И одговориће Левити и рећи сваком човеку Израиљеву гласно ⟨га≫:",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "И одговориће"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Левити"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "и рећи"
+    },
+    {
+      "surface": "אל",
+      "gloss": "сваком"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨сваком⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човеку"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљеву"
+    },
+    {
+      "surface": "קול",
+      "gloss": "гласно"
+    },
+    {
+      "surface": "רם",
+      "gloss": "⟨га⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T10:53:24.546858680Z",
+  "model": "glm-5.3"
+}

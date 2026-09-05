@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "numbers 7:57",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "један заче, син говеда, један овен, један јагње, син године своје, ⟨за⟩ жртву паљеницу.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "заче"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "један"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "говеда"
+    },
+    {
+      "surface": "איל",
+      "gloss": "овен"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "један"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "јагње"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "један"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "године своје"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "за жртву паљеницу"
+    }
+  ],
+  "timestamp": "2026-09-05T15:09:05.679172468Z",
+  "model": "glm-5.3"
+}

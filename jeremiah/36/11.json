@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 36:11",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 36,
+  "translation": "И чу Микајеху (Михаја), син Гемарјахуа, сина Шафана, ⟨את⟩ све речи Јахвеове са књиге,",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "И чу"
+    },
+    {
+      "surface": "מכיהו",
+      "gloss": "Микајеху"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "גמריהו",
+      "gloss": "Гемарјахуа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "Шафана"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "све речи Јахвеове"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "речи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеове"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "са"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "књиге"
+    }
+  ],
+  "timestamp": "2026-09-05T12:33:34.117578793Z",
+  "model": "glm-5.3"
+}

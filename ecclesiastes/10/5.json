@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 10:5",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "Зло има што видех под сунцем, као погрешку ⟨што⟩ излази испред владара:",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "има"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зло"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "видех"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "сунцем"
+    },
+    {
+      "surface": "כשגגה",
+      "gloss": "као погрешку"
+    },
+    {
+      "surface": "שיצא",
+      "gloss": "што излази"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "испред"
+    },
+    {
+      "surface": "השליט",
+      "gloss": "владара"
+    }
+  ],
+  "timestamp": "2026-09-05T14:12:25.762417933Z",
+  "model": "glm-5.3"
+}

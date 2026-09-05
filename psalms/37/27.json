@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 37:27",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 37,
+  "translation": "Одврати се од зла и чини добро, и настани се довека.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "Одврати се"
+    },
+    {
+      "surface": "мרע",
+      "gloss": "од зла"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "и чини"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "ושכן",
+      "gloss": "и настани се"
+    },
+    {
+      "surface": "лעולם",
+      "gloss": "довека"
+    }
+  ],
+  "timestamp": "2026-09-05T13:24:36.841857896Z",
+  "model": "glm-5.3"
+}

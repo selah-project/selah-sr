@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 28:7",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "Али чуј, молим те, ријеч ову коју ја говорим у ушима твојим и у ушима свега народа:",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Али"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "чуј"
+    },
+    {
+      "surface": "נא",
+      "gloss": "молим те"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ријеч"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ову"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "коју"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ја"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говорим"
+    },
+    {
+      "surface": "באזניך",
+      "gloss": "у ушима твојим"
+    },
+    {
+      "surface": "ובאזני",
+      "gloss": "и у ушима"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сва"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народа"
+    }
+  ],
+  "timestamp": "2026-09-05T12:31:53.450959545Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 9:14",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "Старац и узвишени лицем — он ⟨је⟩ глава; и пророк који учи лаж — он ⟨је⟩ реп.",
+  "tokens": [
+    {
+      "surface": "זקן",
+      "gloss": "Старац"
+    },
+    {
+      "surface": "ונשוא",
+      "gloss": "и узвишени"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "лицем"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "⟨је⟩ глава"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "и пророк"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "који учи"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "лаж"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "הזנב",
+      "gloss": "⟨је⟩ реп"
+    }
+  ],
+  "timestamp": "2026-09-05T15:32:41.770904037Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 18:8",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "Јер се у мрежу посла ногама својим, и по замци хода.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "посла се"
+    },
+    {
+      "surface": "ברשת",
+      "gloss": "у мрежу"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "ногама својим"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и по"
+    },
+    {
+      "surface": "שבכה",
+      "gloss": "замци"
+    },
+    {
+      "surface": "יתהלך",
+      "gloss": "хода"
+    }
+  ],
+  "timestamp": "2026-09-05T13:58:36.741876763Z",
+  "model": "glm-5.3"
+}

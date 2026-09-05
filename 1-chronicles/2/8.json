@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 2:8",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "А синови Ејтанови: Азарја.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "А синови"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "Ејтанови"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Азарја"
+    }
+  ],
+  "timestamp": "2026-09-05T14:33:21.598801257Z",
+  "model": "glm-5.3"
+}

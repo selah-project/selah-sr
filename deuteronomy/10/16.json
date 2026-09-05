@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 10:16",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "И обрежите ⟨את⟩ обрезницу срца свога, и врата своја не крутите више.",
+  "tokens": [
+    {
+      "surface": "ומלתם",
+      "gloss": "И обрежите"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "обрезницу"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "обрезницу"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "срца свога"
+    },
+    {
+      "surface": "וערפכם",
+      "gloss": "и врата своја"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "крутите"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "више"
+    }
+  ],
+  "timestamp": "2026-09-05T15:13:42.449006254Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 33:16",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 33,
+  "translation": "И врати се тога дана Есав путем својим у Сеир.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "и врати се"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "тога дана"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "истог"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Есав"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "путем својим"
+    },
+    {
+      "surface": "שעירה",
+      "gloss": "у Сеир"
+    }
+  ],
+  "timestamp": "2026-09-05T09:50:37.779542420Z",
+  "model": "glm-5.3"
+}

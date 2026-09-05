@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 16:5",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 16,
+  "translation": "Јахве ⟨је⟩ удео уделе моје и чаша моја; ти држиш жреб мој.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "удео"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "уделе моје"
+    },
+    {
+      "surface": "וכוסי",
+      "gloss": "и чаша моја"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "תומיך",
+      "gloss": "држиш"
+    },
+    {
+      "surface": "גורלי",
+      "gloss": "жреб мој"
+    }
+  ],
+  "timestamp": "2026-09-05T13:18:29.417821953Z",
+  "model": "glm-5.3"
+}

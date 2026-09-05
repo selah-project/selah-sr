@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-samuel 3:38",
+  "book": "2-samuel",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "И рече краљ к слугама својим: зар не знате да кнез и велик паде данас овај у Израиљу?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "краљ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "слугама својим"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "зар не"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "знате"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "שר",
+      "gloss": "кнез"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "и велик"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "паде"
+    },
+    {
+      "surface": "היום",
+      "gloss": "данас"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овај"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "у Израиљу"
+    }
+  ],
+  "timestamp": "2026-09-05T11:27:55.552160118Z",
+  "model": "glm-5.3"
+}

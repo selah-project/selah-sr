@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 1:23",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "И би вече, и би јутро — дан пети.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "и би"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "вече"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и би"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "јутро"
+    },
+    {
+      "surface": "יום",
+      "gloss": "дан"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "пети"
+    }
+  ],
+  "timestamp": "2026-09-05T14:58:10.098650765Z",
+  "model": "glm-5.3"
+}

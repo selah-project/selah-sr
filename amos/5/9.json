@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "amos 5:9",
+  "book": "amos",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Који нагло спушта пустош на јакога, и пустош на тврђаву долази.",
+  "tokens": [
+    {
+      "surface": "המבליג",
+      "gloss": "који нагло спушта"
+    },
+    {
+      "surface": "שד",
+      "gloss": "пустош"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "עז",
+      "gloss": "јакога"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "и пустош"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "тврђаву"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "долази"
+    }
+  ],
+  "timestamp": "2026-09-05T13:06:00.541906593Z",
+  "model": "glm-5.3"
+}

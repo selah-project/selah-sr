@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 3:7",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Огради ме ⟨тако⟩ да не изађем; учини тешким оков мој.",
+  "tokens": [
+    {
+      "surface": "גדר",
+      "gloss": "Огради"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "ме"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и да не"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "изађем"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "учини тешким"
+    },
+    {
+      "surface": "נחשתי",
+      "gloss": "оков мој"
+    }
+  ],
+  "timestamp": "2026-09-05T14:09:09.192560481Z",
+  "model": "glm-5.3"
+}

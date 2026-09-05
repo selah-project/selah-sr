@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 33:51",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 33,
+  "translation": "Говори синовима Израиљевим и реци им: кад пређете ⟨את⟩ Јарден у земљу кнаанску,",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Говори"
+    },
+    {
+      "surface": "אל",
+      "gloss": "синовима"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовима"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљевим"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "и реци"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "כי",
+      "gloss": "кад"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ви"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "пређете"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јарден"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Јарден"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земљу"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "кнаанску"
+    }
+  ],
+  "timestamp": "2026-09-05T16:57:08.819217761Z",
+  "model": "glm-5.3"
+}

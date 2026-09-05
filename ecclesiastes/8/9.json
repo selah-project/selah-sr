@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 8:9",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "⟨את⟩ све ово видех, и дадох ⟨את⟩ срце своје сваком делу које се чини под сунцем: време да човек влада над човеком — на зло њему.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "све ово"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ово"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "видех"
+    },
+    {
+      "surface": "ונתון",
+      "gloss": "и давши"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "срце своје"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "срце своје"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "сваком"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "делу"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "које"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "се чини"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "сунцем"
+    },
+    {
+      "surface": "עת",
+      "gloss": "време"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кад"
+    },
+    {
+      "surface": "שלט",
+      "gloss": "влада"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "човек"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "над човеком"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "на зло"
+    },
+    {
+      "surface": "לו",
+      "gloss": "њему"
+    }
+  ],
+  "timestamp": "2026-09-05T14:13:32.565408930Z",
+  "model": "glm-5.3"
+}

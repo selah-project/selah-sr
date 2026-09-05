@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 146:6",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 146,
+  "translation": "чинитељ небеса и земље, ⟨את⟩ море и ⟨את⟩ све што је у њима — онај који чува истину довека.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "чинитељ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "небеса"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "и земље"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "море"
+    },
+    {
+      "surface": "הים",
+      "gloss": "море"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "све"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "בם",
+      "gloss": "у њима"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "онај који чува"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "истину"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "довека"
+    }
+  ],
+  "timestamp": "2026-09-05T16:00:11.181961359Z",
+  "model": "glm-5.3"
+}

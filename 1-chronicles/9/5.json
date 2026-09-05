@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 9:5",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "И од Шилонаца: Асаја прворођени и синови његови.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "и од"
+    },
+    {
+      "surface": "השילוני",
+      "gloss": "Шилонаца"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "Асаја"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "прворођени"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "и синови његови"
+    }
+  ],
+  "timestamp": "2026-09-05T14:37:36.736786970Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 32:7",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 32,
+  "translation": "И зашто одвраћате ⟨את⟩ срце синова Израиљевих од преласка у ⟨את⟩ земљу коју им даде Јахве?",
+  "tokens": [
+    {
+      "surface": "ולמה",
+      "gloss": "И зашто"
+    },
+    {
+      "surface": "תנואון",
+      "gloss": "одвраћате"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "срце"
+    },
+    {
+      "surface": "לב",
+      "gloss": "срце"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синова"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљевих"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "од преласка"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земљу"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "коју"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "даде"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-09-05T10:40:39.996806855Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 73:2",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 73,
+  "translation": "А ја — замало се померише ноге моје, као ништа посрну корак мој.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "А ја"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "замало"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "се померише"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ноге моје"
+    },
+    {
+      "surface": "כאין",
+      "gloss": "као ништа"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "посрну"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "корак мој"
+    }
+  ],
+  "timestamp": "2026-09-05T13:30:44.564618533Z",
+  "model": "glm-5.3"
+}

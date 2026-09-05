@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 41:31",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 41,
+  "translation": "и неће се знати ситост у земљи због те глади после тога, јер ⟨је⟩ тешка он веома.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "знаће се"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "ситост"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "у земљи"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "због"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "глади"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "те"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "после"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тога"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "тешка"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "веома"
+    }
+  ],
+  "timestamp": "2026-09-05T09:55:11.090292787Z",
+  "model": "glm-5.3"
+}

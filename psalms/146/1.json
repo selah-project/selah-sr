@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 146:1",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 146,
+  "translation": "Хвалите Јаха! Хвали, душе моја, ⟨את⟩ Јахвеа!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Хвалите"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Јаха"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "Хвали"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душе моја"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јахвеа"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    }
+  ],
+  "timestamp": "2026-09-05T13:44:58.271704058Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 21:9",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "А ти искорени ⟨את⟩ крв невину из средине своје, јер чиниш оно што је право у очима Јахвеа.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "а ти"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "искорени"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "крв"
+    },
+    {
+      "surface": "הנקי",
+      "gloss": "невину"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "из средине своје"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "чиниш"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "право"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "у очима"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    }
+  ],
+  "timestamp": "2026-09-05T10:50:48.277739712Z",
+  "model": "glm-5.3"
+}

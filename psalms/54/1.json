@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 54:1",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 54,
+  "translation": "Управнику, на гудалима, машкил Давидов:",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Управнику"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "на гудалима"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "машкил (поука)"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидов"
+    }
+  ],
+  "timestamp": "2026-09-05T16:43:31.975259197Z",
+  "model": "glm-5.3"
+}

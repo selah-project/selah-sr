@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 22:29",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "И рече Билам магарици: јер си ме зло поштовала — да има мач у руци својој, јер бих те сад убио.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Билам"
+    },
+    {
+      "surface": "לאתון",
+      "gloss": "магарици"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "התעללת",
+      "gloss": "зло си поштовала"
+    },
+    {
+      "surface": "בי",
+      "gloss": "мене"
+    },
+    {
+      "surface": "לו",
+      "gloss": "да"
+    },
+    {
+      "surface": "יש",
+      "gloss": "има"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "мач"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "у руци својој"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "сад"
+    },
+    {
+      "surface": "הרגתיך",
+      "gloss": "убио те"
+    }
+  ],
+  "timestamp": "2026-09-05T10:38:46.926916234Z",
+  "model": "glm-5.3"
+}

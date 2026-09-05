@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 19:5",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 19,
+  "translation": "И исцешће се воде из мора, и река ће опустети и осушити се.",
+  "tokens": [
+    {
+      "surface": "ונשתו",
+      "gloss": "и исцешће се"
+    },
+    {
+      "surface": "מים",
+      "gloss": "воде"
+    },
+    {
+      "surface": "מהים",
+      "gloss": "из мора"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "и река"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "ће опустети"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "и осушити се"
+    }
+  ],
+  "timestamp": "2026-09-05T15:34:13.866756871Z",
+  "model": "glm-5.3"
+}

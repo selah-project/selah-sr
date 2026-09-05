@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 23:22",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "И умре Елазар, и не беху му синови, него кћери; и узеше их синови Киша, браћа њихова ⟨за жене⟩.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "и умре"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Елазар"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "היו",
+      "gloss": "беху"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "синови"
+    },
+    {
+      "surface": "כי",
+      "gloss": "него"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨него⟩"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "кћери"
+    },
+    {
+      "surface": "וישאום",
+      "gloss": "и узеше их"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "Киша"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "браћа њихова"
+    }
+  ],
+  "timestamp": "2026-09-05T14:42:16.107511116Z",
+  "model": "glm-5.3"
+}

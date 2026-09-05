@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 11:22",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "⟨Као⟩ прстен златан у носу свиње ⟨таква је⟩ жена лепа што одступа од разума.",
+  "tokens": [
+    {
+      "surface": "נזם",
+      "gloss": "⟨Као⟩ прстен"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "златан"
+    },
+    {
+      "surface": "באף",
+      "gloss": "у носу"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "свиње"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "жена"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "лепа"
+    },
+    {
+      "surface": "וסרת",
+      "gloss": "што одступа"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "разума"
+    }
+  ],
+  "timestamp": "2026-09-05T16:01:07.857045314Z",
+  "model": "glm-5.3"
+}

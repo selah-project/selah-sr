@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 1:42",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "Синови Ецера: Билхан, и Зааван, и Јакан; синови Дишона: Уц и Аран.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "Ецера"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "Билхан"
+    },
+    {
+      "surface": "וזעון",
+      "gloss": "и Зааван"
+    },
+    {
+      "surface": "יעקן",
+      "gloss": "и Јакан"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "Дишона"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "Уц"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "и Аран"
+    }
+  ],
+  "timestamp": "2026-09-05T14:33:29.745847726Z",
+  "model": "glm-5.3"
+}

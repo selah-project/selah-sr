@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 115:18",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 115,
+  "translation": "А ми благосиљаћемо Јаха од сада и до века. Хвалите Јаха!",
+  "tokens": [
+    {
+      "surface": "ואנחנו",
+      "gloss": "а ми"
+    },
+    {
+      "surface": "נברך",
+      "gloss": "благосиљаћемо"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Јаха"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "од сада"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и до"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "века"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "хвалите"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Јаха"
+    }
+  ],
+  "timestamp": "2026-09-05T13:39:20.923674315Z",
+  "model": "glm-5.3"
+}

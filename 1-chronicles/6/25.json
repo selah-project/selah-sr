@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 6:25",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "син Михаела, син Башеје, син Малкије.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "מיכאל",
+      "gloss": "Михаела"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "בעשיה",
+      "gloss": "Башеје"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "Малкије"
+    }
+  ],
+  "timestamp": "2026-09-05T14:36:23.277446873Z",
+  "model": "glm-5.3"
+}

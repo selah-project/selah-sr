@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-chronicles 1:52",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "кнез Охоливама, кнез Ела, кнез Пинон.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "кнез"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "Охоливама"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "кнез"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ела"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "кнез"
+    },
+    {
+      "surface": "פינן",
+      "gloss": "Пинон"
+    }
+  ],
+  "timestamp": "2026-09-05T14:33:42.165559321Z",
+  "model": "glm-5.3"
+}

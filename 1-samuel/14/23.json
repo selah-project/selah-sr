@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 14:23",
+  "book": "1-samuel",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "И спасе Јахве у дан онај ⟨את⟩ Израела, и битка пређе ⟨да⟩ ⟨את⟩ Бет Авен.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "и спасе"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "у дан"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "онај"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Израела"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израела"
+    },
+    {
+      "surface": "ויהמלחמה",
+      "gloss": "и битка"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "пређе"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Бет Авен"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет"
+    },
+    {
+      "surface": "און",
+      "gloss": "Авен"
+    }
+  ],
+  "timestamp": "2026-09-05T15:22:48.094964291Z",
+  "model": "glm-5.3"
+}

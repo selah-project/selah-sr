@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 31:5",
+  "book": "1-samuel",
+  "lang": "sr",
+  "chapter": 31,
+  "translation": "И виде носилац оружја његова да умре Шаул (Саул), и падне и он на мач свој, и умре с њим.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "и виде"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "носилац"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "оружја његова"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "מת",
+      "gloss": "умре"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул (Саул)"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "и падне"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "мач свој"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "и умре"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "с њим"
+    }
+  ],
+  "timestamp": "2026-09-05T11:28:51.157436095Z",
+  "model": "glm-5.3"
+}

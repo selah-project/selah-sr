@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 38:26",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 38,
+  "translation": "да пада киша на земљу без човека, на пустињу без човека у њој,",
+  "tokens": [
+    {
+      "surface": "להמטיר",
+      "gloss": "да пада киша"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земљу"
+    },
+    {
+      "surface": "לא",
+      "gloss": "без"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човека"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "пустињу"
+    },
+    {
+      "surface": "לא",
+      "gloss": "без"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човека"
+    },
+    {
+      "surface": "בו",
+      "gloss": "у њој"
+    }
+  ],
+  "timestamp": "2026-09-05T16:45:39.481006157Z",
+  "model": "glm-5.3"
+}

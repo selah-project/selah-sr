@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 11:19",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "Не један дан јешћете, ни два дана, ни пет дана, ни десет дана, ни двадесет дана,",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יום",
+      "gloss": "један"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "дан"
+    },
+    {
+      "surface": "תאכלון",
+      "gloss": "јешћете"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ни"
+    },
+    {
+      "surface": "יומים",
+      "gloss": "дана"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ни"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "пет"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дана"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ни"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "десет"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дана"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ни"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двадесет"
+    },
+    {
+      "surface": "יום",
+      "gloss": "дан"
+    }
+  ],
+  "timestamp": "2026-09-05T16:35:00.926297510Z",
+  "model": "glm-5.3"
+}

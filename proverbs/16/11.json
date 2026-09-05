@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 16:11",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 16,
+  "translation": "Вагaр и тасови правде ⟨су⟩ Јахвеви; дело његово ⟨су⟩ све каменчеци меха.",
+  "tokens": [
+    {
+      "surface": "פלס",
+      "gloss": "вагар"
+    },
+    {
+      "surface": "ומאזני",
+      "gloss": "и тасови"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "правде"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Јахвеви"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "дело његово"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "каменчеци"
+    },
+    {
+      "surface": "כיס",
+      "gloss": "меха"
+    }
+  ],
+  "timestamp": "2026-09-05T13:49:30.421390477Z",
+  "model": "glm-5.3"
+}

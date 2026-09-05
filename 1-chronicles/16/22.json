@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 16:22",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 16,
+  "translation": "Не дирајте моје помазанике, и мојим пророцима не чините зло.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "дирајте"
+    },
+    {
+      "surface": "במשיחי",
+      "gloss": "моје помазанике"
+    },
+    {
+      "surface": "ובנביאי",
+      "gloss": "и моје пророке"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "чините зло"
+    }
+  ],
+  "timestamp": "2026-09-05T14:38:45.437762626Z",
+  "model": "glm-5.3"
+}

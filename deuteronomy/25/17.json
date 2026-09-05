@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 25:17",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 25,
+  "translation": "Помни ⟨את⟩ оно што ти учини Амалек на путу, кад сте излазили из Мицрајима.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Помни"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "оно што учини Амалек"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "оно што"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "учини"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "Амалек"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "на путу"
+    },
+    {
+      "surface": "בצאתכם",
+      "gloss": "у изласку вашем"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "из Мицрајима"
+    }
+  ],
+  "timestamp": "2026-09-05T10:52:44.424971993Z",
+  "model": "glm-5.3"
+}

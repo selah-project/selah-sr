@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 3:9",
+  "book": "2-samuel",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Тако учини Елохим Авнеру, и тако додао њему — јер као што се закле Јахве Давиду, тако ћу учинити њему.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "тако"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "учини"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "לאבנר",
+      "gloss": "Авнеру"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "и тако"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "додао"
+    },
+    {
+      "surface": "לו",
+      "gloss": "њему"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "као што"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "се закле"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давиду"
+    },
+    {
+      "surface": "כי",
+      "gloss": "тако"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ћу"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "учинити"
+    },
+    {
+      "surface": "לו",
+      "gloss": "њему"
+    }
+  ],
+  "timestamp": "2026-09-05T11:28:05.492302587Z",
+  "model": "glm-5.3"
+}

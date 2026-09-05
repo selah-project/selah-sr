@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 7:17",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Посуспах постељу своју — миром, алојем и циметом.",
+  "tokens": [
+    {
+      "surface": "נפתי",
+      "gloss": "посуспах"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "постељу своју"
+    },
+    {
+      "surface": "מר",
+      "gloss": "миром"
+    },
+    {
+      "surface": "אהלים",
+      "gloss": "алојем"
+    },
+    {
+      "surface": "וקנמון",
+      "gloss": "и циметом"
+    }
+  ],
+  "timestamp": "2026-09-05T13:47:39.113666419Z",
+  "model": "glm-5.3"
+}

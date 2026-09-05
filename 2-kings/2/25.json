@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-kings 2:25",
+  "book": "2-kings",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "И отиде одатле на гору Кармел, и одатле се врати у Шомрон (Самарију).",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "и отиде"
+    },
+    {
+      "surface": "משם",
+      "gloss": "одатле"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "הר",
+      "gloss": "гору"
+    },
+    {
+      "surface": "הכרמל",
+      "gloss": "Кармел"
+    },
+    {
+      "surface": "ומשם",
+      "gloss": "и одатле"
+    },
+    {
+      "surface": "שב",
+      "gloss": "се врати"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Шомрон"
+    }
+  ],
+  "timestamp": "2026-09-05T11:49:07.639152630Z",
+  "model": "glm-5.3"
+}

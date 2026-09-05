@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 41:4",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 41,
+  "translation": "И би другог дана по убиству ⟨את⟩ Гедалије, а човек не знаше ⟨то⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И би"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "дана"
+    },
+    {
+      "surface": "השני",
+      "gloss": "другог"
+    },
+    {
+      "surface": "лהמית",
+      "gloss": "по убиству"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Гедалије"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "Гедалије"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "а човек"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "знаше"
+    }
+  ],
+  "timestamp": "2026-09-05T12:35:52.564167076Z",
+  "model": "glm-5.3"
+}

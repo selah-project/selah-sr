@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 26:14",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 26,
+  "translation": "Врата се обрћу на својој осовини, а лењивац на свом кревету.",
+  "tokens": [
+    {
+      "surface": "הדלת",
+      "gloss": "Врата"
+    },
+    {
+      "surface": "תסוב",
+      "gloss": "се обрћу"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "צירה",
+      "gloss": "својој осовини"
+    },
+    {
+      "surface": "ועצל",
+      "gloss": "а лењивац"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "свом кревету"
+    }
+  ],
+  "timestamp": "2026-09-05T16:02:21.453909817Z",
+  "model": "glm-5.3"
+}

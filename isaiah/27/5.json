@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 27:5",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 27,
+  "translation": "Или се држите чврсто моје тврђаве — учиниће ми мир, мир ће ми учинити.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "Или"
+    },
+    {
+      "surface": "יחזק",
+      "gloss": "држите се чврсто"
+    },
+    {
+      "surface": "במעוזי",
+      "gloss": "моје тврђаве"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "учиниће"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мир"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мир"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ће учинити"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    }
+  ],
+  "timestamp": "2026-09-05T12:07:50.269496683Z",
+  "model": "glm-5.3"
+}

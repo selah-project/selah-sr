@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 6:6",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "И раскаја се Јахве да начини ⟨את⟩ човека на земљи, и ожалости се до срца свога.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "и раскаја се"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "начини"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "човека"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "човека"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "на земљи"
+    },
+    {
+      "surface": "ויתעצב",
+      "gloss": "и ожалости се"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "срца свога"
+    }
+  ],
+  "timestamp": "2026-09-05T09:40:57.509401927Z",
+  "model": "glm-5.3"
+}

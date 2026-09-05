@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 19:13",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 19,
+  "translation": "Пропаст оцу својему ⟨је⟩ син безуман, а капање непрестано — свађе жене.",
+  "tokens": [
+    {
+      "surface": "הות",
+      "gloss": "Пропаст"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "оцу својему"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "безуман"
+    },
+    {
+      "surface": "ודלף",
+      "gloss": "а капање"
+    },
+    {
+      "surface": "טרד",
+      "gloss": "непрестано"
+    },
+    {
+      "surface": "מדיני",
+      "gloss": "свађе"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "жене"
+    }
+  ],
+  "timestamp": "2026-09-05T17:11:23.550360005Z",
+  "model": "glm-5.3"
+}

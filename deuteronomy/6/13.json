@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 6:13",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "⟨את⟩ Јахвеа, Елохима свога, бој се, и ⟨את⟩ њега служи, и у име његово се кун.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јахвеа"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Елохима свога"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "бој се"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "и ⟨את⟩ њега",
+      "marks": "служиш Јахвеа"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "служи"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "и у име његово"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "се кун"
+    }
+  ],
+  "timestamp": "2026-09-05T10:45:11.624289456Z",
+  "model": "glm-5.3"
+}

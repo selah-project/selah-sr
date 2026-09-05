@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 26:46",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 26,
+  "translation": "А име кћери Асирове ⟨бејаше⟩ Серах.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "А име"
+    },
+    {
+      "surface": "בת",
+      "gloss": "кћери"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Асирове"
+    },
+    {
+      "surface": "שרח",
+      "gloss": "Серах"
+    }
+  ],
+  "timestamp": "2026-09-05T15:11:07.068356767Z",
+  "model": "glm-5.3"
+}

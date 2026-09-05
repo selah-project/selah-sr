@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 37:22",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 37,
+  "translation": "Са севера злато долази; код Елоаха страшна ⟨је⟩ вележ.",
+  "tokens": [
+    {
+      "surface": "מצפון",
+      "gloss": "са севера"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "злато"
+    },
+    {
+      "surface": "יאתה",
+      "gloss": "долази"
+    },
+    {
+      "surface": "על",
+      "gloss": "код"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Елоах"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "страшна"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "вележ"
+    }
+  ],
+  "timestamp": "2026-09-05T14:04:47.698711801Z",
+  "model": "glm-5.3"
+}

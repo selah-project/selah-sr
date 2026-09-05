@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 24:19",
+  "book": "2-samuel",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "И узиђе Давид по речи Гадовој, као што заповеди Јахве.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "и узиђе"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "по речи"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гадовој"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "као што"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповеди"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-09-05T11:37:56.583450801Z",
+  "model": "glm-5.3"
+}

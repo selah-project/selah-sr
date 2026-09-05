@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 23:7",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "Јер као што цени ⟨у⟩ души својој, тако ⟨је⟩ он: „Једи и пиј“ — рећи ће теби, а срце његово није с тобом.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "као што"
+    },
+    {
+      "surface": "שער",
+      "gloss": "цени"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "у души својој"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тако"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "једи"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "и пиј"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "рећи ће"
+    },
+    {
+      "surface": "לך",
+      "gloss": "теби"
+    },
+    {
+      "surface": "ולבו",
+      "gloss": "а срце његово"
+    },
+    {
+      "surface": "בל",
+      "gloss": "није"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "с тобом"
+    }
+  ],
+  "timestamp": "2026-09-05T17:18:59.137935251Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 25:17",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 25,
+  "translation": "И узех ⟨את⟩ чашу из руке Јахвеове и напојих ⟨את⟩ све народе к којима ме посла Јахве.",
+  "tokens": [
+    {
+      "surface": "ואקח",
+      "gloss": "и узех"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "чашу"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "чашу"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "из руке"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеове"
+    },
+    {
+      "surface": "ואשקה",
+      "gloss": "и напојих"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "све народе"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "народе"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "које"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "посла ме"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "к њима"
+    }
+  ],
+  "timestamp": "2026-09-05T12:30:46.960402092Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 89:49",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 89,
+  "translation": "Који је човек да живи и не види смрт? Да ли ће избавити душу своју из руке Шеола? Села.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ко"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "човек"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "живи"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "види"
+    },
+    {
+      "surface": "מות",
+      "gloss": "смрт"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "избавиће"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "душу своју"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "из руке"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шеола"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Села"
+    }
+  ],
+  "timestamp": "2026-09-05T13:35:04.102422054Z",
+  "model": "glm-5.3"
+}

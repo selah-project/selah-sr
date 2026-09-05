@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 19:19",
+  "book": "1-samuel",
+  "lang": "sr",
+  "chapter": 19,
+  "translation": "И пријавише Шаулу ⟨и рекоше⟩: ено Давида у Најоту у Рами.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "и пријавише"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Шаулу"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨и рекоше⟩"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ено"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давида"
+    },
+    {
+      "surface": "בנוית",
+      "gloss": "у Најоту"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "у Рами"
+    }
+  ],
+  "timestamp": "2026-09-05T11:22:37.299812040Z",
+  "model": "glm-5.3"
+}

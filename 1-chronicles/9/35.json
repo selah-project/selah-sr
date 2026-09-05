@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 9:35",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "А у Гивону стаде отац Гивонов, Јеиел (Јехијело), и име жене његове Мааха.",
+  "tokens": [
+    {
+      "surface": "ובגבעון",
+      "gloss": "а у Гивону"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "стаде"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "отац"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Гивонов"
+    },
+    {
+      "surface": "יעואל",
+      "gloss": "Јеиел (Јехијело)"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "и име"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "жене његове"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Мааха"
+    }
+  ],
+  "timestamp": "2026-09-05T14:38:17.785730567Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 21:27",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "И рече Јахве анђелу, и врати мач његов у корице његове.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "למלאך",
+      "gloss": "анђелу"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "и врати"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "мач његов"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "נדנה",
+      "gloss": "корице његове"
+    }
+  ],
+  "timestamp": "2026-09-05T14:40:17.060932529Z",
+  "model": "glm-5.3"
+}

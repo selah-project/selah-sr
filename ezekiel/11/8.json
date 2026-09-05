@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 11:8",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "Мач сте се бояли, и мач ћу довести на вас — ријеч је Адонаја Јахвеа.",
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "мач"
+    },
+    {
+      "surface": "יראתם",
+      "gloss": "сте се бояли"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "и мач"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "ћу довести"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "на вас"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ријеч је"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонаја"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    }
+  ],
+  "timestamp": "2026-09-05T12:44:43.046389073Z",
+  "model": "glm-5.3"
+}

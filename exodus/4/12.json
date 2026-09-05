@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 4:12",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "И сад иди — и ја бих са устима твојим и поучио бих те шта да говориш.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "И сад"
+    },
+    {
+      "surface": "לך",
+      "gloss": "иди"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "и ја"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "бих"
+    },
+    {
+      "surface": "עם",
+      "gloss": "са"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "устима твојим"
+    },
+    {
+      "surface": "והוריתיך",
+      "gloss": "и поучио бих те"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "шта"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "да говориш"
+    }
+  ],
+  "timestamp": "2026-09-05T10:01:02.187359373Z",
+  "model": "glm-5.3"
+}

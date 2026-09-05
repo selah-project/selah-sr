@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 29:1",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 29,
+  "translation": "И додаде Јов да подигне песму своју, и рече:",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "И додаде"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Јов"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "да подигне"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "песму своју"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    }
+  ],
+  "timestamp": "2026-09-05T14:01:51.582661021Z",
+  "model": "glm-5.3"
+}

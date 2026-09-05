@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 15:24",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 15,
+  "translation": "И негодова народ против Мошеа (Мојсија) говорећи: шта ћемо пити?",
+  "tokens": [
+    {
+      "surface": "וילנו",
+      "gloss": "и негодова"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "על",
+      "gloss": "против"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошеа"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорећи"
+    },
+    {
+      "surface": "מה",
+      "gloss": "шта"
+    },
+    {
+      "surface": "נשתה",
+      "gloss": "ћемо пити"
+    }
+  ],
+  "timestamp": "2026-09-05T15:04:04.320243384Z",
+  "model": "glm-5.3"
+}

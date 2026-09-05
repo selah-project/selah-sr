@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 107:16",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 107,
+  "translation": "Јер сломи врата од бронзе и преце гвоздене резове.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "сломи"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "врата"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "од бронзе"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "и гвоздене резове"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "од гвожђа"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "преце"
+    }
+  ],
+  "timestamp": "2026-09-05T13:38:02.879013625Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 17:4",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 17,
+  "translation": "Злокобник прихвата усне безакоња, лажов слуша језик пропасти.",
+  "tokens": [
+    {
+      "surface": "מרע",
+      "gloss": "злокобник"
+    },
+    {
+      "surface": "מקשיב",
+      "gloss": "прихвата"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "שפת",
+      "gloss": "усне"
+    },
+    {
+      "surface": "און",
+      "gloss": "безакоња"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "лажов"
+    },
+    {
+      "surface": "מזין",
+      "gloss": "слуша"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "לשון",
+      "gloss": "језик"
+    },
+    {
+      "surface": "הות",
+      "gloss": "пропасти"
+    }
+  ],
+  "timestamp": "2026-09-05T13:50:08.375695486Z",
+  "model": "glm-5.3"
+}

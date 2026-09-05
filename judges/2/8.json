@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 2:8",
+  "book": "judges",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "И умре Јехошуа, син Нунов, слуга Јахвеов, у сто и десетој години.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "и умре"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Јехошуа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Нунов"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "слуга"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеов"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨у⟩ годи(нама)"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "и десет"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "година"
+    }
+  ],
+  "timestamp": "2026-09-05T11:05:29.880252098Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 31:1",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 31,
+  "translation": "Управнику. Мизмор Давидов (псалам Давидов).",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Управнику"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мизмор"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидов"
+    }
+  ],
+  "timestamp": "2026-09-05T13:21:04.706187853Z",
+  "model": "glm-5.3"
+}

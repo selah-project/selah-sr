@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 37:8",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 37,
+  "translation": "И видех, и ено — на њима жиле, и месо изађе, и прекри их кожа одозго; а духа немаше у њима.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "И видех"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и ено"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "на њима"
+    },
+    {
+      "surface": "גדים",
+      "gloss": "жиле"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "и месо"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "изађе"
+    },
+    {
+      "surface": "ויקרם",
+      "gloss": "и прекри"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "их"
+    },
+    {
+      "surface": "עור",
+      "gloss": "кожа"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "одозго"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "а духа"
+    },
+    {
+      "surface": "אין",
+      "gloss": "немаше"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "у њима"
+    }
+  ],
+  "timestamp": "2026-09-05T12:55:07.485725418Z",
+  "model": "glm-5.3"
+}

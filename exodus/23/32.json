@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 23:32",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "Не гради њима нити њиховим боговима завета.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תכרот",
+      "gloss": "гради"
+    },
+    {
+      "surface": "להם",
+      "gloss": "њима"
+    },
+    {
+      "surface": "ולאלוהיהם",
+      "gloss": "нити њиховим боговима"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "завета"
+    }
+  ],
+  "timestamp": "2026-09-05T15:04:19.073817661Z",
+  "model": "glm-5.3"
+}

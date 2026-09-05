@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 7:9",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Не жури се у духу свом да се гњевиш, јер гњев у наручју лудих почива.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "жури се"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "у духу свом"
+    },
+    {
+      "surface": "לכעוס",
+      "gloss": "да се гњевиш"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "гњев"
+    },
+    {
+      "surface": "בחיק",
+      "gloss": "у наручју"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "лудих"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "почива"
+    }
+  ],
+  "timestamp": "2026-09-05T14:12:23.543595610Z",
+  "model": "glm-5.3"
+}

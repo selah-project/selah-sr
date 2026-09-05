@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 6:3",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "И синови Кехатови: Амрам, Јицхар, Хеврон и Узиил.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "И синови"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Кехатови"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Амрам"
+    },
+    {
+      "surface": "ויצהר",
+      "gloss": "и Јицхар"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "и Хеврон"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "и Узиил"
+    }
+  ],
+  "timestamp": "2026-09-05T14:35:44.523713337Z",
+  "model": "glm-5.3"
+}

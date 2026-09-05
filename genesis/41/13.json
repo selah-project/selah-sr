@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 41:13",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 41,
+  "translation": "И би као што нам протумачи, тако би: ⟨את⟩ мене врати на место моје, а ⟨את⟩ њега обеси.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "и би"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "као што"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "протумачи"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "нам"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тако"
+    },
+    {
+      "surface": "היה",
+      "gloss": "би"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "мене"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "врати"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "כני",
+      "gloss": "место моје"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "а ⟨את⟩",
+      "marks": "њега"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "обеси"
+    }
+  ],
+  "timestamp": "2026-09-05T09:55:06.341129068Z",
+  "model": "glm-5.3"
+}

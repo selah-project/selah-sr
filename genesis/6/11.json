@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 6:11",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "И поквари се земља пред Елохимом, и напуни се земља насиљем.",
+  "tokens": [
+    {
+      "surface": "ותשחת",
+      "gloss": "И поквари се"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земља"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елохимом"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "и напуни се"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земља"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "насиљем"
+    }
+  ],
+  "timestamp": "2026-09-05T09:40:23.514545765Z",
+  "model": "glm-5.3"
+}

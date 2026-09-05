@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 39:14",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 39,
+  "translation": "Јер оставља на земљи јаја своја и у праху их греје.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "оставља"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "на земљу"
+    },
+    {
+      "surface": "בציה",
+      "gloss": "јаја своја"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "прах"
+    },
+    {
+      "surface": "תחמם",
+      "gloss": "греје их"
+    }
+  ],
+  "timestamp": "2026-09-05T14:05:15.847745380Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 9:13",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "Јер истираживач крви ⟨את⟩ њих опомену се; не заборави вапај понизних.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "истражује"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "крв"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "њих"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "опомену се"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "заборави"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "вапај"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "понизних"
+    }
+  ],
+  "timestamp": "2026-09-05T13:18:13.837112029Z",
+  "model": "glm-5.3"
+}

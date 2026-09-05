@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "Срце мудраца ⟨је⟩ на десној његовој, а срце лудака на левој његовој.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "срце"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мудраца"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "на десној његовој"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "а срце"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "лудака"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "на левој његовој"
+    }
+  ],
+  "timestamp": "2026-09-05T14:12:53.715489607Z",
+  "model": "glm-5.3"
+}

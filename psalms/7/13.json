@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 7:13",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Ако се не врати, мач свој ће наоштрити, лук свој напе и спреми ⟨га⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "врати"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "мач свој"
+    },
+    {
+      "surface": "ילטוש",
+      "gloss": "наоштрити"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "лук свој"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "напе"
+    },
+    {
+      "surface": "ויכוננה",
+      "gloss": "и спреми ⟨га⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T13:16:23.844045836Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 7:11",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Бучна је она и тврдоглава, у дому својем не мирују ноге њене.",
+  "tokens": [
+    {
+      "surface": "המיה",
+      "gloss": "Бучна"
+    },
+    {
+      "surface": "היא",
+      "gloss": "она"
+    },
+    {
+      "surface": "וסררת",
+      "gloss": "и тврдоглава"
+    },
+    {
+      "surface": "בביתה",
+      "gloss": "у дому својем"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "мирују"
+    },
+    {
+      "surface": "רגליה",
+      "gloss": "ноге њене"
+    }
+  ],
+  "timestamp": "2026-09-05T13:47:14.876622588Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 21:3",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "Ако сам дође, сам ће изаћи; ако је муж жене, и жена његова изаћи ће с њим.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ако"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "сам"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "дође"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "сам"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "изаћи ће"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "муж"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "жене"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "је"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "изаћи ће"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "жена његова"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "с њим"
+    }
+  ],
+  "timestamp": "2026-09-05T10:08:10.303648718Z",
+  "model": "glm-5.3"
+}

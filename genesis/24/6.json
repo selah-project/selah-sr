@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 24:6",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "И рече му Аврахам: чувај се да не вратиш ⟨את⟩ сина мојега онамо.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "му"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврахам"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "чувај"
+    },
+    {
+      "surface": "לך",
+      "gloss": "себе"
+    },
+    {
+      "surface": "פן",
+      "gloss": "да не"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "вратиш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сина мојега"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сина мојега"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "онамо"
+    }
+  ],
+  "timestamp": "2026-09-05T09:46:25.377982490Z",
+  "model": "glm-5.3"
+}

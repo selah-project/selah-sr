@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 29:7",
+  "book": "1-samuel",
+  "lang": "sr",
+  "chapter": 29,
+  "translation": "А сада врати се и иди у миру, и не чини зла у очима сарена Плиштима.“",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "А сада"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "врати се"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "и иди"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "у миру"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "чини"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зла"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "у очима"
+    },
+    {
+      "surface": "сרני",
+      "gloss": "сарена"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Плиштима"
+    }
+  ],
+  "timestamp": "2026-09-05T11:26:46.501183771Z",
+  "model": "glm-5.3"
+}

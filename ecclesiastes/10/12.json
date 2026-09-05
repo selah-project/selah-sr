@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 10:12",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "Речи уста мудраца ⟨су⟩ милина, а усне глупака прогутају га.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "речи"
+    },
+    {
+      "surface": "пустoground",
+      "gloss": ""
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мудраца"
+    },
+    {
+      "surface": "חן",
+      "gloss": "милину"
+    },
+    {
+      "surface": "ושפתות",
+      "gloss": "а усне"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "глупака"
+    },
+    {
+      "surface": "תבלענו",
+      "gloss": "прогутају га"
+    }
+  ],
+  "timestamp": "2026-09-05T14:12:15.286063934Z",
+  "model": "glm-5.3"
+}

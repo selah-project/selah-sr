@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 111:8",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 111,
+  "translation": "Утврђени заувек, до века; начињени у истини и правости.",
+  "tokens": [
+    {
+      "surface": "סמוכים",
+      "gloss": "утврђени"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "заувек"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "до века"
+    },
+    {
+      "surface": "עשוים",
+      "gloss": "начињени"
+    },
+    {
+      "surface": "באמת",
+      "gloss": "у истини"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "и правости"
+    }
+  ],
+  "timestamp": "2026-09-05T13:38:55.287356590Z",
+  "model": "glm-5.3"
+}

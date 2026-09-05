@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 21:8",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "У дане његове побуни се Едом испод руке Јудине, и поставише себи цара.",
+  "tokens": [
+    {
+      "surface": "בימיו",
+      "gloss": "у дане његове"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "побуни се"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Едом"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "испод"
+    },
+    {
+      "surface": "יד",
+      "gloss": "руке"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јудине"
+    },
+    {
+      "surface": "וימליכו",
+      "gloss": "и поставише"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "себи"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цара"
+    }
+  ],
+  "timestamp": "2026-09-05T14:51:35.359185897Z",
+  "model": "glm-5.3"
+}

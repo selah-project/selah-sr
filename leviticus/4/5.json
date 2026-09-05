@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 4:5",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "И узе помазани коен од крви ⟨את⟩ пара, и унесе ⟨את⟩ њега у шатор састанка.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "и узе"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коен"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "помазани"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "од крви"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "пара"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "и унесе"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "њега"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "шатор"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "састанка"
+    }
+  ],
+  "timestamp": "2026-09-05T15:06:11.212079511Z",
+  "model": "glm-5.3"
+}

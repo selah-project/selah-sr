@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 73:16",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 73,
+  "translation": "И размишљах да ово спознам — мука јесте то у очима мојим.",
+  "tokens": [
+    {
+      "surface": "ואחשבה",
+      "gloss": "и размишљах"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "да спознам"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ово"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "мука"
+    },
+    {
+      "surface": "היא",
+      "gloss": "јесте ⟨то⟩"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "у очима мојим"
+    }
+  ],
+  "timestamp": "2026-09-05T13:31:01.758560178Z",
+  "model": "glm-5.3"
+}

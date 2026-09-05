@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "psalms 119:61",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 119,
+  "translation": "Ужад злих људи опколише ме — Тору твоју не заборавих.",
+  "tokens": [
+    {
+      "surface": "חבלי",
+      "gloss": "ужад"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "злих људи"
+    },
+    {
+      "surface": "עודני",
+      "gloss": "опколише ме"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Тору твоју"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "заборавих"
+    }
+  ],
+  "timestamp": "2026-09-05T13:40:17.826248622Z",
+  "model": "glm-5.3"
+}

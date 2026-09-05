@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 5:15",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Пиј воду из свога багренара, а текућу из сред свога бунара.",
+  "tokens": [
+    {
+      "surface": "שתה",
+      "gloss": "Пиј"
+    },
+    {
+      "surface": "מים",
+      "gloss": "воду"
+    },
+    {
+      "surface": "מבורך",
+      "gloss": "из свога багренара"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "а текућу"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "из сред"
+    },
+    {
+      "surface": "בארך",
+      "gloss": "свога бунара"
+    }
+  ],
+  "timestamp": "2026-09-05T13:46:00.681544598Z",
+  "model": "glm-5.3"
+}

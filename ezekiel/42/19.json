@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 42:19",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 42,
+  "translation": "Обиђе к западној страни — измери пет стотина трска трском мерном.",
+  "tokens": [
+    {
+      "surface": "סבב",
+      "gloss": "обиђе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "страни"
+    },
+    {
+      "surface": "הים",
+      "gloss": "западној"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "измери"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "пет"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "стотина"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "трска"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "тском"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "мерн-"
+    }
+  ],
+  "timestamp": "2026-09-05T12:57:11.816193922Z",
+  "model": "glm-5.3"
+}

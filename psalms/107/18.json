@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 107:18",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 107,
+  "translation": "Сва храна мрска је души њиховој, и приђоше до вратâ смрти.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "сва"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "храна"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "мрска је"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "души њиховој"
+    },
+    {
+      "surface": "ויגיעו",
+      "gloss": "и приђоше"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "вратâ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "смрти"
+    }
+  ],
+  "timestamp": "2026-09-05T13:38:08.342263953Z",
+  "model": "glm-5.3"
+}

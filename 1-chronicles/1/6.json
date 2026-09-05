@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 1:6",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "А синови Гомерови: Ашкеназ, и Дифат, и Тогарма.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "А синови"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Гомерови"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "Ашкеназ"
+    },
+    {
+      "surface": "ודיפת",
+      "gloss": "и Дифат"
+    },
+    {
+      "surface": "ותוגרמה",
+      "gloss": "и Тогарма"
+    }
+  ],
+  "timestamp": "2026-09-05T14:33:23.914941365Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 18:23",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "Молбе изговара сиромах, а богати одговара сурово.",
+  "tokens": [
+    {
+      "surface": "תחנונים",
+      "gloss": "молбе"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "изговара"
+    },
+    {
+      "surface": "רש",
+      "gloss": "сиромах"
+    },
+    {
+      "surface": "ועשיר",
+      "gloss": "а богати"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "одговара"
+    },
+    {
+      "surface": "עזות",
+      "gloss": "сурово"
+    }
+  ],
+  "timestamp": "2026-09-05T13:50:31.482141015Z",
+  "model": "glm-5.3"
+}

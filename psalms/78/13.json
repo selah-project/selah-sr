@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 78:13",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 78,
+  "translation": "Расцепи море и преведе их, и стадо постави воде ⟨као⟩ насип.",
+  "tokens": [
+    {
+      "surface": "בקע",
+      "gloss": "Расцепи"
+    },
+    {
+      "surface": "ים",
+      "gloss": "море"
+    },
+    {
+      "surface": "ויעבירם",
+      "gloss": "и преведе их"
+    },
+    {
+      "surface": "ויצב",
+      "gloss": "и стадо постави"
+    },
+    {
+      "surface": "מים",
+      "gloss": "воде"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "као"
+    },
+    {
+      "surface": "נד",
+      "gloss": "насип"
+    }
+  ],
+  "timestamp": "2026-09-05T13:31:51.270223852Z",
+  "model": "glm-5.3"
+}

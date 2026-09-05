@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 39:17",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 39,
+  "translation": "И ставише две златне плетенице на два прстена, на крајеве ⟨од⟩ нагрудника.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "ставише"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "две"
+    },
+    {
+      "surface": "העבתת",
+      "gloss": "плетенице"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "златне"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "два"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "прстена"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "крајеве"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "нагрудника"
+    }
+  ],
+  "timestamp": "2026-09-05T10:15:21.080085134Z",
+  "model": "glm-5.3"
+}

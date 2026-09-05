@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 48:8",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 48,
+  "translation": "И видео Израел ⟨את⟩ синове Јосефове, и рече: Ко су ови?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "И видео"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израел"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "синове"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синове"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Јосефове"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ко"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "су ови"
+    }
+  ],
+  "timestamp": "2026-09-05T16:47:45.928646028Z",
+  "model": "glm-5.3"
+}

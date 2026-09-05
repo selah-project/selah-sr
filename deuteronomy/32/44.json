@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "deuteronomy 32:44",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 32,
+  "translation": "И дође Моше (Мојсије) и говори ⟨את⟩ све речи песме ове у уши народа, он и Ошеа (Исус) син Нуна.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "и дође"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше (Мојсије)"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "и говори"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "све речи песме ове"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "речи"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "песме"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ове"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "у уши"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народа"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "והושע",
+      "gloss": "и Ошеа (Исус)"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "נון",
+      "gloss": "Нуна"
+    }
+  ],
+  "timestamp": "2026-09-05T10:55:35.888951504Z",
+  "model": "glm-5.3"
+}

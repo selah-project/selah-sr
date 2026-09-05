@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 10:12",
+  "book": "nehemiah",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "Миха, Рехов, Хашавија.",
+  "tokens": [
+    {
+      "surface": "מיכא",
+      "gloss": "Миха"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "Рехов"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "Хашавија"
+    }
+  ],
+  "timestamp": "2026-09-05T14:31:44.479570178Z",
+  "model": "glm-5.3"
+}

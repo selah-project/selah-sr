@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 12:8",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "да буду њему слуге, и да познају службу моју и службу царевâ земаљâ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "буду"
+    },
+    {
+      "surface": "לו",
+      "gloss": "њему"
+    },
+    {
+      "surface": "לעבדים",
+      "gloss": "слуге"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "и познају"
+    },
+    {
+      "surface": "עבודתי",
+      "gloss": "службу моју"
+    },
+    {
+      "surface": "ועבודת",
+      "gloss": "и службу"
+    },
+    {
+      "surface": "ממלכות",
+      "gloss": "царевâ"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "земаљâ"
+    }
+  ],
+  "timestamp": "2026-09-05T16:17:47.285653145Z",
+  "model": "glm-5.3"
+}

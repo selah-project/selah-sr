@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 119:60",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 119,
+  "translation": "Пожурих и не оклевах да чувам заповести твоје.",
+  "tokens": [
+    {
+      "surface": "חשתי",
+      "gloss": "Пожурих"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "התמהמהתי",
+      "gloss": "оклевах"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "да чувам"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "заповести твоје"
+    }
+  ],
+  "timestamp": "2026-09-05T15:59:20.464043327Z",
+  "model": "glm-5.3"
+}

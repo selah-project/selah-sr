@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 2:5",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "А ако је принос твог дарова на тавану, бело брашно умешено са уљем, пресна нека буде.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "а ако"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "дар"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "המחבת",
+      "gloss": "тавану"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "принос твој"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "бело брашно"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "умешено"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "са уљем"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "пресна"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "нека буде"
+    }
+  ],
+  "timestamp": "2026-09-05T10:15:43.555633915Z",
+  "model": "glm-5.3"
+}

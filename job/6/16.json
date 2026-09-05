@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 6:16",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "који се замраче од леда, над њима се снег сакрива.",
+  "tokens": [
+    {
+      "surface": "הקדרים",
+      "gloss": "замраче се"
+    },
+    {
+      "surface": "מני",
+      "gloss": "од"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "леда"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "над њима"
+    },
+    {
+      "surface": "יתעלם",
+      "gloss": "сакрива се"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "снег"
+    }
+  ],
+  "timestamp": "2026-09-05T13:56:27.141776083Z",
+  "model": "glm-5.3"
+}

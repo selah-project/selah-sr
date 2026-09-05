@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 44:6",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 44,
+  "translation": "И стигне их, и рече им ⟨את⟩ ове речи.",
+  "tokens": [
+    {
+      "surface": "וישגם",
+      "gloss": "и стигне их"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "њима"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ове речи"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ови речи"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ове"
+    }
+  ],
+  "timestamp": "2026-09-05T09:56:30.372412139Z",
+  "model": "glm-5.3"
+}

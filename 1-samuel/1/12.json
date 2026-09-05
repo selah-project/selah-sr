@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 1:12",
+  "book": "1-samuel",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "И би, пошто је дуго молила пред Јахвеом, да Ели чуваше ⟨את⟩ уста њена.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "и би"
+    },
+    {
+      "surface": "כי",
+      "gloss": "пошто"
+    },
+    {
+      "surface": "הרבתה",
+      "gloss": "дуго"
+    },
+    {
+      "surface": "להתפלל",
+      "gloss": "молила"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеом"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "Ели"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "чуваше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "уста њена"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "уста њена"
+    }
+  ],
+  "timestamp": "2026-09-05T11:14:33.119245613Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 13:47",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "И одежда, ако буде на њој негатив цароата, у одежди вуненој или у одежди ланеној —",
+  "tokens": [
+    {
+      "surface": "והבגד",
+      "gloss": "и одежда"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ако"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "буде"
+    },
+    {
+      "surface": "בו",
+      "gloss": "на њој"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "негатив"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "цароата"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "у одежди"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "вуненој"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "у одежди"
+    },
+    {
+      "surface": "פשתים",
+      "gloss": "ланеној"
+    }
+  ],
+  "timestamp": "2026-09-05T10:20:31.448250373Z",
+  "model": "glm-5.3"
+}

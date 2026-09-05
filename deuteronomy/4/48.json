@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "deuteronomy 4:48",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "од Ароера, који је на обали потока Арнона, па до горе Сиона — то јест Хермон —",
+  "tokens": [
+    {
+      "surface": "מערער",
+      "gloss": "од Ароера"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који је"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "обали"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "потока"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Арнона"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "па до"
+    },
+    {
+      "surface": "הר",
+      "gloss": "горе"
+    },
+    {
+      "surface": "שיאן",
+      "gloss": "Сиона"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "то јест"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Хермон"
+    }
+  ],
+  "timestamp": "2026-09-05T10:45:31.370507400Z",
+  "model": "glm-5.3"
+}

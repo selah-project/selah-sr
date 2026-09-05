@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 25:8",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 25,
+  "translation": "Овако рече Адонај Јахве: што Моав и Сеир рекоше: ево, као сви народи ⟨јест⟩ дом Јудин.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "овако"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "יען",
+      "gloss": "што"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рекоше"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моав"
+    },
+    {
+      "surface": "ושעיר",
+      "gloss": "и Сеир"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ево"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "као сви"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "народи"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јудин"
+    }
+  ],
+  "timestamp": "2026-09-05T12:50:39.378873444Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 20:16",
+  "book": "2-kings",
+  "lang": "sr",
+  "chapter": 20,
+  "translation": "И рече Јешајаху Хизкијаху: „Чуј реч Јахвеа.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Јешајаху"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Хизкијаху"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Хизкијаху"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "чуј"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "реч"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    }
+  ],
+  "timestamp": "2026-09-05T11:59:26.980601986Z",
+  "model": "glm-5.3"
+}

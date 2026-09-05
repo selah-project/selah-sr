@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 126,
+  "ref": "psalms 119:126",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 119,
+  "translation": "Време је Јахвеу да делује: поништили су Тору твоју.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "време"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "деловати"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Јахвеу"
+    },
+    {
+      "surface": "הפרו",
+      "gloss": "поништили су"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Тору твоју"
+    }
+  ],
+  "timestamp": "2026-09-05T13:40:35.954004123Z",
+  "model": "glm-5.3"
+}

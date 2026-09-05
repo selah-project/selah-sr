@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 46:16",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 46,
+  "translation": "И синови Гада (Гад): Цифјон, и Хаги, Шуни, и Ецбон, Ери, и Ароди, и Арeли.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "и синови"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гада"
+    },
+    {
+      "surface": "צפיון",
+      "gloss": "Цифјон"
+    },
+    {
+      "surface": "וחגי",
+      "gloss": "и Хаги"
+    },
+    {
+      "surface": "שוני",
+      "gloss": "Шуни"
+    },
+    {
+      "surface": "ואצבן",
+      "gloss": "и Ецбон"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "Ери"
+    },
+    {
+      "surface": "וארודי",
+      "gloss": "и Ароди"
+    },
+    {
+      "surface": "ואראלי",
+      "gloss": "и Арeли"
+    }
+  ],
+  "timestamp": "2026-09-05T09:57:00.518387764Z",
+  "model": "glm-5.3"
+}

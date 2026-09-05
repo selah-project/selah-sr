@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 18:30",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "Јер с тобом јуришам на чету, и с Елохимом својим прескочим зид.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "בך",
+      "gloss": "с тобом"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "јуришам"
+    },
+    {
+      "surface": "גדוד",
+      "gloss": "на чету"
+    },
+    {
+      "surface": "ובאלהי",
+      "gloss": "и с Елохимом својим"
+    },
+    {
+      "surface": "אדלג",
+      "gloss": "прескочим"
+    },
+    {
+      "surface": "שור",
+      "gloss": "зид"
+    }
+  ],
+  "timestamp": "2026-09-05T15:53:52.579633728Z",
+  "model": "glm-5.3"
+}

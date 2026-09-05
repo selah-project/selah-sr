@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 20:18",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 20,
+  "translation": "Намере се учвршћују саветом, и плановима води рат.",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "намере"
+    },
+    {
+      "surface": "בעצה",
+      "gloss": "саветом"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "учвршћују се"
+    },
+    {
+      "surface": "ובתחבלות",
+      "gloss": "и плановима"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "води"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "рат"
+    }
+  ],
+  "timestamp": "2026-09-05T13:50:42.236689029Z",
+  "model": "glm-5.3"
+}

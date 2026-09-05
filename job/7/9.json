@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 7:9",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Неста облак и оде; тако који сиђе ⟨у⟩ Шеол — неће узићи.",
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "неста"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "облак"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "и оде"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тако"
+    },
+    {
+      "surface": "יורד",
+      "gloss": "сиђе"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шеол"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "узићи"
+    }
+  ],
+  "timestamp": "2026-09-05T13:56:10.093005835Z",
+  "model": "glm-5.3"
+}

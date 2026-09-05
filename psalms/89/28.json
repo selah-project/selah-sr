@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 89:28",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 89,
+  "translation": "И ја ћу га поставити за првенца, вишњег међу краљевима земље.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "и"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "првенац"
+    },
+    {
+      "surface": "אתנהו",
+      "gloss": "поставићу га"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "вишњи"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "међу краљевима"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земље"
+    }
+  ],
+  "timestamp": "2026-09-05T15:57:24.587696104Z",
+  "model": "glm-5.3"
+}

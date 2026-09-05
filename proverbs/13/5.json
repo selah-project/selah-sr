@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 13:5",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "Реч лажи мрзи праведник, а безбожник смради ⟨и⟩ стиди се.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "реч"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "лажи"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "мрзи"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "праведник"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "а безбожник"
+    },
+    {
+      "surface": "יבאיש",
+      "gloss": "смради"
+    },
+    {
+      "surface": "ויחפיר",
+      "gloss": "и стиди се"
+    }
+  ],
+  "timestamp": "2026-09-05T16:00:38.014814137Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 39:10",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 39,
+  "translation": "И би да је говорила Јосефу (Јосифу) дан за даном, а он не слушаше ње да легне уз њу, да буде с њом.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "и би"
+    },
+    {
+      "surface": "כדברה",
+      "gloss": "да је говорила"
+    },
+    {
+      "surface": "אל",
+      "gloss": "према"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Јосефу"
+    },
+    {
+      "surface": "יום",
+      "gloss": "дан"
+    },
+    {
+      "surface": "יום",
+      "gloss": "за даном"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "а не"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "слушаше"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ње"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "да легне"
+    },
+    {
+      "surface": "אצלה",
+      "gloss": "уз њу"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "да буде"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "с њом"
+    }
+  ],
+  "timestamp": "2026-09-05T09:53:36.791431780Z",
+  "model": "glm-5.3"
+}

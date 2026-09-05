@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 45:10",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 45,
+  "translation": "Тешко оном што говори оцу: Шта рађаш? — и жени: Шта се мучиш ⟨у порођају⟩?",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Тешко"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "говори"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "оцу"
+    },
+    {
+      "surface": "מה",
+      "gloss": "шта"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "рађаш"
+    },
+    {
+      "surface": "ולאשה",
+      "gloss": "и жени"
+    },
+    {
+      "surface": "מה",
+      "gloss": "шта"
+    },
+    {
+      "surface": "תחילין",
+      "gloss": "мучиш се"
+    }
+  ],
+  "timestamp": "2026-09-05T12:14:53.578773475Z",
+  "model": "glm-5.3"
+}

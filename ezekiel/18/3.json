@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 18:3",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "Жив сам ја — неум Адонај Јахве — нећете више ковати пословицу ову у Израиљу.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "жив"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја сам"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "неум"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨нећете више⟩"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "биће"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вама"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "више"
+    },
+    {
+      "surface": "משל",
+      "gloss": "ковати"
+    },
+    {
+      "surface": "המשל",
+      "gloss": "пословицу"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ову"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "у Израиљу"
+    }
+  ],
+  "timestamp": "2026-09-05T12:47:37.448294909Z",
+  "model": "glm-5.3"
+}

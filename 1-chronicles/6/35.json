@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 6:35",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "И ово су синови Аронови: Елезар син његов, Пинхас син његов, Авишуа син његов.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "и ово"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аронови"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Елезар"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син његов"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Пинхас"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син његов"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "Авишуа"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син његов"
+    }
+  ],
+  "timestamp": "2026-09-05T14:36:33.653531127Z",
+  "model": "glm-5.3"
+}

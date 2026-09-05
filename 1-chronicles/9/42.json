@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 9:42",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "И Ахаз роди ⟨את⟩ Јару; и Јара роди ⟨את⟩ Алемета, и ⟨את⟩ Азмавета, и ⟨את⟩ Зимрија; и Зимри роди ⟨את⟩ Моцу.",
+  "tokens": [
+    {
+      "surface": "ואחז",
+      "gloss": "И Ахаз"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јару"
+    },
+    {
+      "surface": "יערה",
+      "gloss": "Јара"
+    },
+    {
+      "surface": "ויערה",
+      "gloss": "и Јара"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Алемета"
+    },
+    {
+      "surface": "עלמת",
+      "gloss": "Алемет"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Азмавета"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "Азмавет"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Зимрија"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Зимри"
+    },
+    {
+      "surface": "וזמרי",
+      "gloss": "и Зимри"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Моцу"
+    },
+    {
+      "surface": "מוצא",
+      "gloss": "Моца"
+    }
+  ],
+  "timestamp": "2026-09-05T14:37:50.712374012Z",
+  "model": "glm-5.3"
+}

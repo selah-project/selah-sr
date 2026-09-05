@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 16:28",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 16,
+  "translation": "Човек превртан пушта препирку, и доушник раздваја пријатеља.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "превртан"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "пушта"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "препирку"
+    },
+    {
+      "surface": "ונרגן",
+      "gloss": "и доушник"
+    },
+    {
+      "surface": "מפריד",
+      "gloss": "раздваја"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "пријатеља"
+    }
+  ],
+  "timestamp": "2026-09-05T13:49:40.081206192Z",
+  "model": "glm-5.3"
+}

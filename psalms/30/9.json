@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 30:9",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 30,
+  "translation": "Теби, Јахве, зовем, и Адонају се усрдно молим.",
+  "tokens": [
+    {
+      "surface": "אליך",
+      "gloss": "Теби"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "зовем"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и према"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонају"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "усрдно се молим"
+    }
+  ],
+  "timestamp": "2026-09-05T13:20:37.795479016Z",
+  "model": "glm-5.3"
+}

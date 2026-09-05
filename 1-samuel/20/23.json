@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 20:23",
+  "book": "1-samuel",
+  "lang": "sr",
+  "chapter": 20,
+  "translation": "А реч коју смо говорили ја и ти — ето, Јахве ⟨је⟩ између мене и тебе довека.",
+  "tokens": [
+    {
+      "surface": "והדבר",
+      "gloss": "а реч"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "коју"
+    },
+    {
+      "surface": "דברנו",
+      "gloss": "смо говорили"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "и ти"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ето"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "између мене"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "и између тебе"
+    },
+    {
+      "surface": "עד",
+      "gloss": "довека"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "век"
+    }
+  ],
+  "timestamp": "2026-09-05T11:21:44.564064484Z",
+  "model": "glm-5.3"
+}

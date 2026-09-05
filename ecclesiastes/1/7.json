@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 1:7",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "Сви потоци теку у море, а море није пуно; ⟨к⟩ месту куда потоци теку, тамо се они враћају да иду ⟨опет⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Сви"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "потоци"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "теку"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "הים",
+      "gloss": "море"
+    },
+    {
+      "surface": "והים",
+      "gloss": "а море"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "није"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "пуно"
+    },
+    {
+      "surface": "אל",
+      "gloss": "према"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "месту"
+    },
+    {
+      "surface": "שהנחלים",
+      "gloss": "куда потоци"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "теку"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тамо"
+    },
+    {
+      "surface": "הם",
+      "gloss": "они"
+    },
+    {
+      "surface": "שבים",
+      "gloss": "враћају се"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "да иду"
+    }
+  ],
+  "timestamp": "2026-09-05T14:11:51.735345436Z",
+  "model": "glm-5.3"
+}

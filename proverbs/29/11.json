@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 29:11",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 29,
+  "translation": "Лудац излива сав свој дух, а мудар га доцније смирује.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "сав"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "свој дух"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "излива"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "лудац"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "а мудар"
+    },
+    {
+      "surface": "באחור",
+      "gloss": "доцније"
+    },
+    {
+      "surface": "ישבחנה",
+      "gloss": "смирује га"
+    }
+  ],
+  "timestamp": "2026-09-05T13:52:59.748081266Z",
+  "model": "glm-5.3"
+}

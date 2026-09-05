@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 91:13",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 91,
+  "translation": "Над лавом и аспидом газићеш, прегазићеш младога лава и змаја.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "лавом"
+    },
+    {
+      "surface": "ופתן",
+      "gloss": "и аспидом"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "газићеш"
+    },
+    {
+      "surface": "תרמס",
+      "gloss": "прегазићеш"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "младога лава"
+    },
+    {
+      "surface": "ותנין",
+      "gloss": "и змаја"
+    }
+  ],
+  "timestamp": "2026-09-05T13:35:35.961800674Z",
+  "model": "glm-5.3"
+}

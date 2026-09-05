@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 23:2",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "У пашњацима младе траве да ме положи, уз воде покоя води ме.",
+  "tokens": [
+    {
+      "surface": "בנאות",
+      "gloss": "у пашњацима"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "младе траве"
+    },
+    {
+      "surface": "ירביצני",
+      "gloss": "да ме положи"
+    },
+    {
+      "surface": "על",
+      "gloss": "уз"
+    },
+    {
+      "surface": "מי",
+      "gloss": "воде"
+    },
+    {
+      "surface": "מנחות",
+      "gloss": "покоя"
+    },
+    {
+      "surface": "ינהלני",
+      "gloss": "води ме"
+    }
+  ],
+  "timestamp": "2026-09-05T13:20:05.864250960Z",
+  "model": "glm-5.3"
+}

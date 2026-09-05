@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 19:30",
+  "book": "2-samuel",
+  "lang": "sr",
+  "chapter": 19,
+  "translation": "И рече му краљ: зашто још говориш ствари своје? Рекох: ти и Цива делите ⟨את⟩ њиву.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "краљ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "говориш"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "још"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "ствари своје"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "Рекох"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "וציבא",
+      "gloss": "и Цива"
+    },
+    {
+      "surface": "תחלקו",
+      "gloss": "делите"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "њиву"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "њиву"
+    }
+  ],
+  "timestamp": "2026-09-05T15:25:28.108059936Z",
+  "model": "glm-5.3"
+}

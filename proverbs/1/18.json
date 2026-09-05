@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 1:18",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "А они за крв своју вребају, тајно чекају на животе своје.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "А они"
+    },
+    {
+      "surface": "לדמם",
+      "gloss": "за крв своју"
+    },
+    {
+      "surface": "יארבו",
+      "gloss": "вребају"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "тајно чекају"
+    },
+    {
+      "surface": "לנפשתם",
+      "gloss": "на животе своје"
+    }
+  ],
+  "timestamp": "2026-09-05T13:45:28.682982648Z",
+  "model": "glm-5.3"
+}

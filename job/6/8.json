@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 6:8",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "О да дође молба моја, и наду моју да испуни Елоах!",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ко"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "да да"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "дође"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "молба моја"
+    },
+    {
+      "surface": "ותקותי",
+      "gloss": "и нада моја"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "да испуни"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Елоах"
+    }
+  ],
+  "timestamp": "2026-09-05T13:56:27.760192302Z",
+  "model": "glm-5.3"
+}

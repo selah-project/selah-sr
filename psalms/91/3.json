@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 91:3",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 91,
+  "translation": "Јер он избавиће те из замке ловчеве, из куге погубне.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "избавиће те"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "из замке"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "ловчеве"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "из куге"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "погубне"
+    }
+  ],
+  "timestamp": "2026-09-05T13:35:54.710639121Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 17:22",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 17,
+  "translation": "И заврши говорити ⟨са⟩ њим, и узде се Елохим од Аврахама (Аврам).",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "и заврши"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "говорити"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "њим"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "и узде се"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "од"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврахама"
+    }
+  ],
+  "timestamp": "2026-09-05T09:44:04.080244900Z",
+  "model": "glm-5.3"
+}

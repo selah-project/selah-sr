@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 10:7",
+  "book": "nehemiah",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "Даниел, Гинетон, Барух.",
+  "tokens": [
+    {
+      "surface": "דניאל",
+      "gloss": "Даниел"
+    },
+    {
+      "surface": "גנתון",
+      "gloss": "Гинетон"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Барух"
+    }
+  ],
+  "timestamp": "2026-09-05T14:30:53.762230979Z",
+  "model": "glm-5.3"
+}

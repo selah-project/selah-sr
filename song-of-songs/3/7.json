@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 3:7",
+  "book": "song-of-songs",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Гле, носиљка Шеломова — шездесет јунака око ње, од јунака Израелових.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Гле"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "носиљка"
+    },
+    {
+      "surface": "שלשלמה",
+      "gloss": "Шеломова"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "шездесет"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "јунака"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "око"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ње"
+    },
+    {
+      "surface": "מגברי",
+      "gloss": "од јунака"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израелових"
+    }
+  ],
+  "timestamp": "2026-09-05T14:06:53.898439112Z",
+  "model": "glm-5.3"
+}

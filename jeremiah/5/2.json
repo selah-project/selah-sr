@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 5:2",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "И премда кажу: „Жив је Јахве“ — заиста се у лаж заклињу.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "и премда"
+    },
+    {
+      "surface": "חי",
+      "gloss": "жив"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "кажу"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "заиста"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "у лаж"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "заклињу се"
+    }
+  ],
+  "timestamp": "2026-09-05T15:38:12.074092002Z",
+  "model": "glm-5.3"
+}

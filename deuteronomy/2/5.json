@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 2:5",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Не сукобајте се с њима, јер нећу вам дати од земље њихове ни до стазе табана ноге ⟨једне⟩, јер као наслеђе Есаву дадох ⟨את⟩ гору Сеир.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תתגרו",
+      "gloss": "сукобајте се"
+    },
+    {
+      "surface": "בם",
+      "gloss": "с њима"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ћу дати"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "מארצם",
+      "gloss": "од земље њихове"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ни до"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "стазе"
+    },
+    {
+      "surface": "כף",
+      "gloss": "табана"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ноге"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "ירשה",
+      "gloss": "као наслеђе"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "Есаву"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "дадох"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "гору"
+    },
+    {
+      "surface": "הר",
+      "gloss": "гору"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Сеир"
+    }
+  ],
+  "timestamp": "2026-09-05T15:13:07.512818380Z",
+  "model": "glm-5.3"
+}

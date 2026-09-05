@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 66:1",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 66,
+  "translation": "За управника. Песма, мизмор. Ускликните Елохиму, сва земља!",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "за управника"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "песма"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мизмор"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "ускликните"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Елохиму"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сва"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земља"
+    }
+  ],
+  "timestamp": "2026-09-05T13:28:54.407756926Z",
+  "model": "glm-5.3"
+}

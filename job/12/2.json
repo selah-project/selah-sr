@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 12:2",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "Заиста, ви сте ⟨народ⟩, и с вама ће умрети мудрост.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "заиста"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨да⟩"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ви"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "ועמכם",
+      "gloss": "и с вама"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "ће умрети"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мудрост"
+    }
+  ],
+  "timestamp": "2026-09-05T13:58:01.476416664Z",
+  "model": "glm-5.3"
+}

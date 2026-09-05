@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 19:4",
+  "book": "joshua",
+  "lang": "sr",
+  "chapter": 19,
+  "translation": "и Елтолад, и Ветул, и Хорму.",
+  "tokens": [
+    {
+      "surface": "ואלתולד",
+      "gloss": "и Елтолад"
+    },
+    {
+      "surface": "ובתול",
+      "gloss": "и Ветул"
+    },
+    {
+      "surface": "וחרמה",
+      "gloss": "и Хорму"
+    }
+  ],
+  "timestamp": "2026-09-05T11:03:29.947581676Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 3:2",
+  "book": "nehemiah",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "И уз руку његову саградише људи Јерихонски; и уз руку његову сагради Закур син Имријев.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "и уз"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "руку његову"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "саградише"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "људи"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Јерихонски"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и уз"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "руку његову"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "сагради"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "Закур"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "Имријев"
+    }
+  ],
+  "timestamp": "2026-09-05T14:29:51.424847199Z",
+  "model": "glm-5.3"
+}

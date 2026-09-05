@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 5:10",
+  "book": "song-of-songs",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Драги мој ⟨је⟩ блештав и румени, истакнут изнад миријаде.",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "драги мој"
+    },
+    {
+      "surface": "צח",
+      "gloss": "блештав"
+    },
+    {
+      "surface": "ואדום",
+      "gloss": "и румени"
+    },
+    {
+      "surface": "דגול",
+      "gloss": "истакнут"
+    },
+    {
+      "surface": "מרבבה",
+      "gloss": "изнад миријаде"
+    }
+  ],
+  "timestamp": "2026-09-05T14:06:10.717131024Z",
+  "model": "glm-5.3"
+}

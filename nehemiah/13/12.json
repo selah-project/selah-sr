@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 13:12",
+  "book": "nehemiah",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "И сав Јехуда донесе десетак жита, вина и уља у оставе.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "И сав"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јехуда"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "донесе"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "десетак"
+    },
+    {
+      "surface": "הדגן",
+      "gloss": "жита"
+    },
+    {
+      "surface": "והתירוש",
+      "gloss": "и вина"
+    },
+    {
+      "surface": "והיצהר",
+      "gloss": "и уља"
+    },
+    {
+      "surface": "לאוצרות",
+      "gloss": "у оставе"
+    }
+  ],
+  "timestamp": "2026-09-05T14:33:02.997104049Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 38:17",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 38,
+  "translation": "И рече: ја ћу послати јаре козје од стада. А она рече: ако даш залог док ⟨га⟩ пошаљеш.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ја"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "ћу послати"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "јаре"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "козје"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "стада"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "а рече"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "даш"
+    },
+    {
+      "surface": "ערבון",
+      "gloss": "залог"
+    },
+    {
+      "surface": "עד",
+      "gloss": "док"
+    },
+    {
+      "surface": "שלחך",
+      "gloss": "пошаљеш"
+    }
+  ],
+  "timestamp": "2026-09-05T09:54:20.390844752Z",
+  "model": "glm-5.3"
+}

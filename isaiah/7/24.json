@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 7:24",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Стрелима и луком долазиће се онамо, јер шамир и шајит биће сва земља.",
+  "tokens": [
+    {
+      "surface": "בחצים",
+      "gloss": "Стрелима"
+    },
+    {
+      "surface": "ובקשת",
+      "gloss": "и луком"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "долазиће се"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "онамо"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "шамир",
+      "gloss": "шамир"
+    },
+    {
+      "surface": "ושית",
+      "gloss": "и шајит"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "биће"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сва"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земља"
+    }
+  ],
+  "timestamp": "2026-09-05T12:02:51.838407781Z",
+  "model": "glm-5.3"
+}

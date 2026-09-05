@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 1:1",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "И позва Мошеа (Мојсија), и рече Јахве њему из шатора састанка, говорећи:",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "И позва"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошеу"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "њему"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "из шатора"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "састанка"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорећи"
+    }
+  ],
+  "timestamp": "2026-09-05T10:16:20.173078823Z",
+  "model": "glm-5.3"
+}

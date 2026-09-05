@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 11:7",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "Смрћу човека безбожног изгуби се нада, и очекивање кривица пропаде.",
+  "tokens": [
+    {
+      "surface": "במות",
+      "gloss": "смрћу"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човека"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "безбожног"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "изгуби се"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "нада"
+    },
+    {
+      "surface": "ותוחלת",
+      "gloss": "и очекивање"
+    },
+    {
+      "surface": "אונים",
+      "gloss": "кривица"
+    },
+    {
+      "surface": "אבדה",
+      "gloss": "пропаде"
+    }
+  ],
+  "timestamp": "2026-09-05T13:48:18.489809243Z",
+  "model": "glm-5.3"
+}

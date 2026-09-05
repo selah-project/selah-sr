@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 11:27",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "И ово су порекла Тераха: Терах роди ⟨את⟩ Аврама, ⟨את⟩ Нахора и ⟨את⟩ Харана; а Харан роди ⟨את⟩ Лота.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "и ово"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "порекла"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Тераха"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Терах"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Аврама"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Аврама"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Нахора"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Нахора"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Харана"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Харана"
+    },
+    {
+      "surface": "והרן",
+      "gloss": "а Харан"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Лота"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Лота"
+    }
+  ],
+  "timestamp": "2026-09-05T09:41:50.013590920Z",
+  "model": "glm-5.3"
+}

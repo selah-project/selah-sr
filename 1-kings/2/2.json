@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 2:2",
+  "book": "1-kings",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "„Ја идем путем све земље; а ти буди крепак и покажи се као муж:",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ја"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "идем"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "путем"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земље"
+    },
+    {
+      "surface": "וחזקת",
+      "gloss": "а ти буди крепак"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "и покажи се"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "као муж"
+    }
+  ],
+  "timestamp": "2026-09-05T11:40:02.543745189Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "⟨את⟩ малу сову, и ⟨את⟩ велику сову, и кукумавку",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "малу сову"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "малу сову"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "велику сову"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "велику сову"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "и кукумавку"
+    }
+  ],
+  "timestamp": "2026-09-05T10:48:31.807375681Z",
+  "model": "glm-5.3"
+}

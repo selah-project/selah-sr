@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 19:2",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 19,
+  "translation": "Такође, без знања душа није добра, и ко жури ногама греши.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "такође"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "без"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "знања"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "душа"
+    },
+    {
+      "surface": "לא",
+      "gloss": "није"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добра"
+    },
+    {
+      "surface": "ואץ",
+      "gloss": "и ко жури"
+    },
+    {
+      "surface": "ברגלים",
+      "gloss": "ногама"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "греши"
+    }
+  ],
+  "timestamp": "2026-09-05T13:50:56.529956909Z",
+  "model": "glm-5.3"
+}

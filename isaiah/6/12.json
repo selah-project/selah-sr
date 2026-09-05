@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 6:12",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "и Јахве удаљи ⟨את⟩ човека, и велика ⟨буде⟩ напуштеност усред земље.",
+  "tokens": [
+    {
+      "surface": "ורחק",
+      "gloss": "и удаљи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "човека"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "човека"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "и велика"
+    },
+    {
+      "surface": "העזובה",
+      "gloss": "напуштеност"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "усред"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земље"
+    }
+  ],
+  "timestamp": "2026-09-05T12:03:17.221510086Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 12:28",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "И Јехојада, кнез Ароновљу ⟨породици⟩, и са њим три хиљаде и седам стотина.",
+  "tokens": [
+    {
+      "surface": "ויהוידע",
+      "gloss": "И Јехојада"
+    },
+    {
+      "surface": "הנגיד",
+      "gloss": "кнез"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "Ароновљу"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "и са њим"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "три"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "хиљаде"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "и седам"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "стотина"
+    }
+  ],
+  "timestamp": "2026-09-05T14:39:08.957392126Z",
+  "model": "glm-5.3"
+}

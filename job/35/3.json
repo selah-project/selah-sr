@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 35:3",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 35,
+  "translation": "Јер кажеш: шта ⟨то⟩ користи теби? шта бих добио више од греха свог?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "кажеш"
+    },
+    {
+      "surface": "מה",
+      "gloss": "шта"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "користи"
+    },
+    {
+      "surface": "לך",
+      "gloss": "теби"
+    },
+    {
+      "surface": "מה",
+      "gloss": "шта"
+    },
+    {
+      "surface": "אעיל",
+      "gloss": "биh добио"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "од греха свог"
+    }
+  ],
+  "timestamp": "2026-09-05T14:03:48.335904493Z",
+  "model": "glm-5.3"
+}

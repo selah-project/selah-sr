@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 12:9",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "И разгори се гнев Јахвеа на њих, и отиде.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "разгори се"
+    },
+    {
+      "surface": "אף",
+      "gloss": "гнев"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "בם",
+      "gloss": "на њих"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "и отиде"
+    }
+  ],
+  "timestamp": "2026-09-05T10:32:55.145125107Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 14:1",
+  "book": "2-samuel",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "И сазна Јоав (Јоав), син Црује, да је срце краља на Авшалому.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "и сазна"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Јоав"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "Црује"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "לב",
+      "gloss": "срце"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "краља"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Авшалому"
+    }
+  ],
+  "timestamp": "2026-09-05T11:32:14.066967399Z",
+  "model": "glm-5.3"
+}

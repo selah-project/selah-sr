@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 7:42",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Шести дан: кнез синâ Гадових, Елијасаф, син Деуелов.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "дан"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "шести"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "кнез"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "синâ"
+    },
+    {
+      "surface": "гד",
+      "gloss": "Гадових"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "Елијасаф"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "Деуелов"
+    }
+  ],
+  "timestamp": "2026-09-05T10:30:01.531328441Z",
+  "model": "glm-5.3"
+}

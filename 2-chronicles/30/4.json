@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 30:4",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 30,
+  "translation": "И беше права реч ⟨у⟩ очима краља и у очима свега скупа.",
+  "tokens": [
+    {
+      "surface": "ויישר",
+      "gloss": "И беше права"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "реч"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "у очима"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "краља"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "и у очима"
+    },
+    {
+      "surface": "כל",
+      "gloss": "свега"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "скупа"
+    }
+  ],
+  "timestamp": "2026-09-05T14:55:38.277267419Z",
+  "model": "glm-5.3"
+}

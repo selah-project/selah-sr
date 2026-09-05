@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 34:14",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 34,
+  "translation": "Јер нећеш се клањати ел-у другом, јер Јахве — ревнитељ ⟨је⟩ име његово, Ел ревнитељ ⟨је⟩ он.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "клањати се"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ел-у"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "другом"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "ревнитељ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "име његово"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "ревнитељ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    }
+  ],
+  "timestamp": "2026-09-05T10:12:11.179758085Z",
+  "model": "glm-5.3"
+}

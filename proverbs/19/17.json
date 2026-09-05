@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 19:17",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 19,
+  "translation": "Ко даје у зајам Јахвеу, милује сиромаха; и дело му његово платиће.",
+  "tokens": [
+    {
+      "surface": "מלוה",
+      "gloss": "Ко даје у зајам"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеу"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "милује"
+    },
+    {
+      "surface": "דל",
+      "gloss": "сиромаха"
+    },
+    {
+      "surface": "וגמלו",
+      "gloss": "и дело његово"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "платиће"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    }
+  ],
+  "timestamp": "2026-09-05T13:51:09.722848939Z",
+  "model": "glm-5.3"
+}

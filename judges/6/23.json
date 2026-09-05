@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 6:23",
+  "book": "judges",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "И рече му Јахве: „Мир теби; не бој се, нећеш умрети.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Мир"
+    },
+    {
+      "surface": "לך",
+      "gloss": "теби"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "бој се"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нећеш"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "умрети"
+    }
+  ],
+  "timestamp": "2026-09-05T11:07:35.042465282Z",
+  "model": "glm-5.3"
+}

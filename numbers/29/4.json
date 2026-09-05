@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 29:4",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 29,
+  "translation": "и једну десетину за једно јагње, за седам јагњади.",
+  "tokens": [
+    {
+      "surface": "ועשרון",
+      "gloss": "и десетину"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "једну"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "за јагње"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "једно"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "за седам"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "јагњади"
+    }
+  ],
+  "timestamp": "2026-09-05T10:40:05.468805952Z",
+  "model": "glm-5.3"
+}

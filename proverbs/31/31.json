@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 31:31",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 31,
+  "translation": "Дајте јој од плода руку њених, и хвале је на вратима дела њена!",
+  "tokens": [
+    {
+      "surface": "תנו",
+      "gloss": "Дајте"
+    },
+    {
+      "surface": "לה",
+      "gloss": "јој"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "од плода"
+    },
+    {
+      "surface": "ידיה",
+      "gloss": "руку њених"
+    },
+    {
+      "surface": "ויהללוה",
+      "gloss": "и хвале је"
+    },
+    {
+      "surface": "בשערים",
+      "gloss": "на вратима"
+    },
+    {
+      "surface": "מעשיה",
+      "gloss": "дела њена"
+    }
+  ],
+  "timestamp": "2026-09-05T16:02:04.082372282Z",
+  "model": "glm-5.3"
+}

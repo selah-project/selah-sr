@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 1:9",
+  "book": "zechariah",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "И рекох: шта су ови, господару мој? И рече ми анђео који говораше у мени: ја ћу ти показати шта су они ови.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "И рекох"
+    },
+    {
+      "surface": "מה",
+      "gloss": "шта"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ови"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "господару мој"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "анђео"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "који говораше"
+    },
+    {
+      "surface": "בי",
+      "gloss": "у мени"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "אראך",
+      "gloss": "показаћу ти"
+    },
+    {
+      "surface": "מה",
+      "gloss": "шта"
+    },
+    {
+      "surface": "המה",
+      "gloss": "они"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ови"
+    }
+  ],
+  "timestamp": "2026-09-05T15:51:36.255453784Z",
+  "model": "glm-5.3"
+}

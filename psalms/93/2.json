@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 93:2",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 93,
+  "translation": "Утврђен ⟨је⟩ престо твој од тада, од вечности си ти.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "утврђен"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "престо твој"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "од тада"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "од вечности"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    }
+  ],
+  "timestamp": "2026-09-05T13:35:45.924530741Z",
+  "model": "glm-5.3"
+}

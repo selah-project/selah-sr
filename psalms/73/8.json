@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 73:8",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 73,
+  "translation": "Ругају се и говоре у злу ⟨о⟩ тлачењу, с висине говоре.",
+  "tokens": [
+    {
+      "surface": "ימיקו",
+      "gloss": "Ругају се"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "и говоре"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "у злу"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "⟨о⟩ тлачењу"
+    },
+    {
+      "surface": "ממרום",
+      "gloss": "с висине"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "говоре"
+    }
+  ],
+  "timestamp": "2026-09-05T13:31:06.660657194Z",
+  "model": "glm-5.3"
+}

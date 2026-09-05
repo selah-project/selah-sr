@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "nehemiah 7:50",
+  "book": "nehemiah",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "синови Реаје, синови Рецина, синови Некоде,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "ראיה",
+      "gloss": "Реаје"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Рецина"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "נקודא",
+      "gloss": "Некоде"
+    }
+  ],
+  "timestamp": "2026-09-05T14:30:52.348721269Z",
+  "model": "glm-5.3"
+}

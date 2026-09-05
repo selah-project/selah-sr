@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 139:19",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 139,
+  "translation": "Да убијеш, Елоахе, безбожника! А ви, људи крви, уклоните се од мене!",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "да"
+    },
+    {
+      "surface": "תקטל",
+      "gloss": "убијеш"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Елоахе"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "безбожника"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "а људи"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "крви"
+    },
+    {
+      "surface": "סורו",
+      "gloss": "уклоните се"
+    },
+    {
+      "surface": "мני",
+      "gloss": "од мене"
+    }
+  ],
+  "timestamp": "2026-09-05T13:44:00.585586987Z",
+  "model": "glm-5.3"
+}

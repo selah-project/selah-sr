@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 20:12",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 20,
+  "translation": "А и заиста, сестра ми је она, кћи оца моја ⟨је⟩, али не кћи матере моје; и поста ми женом.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "а и"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "заиста"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "сестра ми"
+    },
+    {
+      "surface": "בת",
+      "gloss": "кћи"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "оца моја"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "она"
+    },
+    {
+      "surface": "אך",
+      "gloss": "али"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "בת",
+      "gloss": "кћи"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "матере моје"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "и поста"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "женом"
+    }
+  ],
+  "timestamp": "2026-09-05T14:59:16.275159093Z",
+  "model": "glm-5.3"
+}

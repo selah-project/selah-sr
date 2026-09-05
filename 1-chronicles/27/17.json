@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 27:17",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 27,
+  "translation": "За Левије — Хашавја син Кемуелов; за Ахароновце — Цадок.",
+  "tokens": [
+    {
+      "surface": "ללוי",
+      "gloss": "За Левије"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "Хашавја"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "Кемуелов"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "за Ахароновце"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Цадок"
+    }
+  ],
+  "timestamp": "2026-09-05T16:16:35.975536958Z",
+  "model": "glm-5.3"
+}

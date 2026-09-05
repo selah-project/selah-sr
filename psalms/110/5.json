@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 110:5",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 110,
+  "translation": "Адонај је на твојој десници; сатре цареве у дан гнева свога.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "твојој десници"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "сатре"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "у дан"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "гнева свога"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "цареве"
+    }
+  ],
+  "timestamp": "2026-09-05T13:38:49.870530461Z",
+  "model": "glm-5.3"
+}

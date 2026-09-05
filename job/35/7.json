@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 35:7",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 35,
+  "translation": "Ако ли си праведан, шта му дајеш, или шта из руке твоје прима?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ако ли"
+    },
+    {
+      "surface": "צדקת",
+      "gloss": "си праведан"
+    },
+    {
+      "surface": "מה",
+      "gloss": "шта"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "дајеш"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "מה",
+      "gloss": "шта"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "из руке твоје"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "прима"
+    }
+  ],
+  "timestamp": "2026-09-05T14:04:12.123032622Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 13:9",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "Светлост праведних радује, а жижница безбожника догасне.",
+  "tokens": [
+    {
+      "surface": "אור",
+      "gloss": "светлост"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "праведних"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "радује"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "а жижница"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "безбожника"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "догасне"
+    }
+  ],
+  "timestamp": "2026-09-05T13:48:19.670349736Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 31:5",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 31,
+  "translation": "И даде Јахве њих пред вас, и учините њима по свеј заповести коју заповедох ⟨את⟩ вама.",
+  "tokens": [
+    {
+      "surface": "ונתנם",
+      "gloss": "и даде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "пред вас"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "и учините"
+    },
+    {
+      "surface": "להם",
+      "gloss": "њима"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "по свеј"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "заповести"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "коју"
+    },
+    {
+      "surface": "צויתי",
+      "gloss": "заповедох"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ вама"
+    }
+  ],
+  "timestamp": "2026-09-05T10:56:59.558718782Z",
+  "model": "glm-5.3"
+}

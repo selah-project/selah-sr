@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 12:18",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "И позва фараон Аврама и рече: „Шта је ово учинио мени? Зашто ниси казао мени да жена твоја ⟨је⟩ она?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "И позва"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "фараон"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "Аврама"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Шта"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ово"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "учинио"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мени"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Зашто"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ниси"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "казао"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мени"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "жена твоја"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "она"
+    }
+  ],
+  "timestamp": "2026-09-05T09:42:17.098679279Z",
+  "model": "glm-5.3"
+}

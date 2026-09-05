@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezra 2:26",
+  "book": "ezra",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Синови Раме и Гаве: шест стотина двадесет и један.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синови"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Раме"
+    },
+    {
+      "surface": "וגבע",
+      "gloss": "и Гаве"
+    },
+    {
+      "surface": "שש",
+      "gloss": "шест"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "стотина"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двадесет"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "и један"
+    }
+  ],
+  "timestamp": "2026-09-05T14:23:39.304177258Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 11:4",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "Зато пророкуј против њих; пророкуј, сине човечји.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "зато"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "пророкуј"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "против њих"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "пророкуј"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сине"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човечји"
+    }
+  ],
+  "timestamp": "2026-09-05T12:45:29.973117501Z",
+  "model": "glm-5.3"
+}

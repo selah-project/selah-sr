@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 69:8",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 69,
+  "translation": "Јер ради тебе поднијех пограђање, и срамота покри лице моје.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ради тебе"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "поднијех"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "пограђање"
+    },
+    {
+      "surface": "כסתה",
+      "gloss": "покри"
+    },
+    {
+      "surface": "כלמה",
+      "gloss": "срамота"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лице моје"
+    }
+  ],
+  "timestamp": "2026-09-05T13:29:48.693049647Z",
+  "model": "glm-5.3"
+}

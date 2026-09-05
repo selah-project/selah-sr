@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 1:18",
+  "book": "2-samuel",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "И рече да науче синове Јехудине лука — ено, написано је у књизи Јашаровој.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "да науче"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синове"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јехудине"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "лука"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ено"
+    },
+    {
+      "surface": "כתובה",
+      "gloss": "написано је"
+    },
+    {
+      "surface": "על",
+      "gloss": "у"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "књизи"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "Јашаровој"
+    }
+  ],
+  "timestamp": "2026-09-05T11:27:40.642489551Z",
+  "model": "glm-5.3"
+}

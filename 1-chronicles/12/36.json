@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 12:36",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "И од Дановаца, поређивачи боја — двадесет и осам хиљада и шест стотина.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "и од"
+    },
+    {
+      "surface": "הדני",
+      "gloss": "Дановаца"
+    },
+    {
+      "surface": "ערכי",
+      "gloss": "поређивачи"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "боја"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двадесет"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "и осам"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "хиљада"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "и шест"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "стотина"
+    }
+  ],
+  "timestamp": "2026-09-05T14:39:03.967125719Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 16:23",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 16,
+  "translation": "Певајте Јахвеу, сва земљо; објављујте из дана у дан спасење његово.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Певајте"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Јахвеу"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сва"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земљо"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "објављујте"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "из дана"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "יום",
+      "gloss": "дан"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "спасење његово"
+    }
+  ],
+  "timestamp": "2026-09-05T14:38:45.437901482Z",
+  "model": "glm-5.3"
+}

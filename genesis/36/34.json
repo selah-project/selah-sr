@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 36:34",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 36,
+  "translation": "И умре Јовав, а зацари се уместо њега Хушам из земље Теманаца.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "И умре"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Јовав"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "зацари се"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "уместо њега"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "Хушам"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "из земље"
+    },
+    {
+      "surface": "התימני",
+      "gloss": "Теманаца"
+    }
+  ],
+  "timestamp": "2026-09-05T15:00:50.819406618Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 9:41",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "И синови Микајини: Питон, и Мелек, и Тахреа.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "И синови"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Микаје"
+    },
+    {
+      "surface": "פיתון",
+      "gloss": "Питон"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "и Мелек"
+    },
+    {
+      "surface": "ותחרע",
+      "gloss": "и Тахреа"
+    }
+  ],
+  "timestamp": "2026-09-05T14:37:50.712088268Z",
+  "model": "glm-5.3"
+}

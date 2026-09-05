@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "Јер има ствари многих које умножавају испразност — а шта ⟨је⟩ вишак човеку?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "יש",
+      "gloss": "има"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "ствари"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "многих"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "умножавају"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "испразност"
+    },
+    {
+      "surface": "מה",
+      "gloss": "шта"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "вишак"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "човеку"
+    }
+  ],
+  "timestamp": "2026-09-05T14:13:20.592165164Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 4:11",
+  "book": "hosea",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "Блуд, и вино, и мошт одузимају срце.",
+  "tokens": [
+    {
+      "surface": "זנות",
+      "gloss": "Блуд"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "и вино"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "и мошт"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "одузимају"
+    },
+    {
+      "surface": "לב",
+      "gloss": "срце"
+    }
+  ],
+  "timestamp": "2026-09-05T13:00:05.576957724Z",
+  "model": "glm-5.3"
+}

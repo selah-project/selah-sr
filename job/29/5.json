@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 29:5",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 29,
+  "translation": "Док још беше Шадај са мном, око мене млади моји.",
+  "tokens": [
+    {
+      "surface": "בעוד",
+      "gloss": "док још"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Шадај"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "са мном"
+    },
+    {
+      "surface": "סביבותי",
+      "gloss": "око мене"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "млади моји"
+    }
+  ],
+  "timestamp": "2026-09-05T14:01:49.470645091Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ruth 4:20",
+  "book": "ruth",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "И Аминандав роди ⟨את⟩ Нахшона, и Нахшон роди ⟨את⟩ Салму.",
+  "tokens": [
+    {
+      "surface": "ועמינדב",
+      "gloss": "И Аминандав"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Нахшона"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Нахшона"
+    },
+    {
+      "surface": "ונחשון",
+      "gloss": "и Нахшон"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Салму"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Салму"
+    }
+  ],
+  "timestamp": "2026-09-05T17:12:42.551541163Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 11:5",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "И ⟨את⟩ скачушаша, јер избацује ⟨он⟩ жвакање а копито не раздваја — нечист је он вама.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "скачушаша"
+    },
+    {
+      "surface": "השפן",
+      "gloss": "скачушаша"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "избацује"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "жвакање"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨он⟩"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "а копито"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יפריס",
+      "gloss": "раздваја"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "нечист"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "је он"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вама"
+    }
+  ],
+  "timestamp": "2026-09-05T10:18:47.892340733Z",
+  "model": "glm-5.3"
+}

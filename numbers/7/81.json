@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 81,
+  "ref": "numbers 7:81",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Говеде једно, син стада, јаран један, јагње једно, син године своје, за паљеницу.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "Говеде"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "једно"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "стада"
+    },
+    {
+      "surface": "איל",
+      "gloss": "јаран"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "један"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "јагње"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "једно"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "године своје"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "за паљеницу"
+    }
+  ],
+  "timestamp": "2026-09-05T10:31:35.098231600Z",
+  "model": "glm-5.3"
+}

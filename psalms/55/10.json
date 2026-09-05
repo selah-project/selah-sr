@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 55:10",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 55,
+  "translation": "Прогути, Адонај, подели језик њихов, јер видех насиље и свађу у граду.",
+  "tokens": [
+    {
+      "surface": "בלע",
+      "gloss": "прогути"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "подели"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "језик њихов"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "видех"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "насиље"
+    },
+    {
+      "surface": "וריב",
+      "gloss": "и свађу"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "у граду"
+    }
+  ],
+  "timestamp": "2026-09-05T13:27:33.823912765Z",
+  "model": "glm-5.3"
+}

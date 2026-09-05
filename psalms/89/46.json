@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 89:46",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 89,
+  "translation": "Скрати дане младости његове, покри ⟨га⟩ срамотом. Села.",
+  "tokens": [
+    {
+      "surface": "הקצרת",
+      "gloss": "скрати"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дане"
+    },
+    {
+      "surface": "עלומיו",
+      "gloss": "младости његове"
+    },
+    {
+      "surface": "העטית",
+      "gloss": "покри"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "⟨га⟩"
+    },
+    {
+      "surface": "בושה",
+      "gloss": "срамотом"
+    },
+    {
+      "surface": "сלה",
+      "gloss": "Села."
+    }
+  ],
+  "timestamp": "2026-09-05T13:34:25.548166492Z",
+  "model": "glm-5.3"
+}

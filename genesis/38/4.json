@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 38:4",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 38,
+  "translation": "И заче опет, и роди сина, и назва ⟨את⟩ име његово Онан.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "И заче"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "опет"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "и роди"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "и назва"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "име његово"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "име његово"
+    },
+    {
+      "surface": "אונן",
+      "gloss": "Онан"
+    }
+  ],
+  "timestamp": "2026-09-05T09:54:13.134631689Z",
+  "model": "glm-5.3"
+}

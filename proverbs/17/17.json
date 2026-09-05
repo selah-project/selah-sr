@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 17:17",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 17,
+  "translation": "У свако време љуби ⟨пријатељ⟩, а брат за невољу се рађа.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "У свако"
+    },
+    {
+      "surface": "עת",
+      "gloss": "време"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "љуби"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "пријатељ"
+    },
+    {
+      "surface": "ואח",
+      "gloss": "а брат"
+    },
+    {
+      "surface": "לצרה",
+      "gloss": "за невољу"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "се рађа"
+    }
+  ],
+  "timestamp": "2026-09-05T13:50:08.163337676Z",
+  "model": "glm-5.3"
+}

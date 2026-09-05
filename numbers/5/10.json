@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 5:10",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "И сваки човек ⟨את⟩ светиње своје — његове ће бити; што човек да свештенику, њему ће бити.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "и човек"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "светиње своје"
+    },
+    {
+      "surface": "קדשיו",
+      "gloss": "светиње своје"
+    },
+    {
+      "surface": "לו",
+      "gloss": "њему"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "биће"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "да"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "свештенику"
+    },
+    {
+      "surface": "לו",
+      "gloss": "њему"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "биће"
+    }
+  ],
+  "timestamp": "2026-09-05T16:33:59.805377639Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 22:1",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "Бреме долине виђења. Што ти је сад, да си се сва попела на кровове?",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Бреме"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "долине"
+    },
+    {
+      "surface": "חזיון",
+      "gloss": "виђења"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Што"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти је"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "сад"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨да⟩"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "попела-си-се"
+    },
+    {
+      "surface": "כלך",
+      "gloss": "сва"
+    },
+    {
+      "surface": "לגגות",
+      "gloss": "на-кровове"
+    }
+  ],
+  "timestamp": "2026-09-05T15:34:13.172755414Z",
+  "model": "glm-5.3"
+}

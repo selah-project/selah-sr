@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 5:15",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "И сагну се човек, и понизи се муж, и очи узнесених понизиће се.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "И сагну се"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човек"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "и понизи се"
+    },
+    {
+      "surface": "איש",
+      "gloss": "муж"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "и очи"
+    },
+    {
+      "surface": "גבהים",
+      "gloss": "узнесених"
+    },
+    {
+      "surface": "תשפלנה",
+      "gloss": "понизиће се"
+    }
+  ],
+  "timestamp": "2026-09-05T12:02:33.150029942Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 13:23",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "Обиље хране ⟨јесте⟩ ораница сиромаха, а има ⟨онога⟩ који бива покошен без права.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "Обиље"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "хране"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "ораница"
+    },
+    {
+      "surface": "ראשים",
+      "gloss": "сиромаха"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "а има"
+    },
+    {
+      "surface": "נספה",
+      "gloss": "који бива покошен"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "без"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "права"
+    }
+  ],
+  "timestamp": "2026-09-05T13:48:44.570777757Z",
+  "model": "glm-5.3"
+}

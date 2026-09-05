@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 2:22",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "И роди сина, и назва име његово Гершом, јер рече: дошљак сам био у земљи туђој.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "И роди"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "и назва"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "име његово"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "име његово"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Гершом"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "גר",
+      "gloss": "дошљак"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "сам био"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "у земљи"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "туђој"
+    }
+  ],
+  "timestamp": "2026-09-05T09:59:45.692714849Z",
+  "model": "glm-5.3"
+}

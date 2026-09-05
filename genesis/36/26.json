@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 36:26",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 36,
+  "translation": "И ово су синови Дишанови: Хемдан и Ешбан и Јитран и Керан.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "И ово"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "דישן",
+      "gloss": "Дишанови"
+    },
+    {
+      "surface": "חמדן",
+      "gloss": "Хемдан"
+    },
+    {
+      "surface": "ואשבן",
+      "gloss": "и Ешбан"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "и Јитран"
+    },
+    {
+      "surface": "וכרן",
+      "gloss": "и Керан"
+    }
+  ],
+  "timestamp": "2026-09-05T09:52:36.737751202Z",
+  "model": "glm-5.3"
+}

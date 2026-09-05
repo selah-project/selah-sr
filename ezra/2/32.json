@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezra 2:32",
+  "book": "ezra",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Синови Харима, три стотине и двадесет.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синови"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "Харима"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "три"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "стотине"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "и двадесет"
+    }
+  ],
+  "timestamp": "2026-09-05T16:10:28.427169137Z",
+  "model": "glm-5.3"
+}

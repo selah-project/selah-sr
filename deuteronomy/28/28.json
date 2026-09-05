@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 28:28",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "Удариће те Јахве лудилом, и слепилом, и помамању срца.",
+  "tokens": [
+    {
+      "surface": "יככה",
+      "gloss": "удариће те"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "בשגעון",
+      "gloss": "лудилом"
+    },
+    {
+      "surface": "ובעורון",
+      "gloss": "и слепилом"
+    },
+    {
+      "surface": "ובתמהון",
+      "gloss": "и помамању"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "срца"
+    }
+  ],
+  "timestamp": "2026-09-05T15:14:53.552107359Z",
+  "model": "glm-5.3"
+}

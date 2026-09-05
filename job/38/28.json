@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 38:28",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 38,
+  "translation": "Има ли киши оца, или ко роди капи росе?",
+  "tokens": [
+    {
+      "surface": "היש",
+      "gloss": "Има ли"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "киши"
+    },
+    {
+      "surface": "אב",
+      "gloss": "оца"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ко"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "אגלי",
+      "gloss": "капи"
+    },
+    {
+      "surface": "טל",
+      "gloss": "росе"
+    }
+  ],
+  "timestamp": "2026-09-05T16:06:29.041044671Z",
+  "model": "glm-5.3"
+}

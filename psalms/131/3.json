@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 131:3",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 131,
+  "translation": "Нека чека Израел на Јахвеа од сада и до века.",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "Нека чека"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израел"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "од сада"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и до"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "века"
+    }
+  ],
+  "timestamp": "2026-09-05T13:41:58.447650285Z",
+  "model": "glm-5.3"
+}

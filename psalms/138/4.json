@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 138:4",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 138,
+  "translation": "Хвале те, Јахве, сви краљеви земље, јер чуше речи уста твојих.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "Хвале те"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сви"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "краљеви"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земље"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "чуше"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "речи"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "уста твојих"
+    }
+  ],
+  "timestamp": "2026-09-05T13:43:40.876005821Z",
+  "model": "glm-5.3"
+}

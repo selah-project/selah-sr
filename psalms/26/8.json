@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 26:8",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 26,
+  "translation": "Јахве, заволех стан дому твоме, и место шатора славе твоје.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "заволех"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "стан"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "дому твоме"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "и место"
+    },
+    {
+      "surface": "משכן",
+      "gloss": "шатора"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "славе твоје"
+    }
+  ],
+  "timestamp": "2026-09-05T13:20:54.309022857Z",
+  "model": "glm-5.3"
+}

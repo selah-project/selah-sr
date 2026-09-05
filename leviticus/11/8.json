@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "Од меса њиховог не једите и лешине њихове не дирајте — нечисти су они вама.",
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "од меса њиховог"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "једите"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "и лешине њихове"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "дирајте"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "нечисти"
+    },
+    {
+      "surface": "הם",
+      "gloss": "су они"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вама"
+    }
+  ],
+  "timestamp": "2026-09-05T10:18:47.892851245Z",
+  "model": "glm-5.3"
+}

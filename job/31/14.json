@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 31:14",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 31,
+  "translation": "шта ћу чинити кад Ел уста́не? и кад посети — шта ћу му одговорити?",
+  "tokens": [
+    {
+      "surface": "ומה",
+      "gloss": "и шта"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ћу чинити"
+    },
+    {
+      "surface": "כי",
+      "gloss": "кад"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "уста́не"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "и кад"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "посети"
+    },
+    {
+      "surface": "מה",
+      "gloss": "шта"
+    },
+    {
+      "surface": "אשיבנו",
+      "gloss": "ћу му одговорити"
+    }
+  ],
+  "timestamp": "2026-09-05T14:02:33.700861260Z",
+  "model": "glm-5.3"
+}

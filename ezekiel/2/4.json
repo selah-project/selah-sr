@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 2:4",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "А синови — тврда лица и чврста срца; ја шаљем ⟨את⟩ те к њима, и рећи ћеш њима: тако рече Адонај Јахве.",
+  "tokens": [
+    {
+      "surface": "והבנים",
+      "gloss": "а синови"
+    },
+    {
+      "surface": "קשי",
+      "gloss": "тврда"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "лица"
+    },
+    {
+      "surface": "וחזקי",
+      "gloss": "и чврста"
+    },
+    {
+      "surface": "לב",
+      "gloss": "срца"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "שולח",
+      "gloss": "шаљем"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ те",
+      "marks": "те"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "к њима"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "и рећи ћеш"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "њима"
+    },
+    {
+      "surface": "כה",
+      "gloss": "тако"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-09-05T15:42:41.522366842Z",
+  "model": "glm-5.3"
+}

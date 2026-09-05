@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "lamentations 3:56",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Глас мој чу ⟨си⟩; не скривај ухо своје за дах мој, за вапај мој.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "Глас мој"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "чу"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעלם",
+      "gloss": "скривај"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ухо своје"
+    },
+    {
+      "surface": "לרוחתי",
+      "gloss": "за дах мој"
+    },
+    {
+      "surface": "לשועתי",
+      "gloss": "за вапај мој"
+    }
+  ],
+  "timestamp": "2026-09-05T14:09:28.456977279Z",
+  "model": "glm-5.3"
+}

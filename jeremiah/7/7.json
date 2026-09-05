@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 7:7",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "и населићу ⟨את⟩ вас ⟨у⟩ овом месту, у земљи коју дадох оцима вашим ⟨до⟩ века и до века.",
+  "tokens": [
+    {
+      "surface": "ושכנתי",
+      "gloss": "и населићу"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ вас"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "у месту"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овом"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "у земљи"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "коју"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "дадох"
+    },
+    {
+      "surface": "לאבותיכם",
+      "gloss": "оцима вашим"
+    },
+    {
+      "surface": "למן",
+      "gloss": "од"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "века"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и до"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "века"
+    }
+  ],
+  "timestamp": "2026-09-05T15:38:54.573988170Z",
+  "model": "glm-5.3"
+}

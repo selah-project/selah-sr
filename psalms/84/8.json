@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 84:8",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 84,
+  "translation": "Иду од снаге к снази; јавиће се Елохиму на Циону.",
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "иде"
+    },
+    {
+      "surface": "מחיל",
+      "gloss": "од снаге"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "снази"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "јавиће се"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨пред⟩"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохиму"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "на Циону"
+    }
+  ],
+  "timestamp": "2026-09-05T13:34:38.490199289Z",
+  "model": "glm-5.3"
+}

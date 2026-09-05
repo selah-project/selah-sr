@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 28:30",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "један јарац кози ⟨да⟩ окаје за вас,",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "јарац"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "кози"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "један"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "⟨да⟩ окаје"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "за вас"
+    }
+  ],
+  "timestamp": "2026-09-05T17:15:42.210426061Z",
+  "model": "glm-5.3"
+}

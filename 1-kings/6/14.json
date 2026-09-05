@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 6:14",
+  "book": "1-kings",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "И сазида Шломо (Соломон) ⟨את⟩ дом и доврши га.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "И сазида"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шломо"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дом"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "и доврши га"
+    }
+  ],
+  "timestamp": "2026-09-05T15:26:45.091838546Z",
+  "model": "glm-5.3"
+}

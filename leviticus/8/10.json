@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 8:10",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "И узе Моше ⟨את⟩ уље помазања, и помаза ⟨את⟩ шатор и ⟨את⟩ све што је у њему, и посвети их.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "и узе"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "уље помазања"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "уље"
+    },
+    {
+      "surface": "המשחה",
+      "gloss": "помазања"
+    },
+    {
+      "surface": "וימשח",
+      "gloss": "и помаза"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "шатор"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "шатор"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "све"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "בו",
+      "gloss": "је у њему"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "и посвети"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "шатор и све што је у њему"
+    }
+  ],
+  "timestamp": "2026-09-05T16:33:59.840264640Z",
+  "model": "glm-5.3"
+}

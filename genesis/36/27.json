@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 36:27",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 36,
+  "translation": "Ово су синови Ецерови: Билхан и Зааван и Акан.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ово"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "Ецерови"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "Билхан"
+    },
+    {
+      "surface": "וזעון",
+      "gloss": "и Зааван"
+    },
+    {
+      "surface": "ועקן",
+      "gloss": "и Акан"
+    }
+  ],
+  "timestamp": "2026-09-05T09:52:36.737932455Z",
+  "model": "glm-5.3"
+}

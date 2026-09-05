@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 15:12",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 15,
+  "translation": "Шта те односи срце твоје, и шта трепћу очи твоје?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "шта"
+    },
+    {
+      "surface": "יקחך",
+      "gloss": "те односи"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "срце твоје"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "и шта"
+    },
+    {
+      "surface": "ירזמון",
+      "gloss": "трепћу"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "очи твоје"
+    }
+  ],
+  "timestamp": "2026-09-05T13:58:30.075169694Z",
+  "model": "glm-5.3"
+}

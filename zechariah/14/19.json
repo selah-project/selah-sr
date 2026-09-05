@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "zechariah 14:19",
+  "book": "zechariah",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "Ово ће бити грех Мицрајима (Египта) и грех свих народа који не узиђу да празнују ⟨את⟩ празник Сукота.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Ово"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "биће"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "грех"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрајим"
+    },
+    {
+      "surface": "וחטאת",
+      "gloss": "и грех"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сви"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "народи"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יעלו",
+      "gloss": "узиђу"
+    },
+    {
+      "surface": "לחג",
+      "gloss": "да празнују"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "празник"
+    },
+    {
+      "surface": "חג",
+      "gloss": "празник"
+    },
+    {
+      "surface": "הסכות",
+      "gloss": "Сукота"
+    }
+  ],
+  "timestamp": "2026-09-05T15:53:15.465295742Z",
+  "model": "glm-5.3"
+}

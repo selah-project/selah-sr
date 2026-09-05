@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 9:2",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "Закла ⟨ѕвој⟩ колаč, измијеша вино ⟨ѕвоје⟩, чак и постави сто ⟨ѕвој⟩.",
+  "tokens": [
+    {
+      "surface": "טבחה",
+      "gloss": "закла"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "колаč њен"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "измијеша"
+    },
+    {
+      "surface": "יינה",
+      "gloss": "вино њено"
+    },
+    {
+      "surface": "אף",
+      "gloss": "чак и"
+    },
+    {
+      "surface": "ערכה",
+      "gloss": "постави"
+    },
+    {
+      "surface": "שלחנה",
+      "gloss": "сто њен"
+    }
+  ],
+  "timestamp": "2026-09-05T13:47:54.048679777Z",
+  "model": "glm-5.3"
+}

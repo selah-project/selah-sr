@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "И назва Адам име жене своје Хава (Ева), јер она би мати свега живог.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "И назва"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "Адам"
+    },
+    {
+      "surface": "שם",
+      "gloss": "име"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "жене своје"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Хава (Ева)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "она"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "би"
+    },
+    {
+      "surface": "אם",
+      "gloss": "мати"
+    },
+    {
+      "surface": "כל",
+      "gloss": "свега"
+    },
+    {
+      "surface": "חי",
+      "gloss": "живог"
+    }
+  ],
+  "timestamp": "2026-09-05T09:39:58.822305445Z",
+  "model": "glm-5.3"
+}

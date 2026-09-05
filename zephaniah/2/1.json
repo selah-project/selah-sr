@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 2:1",
+  "book": "zephaniah",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Скупите се и скупите се, народу неожељени,",
+  "tokens": [
+    {
+      "surface": "התקוששו",
+      "gloss": "Скупите се"
+    },
+    {
+      "surface": "וקושו",
+      "gloss": "и скупите се"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "народу"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נכסף",
+      "gloss": "ожељени"
+    }
+  ],
+  "timestamp": "2026-09-05T13:11:52.091260660Z",
+  "model": "glm-5.3"
+}

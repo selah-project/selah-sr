@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 36:2",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 36,
+  "translation": "Причекај ме мало, и показаћу ти, јер још за Елоаха има речи.",
+  "tokens": [
+    {
+      "surface": "כתר",
+      "gloss": "причекај"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ме"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "мало"
+    },
+    {
+      "surface": "ואחוך",
+      "gloss": "и показаћу ти"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "још"
+    },
+    {
+      "surface": "לאלוה",
+      "gloss": "за Елоаха"
+    },
+    {
+      "surface": "מלים",
+      "gloss": "има речи"
+    }
+  ],
+  "timestamp": "2026-09-05T14:03:49.533755212Z",
+  "model": "glm-5.3"
+}

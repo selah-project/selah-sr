@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "nehemiah 7:29",
+  "book": "nehemiah",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Људи Кирјат-Јеарима, Кефире и Беерота: седам стотина четрдесет и три.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "Људи"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Кирјат-"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "Јеарима"
+    },
+    {
+      "surface": "כפירה",
+      "gloss": "Кефире"
+    },
+    {
+      "surface": "ובארות",
+      "gloss": "и Беерота"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "седам"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "стотина"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "четрдесет"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "и три"
+    }
+  ],
+  "timestamp": "2026-09-05T14:30:53.924691015Z",
+  "model": "glm-5.3"
+}

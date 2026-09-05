@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 14:10",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "Срце зна горчину душе своје, и у радости његовој неће се умешати туђинац.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "Срце"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "зна"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "горчину"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "душе своје"
+    },
+    {
+      "surface": "ובשמחתו",
+      "gloss": "и у радости његовој"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יתערב",
+      "gloss": "умешаће се"
+    },
+    {
+      "surface": "זר",
+      "gloss": "туђинац"
+    }
+  ],
+  "timestamp": "2026-09-05T13:48:26.940277636Z",
+  "model": "glm-5.3"
+}

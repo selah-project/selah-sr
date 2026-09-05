@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 14:17",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "Краткаа срџба чини лудост, а човек злих намера мрзан ⟨је⟩.",
+  "tokens": [
+    {
+      "surface": "קצר",
+      "gloss": "кратка"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "срџба"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "чини"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "лудост"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "а човек"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "злих намера"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "мрзан ⟨је⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T13:48:59.539352960Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 49:6",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 49,
+  "translation": "Зашто да се бојим у данима зла, безакоње пета мојих опкољава ме?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Зашто"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "да се бојим"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "у данима"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зла"
+    },
+    {
+      "surface": "עון",
+      "gloss": "безакоње"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "пета мојих"
+    },
+    {
+      "surface": "יסובני",
+      "gloss": "опкољава ме"
+    }
+  ],
+  "timestamp": "2026-09-05T13:26:07.240219536Z",
+  "model": "glm-5.3"
+}

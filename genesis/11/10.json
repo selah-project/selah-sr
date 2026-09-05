@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 11:10",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "Ово су породи Шема: Шем, син од сто година, роди ⟨את⟩ Арпахшада, две године после потопа.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ово"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "породи"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Шема"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Шем"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "сто"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "година"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Арпахшада"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "Арпахшада"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "две године"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "после"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "потопа"
+    }
+  ],
+  "timestamp": "2026-09-05T09:41:46.201015474Z",
+  "model": "glm-5.3"
+}

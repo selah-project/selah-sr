@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 80:5",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 80,
+  "translation": "Јахве, Елохим Цеваот, докле ћеш димити на молитву народа свога?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "кад"
+    },
+    {
+      "surface": "עשנת",
+      "gloss": "димити"
+    },
+    {
+      "surface": "בתפלת",
+      "gloss": "на молитву"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "народ свог"
+    }
+  ],
+  "timestamp": "2026-09-05T13:33:29.223637189Z",
+  "model": "glm-5.3"
+}

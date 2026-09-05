@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 29:9",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 29,
+  "translation": "Још ⟨му⟩ ⟨је⟩ говорио с њима, а Рахел дође са овцама оца свога, јер ⟨му⟩ пастирица ⟨она⟩ беше.",
+  "tokens": [
+    {
+      "surface": "עודנו",
+      "gloss": "Још"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "говорио"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "с њима"
+    },
+    {
+      "surface": "ורחל",
+      "gloss": "а Рахел"
+    },
+    {
+      "surface": "באה",
+      "gloss": "дође"
+    },
+    {
+      "surface": "עם",
+      "gloss": "са"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "овцама"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "које"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "оца свога"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "пастирица"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨она⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T09:48:19.191253993Z",
+  "model": "glm-5.3"
+}

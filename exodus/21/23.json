@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 21:23",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "А ако буде несреће, даћеш душу за душу.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "А ако"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "несреће"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "буде"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "даћеш"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "душу"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "за"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "душу"
+    }
+  ],
+  "timestamp": "2026-09-05T10:07:46.862413515Z",
+  "model": "glm-5.3"
+}

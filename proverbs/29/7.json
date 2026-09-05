@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 29:7",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 29,
+  "translation": "Зна праведник право сиромашних, а безбожник не разумева знање.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "зна"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "праведник"
+    },
+    {
+      "surface": "דין",
+      "gloss": "право"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "сиромашних"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "безбожник"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "разумева"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "знање"
+    }
+  ],
+  "timestamp": "2026-09-05T13:53:20.509782885Z",
+  "model": "glm-5.3"
+}

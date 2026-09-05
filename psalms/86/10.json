@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 86:10",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 86,
+  "translation": "Јер велик си ти и твориш чудеса — ти си Елохим ⟨сам⟩ ⟨једини⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "велик"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "си ти"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "и твориш"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "чудеса"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "⟨сам⟩ ⟨једини⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T16:49:26.255041605Z",
+  "model": "glm-5.3"
+}

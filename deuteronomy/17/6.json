@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 17:6",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 17,
+  "translation": "По устима два сведока или три сведока нека буде убијен осуђени на смрт; неће бити убијен по устима једног сведока.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "по"
+    },
+    {
+      "surface": "פי",
+      "gloss": "устима"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "два"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "сведока"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "три"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "сведока"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "нека буде убијен"
+    },
+    {
+      "surface": "המת",
+      "gloss": "осуђени на смрт"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ће бити убијен"
+    },
+    {
+      "surface": "על",
+      "gloss": "по"
+    },
+    {
+      "surface": "פי",
+      "gloss": "устима"
+    },
+    {
+      "surface": "עד",
+      "gloss": "сведока"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "једног"
+    }
+  ],
+  "timestamp": "2026-09-05T10:51:14.228419875Z",
+  "model": "glm-5.3"
+}

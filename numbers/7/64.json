@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "numbers 7:64",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "један јарац, ±за жртву за грех:",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "јарац"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "±коза"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "један"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "за жртву за грех"
+    }
+  ],
+  "timestamp": "2026-09-05T15:09:07.673694509Z",
+  "model": "glm-5.3"
+}

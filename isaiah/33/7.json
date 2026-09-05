@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 33:7",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 33,
+  "translation": "Ето, јунаци викаше напоље, посланици мира горко плачу.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Ето"
+    },
+    {
+      "surface": "אראלם",
+      "gloss": "јунаци"
+    },
+    {
+      "surface": "צעקו",
+      "gloss": "викаше"
+    },
+    {
+      "surface": "חצה",
+      "gloss": "напоље"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "посланици"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мира"
+    },
+    {
+      "surface": "מר",
+      "gloss": "горко"
+    },
+    {
+      "surface": "יבכיון",
+      "gloss": "плачу"
+    }
+  ],
+  "timestamp": "2026-09-05T12:09:11.981207279Z",
+  "model": "glm-5.3"
+}

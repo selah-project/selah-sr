@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 43:25",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 43,
+  "translation": "И припремише ⟨את⟩ дар док Јосеф (Јосиф) не дође у подне, јер чуше да ће тамо јести хлеб.",
+  "tokens": [
+    {
+      "surface": "ויכינו",
+      "gloss": "и припремише"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дар"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "дар"
+    },
+    {
+      "surface": "עד",
+      "gloss": "док"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "не дође"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Јосеф"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "у подне"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "чуше"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тамо"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "јести"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хлеб"
+    }
+  ],
+  "timestamp": "2026-09-05T09:56:09.385035684Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "lamentations 3:31",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Јер неће одбацити до века Адонај,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "неће"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "одбацити"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "до века"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    }
+  ],
+  "timestamp": "2026-09-05T16:07:36.043034755Z",
+  "model": "glm-5.3"
+}

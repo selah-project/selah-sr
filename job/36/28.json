@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 36:28",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 36,
+  "translation": "Када облаци прокапају, роше обилно на човека.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Када"
+    },
+    {
+      "surface": "יזלו",
+      "gloss": "прокапају"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "облаци"
+    },
+    {
+      "surface": "ירעפו",
+      "gloss": "роше"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "на"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човека"
+    },
+    {
+      "surface": "רב",
+      "gloss": "обилно"
+    }
+  ],
+  "timestamp": "2026-09-05T16:05:53.645599822Z",
+  "model": "glm-5.3"
+}

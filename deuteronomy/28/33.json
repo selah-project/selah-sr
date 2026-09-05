@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 28:33",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "Плод земље твоје и сав труд твој јеће народ који ниси знао; и бићеш само пљачкан и гњечен све дане.",
+  "tokens": [
+    {
+      "surface": "פרי",
+      "gloss": "Плод"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "земље твоје"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и сав"
+    },
+    {
+      "surface": "יגיעך",
+      "gloss": "труд твој"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "јеће"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "знаш"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "и бићеш"
+    },
+    {
+      "surface": "רק",
+      "gloss": "само"
+    },
+    {
+      "surface": "עשוק",
+      "gloss": "пљачкан"
+    },
+    {
+      "surface": "ורצוץ",
+      "gloss": "и гњечен"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "дане"
+    }
+  ],
+  "timestamp": "2026-09-05T10:54:19.198052247Z",
+  "model": "glm-5.3"
+}

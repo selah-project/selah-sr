@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 2:1",
+  "book": "song-of-songs",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Ја сам цвет Шарона, љиљан долина.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ја"
+    },
+    {
+      "surface": "חבצלת",
+      "gloss": "цвет"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "Шарона"
+    },
+    {
+      "surface": "שושנת",
+      "gloss": "љиљан"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "долина"
+    }
+  ],
+  "timestamp": "2026-09-05T16:06:39.510984631Z",
+  "model": "glm-5.3"
+}

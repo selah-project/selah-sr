@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 22:11",
+  "book": "2-samuel",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "И јахаше на херувиму и полете, и видје се на крилима ветра.",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "и јахаше"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "херувиму"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "и полете"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "и видје се"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "крилима"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ветра"
+    }
+  ],
+  "timestamp": "2026-09-05T11:35:02.826935954Z",
+  "model": "glm-5.3"
+}

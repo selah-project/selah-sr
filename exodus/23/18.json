@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 23:18",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "Не коли ⟨את⟩ крв жртве моје на квасцу, и неће ноћити дебело месо празника мојега до јутра.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תזבח",
+      "gloss": "коли"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "квасцу"
+    },
+    {
+      "surface": "דם",
+      "gloss": "крв"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "жртве моје"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и неће"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "ноћити"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "дебело месо"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "празника мојега"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "јутра"
+    }
+  ],
+  "timestamp": "2026-09-05T10:07:40.942075830Z",
+  "model": "glm-5.3"
+}

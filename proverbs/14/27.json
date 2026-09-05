@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 14:27",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "Страх Јахвеов ⟨јесте⟩ извор живота, да се одврати од замки смрти.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "страх"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеов"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "извор"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "живота"
+    },
+    {
+      "surface": "לסור",
+      "gloss": "да се одврати"
+    },
+    {
+      "surface": "ממקשי",
+      "gloss": "од замки"
+    },
+    {
+      "surface": "מות",
+      "gloss": "смрти"
+    }
+  ],
+  "timestamp": "2026-09-05T13:49:25.565006501Z",
+  "model": "glm-5.3"
+}

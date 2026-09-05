@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 38:2",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 38,
+  "translation": "Ко је овај што замрачује савет речима без знања?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ко"
+    },
+    {
+      "surface": "זה",
+      "gloss": "је овај"
+    },
+    {
+      "surface": "מחשיך",
+      "gloss": "што замрачује"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "савет"
+    },
+    {
+      "surface": "במלין",
+      "gloss": "речима"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "без"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "знања"
+    }
+  ],
+  "timestamp": "2026-09-05T14:05:19.015487265Z",
+  "model": "glm-5.3"
+}

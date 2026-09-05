@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 16:28",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 16,
+  "translation": "Дајте Јахвеу, породе народâ, дајте Јахвеу славу и силу.",
+  "tokens": [
+    {
+      "surface": "הבו",
+      "gloss": "Дајте"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Јахвеу"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "породе"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "народâ"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "дајте"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Јахвеу"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "славу"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "и силу"
+    }
+  ],
+  "timestamp": "2026-09-05T14:39:12.565455602Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 14:28",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "У години смрти краља Ахаза би овај терет.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "у години"
+    },
+    {
+      "surface": "מות",
+      "gloss": "смрти"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "краља"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ахаза"
+    },
+    {
+      "surface": "היה",
+      "gloss": "би"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "терет"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овај"
+    }
+  ],
+  "timestamp": "2026-09-05T12:04:50.808049970Z",
+  "model": "glm-5.3"
+}

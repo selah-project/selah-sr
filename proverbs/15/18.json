@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 15:18",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 15,
+  "translation": "Човек жестине распаљује свађу, а спорна на гнев умирује препирку.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Човек"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "жестине"
+    },
+    {
+      "surface": "יגרה",
+      "gloss": "распаљује"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "свађу"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "а спорна"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "на гнев"
+    },
+    {
+      "surface": "ישקיט",
+      "gloss": "умирује"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "препирку"
+    }
+  ],
+  "timestamp": "2026-09-05T13:49:53.769748606Z",
+  "model": "glm-5.3"
+}

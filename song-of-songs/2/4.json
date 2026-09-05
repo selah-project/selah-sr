@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 2:4",
+  "book": "song-of-songs",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Доведе ме у дом вина, и стег његов нада мном ⟨бије⟩ љубав.",
+  "tokens": [
+    {
+      "surface": "הביאני",
+      "gloss": "доведе ме"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "היין",
+      "gloss": "вина"
+    },
+    {
+      "surface": "ודגלו",
+      "gloss": "и стег његов"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "нада мном"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "љубав"
+    }
+  ],
+  "timestamp": "2026-09-05T16:06:08.684749861Z",
+  "model": "glm-5.3"
+}

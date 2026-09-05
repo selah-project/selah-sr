@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 32:32",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 32,
+  "translation": "И сунце засија њему кад прође ⟨את⟩ Пенуел, а он храмљаше на бедру свом.",
+  "tokens": [
+    {
+      "surface": "ויזרח",
+      "gloss": "и засија"
+    },
+    {
+      "surface": "לו",
+      "gloss": "њему"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "сунце"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "кад"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "прође"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Пенуел"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Пенуел"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "а он"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "храмљаше"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "бедру свом"
+    }
+  ],
+  "timestamp": "2026-09-05T15:00:52.448843710Z",
+  "model": "glm-5.3"
+}

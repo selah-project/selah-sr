@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 106:20",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 106,
+  "translation": "И заменише ⟨את⟩ славу своју за облик вола што једе траву.",
+  "tokens": [
+    {
+      "surface": "וימירו",
+      "gloss": "и заменише"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "славу своју"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "славу своју"
+    },
+    {
+      "surface": "בתבנית",
+      "gloss": "за облик"
+    },
+    {
+      "surface": "שור",
+      "gloss": "вола"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "што једе"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "траву"
+    }
+  ],
+  "timestamp": "2026-09-05T13:37:42.370715032Z",
+  "model": "glm-5.3"
+}

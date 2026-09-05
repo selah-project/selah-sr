@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 2:12",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "да те избави од пута зла, од човека који говори изопачености,",
+  "tokens": [
+    {
+      "surface": "להצילך",
+      "gloss": "да те избави"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "од пута"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зла"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "од човека"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "који говори"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "изопачености"
+    }
+  ],
+  "timestamp": "2026-09-05T13:45:40.746720854Z",
+  "model": "glm-5.3"
+}

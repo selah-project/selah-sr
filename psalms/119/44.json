@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 119:44",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 119,
+  "translation": "И чувашћу Тору твоју стално, довека и заувек.",
+  "tokens": [
+    {
+      "surface": "ואשמרה",
+      "gloss": "и чувашћу"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Тору твоју"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "стално"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "довека"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и заувек"
+    }
+  ],
+  "timestamp": "2026-09-05T13:40:00.207192558Z",
+  "model": "glm-5.3"
+}

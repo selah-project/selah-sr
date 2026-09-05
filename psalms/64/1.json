@@ -1,0 +1,1 @@
+{"tier": "glm-5.2", "verse": 1, "ref": "psalms 64:1", "book": "psalms", "lang": "sr", "chapter": 64, "translation": "Диригенту ⟨псалма⟩ псалам Давидов (Давида).", "tokens": [{"surface": "למנצח", "gloss": "Диригенту"}, {"surface": "מזמור", "gloss": "псалам"}, {"surface": "לדוד", "gloss": "Давидов (Давида)"}], "timestamp": "2026-09-05T13:29:35.199710542Z", "model": "glm-5.3"}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 22:25",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "Ако залогом заложиш одежду ближњега свога, до заласка сунца вратићеш му је.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ако"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "залогом"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "заложиш"
+    },
+    {
+      "surface": "שלמת",
+      "gloss": "одежду"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "ближњега свога"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "בא",
+      "gloss": "заласка"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "сунца"
+    },
+    {
+      "surface": "תשיבנו",
+      "gloss": "вратићеш је"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    }
+  ],
+  "timestamp": "2026-09-05T10:07:26.798817538Z",
+  "model": "glm-5.3"
+}

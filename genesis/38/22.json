@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 38:22",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 38,
+  "translation": "И врати се к Јехуди (Јуда) и рече: не нађох је; и људи места рекоше: не беше овде блуднице.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "врати се"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јехуди"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "מצאתיה",
+      "gloss": "нађох је"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "и још"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "људи"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "места"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "рекоше"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "беше"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "овде"
+    },
+    {
+      "surface": "קדשה",
+      "gloss": "блуднице"
+    }
+  ],
+  "timestamp": "2026-09-05T09:54:53.726613136Z",
+  "model": "glm-5.3"
+}

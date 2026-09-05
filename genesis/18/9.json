@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 18:9",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "И рекоше му: где је Сара (Сара), жена твоја? А он рече: ево ⟨је⟩ у шатору.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "и рекоше"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "му"
+    },
+    {
+      "surface": "איה",
+      "gloss": "где"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Сара"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "жена твоја"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ево"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "у шатору"
+    }
+  ],
+  "timestamp": "2026-09-05T16:47:45.352605320Z",
+  "model": "glm-5.3"
+}

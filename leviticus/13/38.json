@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 13:38",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "И човек или жена: ако буде на кожи тела њиховог мрље, мрље беле —",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "и човек"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "жена"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ако"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "буде"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "на кожи"
+    },
+    {
+      "surface": "בשרם",
+      "gloss": "тела њиховог"
+    },
+    {
+      "surface": "בהרת",
+      "gloss": "мрље"
+    },
+    {
+      "surface": "בהרת",
+      "gloss": "мрље"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "беле"
+    }
+  ],
+  "timestamp": "2026-09-05T10:20:21.033586855Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 15:23",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 15,
+  "translation": "И дођоше у Мару, и не могоше пити воде из Маре, јер су оне горке; зато се прозове име њено Мара.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "и дођоше"
+    },
+    {
+      "surface": "מרתה",
+      "gloss": "у Мару"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "могоше"
+    },
+    {
+      "surface": "לשתת",
+      "gloss": "пити"
+    },
+    {
+      "surface": "מים",
+      "gloss": "воде"
+    },
+    {
+      "surface": "ממרה",
+      "gloss": "из Маре"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "горке"
+    },
+    {
+      "surface": "הם",
+      "gloss": "оне"
+    },
+    {
+      "surface": "על",
+      "gloss": "зато (на)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тако"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "прозове"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "име њено"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "Мара"
+    }
+  ],
+  "timestamp": "2026-09-05T15:04:04.320027976Z",
+  "model": "glm-5.3"
+}

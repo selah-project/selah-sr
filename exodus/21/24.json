@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "око за око, зуб за зуб, руку за руку, ногу за ногу.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "око"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "за"
+    },
+    {
+      "surface": "עין",
+      "gloss": "око"
+    },
+    {
+      "surface": "שן",
+      "gloss": "зуб"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "за"
+    },
+    {
+      "surface": "שן",
+      "gloss": "зуб"
+    },
+    {
+      "surface": "יד",
+      "gloss": "руку"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "за"
+    },
+    {
+      "surface": "יד",
+      "gloss": "руку"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ногу"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "за"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ногу"
+    }
+  ],
+  "timestamp": "2026-09-05T10:07:46.862546225Z",
+  "model": "glm-5.3"
+}

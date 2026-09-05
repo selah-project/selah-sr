@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 29:30",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 29,
+  "translation": "И уђе и к Рахел, и заволи и ⟨את⟩ Рахел више од Леје, и служаше с њим још седам година других.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "и уђе"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Рахел"
+    },
+    {
+      "surface": "ויאהב",
+      "gloss": "и заволи"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Рахел"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Рахел"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "више од Леје"
+    },
+    {
+      "surface": "ויעבד",
+      "gloss": "и служаше"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "с њим"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "још"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "седам"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "година"
+    },
+    {
+      "surface": "אחרות",
+      "gloss": "других"
+    }
+  ],
+  "timestamp": "2026-09-05T09:49:04.056478383Z",
+  "model": "glm-5.3"
+}

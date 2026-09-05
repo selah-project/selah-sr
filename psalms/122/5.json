@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 122:5",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 122,
+  "translation": "Јер тамо стоје престоли за суд, престоли дома Давидова.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "тамо"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "стоје"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "престоли"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "за суд"
+    },
+    {
+      "surface": "כסאות",
+      "gloss": "престоли"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давидова"
+    }
+  ],
+  "timestamp": "2026-09-05T15:59:03.708815441Z",
+  "model": "glm-5.3"
+}

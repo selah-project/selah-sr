@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 26:15",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 26,
+  "translation": "Овед-Едому према југу, а синовима његовим — кућа Асупим (спремишта).",
+  "tokens": [
+    {
+      "surface": "לעבד",
+      "gloss": "Овед-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Едому"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "према југу"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "а синовима његовим"
+    },
+    {
+      "surface": "בית",
+      "gloss": "кућа"
+    },
+    {
+      "surface": "האספים",
+      "gloss": "Асупим"
+    }
+  ],
+  "timestamp": "2026-09-05T16:17:12.023287014Z",
+  "model": "glm-5.3"
+}

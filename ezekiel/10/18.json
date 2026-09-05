@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 10:18",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "И изађе слава Јахвеова са прага дома, и стаде над ⟨тј. на⟩ херувимима.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "и изађе"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "слава"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеова"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "са"
+    },
+    {
+      "surface": "מפתן",
+      "gloss": "прага"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "и стаде"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "херувимима"
+    }
+  ],
+  "timestamp": "2026-09-05T12:44:49.606415257Z",
+  "model": "glm-5.3"
+}

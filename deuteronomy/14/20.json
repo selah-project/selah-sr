@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 14:20",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "сву чисту птицу једите.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "сву"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "птицу"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "чисту"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "једите"
+    }
+  ],
+  "timestamp": "2026-09-05T16:58:22.585376242Z",
+  "model": "glm-5.3"
+}

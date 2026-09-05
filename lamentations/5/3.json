@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 5:3",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Сирочади постадосмо, без оца; мајке наше ⟨су⟩ као удовице.",
+  "tokens": [
+    {
+      "surface": "יתומים",
+      "gloss": "Сирочади"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "постадосмо"
+    },
+    {
+      "surface": "אין",
+      "gloss": "без"
+    },
+    {
+      "surface": "אב",
+      "gloss": "оца"
+    },
+    {
+      "surface": "אמתינו",
+      "gloss": "мајке наше"
+    },
+    {
+      "surface": "כאלמנות",
+      "gloss": "као удовице"
+    }
+  ],
+  "timestamp": "2026-09-05T14:10:53.359811219Z",
+  "model": "glm-5.3"
+}

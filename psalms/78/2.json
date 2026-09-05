@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 78:2",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 78,
+  "translation": "Отворићу уста своја у причи, избрајаћу загонетке од давнина.",
+  "tokens": [
+    {
+      "surface": "אפתחה",
+      "gloss": "Отворићу"
+    },
+    {
+      "surface": "במשל",
+      "gloss": "у причи"
+    },
+    {
+      "surface": "פי",
+      "gloss": "уста своја"
+    },
+    {
+      "surface": "אביעה",
+      "gloss": "избрајаћу"
+    },
+    {
+      "surface": "חידות",
+      "gloss": "загонетке"
+    },
+    {
+      "surface": "מני",
+      "gloss": "од"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "давнина"
+    }
+  ],
+  "timestamp": "2026-09-05T15:56:44.987839056Z",
+  "model": "glm-5.3"
+}

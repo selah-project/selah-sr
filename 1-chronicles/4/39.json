@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 4:39",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "И отидоше к улазу Гедоровом, до истока долине, да траже пашу за стоку своју.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "и отидоше"
+    },
+    {
+      "surface": "למבוא",
+      "gloss": "к улазу"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "Гедор"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "למזרח",
+      "gloss": "истока"
+    },
+    {
+      "surface": "הגיא",
+      "gloss": "долине"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "да траже"
+    },
+    {
+      "surface": "מרעה",
+      "gloss": "пашу"
+    },
+    {
+      "surface": "לצאנם",
+      "gloss": "за стоку своју"
+    }
+  ],
+  "timestamp": "2026-09-05T14:35:06.325232361Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 5:3",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "И узми одатле мало, на број, и свежи ⟨את⟩ их у крилу своме.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "и узми"
+    },
+    {
+      "surface": "мשם",
+      "gloss": "одатле"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "мало"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "на број"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "и свежи"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ их"
+    },
+    {
+      "surface": "בכנפיך",
+      "gloss": "у крилу своме"
+    }
+  ],
+  "timestamp": "2026-09-05T12:44:03.863130076Z",
+  "model": "glm-5.3"
+}

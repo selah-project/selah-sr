@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 37:4",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 37,
+  "translation": "И уживај у Јахвеу, и даће ти ⟨он⟩ жеље срца твог.",
+  "tokens": [
+    {
+      "surface": "והתענג",
+      "gloss": "И уживај"
+    },
+    {
+      "surface": "על",
+      "gloss": "у"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеу"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "и даће"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "משאלת",
+      "gloss": "жеље"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "срца твог"
+    }
+  ],
+  "timestamp": "2026-09-05T13:22:48.745754803Z",
+  "model": "glm-5.3"
+}

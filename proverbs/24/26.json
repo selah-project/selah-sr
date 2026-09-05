@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 24:26",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "Усне љуби онај који узвраћа речи исправне.",
+  "tokens": [
+    {
+      "surface": "שפתים",
+      "gloss": "усне"
+    },
+    {
+      "surface": "ישק",
+      "gloss": "љуби"
+    },
+    {
+      "surface": "משיב",
+      "gloss": "онај који узвраћа"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "речи"
+    },
+    {
+      "surface": "נכחים",
+      "gloss": "исправне"
+    }
+  ],
+  "timestamp": "2026-09-05T16:01:33.247837826Z",
+  "model": "glm-5.3"
+}

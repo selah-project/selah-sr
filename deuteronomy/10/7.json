@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 10:7",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "Одатле кренуше у Гудгоду, а од Гудгоде у Јотвату, земљу потока воде.",
+  "tokens": [
+    {
+      "surface": "משם",
+      "gloss": "одатле"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "кренуше"
+    },
+    {
+      "surface": "הגדגדה",
+      "gloss": "у Гудгоду"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "а од"
+    },
+    {
+      "surface": "הגדגדה",
+      "gloss": "Гудгоде"
+    },
+    {
+      "surface": "יטבתה",
+      "gloss": "у Јотвату"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земљу"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "потока"
+    },
+    {
+      "surface": "מים",
+      "gloss": "воде"
+    }
+  ],
+  "timestamp": "2026-09-05T10:46:54.285987993Z",
+  "model": "glm-5.3"
+}

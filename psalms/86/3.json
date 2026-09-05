@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 86:3",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 86,
+  "translation": "Милостив ми буди, Адонај, јер к теби зовем сав дан ⟨свој⟩.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Милостив ми буди"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "к теби"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "зовем"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сав"
+    },
+    {
+      "surface": "היום",
+      "gloss": "дан"
+    }
+  ],
+  "timestamp": "2026-09-05T13:34:34.574417745Z",
+  "model": "glm-5.3"
+}

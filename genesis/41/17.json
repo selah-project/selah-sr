@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 41:17",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 41,
+  "translation": "И рече фараон Јосефу (Јосифу): у сну свом, ево ме стојим на обали реке.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "фараон"
+    },
+    {
+      "surface": "אל",
+      "gloss": "према"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Јосефу (Јосифу)"
+    },
+    {
+      "surface": "בחלמי",
+      "gloss": "у сну свом"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ево ме"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "стојим"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "обали"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "реке"
+    }
+  ],
+  "timestamp": "2026-09-05T09:54:38.986009256Z",
+  "model": "glm-5.3"
+}

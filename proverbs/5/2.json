@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 5:2",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "да чуваш промишљања, и знање усне твоје чуваће.",
+  "tokens": [
+    {
+      "surface": "לשמר",
+      "gloss": "да чуваш"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "промишљања"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "и знање"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "усне твоје"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "чуваће"
+    }
+  ],
+  "timestamp": "2026-09-05T13:46:40.422518639Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 34:18",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 34,
+  "translation": "Звапише, и Јахве чу, и из свих невоља њихових избави их.",
+  "tokens": [
+    {
+      "surface": "צעקו",
+      "gloss": "Звапише"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "и Јахве"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "чу"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "и из свих"
+    },
+    {
+      "surface": "צרותם",
+      "gloss": "невоља њихових"
+    },
+    {
+      "surface": "הצילם",
+      "gloss": "избави их"
+    }
+  ],
+  "timestamp": "2026-09-05T13:21:46.310145441Z",
+  "model": "glm-5.3"
+}

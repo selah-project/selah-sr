@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 9:10",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "Све што нађе рука твоја да чиниш, чини по снази својој, јер нема дела ни рачуна ни знања ни мудрости у Шеолу, куда ти идеш.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "нађе"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "рука твоја"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "да чиниш"
+    },
+    {
+      "surface": "בכחך",
+      "gloss": "по снази својој"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "чини"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "дела"
+    },
+    {
+      "surface": "וחשבון",
+      "gloss": "ни рачуна"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ни знања"
+    },
+    {
+      "surface": "וחכמה",
+      "gloss": "ни мудрости"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "у Шеолу"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "куда"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "идеш"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "тамо"
+    }
+  ],
+  "timestamp": "2026-09-05T14:13:54.826021249Z",
+  "model": "glm-5.3"
+}

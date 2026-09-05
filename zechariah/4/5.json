@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 4:5",
+  "book": "zechariah",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "И одговори анђео који говораше у мени и рече ми: „Зар не знаш шта су ове?“ А ја рекох: „Не, господару мој.“",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "И одговори"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "анђео"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "који говораше"
+    },
+    {
+      "surface": "בי",
+      "gloss": "у мени"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "зар не"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "знаш"
+    },
+    {
+      "surface": "מה",
+      "gloss": "шта"
+    },
+    {
+      "surface": "המה",
+      "gloss": "су"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ове"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "А ја рекох"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "господару мој"
+    }
+  ],
+  "timestamp": "2026-09-05T13:13:22.158816425Z",
+  "model": "glm-5.3"
+}

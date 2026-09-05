@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 1:1",
+  "book": "jonah",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "И би реч Јахвеова Јони (Јона), сину Амитајевом, говорећи:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И би"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "реч"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеова"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ка"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Јони (Јона)"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сину"
+    },
+    {
+      "surface": "אמתי",
+      "gloss": "Амитајевом"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорећи"
+    }
+  ],
+  "timestamp": "2026-09-05T13:08:05.790083868Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 31:14",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 31,
+  "translation": "Бива као лађе трговачке; издалека доноси хлеб свој.",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "Бива"
+    },
+    {
+      "surface": "כאניות",
+      "gloss": "као лађе"
+    },
+    {
+      "surface": "סוחר",
+      "gloss": "трговачке"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "издалека"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "доноси"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "хлеб свој"
+    }
+  ],
+  "timestamp": "2026-09-05T13:54:31.269075679Z",
+  "model": "glm-5.3"
+}

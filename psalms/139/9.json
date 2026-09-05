@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 139:9",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 139,
+  "translation": "Ако подигнем крила зоре, станем на крајњем крају мора —",
+  "tokens": [
+    {
+      "surface": "אשא",
+      "gloss": "подигнем"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "крила"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "зоре"
+    },
+    {
+      "surface": "אשכנה",
+      "gloss": "станем"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "на крајњем крају"
+    },
+    {
+      "surface": "ים",
+      "gloss": "мора"
+    }
+  ],
+  "timestamp": "2026-09-05T13:43:24.429005420Z",
+  "model": "glm-5.3"
+}

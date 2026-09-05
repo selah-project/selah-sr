@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 21:25",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "Жудња лењивца убија га, јер руке његове одбише да раде.",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "Жудња"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "лењивца"
+    },
+    {
+      "surface": "תמיתנו",
+      "gloss": "убија га"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "одбише"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "руке његове"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "да раде"
+    }
+  ],
+  "timestamp": "2026-09-05T13:51:08.270552274Z",
+  "model": "glm-5.3"
+}

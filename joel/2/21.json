@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joel 2:21",
+  "book": "joel",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Не бој се, земљо; кличи и радуј се, јер учини Јахве велико ⟨у делу⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "бој се"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "земљо"
+    },
+    {
+      "surface": "גילי",
+      "gloss": "кличи"
+    },
+    {
+      "surface": "ושמחי",
+      "gloss": "и радуј се"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "учини велико"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "у делу"
+    }
+  ],
+  "timestamp": "2026-09-05T13:04:14.385031469Z",
+  "model": "glm-5.3"
+}

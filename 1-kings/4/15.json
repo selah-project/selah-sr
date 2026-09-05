@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 4:15",
+  "book": "1-kings",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "Ахимаац у Нафтали — и он узе ⟨את⟩ Босмат, кћер Шеломоову, за жену.",
+  "tokens": [
+    {
+      "surface": "אחימעץ",
+      "gloss": "Ахимаац"
+    },
+    {
+      "surface": "בנפתלי",
+      "gloss": "у Нафтали"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "узе"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Босмат"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Босмат"
+    },
+    {
+      "surface": "בת",
+      "gloss": "кћер"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломоову"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "за жену"
+    }
+  ],
+  "timestamp": "2026-09-05T11:38:58.878441383Z",
+  "model": "glm-5.3"
+}

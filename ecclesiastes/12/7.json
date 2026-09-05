@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 12:7",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "и вратиће се прах на земљу као што беше, и дух ће се вратити Елохиму који га ⟨је⟩ дао.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "и вратиће се"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "прах"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земљу"
+    },
+    {
+      "surface": "כשהיה",
+      "gloss": "као што беше"
+    },
+    {
+      "surface": "והרוח",
+      "gloss": "и дух"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "вратиће се"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елохиму"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "даде га"
+    }
+  ],
+  "timestamp": "2026-09-05T14:14:49.664151867Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 13:15",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "Сваки нађени избоден биће, и сваки ухваћени мачем ће пасти.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "сваки"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "нађени"
+    },
+    {
+      "surface": "ידקר",
+      "gloss": "избоден биће"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и сваки"
+    },
+    {
+      "surface": "הנספה",
+      "gloss": "ухваћени"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "пасти"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "мачем"
+    }
+  ],
+  "timestamp": "2026-09-05T12:04:23.376519384Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 18:26",
+  "book": "joshua",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "и ха-Мицпа, и ха-Кефира, и ха-Моца —",
+  "tokens": [
+    {
+      "surface": "והמצפה",
+      "gloss": "и ха-Мицпа"
+    },
+    {
+      "surface": "והכפירה",
+      "gloss": "и ха-Кефира"
+    },
+    {
+      "surface": "והמצה",
+      "gloss": "и ха-Моца"
+    }
+  ],
+  "timestamp": "2026-09-05T15:17:15.884291374Z",
+  "model": "glm-5.3"
+}

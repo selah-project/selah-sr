@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 20:11",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 20,
+  "translation": "И биће, ако ти одговори миром и отвори ти, сви људи што се нађу у њему биће ти за данак и служиће ти.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "И биће"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "миром"
+    },
+    {
+      "surface": "תענך",
+      "gloss": "ти одговори"
+    },
+    {
+      "surface": "ופתחה",
+      "gloss": "и отвори"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "биће"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сви"
+    },
+    {
+      "surface": "העם",
+      "gloss": "људи"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "што се нађу"
+    },
+    {
+      "surface": "בה",
+      "gloss": "у њему"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "биће"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "למס",
+      "gloss": "за данак"
+    },
+    {
+      "surface": "ועבדוך",
+      "gloss": "и служиће ти"
+    }
+  ],
+  "timestamp": "2026-09-05T10:50:25.351576954Z",
+  "model": "glm-5.3"
+}

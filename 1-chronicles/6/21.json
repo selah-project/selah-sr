@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 6:21",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "син Елкане, син Јоела, син Азарије, син Цефаније.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Елкане"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Јоела"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Азарије"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "Цефаније"
+    }
+  ],
+  "timestamp": "2026-09-05T14:36:06.079652720Z",
+  "model": "glm-5.3"
+}

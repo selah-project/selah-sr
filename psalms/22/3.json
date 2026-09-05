@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 22:3",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "Елохиме мој, зовем дању, а не одговараш, и ноћу — а нема тишине за мене.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Елохиме мој"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "зовем"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "дању"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "а не"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "одговараш"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "и ноћу"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "а нема"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "тишине"
+    },
+    {
+      "surface": "לי",
+      "gloss": "за мене"
+    }
+  ],
+  "timestamp": "2026-09-05T13:19:46.125726940Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 9:6",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "И од синова Зераха (Заре): Јеуел и браћа њихова, шест стотина и деведесет.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "и од"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синова"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Зераха"
+    },
+    {
+      "surface": "יעואל",
+      "gloss": "Јеуел"
+    },
+    {
+      "surface": "вאхיהם",
+      "gloss": "и браћа њихова"
+    },
+    {
+      "surface": "שש",
+      "gloss": "шест"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "стотина"
+    },
+    {
+      "surface": "ותשעים",
+      "gloss": "и деведесет"
+    }
+  ],
+  "timestamp": "2026-09-05T14:37:36.737075927Z",
+  "model": "glm-5.3"
+}

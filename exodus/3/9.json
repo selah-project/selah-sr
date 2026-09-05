@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 3:9",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "А сад, ево, вика синâ Израиљевих дође к мени, и видех и ⟨את⟩ тлачу којом Мицрајимци тлаче ⟨את⟩ њих.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "и сад"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ево"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "вика"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синâ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљевих"
+    },
+    {
+      "surface": "באה",
+      "gloss": "дође"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "к мени"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "и"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "видех"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "тлачу"
+    },
+    {
+      "surface": "הלחץ",
+      "gloss": "тлачу"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "којом"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрајимци"
+    },
+    {
+      "surface": "לחצים",
+      "gloss": "тлаче"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "њих"
+    }
+  ],
+  "timestamp": "2026-09-05T10:00:09.045812694Z",
+  "model": "glm-5.3"
+}

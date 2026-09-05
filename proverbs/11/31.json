@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 11:31",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "Ено, праведник бива награђен на земљи — а камоли зли и грешник!",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Ено"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "праведник"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "на земљи"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "бива награђен"
+    },
+    {
+      "surface": "אף",
+      "gloss": "уште"
+    },
+    {
+      "surface": "כי",
+      "gloss": "а камоли"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "зли"
+    },
+    {
+      "surface": "וחוטא",
+      "gloss": "и грешник"
+    }
+  ],
+  "timestamp": "2026-09-05T13:49:02.571181957Z",
+  "model": "glm-5.3"
+}

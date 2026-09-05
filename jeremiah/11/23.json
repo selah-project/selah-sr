@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 11:23",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "И остатка неће бити њима, јер ћу довести зло на људе Анатота — годину похода њиховог.",
+  "tokens": [
+    {
+      "surface": "ושארית",
+      "gloss": "И остатка"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "буде"
+    },
+    {
+      "surface": "להם",
+      "gloss": "њима"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "доведох"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зло"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "људе"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "Анатота"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "годину"
+    },
+    {
+      "surface": "פקדתם",
+      "gloss": "похода њиховог"
+    }
+  ],
+  "timestamp": "2026-09-05T12:23:44.183701205Z",
+  "model": "glm-5.3"
+}

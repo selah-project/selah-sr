@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 29:20",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 29,
+  "translation": "Виде ли се човек брз у речима својим — више наде за лудака него за њега.",
+  "tokens": [
+    {
+      "surface": "חזית",
+      "gloss": "Виде ли се"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "אץ",
+      "gloss": "брз"
+    },
+    {
+      "surface": "בדבריו",
+      "gloss": "у речима својим"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "наде"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "за лудака"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "него за њега"
+    }
+  ],
+  "timestamp": "2026-09-05T13:52:49.050898574Z",
+  "model": "glm-5.3"
+}

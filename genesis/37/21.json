@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 37:21",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 37,
+  "translation": "И чу Реувен, и избави га из руке њихове, и рече: не ударимо душу.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "И чу"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Реувен"
+    },
+    {
+      "surface": "ויצילהו",
+      "gloss": "и избави га"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "из руке њихове"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נכנו",
+      "gloss": "ударимо"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "душу"
+    }
+  ],
+  "timestamp": "2026-09-05T09:54:26.382602070Z",
+  "model": "glm-5.3"
+}

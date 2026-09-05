@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 8:3",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "поред капија, на улазу града, на уласку дверју кличе.",
+  "tokens": [
+    {
+      "surface": "ליד",
+      "gloss": "поред"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "капија"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "на улазу"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "града"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "на уласку"
+    },
+    {
+      "surface": "פתחים",
+      "gloss": "двери"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "кличе"
+    }
+  ],
+  "timestamp": "2026-09-05T13:47:56.230945784Z",
+  "model": "glm-5.3"
+}

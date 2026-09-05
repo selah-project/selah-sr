@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 12:15",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "Пут будале прав је ⟨у⟩ очима његовим, а ко слуша савет — мудар ⟨је⟩.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "Пут"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "будале"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "прав"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "у очима његовим"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "а ко слуша"
+    },
+    {
+      "surface": "לעצה",
+      "gloss": "савет"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мудар ⟨је⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T13:48:41.342582478Z",
+  "model": "glm-5.3"
+}

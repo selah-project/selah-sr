@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 98:6",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 98,
+  "translation": "Трубама и гласом шофара трујте пред лицем краља Јахвеа.",
+  "tokens": [
+    {
+      "surface": "בחצצרות",
+      "gloss": "трубама"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "и гласом"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "шофара"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "трујте"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред лицем"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "краља"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    }
+  ],
+  "timestamp": "2026-09-05T13:36:33.685877953Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 9:5",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "Хајдите, једите у хлебу мојему, и пијте у вину што га измешах.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "хајдите"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "једите"
+    },
+    {
+      "surface": "בלחמי",
+      "gloss": "у хлебу мојему"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "и пијте"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "у вину"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "што га измешах"
+    }
+  ],
+  "timestamp": "2026-09-05T13:47:56.299341884Z",
+  "model": "glm-5.3"
+}

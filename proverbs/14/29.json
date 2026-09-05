@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 14:29",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "Дуготрпљивост ⟨је⟩ велика разумност, а кратак дух уздиже лудост.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "дуготрпљивост"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "гнева (нос)"
+    },
+    {
+      "surface": "רב",
+      "gloss": "велика"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "разумност"
+    },
+    {
+      "surface": "וקצר",
+      "gloss": "а кратак"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "дух"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "уздиже"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "лудост"
+    }
+  ],
+  "timestamp": "2026-09-05T13:49:22.043663847Z",
+  "model": "glm-5.3"
+}

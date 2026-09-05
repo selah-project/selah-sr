@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 19:21",
+  "book": "joshua",
+  "lang": "sr",
+  "chapter": 19,
+  "translation": "и Ремет, и Ен Ганим, и Ен Хада, и Бејт Пацец.",
+  "tokens": [
+    {
+      "surface": "ורמת",
+      "gloss": "и Ремет"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "и Ен"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "Ганим"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "и Ен"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "Хада"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "и Бејт"
+    },
+    {
+      "surface": "פצץ",
+      "gloss": "Пацец"
+    }
+  ],
+  "timestamp": "2026-09-05T11:03:35.157564341Z",
+  "model": "glm-5.3"
+}

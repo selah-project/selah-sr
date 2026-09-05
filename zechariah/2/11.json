@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 2:11",
+  "book": "zechariah",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Ој, Цијоне, бежи, која станујеш код ћерке вавилонске!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ој"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Цијоне"
+    },
+    {
+      "surface": "המלטי",
+      "gloss": "бежи"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "која станујеш"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ћерка"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Вавилона"
+    }
+  ],
+  "timestamp": "2026-09-05T13:12:43.564408665Z",
+  "model": "glm-5.3"
+}

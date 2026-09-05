@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 13:13",
+  "book": "judges",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "И рече анђео Јахвеов Маноаху: од свега што сам рекао жени нека се чува.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "анђео"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеов"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨коме⟩"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "Маноаху"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "од свега"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "сам рекао"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨коме⟩"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "жени"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "нека се чува"
+    }
+  ],
+  "timestamp": "2026-09-05T15:19:34.965205578Z",
+  "model": "glm-5.3"
+}

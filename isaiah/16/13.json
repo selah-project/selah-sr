@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 16:13",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 16,
+  "translation": "Ово је реч коју рече Јахве о Моаву ⟨још⟩ одавно.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Ово"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "реч"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "коју"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨о⟩"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моаву"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "одавно"
+    }
+  ],
+  "timestamp": "2026-09-05T12:05:26.353185704Z",
+  "model": "glm-5.3"
+}

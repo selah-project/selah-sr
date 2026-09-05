@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 24:21",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "И биће у дан онај: обићи ће Јахве војску висине у висини и краљеве земље на земљи.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "И биће"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "у дан"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "онај"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "обићи ће"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "војском"
+    },
+    {
+      "surface": "המרום",
+      "gloss": "висине"
+    },
+    {
+      "surface": "במרום",
+      "gloss": "у висини"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и над"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "краљевима"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "земље"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "земљи"
+    }
+  ],
+  "timestamp": "2026-09-05T15:34:33.865180967Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 18:22",
+  "book": "joshua",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "и Бет-хаарава, и Цемараим, и Бет-Ел (Ветиљ).",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "и Бет"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "хаарава"
+    },
+    {
+      "surface": "וצמרים",
+      "gloss": "и Цемараим"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "и Бет"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    }
+  ],
+  "timestamp": "2026-09-05T11:02:44.797701259Z",
+  "model": "glm-5.3"
+}

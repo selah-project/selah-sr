@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 11:31",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "Итај син Ривајев, из Гиве синова Венијаминових, Бенаја Пиреатонац —",
+  "tokens": [
+    {
+      "surface": "איתי",
+      "gloss": "Итај"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "Ривајев"
+    },
+    {
+      "surface": "מגבעת",
+      "gloss": "из Гиве"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синова"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Венијаминових"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "Бенаја"
+    },
+    {
+      "surface": "הפרעתני",
+      "gloss": "Пиреатонац"
+    }
+  ],
+  "timestamp": "2026-09-05T14:37:16.024379724Z",
+  "model": "glm-5.3"
+}

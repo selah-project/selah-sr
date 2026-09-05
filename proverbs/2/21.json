@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 2:21",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Јер прави становаће у земљи, а целих срца остаће у њој.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "прави"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "становаће"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "у земљи"
+    },
+    {
+      "surface": "ותמימים",
+      "gloss": "а целих срца"
+    },
+    {
+      "surface": "יותרו",
+      "gloss": "остаће"
+    },
+    {
+      "surface": "בה",
+      "gloss": "у њој"
+    }
+  ],
+  "timestamp": "2026-09-05T13:45:35.387012220Z",
+  "model": "glm-5.3"
+}

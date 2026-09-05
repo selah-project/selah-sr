@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 3:20",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Памтећи памтујеш, и клони ⟨се⟩ у мени душа моја.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "памтећи"
+    },
+    {
+      "surface": "תזכור",
+      "gloss": "памтујеш"
+    },
+    {
+      "surface": "ותשיח",
+      "gloss": "и клони"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "у мени"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душа моја"
+    }
+  ],
+  "timestamp": "2026-09-05T14:09:29.834565960Z",
+  "model": "glm-5.3"
+}

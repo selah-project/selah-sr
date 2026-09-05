@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 5:19",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Кривица је то: крив је постао сигурно крив пред Јахвеом.»",
+  "tokens": [
+    {
+      "surface": "אשם",
+      "gloss": "кривица"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "то ⟨је⟩"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "крив је постао"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "сигурно крив"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "пред Јахвеом"
+    }
+  ],
+  "timestamp": "2026-09-05T10:17:32.887287690Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 14:3",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "Сви се ови скупише у долину Сидим, то ⟨је⟩ Мртво море — море од соли.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Сви"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ови"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "скупише се"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "долину"
+    },
+    {
+      "surface": "השדים",
+      "gloss": "Сидим"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "то"
+    },
+    {
+      "surface": "ים",
+      "gloss": "море"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "од соли"
+    }
+  ],
+  "timestamp": "2026-09-05T09:42:39.559904737Z",
+  "model": "glm-5.3"
+}

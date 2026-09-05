@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 29:35",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 29,
+  "translation": "Осмог дана биће вам сабор; никакав посао службе не чините.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "осмог дана"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "осмог"
+    },
+    {
+      "surface": "עצרת",
+      "gloss": "сабор"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "биће"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "כל",
+      "gloss": "никакав"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "посао"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "службе"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "чините"
+    }
+  ],
+  "timestamp": "2026-09-05T10:40:31.220972046Z",
+  "model": "glm-5.3"
+}

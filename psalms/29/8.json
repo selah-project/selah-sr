@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 29:8",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 29,
+  "translation": "Глас Јахвеа потреса пустињу — потреса Јахве пустињу Кадеш.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "глас"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "потреса"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "пустињу"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "потреса"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "пустињу"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Кадеш"
+    }
+  ],
+  "timestamp": "2026-09-05T13:20:39.655323169Z",
+  "model": "glm-5.3"
+}

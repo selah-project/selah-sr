@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nahum 3:11",
+  "book": "nahum",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "И ти ћеш опити, бићеш скривена; и ти ћеш тражити уточиште од непријатеља.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "את",
+      "gloss": "ти"
+    },
+    {
+      "surface": "תשכרי",
+      "gloss": "ћеш опити"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "бићеш"
+    },
+    {
+      "surface": "נעלמה",
+      "gloss": "скривена"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "את",
+      "gloss": "ти"
+    },
+    {
+      "surface": "תבקשי",
+      "gloss": "ћеш тражити"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "уточиште"
+    },
+    {
+      "surface": "מאויב",
+      "gloss": "од непријатеља"
+    }
+  ],
+  "timestamp": "2026-09-05T13:09:20.334761339Z",
+  "model": "glm-5.3"
+}

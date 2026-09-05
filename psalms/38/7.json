@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 38:7",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 38,
+  "translation": "Искривих се, сагох до врла ⟨степена⟩; сав дан ходах у црнини.",
+  "tokens": [
+    {
+      "surface": "נעויתי",
+      "gloss": "Искривих се"
+    },
+    {
+      "surface": "שחתי",
+      "gloss": "сагох"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "врла"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сав"
+    },
+    {
+      "surface": "היום",
+      "gloss": "дан"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "у црнини"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "ходах"
+    }
+  ],
+  "timestamp": "2026-09-05T13:24:54.701612656Z",
+  "model": "glm-5.3"
+}

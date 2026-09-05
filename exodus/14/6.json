@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 14:6",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "И запрега ⟨את⟩ кола своја, и ⟨את⟩ народ свој узе са собом.",
+  "tokens": [
+    {
+      "surface": "ויאסר",
+      "gloss": "и запрега"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кола своја"
+    },
+    {
+      "surface": "רכבו",
+      "gloss": "кола своја"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "народ свој"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "народ свој"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "узе"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "са собом"
+    }
+  ],
+  "timestamp": "2026-09-05T10:04:08.918538586Z",
+  "model": "glm-5.3"
+}

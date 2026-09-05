@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 4:16",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "И говориће он теби ка народу, и биће: он биће теби за уста, а ти ћеш бити њему за бога.",
+  "tokens": [
+    {
+      "surface": "ודבר",
+      "gloss": "и говориће"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "לך",
+      "gloss": "теби"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ка"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "и биће"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "биће"
+    },
+    {
+      "surface": "לך",
+      "gloss": "теби"
+    },
+    {
+      "surface": "לפה",
+      "gloss": "за уста"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "а ти"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ћеш бити"
+    },
+    {
+      "surface": "לו",
+      "gloss": "њему"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "за бога"
+    }
+  ],
+  "timestamp": "2026-09-05T15:01:58.350667346Z",
+  "model": "glm-5.3"
+}

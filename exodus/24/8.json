@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 24:8",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "И узе Моше ⟨את⟩ крв и покропи на народ, и рече: ето крв завета коју закључи Јахве са вама о свим речима овим.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "И узе"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "крв"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "крв"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "и покропи"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ето"
+    },
+    {
+      "surface": "דם",
+      "gloss": "крв"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "завета"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "коју"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "закључи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "са вама"
+    },
+    {
+      "surface": "על",
+      "gloss": "о"
+    },
+    {
+      "surface": "כל",
+      "gloss": "свим"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "речима"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "овим"
+    }
+  ],
+  "timestamp": "2026-09-05T10:08:34.201736938Z",
+  "model": "glm-5.3"
+}

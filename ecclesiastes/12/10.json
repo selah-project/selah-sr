@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 12:10",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "Тражаше Коелет да нађе речи жељене, и написано право — речи истине.",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "Тражаше"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Коелет"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "да нађе"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "речи"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "жељене"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "и написано"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "право"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "речи"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "истине"
+    }
+  ],
+  "timestamp": "2026-09-05T14:14:17.103072864Z",
+  "model": "glm-5.3"
+}

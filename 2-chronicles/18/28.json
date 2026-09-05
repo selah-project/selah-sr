@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-chronicles 18:28",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "И попу се цар Израиљев и Јехошафат, цар Јудејин, ка Рамоту Гилеаду.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "И попу се"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљев"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "и Јехошафат"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јудејин"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ка"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Рамоту"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Гилеаду"
+    }
+  ],
+  "timestamp": "2026-09-05T14:50:05.176826526Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 119:11",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 119,
+  "translation": "У срцу свом сакрих реч твоју, да не сагрешим теби.",
+  "tokens": [
+    {
+      "surface": "בלבי",
+      "gloss": "у срцу свом"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "сакрих"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "реч твоју"
+    },
+    {
+      "surface": "למען",
+      "gloss": "да"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אחטא",
+      "gloss": "сагрешим"
+    },
+    {
+      "surface": "לך",
+      "gloss": "теби"
+    }
+  ],
+  "timestamp": "2026-09-05T13:40:13.792006711Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 24:5",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "Јунак ⟨је⟩ мудар у сили, и човек знања ојачава снагу.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "јунак"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мудар"
+    },
+    {
+      "surface": "בעוז",
+      "gloss": "у сили"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "и човек"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "знања"
+    },
+    {
+      "surface": "מאמץ",
+      "gloss": "ојачава"
+    },
+    {
+      "surface": "כח",
+      "gloss": "снагу"
+    }
+  ],
+  "timestamp": "2026-09-05T13:51:53.565458694Z",
+  "model": "glm-5.3"
+}

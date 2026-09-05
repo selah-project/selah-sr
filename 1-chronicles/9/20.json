@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 9:20",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "И Пинхас син Елазара би поглавар над њима некада; Јахве ⟨јесте⟩ са њим.",
+  "tokens": [
+    {
+      "surface": "ופינחס",
+      "gloss": "и Пинхас"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Елазара"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "поглавар"
+    },
+    {
+      "surface": "היה",
+      "gloss": "би"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "над њима"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "некада"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "са њим"
+    }
+  ],
+  "timestamp": "2026-09-05T16:16:18.279345348Z",
+  "model": "glm-5.3"
+}

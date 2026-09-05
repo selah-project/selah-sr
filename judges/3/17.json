@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 3:17",
+  "book": "judges",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "И припреми ⟨את⟩ дар Еглону, цару Моава; а Еглон бејаше човек врло дебео.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "припреми"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дар"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "дар"
+    },
+    {
+      "surface": "לעגלון",
+      "gloss": "Еглону"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моава"
+    },
+    {
+      "surface": "ועגלון",
+      "gloss": "а Еглон"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "בריא",
+      "gloss": "дебео"
+    },
+    {
+      "surface": "мраз",
+      "gloss": "врло"
+    }
+  ],
+  "timestamp": "2026-09-05T15:17:57.097729216Z",
+  "model": "glm-5.3"
+}

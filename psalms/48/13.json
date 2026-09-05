@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 48:13",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 48,
+  "translation": "Обиђите Цион и опколите је, избројите куле њезине.",
+  "tokens": [
+    {
+      "surface": "סבו",
+      "gloss": "обиђите"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Цион"
+    },
+    {
+      "surface": "והקיפוה",
+      "gloss": "и опколите је"
+    },
+    {
+      "surface": "сפרו",
+      "gloss": "избројите"
+    },
+    {
+      "surface": "מגדליה",
+      "gloss": "куле њезине"
+    }
+  ],
+  "timestamp": "2026-09-05T13:26:03.938260848Z",
+  "model": "glm-5.3"
+}

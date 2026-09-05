@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 17:11",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 17,
+  "translation": "По устима Торе која те поуче и по пресуди коју ти кажу — уради; не одступи од речи коју ти јаве, десно ⟨ни⟩ лево.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "По"
+    },
+    {
+      "surface": "פי",
+      "gloss": "устима"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Торе"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "која"
+    },
+    {
+      "surface": "יורוך",
+      "gloss": "те поуче"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и по"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "пресуди"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "коју"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "кажу"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "уради"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תסור",
+      "gloss": "одступи"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "речи"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "коју"
+    },
+    {
+      "surface": "יגידו",
+      "gloss": "јаве"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "десно"
+    },
+    {
+      "surface": "ושמאל",
+      "gloss": "лево"
+    }
+  ],
+  "timestamp": "2026-09-05T10:51:28.352048026Z",
+  "model": "glm-5.3"
+}

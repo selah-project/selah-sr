@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 25:4",
+  "book": "1-samuel",
+  "lang": "sr",
+  "chapter": 25,
+  "translation": "И чу Давид у пустињи да шиша Набал ⟨את⟩ стадо своје.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "И чу"
+    },
+    {
+      "surface": "дוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "у пустињи"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "шиша"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Набал"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "стадо своје"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "стадо своје"
+    }
+  ],
+  "timestamp": "2026-09-05T11:24:46.058096933Z",
+  "model": "glm-5.3"
+}

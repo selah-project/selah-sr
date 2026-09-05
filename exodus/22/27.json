@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 22:27",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "Елохима да не пснујеш, и кнеза у народу твоме да не проклињеш.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Елохима"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "пснујеш"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "и кнеза"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "у народу твоме"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "проклињеш"
+    }
+  ],
+  "timestamp": "2026-09-05T10:07:26.799237180Z",
+  "model": "glm-5.3"
+}

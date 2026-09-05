@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 37:3",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 37,
+  "translation": "Уздај се у Јахвеа и чини добро; стануј у земљи и паси верност.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "Уздај се"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "у Јахвеа"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "и чини"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "стануј"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "у земљи"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "и паси"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "верност"
+    }
+  ],
+  "timestamp": "2026-09-05T13:22:48.745639066Z",
+  "model": "glm-5.3"
+}

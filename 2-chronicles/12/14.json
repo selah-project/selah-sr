@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 12:14",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "И чињаше зло, јер не спреми срца својега да тражи ⟨את⟩ Јахвеа.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "и чињаше"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "зло"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "спреми"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "срца својега"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "да тражи"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јахвеа"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    }
+  ],
+  "timestamp": "2026-09-05T16:46:40.462225308Z",
+  "model": "glm-5.3"
+}

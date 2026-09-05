@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 6:28",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "И би у дан кад рече Јахве Мошеу у земљи Мицрајима ⟨тада⟩,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И би"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "у дан"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "кад рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Мошеу"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошеу"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "у земљи"
+    },
+    {
+      "surface": "мцраим",
+      "gloss": "Мицрајима"
+    }
+  ],
+  "timestamp": "2026-09-05T10:00:12.487740011Z",
+  "model": "glm-5.3"
+}

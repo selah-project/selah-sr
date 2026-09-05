@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 21:25",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "Пут постави да дође мач ⟨את⟩ Рабу синâ Амонових, и ⟨את⟩ Јуду у Јерушалају утврђеном.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "пут"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "постави"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "да дође"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "мач"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Рабу"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "Рабу"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синâ"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Амонових"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Јуду"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јуду"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "у Јерушалају"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "утврђеном"
+    }
+  ],
+  "timestamp": "2026-09-05T12:48:35.264300606Z",
+  "model": "glm-5.3"
+}

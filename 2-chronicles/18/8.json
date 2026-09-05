@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 18:8",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "И дозва цар Израиљев ка једном евнуху и рече: брзо доведи Микају, сина Имлину.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "И дозва"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљев"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ка"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "евнуху"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "једном"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "брзо доведи"
+    },
+    {
+      "surface": "מיכהו",
+      "gloss": "Микају"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "Имлину"
+    }
+  ],
+  "timestamp": "2026-09-05T16:18:12.900838342Z",
+  "model": "glm-5.3"
+}

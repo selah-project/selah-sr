@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 18:2",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "Не жели лудац у разуму, него само да се открије срце његово.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "жели"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "лудац"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "у разуму"
+    },
+    {
+      "surface": "כי",
+      "gloss": "него"
+    },
+    {
+      "surface": "אם",
+      "gloss": "само"
+    },
+    {
+      "surface": "בהתגלות",
+      "gloss": "да се открије"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "срце његово"
+    }
+  ],
+  "timestamp": "2026-09-05T13:50:16.455748346Z",
+  "model": "glm-5.3"
+}

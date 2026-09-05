@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 12:23",
+  "book": "joshua",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "краљ Дора у области Дора један, краљ народа у Гилгалу један;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "краљ"
+    },
+    {
+      "surface": "דור",
+      "gloss": "Дора"
+    },
+    {
+      "surface": "לנפת",
+      "gloss": "у области"
+    },
+    {
+      "surface": "דור",
+      "gloss": "Дора"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "један"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "краљ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "народа"
+    },
+    {
+      "surface": "לגלגל",
+      "gloss": "у Гилгалу"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "један"
+    }
+  ],
+  "timestamp": "2026-09-05T11:01:00.680483802Z",
+  "model": "glm-5.3"
+}

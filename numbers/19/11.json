@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 19:11",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 19,
+  "translation": "Онај који дотакне мртваца — сваке душе човечје — нечист је седам дана.",
+  "tokens": [
+    {
+      "surface": "הנגע",
+      "gloss": "онај који дотакне"
+    },
+    {
+      "surface": "במת",
+      "gloss": "мртваца"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "сваке"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "душе"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човечје"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "нечист је"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "седам"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дана"
+    }
+  ],
+  "timestamp": "2026-09-05T10:36:38.930836854Z",
+  "model": "glm-5.3"
+}

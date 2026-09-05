@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 23:27",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "Јер курва ⟨је⟩ јама дубока, а страна жена ⟨је⟩ студња тесна.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "јама"
+    },
+    {
+      "surface": "עמקה",
+      "gloss": "дубока"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "курва"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "а студња"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "тесна"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "страна жена"
+    }
+  ],
+  "timestamp": "2026-09-05T13:51:34.289768740Z",
+  "model": "glm-5.3"
+}

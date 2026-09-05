@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "obadiah 1:2",
+  "book": "obadiah",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "Ето, малим те учиних међу народима — презрен си веома.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ето"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "малим"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "учиних те"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "међу народима"
+    },
+    {
+      "surface": "בזוי",
+      "gloss": "презрен"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "си"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "веома"
+    }
+  ],
+  "timestamp": "2026-09-05T13:06:10.938797127Z",
+  "model": "glm-5.3"
+}

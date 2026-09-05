@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 91:9",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 91,
+  "translation": "Јер ти, Јахве, ⟨јеси⟩ уточиште моје; Елиона поставио ⟨за⟩ стан свој.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "уточиште моје"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Елиона"
+    },
+    {
+      "surface": "שמת",
+      "gloss": "поставио"
+    },
+    {
+      "surface": "מעונך",
+      "gloss": "стан свој"
+    }
+  ],
+  "timestamp": "2026-09-05T13:34:56.395368117Z",
+  "model": "glm-5.3"
+}

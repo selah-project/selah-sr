@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "daniel 5:27",
+  "book": "daniel",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Текел — изважен си на теговима и нађен си кратак.",
+  "tokens": [
+    {
+      "surface": "תקל",
+      "gloss": "Текел"
+    },
+    {
+      "surface": "תקילתה",
+      "gloss": "изважен си"
+    },
+    {
+      "surface": "במאזניא",
+      "gloss": "на теговима"
+    },
+    {
+      "surface": "והשתכחת",
+      "gloss": "и нађен си"
+    },
+    {
+      "surface": "חסיר",
+      "gloss": "кратак"
+    }
+  ],
+  "timestamp": "2026-09-05T14:18:19.339271535Z",
+  "model": "glm-5.3"
+}

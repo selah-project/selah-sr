@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "И такође на путу, како лудак ходи, срце му недостаје, и каже свакоме да ⟨је⟩ лудак он.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "и такође"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "на путу"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "како лудак"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ходи"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "срце његово"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "недостаје"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "и каже"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "свакоме"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "лудак"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    }
+  ],
+  "timestamp": "2026-09-05T14:12:53.715614074Z",
+  "model": "glm-5.3"
+}

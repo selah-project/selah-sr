@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 16:20",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 16,
+  "translation": "и ладаху од народа к народу и од краљевства к народу другоме.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "и ладаху"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "од народа"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "народу"
+    },
+    {
+      "surface": "ומממלכה",
+      "gloss": "и од краљевства"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народу"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "другоме"
+    }
+  ],
+  "timestamp": "2026-09-05T14:39:17.030069798Z",
+  "model": "glm-5.3"
+}

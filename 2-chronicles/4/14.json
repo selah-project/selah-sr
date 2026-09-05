@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 4:14",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "И ⟨את⟩ постоља начини, и ⟨את⟩ котлове начини на постољима.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "постоља"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "постоља"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "начини"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "котлове"
+    },
+    {
+      "surface": "הכירות",
+      "gloss": "котлове"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "начини"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "постољима"
+    }
+  ],
+  "timestamp": "2026-09-05T17:14:36.811865453Z",
+  "model": "glm-5.3"
+}

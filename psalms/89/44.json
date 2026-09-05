@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 89:44",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 89,
+  "translation": "Чак и оштрицу мача његовог врати, и не даде му да стоји у боју.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "чак и"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "врати"
+    },
+    {
+      "surface": "צור",
+      "gloss": "оштрицу"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "мача његовог"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "הקימתו",
+      "gloss": "даде му да стоји"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "у боју"
+    }
+  ],
+  "timestamp": "2026-09-05T13:33:59.799132699Z",
+  "model": "glm-5.3"
+}

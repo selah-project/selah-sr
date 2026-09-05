@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 24:12",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "Једанаести Елијашиву, дванаести Јакиму.",
+  "tokens": [
+    {
+      "surface": "לאלישיב",
+      "gloss": "Елијашиву"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "Једанаести ⟨(над⟩)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨де⟩сет"
+    },
+    {
+      "surface": "ליקים",
+      "gloss": "Јакиму"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "дванаести ⟨(два⟩)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨на⟩десет"
+    }
+  ],
+  "timestamp": "2026-09-05T14:41:38.756269902Z",
+  "model": "glm-5.3"
+}

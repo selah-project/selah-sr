@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "genesis 24:57",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "И рекоше: зовнемо ⟨не⟩ девојку и питамо ⟨את⟩ уста њена.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "и рекоше"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "зовнемо"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "девојку"
+    },
+    {
+      "surface": "ונשאלה",
+      "gloss": "и питамо"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "уста њена"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "уста њена"
+    }
+  ],
+  "timestamp": "2026-09-05T14:59:19.810664596Z",
+  "model": "glm-5.3"
+}

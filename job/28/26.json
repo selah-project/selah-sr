@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 28:26",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "Кад је поставио закон киши и пут муњи громова.",
+  "tokens": [
+    {
+      "surface": "בעשתו",
+      "gloss": "Кад је поставио"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "киши"
+    },
+    {
+      "surface": "חק",
+      "gloss": "закон"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "и пут"
+    },
+    {
+      "surface": "לחזיז",
+      "gloss": "муњи"
+    },
+    {
+      "surface": "קלות",
+      "gloss": "громова"
+    }
+  ],
+  "timestamp": "2026-09-05T14:01:46.997749638Z",
+  "model": "glm-5.3"
+}

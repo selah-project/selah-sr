@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 35:6",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 35,
+  "translation": "И плаво, и пурпур, и црвен скерлет, и лан, и козја длака.",
+  "tokens": [
+    {
+      "surface": "ותכלת",
+      "gloss": "и плаво"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "и пурпур"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "и црвен"
+    },
+    {
+      "surface": "שני",
+      "gloss": "скерлет"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "и лан"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "и козја длака"
+    }
+  ],
+  "timestamp": "2026-09-05T15:05:13.674448176Z",
+  "model": "glm-5.3"
+}

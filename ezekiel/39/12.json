@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 39:12",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 39,
+  "translation": "И сахраниваће их дом Израиљев да очисте ⟨את⟩ земљу — седам месеци.",
+  "tokens": [
+    {
+      "surface": "וקברום",
+      "gloss": "и сахраниваће их"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљев"
+    },
+    {
+      "surface": "למען",
+      "gloss": "да"
+    },
+    {
+      "surface": "טהר",
+      "gloss": "очисте"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "земљу"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земљу"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "седам"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "месеци"
+    }
+  ],
+  "timestamp": "2026-09-05T12:55:23.351129524Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 9:4",
+  "book": "2-samuel",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "И рече му краљ: где је он? А Цива рече краљу: ено га у дому Махира, сина Амјеловог, у Ло-Девару.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "краљ"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "где"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "је он"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "ציבא",
+      "gloss": "Цива"
+    },
+    {
+      "surface": "אל",
+      "gloss": "краљу"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "⟨краљ⟩"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ено"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "га"
+    },
+    {
+      "surface": "בית",
+      "gloss": "у дому"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "Махира"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Амјеловог"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "у"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Ло-Девару"
+    }
+  ],
+  "timestamp": "2026-09-05T11:30:34.014062426Z",
+  "model": "glm-5.3"
+}

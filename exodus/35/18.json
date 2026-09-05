@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 35:18",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 35,
+  "translation": "⟨את⟩ коље мискана и ⟨את⟩ коље двора, и ⟨את⟩ уже њихово;",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "коље мискана"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "коље"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "мискана"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "коље двора"
+    },
+    {
+      "surface": "יתדת",
+      "gloss": "коље"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "двора"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "уже њихово"
+    },
+    {
+      "surface": "מיתריהם",
+      "gloss": "уже њихово"
+    }
+  ],
+  "timestamp": "2026-09-05T16:33:39.488876294Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 5:32",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "А Узи роди ⟨את⟩ Зрахију, а Зрахија роди ⟨את⟩ Мерајота.",
+  "tokens": [
+    {
+      "surface": "ועזי",
+      "gloss": "А Узи"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Зрахију"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "Зрахију"
+    },
+    {
+      "surface": "וזרחיה",
+      "gloss": "а Зрахија"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мерајота"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "Мерајота"
+    }
+  ],
+  "timestamp": "2026-09-05T14:35:13.683925433Z",
+  "model": "glm-5.3"
+}

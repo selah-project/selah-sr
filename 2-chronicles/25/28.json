@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-chronicles 25:28",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 25,
+  "translation": "И понесше га на коњима, и сахранише ⟨את⟩ њега са оцима његовим у граду Јуде.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "И понесше га"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "коњима"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "и сахранише"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "њега"
+    },
+    {
+      "surface": "עם",
+      "gloss": "са"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "оцима његовим"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "у граду"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јуде"
+    }
+  ],
+  "timestamp": "2026-09-05T14:53:10.469744853Z",
+  "model": "glm-5.3"
+}

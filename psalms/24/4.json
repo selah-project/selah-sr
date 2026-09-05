@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 24:4",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "Чистих руку и пошцена срца, који не диже душе своје узалуд и не закле се преваром.",
+  "tokens": [
+    {
+      "surface": "נקי",
+      "gloss": "чистих"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "руку"
+    },
+    {
+      "surface": "ובר",
+      "gloss": "и пошценог"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "срца"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "диже"
+    },
+    {
+      "surface": "לשוא",
+      "gloss": "узалуд"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душе своје"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "закле се"
+    },
+    {
+      "surface": "למרמה",
+      "gloss": "преваром"
+    }
+  ],
+  "timestamp": "2026-09-05T13:20:55.353021386Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 5:11",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "И бише сви дани Еноша пет година и девет стотина година, и умре.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "и бише"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сви"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дани"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Еноша"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "пет"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "година"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "и девет"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "стотина"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "година"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "и умре"
+    }
+  ],
+  "timestamp": "2026-09-05T09:39:19.314702344Z",
+  "model": "glm-5.3"
+}

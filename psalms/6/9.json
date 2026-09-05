@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 6:9",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "Уклоните се од мене, сви чиниоци безакоња, јер чу Јахве глас плача мог.",
+  "tokens": [
+    {
+      "surface": "סורו",
+      "gloss": "Уклоните се"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "од мене"
+    },
+    {
+      "surface": "כל",
+      "gloss": "св"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "чиниоци"
+    },
+    {
+      "surface": "און",
+      "gloss": "безакоња"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "чу"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "קול",
+      "gloss": "глас"
+    },
+    {
+      "surface": "בכיי",
+      "gloss": "плача мог"
+    }
+  ],
+  "timestamp": "2026-09-05T13:16:12.402006562Z",
+  "model": "glm-5.3"
+}

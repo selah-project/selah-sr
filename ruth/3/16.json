@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 3:16",
+  "book": "ruth",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "И дође свекрви својој, а она рече: ко си ти, кћери моја? И она јој каза ⟨את⟩ све што јој учини човек.",
+  "tokens": [
+    {
+      "surface": "ותבוא",
+      "gloss": "и дође"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "חמותה",
+      "gloss": "свекрви својој"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "а рече"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ко"
+    },
+    {
+      "surface": "את",
+      "gloss": "ти"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "кћери моја"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "и каза"
+    },
+    {
+      "surface": "לה",
+      "gloss": "јој"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "све"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "учи"
+    },
+    {
+      "surface": "לה",
+      "gloss": "јој"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "човек"
+    }
+  ],
+  "timestamp": "2026-09-05T14:08:20.854938446Z",
+  "model": "glm-5.3"
+}

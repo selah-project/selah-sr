@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "numbers 33:43",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 33,
+  "translation": "И кренуше из Фунона, и подигоше шаторе у Овоту.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "И кренуше"
+    },
+    {
+      "surface": "מפונן",
+      "gloss": "из Фунона"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "и подигоше шаторе"
+    },
+    {
+      "surface": "באבת",
+      "gloss": "у Овоту"
+    }
+  ],
+  "timestamp": "2026-09-05T10:42:15.755393241Z",
+  "model": "glm-5.3"
+}

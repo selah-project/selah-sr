@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 25:4",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 25,
+  "translation": "Одстрани нечистоћу из сребра, и изаћи ће очистиоцу посуђе.",
+  "tokens": [
+    {
+      "surface": "הגו",
+      "gloss": "одстрани"
+    },
+    {
+      "surface": "СИГИМ",
+      "gloss": "нечистоћу"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "из сребра"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "и изаћи ће"
+    },
+    {
+      "surface": "לצרף",
+      "gloss": "очистиоцу"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "посуђе"
+    }
+  ],
+  "timestamp": "2026-09-05T16:01:39.567334611Z",
+  "model": "glm-5.3"
+}

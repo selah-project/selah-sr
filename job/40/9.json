@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 40:9",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 40,
+  "translation": "И ако је мица као ⟨Елов⟩ у теби, и гласом као Њега грмиш?",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "И ако"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "мица"
+    },
+    {
+      "surface": "כאל",
+      "gloss": "као Ел"
+    },
+    {
+      "surface": "לך",
+      "gloss": "у теби"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "и гласом"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "као Њега"
+    },
+    {
+      "surface": "תרעם",
+      "gloss": "грмиш"
+    }
+  ],
+  "timestamp": "2026-09-05T14:04:46.789678577Z",
+  "model": "glm-5.3"
+}

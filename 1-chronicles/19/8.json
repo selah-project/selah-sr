@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 19:8",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 19,
+  "translation": "И чу Давид, па посла ⟨את⟩ Јоава и ⟨את⟩ сву војску јунака.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "И чу"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "па посла"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јоава"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Јоава"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "сву војску јунака"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сву"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "војску"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "јунака"
+    }
+  ],
+  "timestamp": "2026-09-05T14:41:21.392640024Z",
+  "model": "glm-5.3"
+}

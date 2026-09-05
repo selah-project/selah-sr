@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 25:4",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 25,
+  "translation": "Не заузди вола док врши жито своје.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תחסם",
+      "gloss": "заузди"
+    },
+    {
+      "surface": "שור",
+      "gloss": "вола"
+    },
+    {
+      "surface": "בדישו",
+      "gloss": "док врши жито своје"
+    }
+  ],
+  "timestamp": "2026-09-05T10:52:32.472874805Z",
+  "model": "glm-5.3"
+}

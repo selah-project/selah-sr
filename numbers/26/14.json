@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 26:14",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 26,
+  "translation": "Ово су породице Шимонове: двадесет и две хиљаде и двеста.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ово"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "породице"
+    },
+    {
+      "surface": "השמעני",
+      "gloss": "Шимонове"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "две"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "и двадесет"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "хиљаде"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "и двеста"
+    }
+  ],
+  "timestamp": "2026-09-05T10:38:26.427755669Z",
+  "model": "glm-5.3"
+}

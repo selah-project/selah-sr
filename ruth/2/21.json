@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ruth 2:21",
+  "book": "ruth",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "И рече Рут (Рута) Моавка: „Још ми је рекао: уз младиће моје држи се, док не сврше ⟨את⟩ сав жетву моју.“",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "רות",
+      "gloss": "Рут"
+    },
+    {
+      "surface": "המואביה",
+      "gloss": "Моавка"
+    },
+    {
+      "surface": "גם",
+      "gloss": "још"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рекао је"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мени"
+    },
+    {
+      "surface": "עם",
+      "gloss": "уз"
+    },
+    {
+      "surface": "הנערים",
+      "gloss": "младиће"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "לי",
+      "gloss": "моје"
+    },
+    {
+      "surface": "תדבקין",
+      "gloss": "држи се"
+    },
+    {
+      "surface": "עד",
+      "gloss": "док"
+    },
+    {
+      "surface": "אם",
+      "gloss": "не"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "сврше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сав жетву"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сав"
+    },
+    {
+      "surface": "הקציר",
+      "gloss": "жетву"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "која"
+    },
+    {
+      "surface": "לי",
+      "gloss": "је моја"
+    }
+  ],
+  "timestamp": "2026-09-05T14:07:56.260439222Z",
+  "model": "glm-5.3"
+}

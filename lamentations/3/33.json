@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "lamentations 3:33",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Јер не тлачи срцем својим, ни жалости синове човечје.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "тлачи"
+    },
+    {
+      "surface": "מלבו",
+      "gloss": "срцем својим"
+    },
+    {
+      "surface": "ויגה",
+      "gloss": "ни жалости"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синове"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човечје"
+    }
+  ],
+  "timestamp": "2026-09-05T14:09:22.433765071Z",
+  "model": "glm-5.3"
+}

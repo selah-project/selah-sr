@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 10:21",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "И Шему (Сему) се роди и он ⟨отец⟩ свих синова Евера (Еверовых), брат Јефетовог ⟨старијег⟩.",
+  "tokens": [
+    {
+      "surface": "ולשם",
+      "gloss": "И Шему"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "роди се"
+    },
+    {
+      "surface": "גם",
+      "gloss": "такође"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "отец"
+    },
+    {
+      "surface": "כל",
+      "gloss": "свих"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синова"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Евера"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "брат"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Јефета"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "старијег"
+    }
+  ],
+  "timestamp": "2026-09-05T09:41:46.129201142Z",
+  "model": "glm-5.3"
+}

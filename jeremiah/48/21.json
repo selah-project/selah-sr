@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 48:21",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 48,
+  "translation": "И дође суд земљи равници, на Холон и на Јацу и на Мофат,",
+  "tokens": [
+    {
+      "surface": "ומשפט",
+      "gloss": "и суд"
+    },
+    {
+      "surface": "בא",
+      "gloss": "дође"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земљи"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "равници"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "Холон"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "Јацу"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "מופעת",
+      "gloss": "Мофат"
+    }
+  ],
+  "timestamp": "2026-09-05T12:38:40.821639645Z",
+  "model": "glm-5.3"
+}

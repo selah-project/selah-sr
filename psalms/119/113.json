@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 113,
+  "ref": "psalms 119:113",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 119,
+  "translation": "Двоумнике замрзех, а Тору твоју заволех.",
+  "tokens": [
+    {
+      "surface": "סעפים",
+      "gloss": "двоумнике"
+    },
+    {
+      "surface": "שנאתי",
+      "gloss": "замрзех"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "а Тору твоју"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "заволех"
+    }
+  ],
+  "timestamp": "2026-09-05T13:41:01.689045950Z",
+  "model": "glm-5.3"
+}

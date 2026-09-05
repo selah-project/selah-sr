@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ecclesiastes 7:23",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Све ово испитах у мудрости; рекох: постаћу мудар — а она је далеко од мене.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Све"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ово"
+    },
+    {
+      "surface": "נסיתי",
+      "gloss": "испитах"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "у мудрости"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "рекох"
+    },
+    {
+      "surface": "אחכמה",
+      "gloss": "постаћу мудар"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "а она"
+    },
+    {
+      "surface": "רחוקה",
+      "gloss": "далеко"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "од мене"
+    }
+  ],
+  "timestamp": "2026-09-05T14:12:29.204177242Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 5:9",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Онај ко воли сребро неће се наситити сребра, и ко год воли обиље — нема ⟨за то⟩ доходка; и ово је такође хевел.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "воли"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "сребро"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "наситиће се"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "сребра"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "и ко"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "воли"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "обиље"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нема"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "доходка"
+    },
+    {
+      "surface": "גם",
+      "gloss": "такође"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ово"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "хевел"
+    }
+  ],
+  "timestamp": "2026-09-05T14:13:01.413923417Z",
+  "model": "glm-5.3"
+}

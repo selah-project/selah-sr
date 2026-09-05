@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 7:50",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Једна златна шака од десет ⟨сикла⟩, пуна кадиона.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "шака"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "једна"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "од десет"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "златна"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "пуна"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "кадиона"
+    }
+  ],
+  "timestamp": "2026-09-05T10:30:23.685022039Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 26:17",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 26,
+  "translation": "Устадоше људи од старешина земље и рекоше свему сабору народа говорећи:",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "Устадоше"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "људи"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "од старешина"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земље"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "и рекоше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "према"
+    },
+    {
+      "surface": "כל",
+      "gloss": "свему"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "сабору"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народа"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорећи"
+    }
+  ],
+  "timestamp": "2026-09-05T12:30:51.162567048Z",
+  "model": "glm-5.3"
+}

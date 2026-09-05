@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 37:24",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 37,
+  "translation": "Таланат злата чистога начини ⟨את⟩ њу и ⟨את⟩ све посуде њезине.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "таланат"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "злата"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "чистога"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "начини"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "њу"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "све посуде њезине"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "посуде њезине"
+    }
+  ],
+  "timestamp": "2026-09-05T10:13:43.997614396Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "lamentations 3:27",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Добро ⟨је⟩ човеку да понесе јарам у младости својој.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Добро"
+    },
+    {
+      "surface": "לגבר",
+      "gloss": "човеку"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "понесе"
+    },
+    {
+      "surface": "על",
+      "gloss": "јарам"
+    },
+    {
+      "surface": "בנעוריו",
+      "gloss": "у младости својој"
+    }
+  ],
+  "timestamp": "2026-09-05T14:09:37.874791530Z",
+  "model": "glm-5.3"
+}

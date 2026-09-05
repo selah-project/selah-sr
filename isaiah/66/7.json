@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 66:7",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 66,
+  "translation": "Пре него што се намучила, роди; пре него што дође бол њој, и роди мушко.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "пре него што"
+    },
+    {
+      "surface": "תחיל",
+      "gloss": "се намучила"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "роди"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "пре него што"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "дође"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "бол"
+    },
+    {
+      "surface": "לה",
+      "gloss": "њој"
+    },
+    {
+      "surface": "והמליטה",
+      "gloss": "и роди"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "мушко"
+    }
+  ],
+  "timestamp": "2026-09-05T16:40:15.668241882Z",
+  "model": "glm-5.3"
+}

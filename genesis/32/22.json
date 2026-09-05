@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 32:22",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 32,
+  "translation": "и пређе дар пред лицем његовим, а он проведе ноћ ону у логору.",
+  "tokens": [
+    {
+      "surface": "ותעבר",
+      "gloss": "и пређе"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "дар"
+    },
+    {
+      "surface": "על",
+      "gloss": "пред"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "лицем његовим"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "а он"
+    },
+    {
+      "surface": "לן",
+      "gloss": "проведе ноћ"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "у ноћи"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "оној"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "у логору"
+    }
+  ],
+  "timestamp": "2026-09-05T09:49:47.465680218Z",
+  "model": "glm-5.3"
+}

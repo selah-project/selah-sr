@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 139:11",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 139,
+  "translation": "И рекох: само ме тама згази — али ноћ ⟨је⟩ светлост око мене.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "и рекох"
+    },
+    {
+      "surface": "אך",
+      "gloss": "само"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "тама"
+    },
+    {
+      "surface": "ישופני",
+      "gloss": "згази ме"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "али ноћ"
+    },
+    {
+      "surface": "אור",
+      "gloss": "светлост"
+    },
+    {
+      "surface": "בעדני",
+      "gloss": "око мене"
+    }
+  ],
+  "timestamp": "2026-09-05T13:43:24.429367228Z",
+  "model": "glm-5.3"
+}

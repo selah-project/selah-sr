@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 19:21",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 19,
+  "translation": "И рече му: ево, подигох лице твоје и за ову реч, да не преврнем ⟨את⟩ град о коме си говорио.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "њему"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ево"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "подигох"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "лице твоје"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "за реч"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ову"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "да не"
+    },
+    {
+      "surface": "הפכי",
+      "gloss": "преврнувши"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "град"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "град"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "о коме"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "си говорио"
+    }
+  ],
+  "timestamp": "2026-09-05T09:43:36.763818820Z",
+  "model": "glm-5.3"
+}

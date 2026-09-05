@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 43:10",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 43,
+  "translation": "Јер да нисмо оклевали, већ бисмо се сада вратили и други пут.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "לולא",
+      "gloss": "да нисмо"
+    },
+    {
+      "surface": "התמהמהנו",
+      "gloss": "оклевали"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨сигурно⟩"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "сада"
+    },
+    {
+      "surface": "שבנו",
+      "gloss": "бисмо се вратили"
+    },
+    {
+      "surface": "זה",
+      "gloss": "и ⟨ова⟩"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "други пут"
+    }
+  ],
+  "timestamp": "2026-09-05T09:56:27.722447574Z",
+  "model": "glm-5.3"
+}

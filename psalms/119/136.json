@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 136,
+  "ref": "psalms 119:136",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 119,
+  "translation": "Потоци су воде текли из очију мојих, јер не чуваше Торе твоје.",
+  "tokens": [
+    {
+      "surface": "פלגי",
+      "gloss": "потоци"
+    },
+    {
+      "surface": "מים",
+      "gloss": "воде"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "текли су"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "из очију мојих"
+    },
+    {
+      "surface": "על",
+      "gloss": "јер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "чуваше"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Торе твоје"
+    }
+  ],
+  "timestamp": "2026-09-05T13:41:04.165876653Z",
+  "model": "glm-5.3"
+}

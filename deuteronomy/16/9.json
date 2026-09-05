@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 16:9",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 16,
+  "translation": "Седам седмица изброји себи; од почетка жетве српом на житу почињеш бројати седам седмица.",
+  "tokens": [
+    {
+      "surface": "שבעה",
+      "gloss": "Седам"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "седмица"
+    },
+    {
+      "surface": "תספר",
+      "gloss": "изброји"
+    },
+    {
+      "surface": "לך",
+      "gloss": "себи"
+    },
+    {
+      "surface": "מהחל",
+      "gloss": "од почетка"
+    },
+    {
+      "surface": "חרמש",
+      "gloss": "српом"
+    },
+    {
+      "surface": "בקמה",
+      "gloss": "на житу"
+    },
+    {
+      "surface": "תחל",
+      "gloss": "почињеш"
+    },
+    {
+      "surface": "לספר",
+      "gloss": "бројати"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "седам"
+    },
+    {
+      "surface": "שבעות",
+      "gloss": "седмица"
+    }
+  ],
+  "timestamp": "2026-09-05T15:13:19.856032605Z",
+  "model": "glm-5.3"
+}

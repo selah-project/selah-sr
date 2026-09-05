@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 1:12",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "Ја, Кохелет, бејах краљ над Израиљем у Јерушалајиму.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ја"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Кохелет"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "бејах"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "краљ"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљем"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "у Јерушалајиму"
+    }
+  ],
+  "timestamp": "2026-09-05T16:08:55.310638526Z",
+  "model": "glm-5.3"
+}

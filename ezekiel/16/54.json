@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "ezekiel 16:54",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 16,
+  "translation": "Да носиш срамоту своју и постидиш се свега што си чинила, тешећи ⟨את⟩ њих.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "да"
+    },
+    {
+      "surface": "תשאי",
+      "gloss": "носиш"
+    },
+    {
+      "surface": "כלמתך",
+      "gloss": "срамоту своју"
+    },
+    {
+      "surface": "ונכלמת",
+      "gloss": "и постидиш се"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "света"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "си чинила"
+    },
+    {
+      "surface": "בנחמך",
+      "gloss": "тешећи"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "⟨את⟩",
+      "marks": "њих"
+    }
+  ],
+  "timestamp": "2026-09-05T12:46:51.217184037Z",
+  "model": "glm-5.3"
+}

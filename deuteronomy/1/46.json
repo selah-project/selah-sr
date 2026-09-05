@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "deuteronomy 1:46",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "И седесте у Кадешу дане многе, као дане ⟨оне⟩ у којима сте седели.",
+  "tokens": [
+    {
+      "surface": "ותשבו",
+      "gloss": "И седесте"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "у Кадешу"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дане"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "многе"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "као дане"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "којима"
+    },
+    {
+      "surface": "ישבתם",
+      "gloss": "сте седели"
+    }
+  ],
+  "timestamp": "2026-09-05T10:43:04.224678290Z",
+  "model": "glm-5.3"
+}

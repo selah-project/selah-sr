@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 5:14",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Старци са врати престаше, момци од своје свирке.",
+  "tokens": [
+    {
+      "surface": "זקנים",
+      "gloss": "Старци"
+    },
+    {
+      "surface": "משער",
+      "gloss": "са врати"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "престаше"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "момци"
+    },
+    {
+      "surface": "מנגינתם",
+      "gloss": "од своје свирке"
+    }
+  ],
+  "timestamp": "2026-09-05T14:10:48.323087174Z",
+  "model": "glm-5.3"
+}

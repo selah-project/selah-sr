@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 16:1",
+  "book": "1-kings",
+  "lang": "sr",
+  "chapter": 16,
+  "translation": "И би реч Јахвеова Јехуу, сину Хананија (Хананију), против Баше, говорећи:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И би"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "реч"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеова"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Јехуу"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сину"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "Хананија"
+    },
+    {
+      "surface": "על",
+      "gloss": "против"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "Баше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорећи"
+    }
+  ],
+  "timestamp": "2026-09-05T11:47:00.128646038Z",
+  "model": "glm-5.3"
+}

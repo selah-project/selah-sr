@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 16:2",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 16,
+  "translation": "Не узми себи жену, и не би ти синова ни кћери на овом месту.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "узми"
+    },
+    {
+      "surface": "לך",
+      "gloss": "себи"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "жену"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "би"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "синова"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ни кћери"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "на месту"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овом"
+    }
+  ],
+  "timestamp": "2026-09-05T12:26:22.400575712Z",
+  "model": "glm-5.3"
+}

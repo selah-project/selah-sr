@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 66:14",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 66,
+  "translation": "које отворише усне моје, и проговори уста моја у невољи мојој.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "које"
+    },
+    {
+      "surface": "פצו",
+      "gloss": "отворише"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "усне моје"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "и проговори"
+    },
+    {
+      "surface": "פי",
+      "gloss": "уста моја"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "у невољи"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мојој"
+    }
+  ],
+  "timestamp": "2026-09-05T13:28:56.178769511Z",
+  "model": "glm-5.3"
+}

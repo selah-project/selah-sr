@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 9:2",
+  "book": "1-kings",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "да се јави Јахве Шломоу други пут, као што му се јавио у Гивону.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "да се јави"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шломоу"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "други пут"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "као што"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "јавио се"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "му"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "у Гивону"
+    }
+  ],
+  "timestamp": "2026-09-05T11:42:59.501128798Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "2-chronicles 34:29",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 34,
+  "translation": "И посла краљ, те скупи ⟨את⟩ све старешине Јуде и Јерушалајима.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "И посла"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "краљ"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "те скупи"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "све старешине"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "старешине"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јуде"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "и Јерушалајима"
+    }
+  ],
+  "timestamp": "2026-09-05T14:57:37.743548419Z",
+  "model": "glm-5.3"
+}

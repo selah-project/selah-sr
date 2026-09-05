@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 57:4",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 57,
+  "translation": "На кога се наслађујете? На кога ширите уста, дужите језик? Нисте ли ви деца преступа, сеје лажи?",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кого"
+    },
+    {
+      "surface": "תתענגו",
+      "gloss": "наслађујете се"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кого"
+    },
+    {
+      "surface": "תרחיבו",
+      "gloss": "ширите"
+    },
+    {
+      "surface": "פה",
+      "gloss": "уста"
+    },
+    {
+      "surface": "תאריכו",
+      "gloss": "дужите"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "језик"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "нисте ли"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ви"
+    },
+    {
+      "surface": "ילדי",
+      "gloss": "деца"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "преступа"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "сеје"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "лажи"
+    }
+  ],
+  "timestamp": "2026-09-05T12:17:29.275761068Z",
+  "model": "glm-5.3"
+}

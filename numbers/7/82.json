@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 82,
+  "ref": "numbers 7:82",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Јарац један од коза за ⟨жртву⟩ греха.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "Јарац"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "од коза"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "један"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "за грех"
+    }
+  ],
+  "timestamp": "2026-09-05T10:31:35.098486822Z",
+  "model": "glm-5.3"
+}

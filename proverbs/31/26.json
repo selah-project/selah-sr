@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 31:26",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 31,
+  "translation": "Уста своја отвара у мудрости, и Тора хеседа ⟨је⟩ на језику њеном.",
+  "tokens": [
+    {
+      "surface": "פיה",
+      "gloss": "уста своја"
+    },
+    {
+      "surface": "פתחה",
+      "gloss": "отвара"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "у мудрости"
+    },
+    {
+      "surface": "ותורת",
+      "gloss": "и Тора"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "хеседа"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "לשונה",
+      "gloss": "језику њеном"
+    }
+  ],
+  "timestamp": "2026-09-05T13:53:58.330959311Z",
+  "model": "glm-5.3"
+}

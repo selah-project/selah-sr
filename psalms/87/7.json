@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 87:7",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 87,
+  "translation": "И певачи као играчи: сви извори моји ⟨су⟩ у теби.",
+  "tokens": [
+    {
+      "surface": "ושרים",
+      "gloss": "и певачи"
+    },
+    {
+      "surface": "כחללים",
+      "gloss": "као играчи"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сви"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "извори моји"
+    },
+    {
+      "surface": "בך",
+      "gloss": "у теби"
+    }
+  ],
+  "timestamp": "2026-09-05T13:34:18.287633137Z",
+  "model": "glm-5.3"
+}

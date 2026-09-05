@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 26:24",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 26,
+  "translation": "и ходићу и ја са вама наопако, и ударићу ⟨את⟩ вас и ја седампут над гресима вашим.",
+  "tokens": [
+    {
+      "surface": "והלכתי",
+      "gloss": "и ходићу"
+    },
+    {
+      "surface": "אף",
+      "gloss": "и"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "са вама"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "наопако"
+    },
+    {
+      "surface": "והכיתי",
+      "gloss": "и ударићу"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ вас",
+      "marks": "вас"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "седам"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "гресима вашим"
+    }
+  ],
+  "timestamp": "2026-09-05T10:26:44.313808576Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 7:21",
+  "book": "daniel",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Гледах бех, и рог тај чињаше рат против светих, и надвлада њих.",
+  "tokens": [
+    {
+      "surface": "חזה",
+      "gloss": "Гледах"
+    },
+    {
+      "surface": "הוית",
+      "gloss": "бех"
+    },
+    {
+      "surface": "וקרנא",
+      "gloss": "и рог"
+    },
+    {
+      "surface": "דכן",
+      "gloss": "тај"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "чињаше"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "рат"
+    },
+    {
+      "surface": "עם",
+      "gloss": "против"
+    },
+    {
+      "surface": "קדישין",
+      "gloss": "светих"
+    },
+    {
+      "surface": "ויכלה",
+      "gloss": "и надвлада"
+    },
+    {
+      "surface": "להון",
+      "gloss": "њих"
+    }
+  ],
+  "timestamp": "2026-09-05T14:21:37.847955079Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 5:4",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "а свршетак њезин горак ⟨је⟩ као пелен, оштра ⟨је⟩ као меч двоустран.",
+  "tokens": [
+    {
+      "surface": "ואחריתה",
+      "gloss": "а свршетак њезин"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "горак"
+    },
+    {
+      "surface": "כלענה",
+      "gloss": "као пелен"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "оштра"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "као меч"
+    },
+    {
+      "surface": "פיות",
+      "gloss": "двоустран"
+    }
+  ],
+  "timestamp": "2026-09-05T13:46:40.422833439Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 25:12",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 25,
+  "translation": "Зато реци: ево ме дајући њему ⟨את⟩ завет мој — мир.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "зато"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "реци"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ево ме"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "дајући"
+    },
+    {
+      "surface": "לו",
+      "gloss": "њему"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "завет мој"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "завет мој"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мир"
+    }
+  ],
+  "timestamp": "2026-09-05T10:37:27.446267664Z",
+  "model": "glm-5.3"
+}

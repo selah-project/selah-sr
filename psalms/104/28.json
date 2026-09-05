@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 104:28",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 104,
+  "translation": "Даш њима — скупљају; отвориш руку своју — насите се добром.",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "Даш"
+    },
+    {
+      "surface": "להם",
+      "gloss": "њима"
+    },
+    {
+      "surface": "ילקטון",
+      "gloss": "скупљају"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "отвориш"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "руку своју"
+    },
+    {
+      "surface": "ישבעון",
+      "gloss": "насите се"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добром"
+    }
+  ],
+  "timestamp": "2026-09-05T15:58:34.153930829Z",
+  "model": "glm-5.3"
+}

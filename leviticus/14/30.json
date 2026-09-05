@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 14:30",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "И учиниће ⟨את⟩ једну од грлица или од младих голубова, према ономе што достигне рука његова.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "И учиниће"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "једну"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "једну"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "грлица"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "בני",
+      "gloss": "младих"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "голубова"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "према ономе што"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "достигне"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "рука његова"
+    }
+  ],
+  "timestamp": "2026-09-05T10:20:41.905909854Z",
+  "model": "glm-5.3"
+}

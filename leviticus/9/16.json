@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 9:16",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "И принесе ⟨את⟩ паљеницу, и учини је по уредби.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "принесе"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "паљеницу"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "паљеницу"
+    },
+    {
+      "surface": "ויעשה",
+      "gloss": "учини"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "по уредби"
+    }
+  ],
+  "timestamp": "2026-09-05T10:18:53.345797774Z",
+  "model": "glm-5.3"
+}

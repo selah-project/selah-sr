@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 17:19",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 17,
+  "translation": "Љуби преступ ко љуби свађу; узвишује врата своја, тражи пропаст.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "Љуби"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "преступ"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "љуби"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "свађу"
+    },
+    {
+      "surface": "מגביה",
+      "gloss": "узвишује"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "врата своја"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "тражи"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "пропаст"
+    }
+  ],
+  "timestamp": "2026-09-05T13:50:08.163737551Z",
+  "model": "glm-5.3"
+}

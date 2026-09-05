@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 17:6",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 17,
+  "translation": "Венац стараца су синови синова, и слава синова су очеви њихови.",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "венац"
+    },
+    {
+      "surface": "зקנים",
+      "gloss": "стараца"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "синова"
+    },
+    {
+      "surface": "ותפארת",
+      "gloss": "и слава"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "синова"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "очи њихови"
+    }
+  ],
+  "timestamp": "2026-09-05T13:50:14.656832491Z",
+  "model": "glm-5.3"
+}

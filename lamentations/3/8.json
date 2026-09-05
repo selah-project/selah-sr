@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 3:8",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Чак и кад викнем и завапим, затвори ⟨пут⟩ молитви мојој.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Чак"
+    },
+    {
+      "surface": "כי",
+      "gloss": "и кад"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "викнем"
+    },
+    {
+      "surface": "ואשוע",
+      "gloss": "и завапим"
+    },
+    {
+      "surface": "שתם",
+      "gloss": "затвори"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "молитви мојој"
+    }
+  ],
+  "timestamp": "2026-09-05T14:09:09.192668464Z",
+  "model": "glm-5.3"
+}

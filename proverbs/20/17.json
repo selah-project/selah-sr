@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 20:17",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 20,
+  "translation": "Слатак је човеку хлеб лажи, а после напуниће му се уста шљунком.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "слатак"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "човеку"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хлеб"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "лажи"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "а после"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "напуниће се"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "уста његова"
+    },
+    {
+      "surface": "חצץ",
+      "gloss": "шљунак"
+    }
+  ],
+  "timestamp": "2026-09-05T13:50:42.236461187Z",
+  "model": "glm-5.3"
+}

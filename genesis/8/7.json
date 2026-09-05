@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 8:7",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "И пусти ⟨את⟩ гаврана; а он излажаше и враћаше се док не пресуше воде са земље.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "И пусти"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "гаврана"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "гаврана"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "а он излажаше"
+    },
+    {
+      "surface": "יצוא",
+      "gloss": "излазећи"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "и враћајући се"
+    },
+    {
+      "surface": "עד",
+      "gloss": "док не"
+    },
+    {
+      "surface": "יבשת",
+      "gloss": "пресуше"
+    },
+    {
+      "surface": "המים",
+      "gloss": "воде"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "са"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земље"
+    }
+  ],
+  "timestamp": "2026-09-05T09:40:44.017523569Z",
+  "model": "glm-5.3"
+}

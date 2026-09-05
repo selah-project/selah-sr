@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 16:33",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 16,
+  "translation": "У недро бачен је ⟨את⟩ ждреб, а од Јахвеа сва одлука његова.",
+  "tokens": [
+    {
+      "surface": "בחיק",
+      "gloss": "У недро"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "бачен је"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ждреб"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "ждреб"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "а од Јахвеа"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сва"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "одлука његова"
+    }
+  ],
+  "timestamp": "2026-09-05T13:49:14.797630982Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 1:14",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "И жива створења трчаху и враћаху се, као изглед муње.",
+  "tokens": [
+    {
+      "surface": "והחיות",
+      "gloss": "И жива створења"
+    },
+    {
+      "surface": "רצוא",
+      "gloss": "трчаху"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "и враћаху се"
+    },
+    {
+      "surface": "כמראה",
+      "gloss": "као изглед"
+    },
+    {
+      "surface": "הבזק",
+      "gloss": "муње"
+    }
+  ],
+  "timestamp": "2026-09-05T15:42:26.271948913Z",
+  "model": "glm-5.3"
+}

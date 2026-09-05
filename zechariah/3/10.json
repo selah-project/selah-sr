@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 3:10",
+  "book": "zechariah",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "У дан онај, говори Јахве Цеваот, зваћете свак ближњега свог ⟨к⟩ под лозом и под смоквом.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "У дан"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "онај"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "говори"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "תקראו",
+      "gloss": "зваћете"
+    },
+    {
+      "surface": "איש",
+      "gloss": "свак"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "ближњега свог"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨к⟩"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "лозом"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "смоквом"
+    }
+  ],
+  "timestamp": "2026-09-05T15:51:53.982826313Z",
+  "model": "glm-5.3"
+}

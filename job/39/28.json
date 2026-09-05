@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 39:28",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 39,
+  "translation": "На стени станује и ноћи, на зубцу стене и ⟨у⟩ тврђави.",
+  "tokens": [
+    {
+      "surface": "סלע",
+      "gloss": "на стени"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "станује"
+    },
+    {
+      "surface": "ויתלנן",
+      "gloss": "и ноћи"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "שן",
+      "gloss": "зубац"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "стене"
+    },
+    {
+      "surface": "ומצודה",
+      "gloss": "и тврђави"
+    }
+  ],
+  "timestamp": "2026-09-05T14:04:49.008413891Z",
+  "model": "glm-5.3"
+}

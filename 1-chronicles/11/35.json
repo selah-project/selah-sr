@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 11:35",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "Ахијам син Сакара Харара, Елифал син Ура,",
+  "tokens": [
+    {
+      "surface": "אחיאם",
+      "gloss": "Ахијам"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "Сакара"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "Харара"
+    },
+    {
+      "surface": "אליפל",
+      "gloss": "Елифал"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אור",
+      "gloss": "Ура"
+    }
+  ],
+  "timestamp": "2026-09-05T14:37:32.058406376Z",
+  "model": "glm-5.3"
+}

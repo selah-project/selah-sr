@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 23:28",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "Дакле и она као разбојник вреба, и неверне међу људима множи.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "дакле и"
+    },
+    {
+      "surface": "היא",
+      "gloss": "она"
+    },
+    {
+      "surface": "כחתף",
+      "gloss": "као разбојник"
+    },
+    {
+      "surface": "תארב",
+      "gloss": "вреба"
+    },
+    {
+      "surface": "ובוגדים",
+      "gloss": "и неверне"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "међу људима"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "множи"
+    }
+  ],
+  "timestamp": "2026-09-05T17:11:13.199555177Z",
+  "model": "glm-5.3"
+}

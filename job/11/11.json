@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 11:11",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "Јер он зна људе сујетне, и виде безакоње, и не разматра ли?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "зна"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "људе"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "сујетне"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "и виде"
+    },
+    {
+      "surface": "און",
+      "gloss": "безакоње"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יתבונן",
+      "gloss": "разматра"
+    }
+  ],
+  "timestamp": "2026-09-05T13:57:33.238825305Z",
+  "model": "glm-5.3"
+}

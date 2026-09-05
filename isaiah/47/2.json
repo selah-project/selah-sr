@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 47:2",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 47,
+  "translation": "Узми жрвњ и самељи брашно; откриј вео свој, скини шол, откриј ногу, пређи реке.",
+  "tokens": [
+    {
+      "surface": "קחי",
+      "gloss": "Узми"
+    },
+    {
+      "surface": "רחים",
+      "gloss": "жрвњ"
+    },
+    {
+      "surface": "וטחני",
+      "gloss": "и самељи"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "брашно"
+    },
+    {
+      "surface": "גלי",
+      "gloss": "откриј"
+    },
+    {
+      "surface": "צמתך",
+      "gloss": "вео свој"
+    },
+    {
+      "surface": "חשפי",
+      "gloss": "скини"
+    },
+    {
+      "surface": "שבל",
+      "gloss": "шол"
+    },
+    {
+      "surface": "גלי",
+      "gloss": "откриј"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "ногу"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "пређи"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "реке"
+    }
+  ],
+  "timestamp": "2026-09-05T17:04:09.976851747Z",
+  "model": "glm-5.3"
+}

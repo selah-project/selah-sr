@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 14:1",
+  "book": "zechariah",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "Ево, дан долази Јахвеу, и биће подео плена твојега усред тебе.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ево"
+    },
+    {
+      "surface": "יום",
+      "gloss": "дан"
+    },
+    {
+      "surface": "בא",
+      "gloss": "долази"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Јахвеу"
+    },
+    {
+      "surface": "וחלק",
+      "gloss": "и биће подео"
+    },
+    {
+      "surface": "שללך",
+      "gloss": "плена твојега"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "усред тебе"
+    }
+  ],
+  "timestamp": "2026-09-05T13:15:43.526227635Z",
+  "model": "glm-5.3"
+}

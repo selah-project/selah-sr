@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "micah 2:6",
+  "book": "micah",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "„Не прорицајте“, прорицају; неће се прорицати овима, срамота неће одступити.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תטפו",
+      "gloss": "прорицајте"
+    },
+    {
+      "surface": "יטיפון",
+      "gloss": "прорицају"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יטפו",
+      "gloss": "проричe"
+    },
+    {
+      "surface": "לאלה",
+      "gloss": "овима"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יסג",
+      "gloss": "одступи"
+    },
+    {
+      "surface": "כלמות",
+      "gloss": "срамота"
+    }
+  ],
+  "timestamp": "2026-09-05T13:07:49.288367626Z",
+  "model": "glm-5.3"
+}

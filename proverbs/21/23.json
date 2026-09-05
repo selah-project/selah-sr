@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 21:23",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "Ко чува уста своја и језик свој, чува душу своју од невоља.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "чува"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "уста своја"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "и језик свој"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "чува"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "од невоља"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "душу своју"
+    }
+  ],
+  "timestamp": "2026-09-05T16:01:37.874602086Z",
+  "model": "glm-5.3"
+}

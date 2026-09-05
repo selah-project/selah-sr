@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 13:20",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "И не задржа више снаге Јеровоам у дане Авијине; и удари га Јахве, и умре.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "И не"
+    },
+    {
+      "surface": "עצר",
+      "gloss": "задржа"
+    },
+    {
+      "surface": "כח",
+      "gloss": "снагу"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Јеровоам"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "више"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "у дане"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "Авијине"
+    },
+    {
+      "surface": "ויגפהו",
+      "gloss": "и удари га"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "и умре"
+    }
+  ],
+  "timestamp": "2026-09-05T16:17:39.551486142Z",
+  "model": "glm-5.3"
+}

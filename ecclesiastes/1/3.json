@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 1:3",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "Каква је добит човеку од свег труда његовог којим се труди под сунцем?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Каква"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "добит"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "човеку"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "од свег"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "труда његовог"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "којим се труди"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "сунцем"
+    }
+  ],
+  "timestamp": "2026-09-05T14:11:15.512787712Z",
+  "model": "glm-5.3"
+}

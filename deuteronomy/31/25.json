@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 31:25",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 31,
+  "translation": "И заповеди Моше (Мојсије) ⟨את⟩ Левите, носиоце ковчега завета Јахвеа, говорећи:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "И заповеди"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше (Мојсије)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Левите"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Левите"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "носиоце"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ковчега"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "завета"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорећи"
+    }
+  ],
+  "timestamp": "2026-09-05T10:56:33.412158930Z",
+  "model": "glm-5.3"
+}

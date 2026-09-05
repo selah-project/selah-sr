@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 5:4",
+  "book": "song-of-songs",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Драги мој пружи руку своју кроз отвор, и утроба моја се узбуни над њим.",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "Драги мој"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "пружи"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "руку своју"
+    },
+    {
+      "surface": "מן",
+      "gloss": "кроз"
+    },
+    {
+      "surface": "החור",
+      "gloss": "отвор"
+    },
+    {
+      "surface": "ומעי",
+      "gloss": "и утроба моја"
+    },
+    {
+      "surface": "המו",
+      "gloss": "се узбуни"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "над њим"
+    }
+  ],
+  "timestamp": "2026-09-05T14:07:07.856444902Z",
+  "model": "glm-5.3"
+}

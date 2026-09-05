@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 9:20",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "И на Ахарона се разгневи Јахве веома да га уништи, и молих се такође за Ахарона у време оно.",
+  "tokens": [
+    {
+      "surface": "ובאהרן",
+      "gloss": "и на Ахарона"
+    },
+    {
+      "surface": "התאנף",
+      "gloss": "разгневи се"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "веома"
+    },
+    {
+      "surface": "להשמידו",
+      "gloss": "да га уништи"
+    },
+    {
+      "surface": "ואתפלל",
+      "gloss": "и молих се"
+    },
+    {
+      "surface": "גם",
+      "gloss": "такође"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "за"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ахарона"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "у време"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "оно"
+    }
+  ],
+  "timestamp": "2026-09-05T10:47:12.240489640Z",
+  "model": "glm-5.3"
+}

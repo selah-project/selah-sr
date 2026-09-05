@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 11:23",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "И узаде слава Јахвеова са средине града, и ста на гору која је источно од града.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "и узаде"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "слава"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеова"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "са"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "средине"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "града"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "и ста"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "гору"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "која"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "источно"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "од града"
+    }
+  ],
+  "timestamp": "2026-09-05T12:44:29.373291563Z",
+  "model": "glm-5.3"
+}

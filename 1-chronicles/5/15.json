@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 5:15",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Ахи, син Авдиела, сина Гунија, поглавар дому отаца својих.",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "Ахи"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עבדיאל",
+      "gloss": "Авдиела"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "גוני",
+      "gloss": "Гунија"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "поглавар"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "дому"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "отаца својих"
+    }
+  ],
+  "timestamp": "2026-09-05T14:35:07.346549106Z",
+  "model": "glm-5.3"
+}

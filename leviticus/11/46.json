@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "leviticus 11:46",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "Ово ⟨је⟩ Тора стоке и птица, и сваког живог бића што се мице у водама, и сваког бића што роји по земљи:",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Ово"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Тора"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "стоке"
+    },
+    {
+      "surface": "והעוף",
+      "gloss": "и птица"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и сваког"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "бића"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "живог"
+    },
+    {
+      "surface": "הרמשת",
+      "gloss": "што се мице"
+    },
+    {
+      "surface": "במים",
+      "gloss": "у водама"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "и сваког"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "бића"
+    },
+    {
+      "surface": "השרצת",
+      "gloss": "што роји"
+    },
+    {
+      "surface": "על",
+      "gloss": "по"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земљи"
+    }
+  ],
+  "timestamp": "2026-09-05T10:18:34.948117637Z",
+  "model": "glm-5.3"
+}

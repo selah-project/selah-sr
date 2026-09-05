@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "lamentations 5:13",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Момци жрвњак носише, а дечаци под дрвом посрнуше.",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "Момци"
+    },
+    {
+      "surface": "טחון",
+      "gloss": "жрвњак"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "носише"
+    },
+    {
+      "surface": "ונערים",
+      "gloss": "а дечаци"
+    },
+    {
+      "surface": "בעץ",
+      "gloss": "под дрвом"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "посрнуше"
+    }
+  ],
+  "timestamp": "2026-09-05T14:10:48.322686812Z",
+  "model": "glm-5.3"
+}

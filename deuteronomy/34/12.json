@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 34:12",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 34,
+  "translation": "и по сву руку силну и по сав страх велики који учини Моше на очима свега Израиља.",
+  "tokens": [
+    {
+      "surface": "ולכל",
+      "gloss": "и по сву"
+    },
+    {
+      "surface": "היד",
+      "gloss": "руку"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "силну"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "и по сав"
+    },
+    {
+      "surface": "המורא",
+      "gloss": "страх"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "велики"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "учини"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "на очима"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сва"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиља"
+    }
+  ],
+  "timestamp": "2026-09-05T10:57:26.493354648Z",
+  "model": "glm-5.3"
+}

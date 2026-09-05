@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 47:3",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 47,
+  "translation": "Јер Јахве, Всевишњи, ⟨је⟩ страшан, цар велики над свом земљом.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Всевишњи"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "страшан"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "велики"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "כל",
+      "gloss": "свом"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земљом"
+    }
+  ],
+  "timestamp": "2026-09-05T16:43:46.597725201Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 2:1",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Рекох ја у срцу своме: Хајде, испробаћу те радошћу и погледај ⟨у⟩ добро — и ево, и то ⟨је⟩ испразност.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Рекох"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "у срцу своме"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Хајде"
+    },
+    {
+      "surface": "נא",
+      "gloss": "дакле"
+    },
+    {
+      "surface": "אנסכה",
+      "gloss": "испробаћу те"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "радошћу"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "и погледај"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "⟨у⟩ добро"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и ево"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "то"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "испразност"
+    }
+  ],
+  "timestamp": "2026-09-05T17:12:37.004088249Z",
+  "model": "glm-5.3"
+}

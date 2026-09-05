@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 22:7",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "А ја сам црв, а не човек — срамота људи и презрен ⟨од⟩ народа.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "а ја"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "црв"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "а не"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "срамота"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "људи"
+    },
+    {
+      "surface": "ובזוי",
+      "gloss": "и презрен"
+    },
+    {
+      "surface": "עם",
+      "gloss": "од народа"
+    }
+  ],
+  "timestamp": "2026-09-05T13:19:08.474481526Z",
+  "model": "glm-5.3"
+}

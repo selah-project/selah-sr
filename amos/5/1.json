@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "amos 5:1",
+  "book": "amos",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Чујте ⟨את⟩ реч ову коју ја носим над вама, нарицаљку, доме Израиљев!",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Чујте"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "реч"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "реч"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ову"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "коју"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ја"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "носим"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "над вама"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "нарицаљку"
+    },
+    {
+      "surface": "בית",
+      "gloss": "доме"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљев"
+    }
+  ],
+  "timestamp": "2026-09-05T13:06:25.835794870Z",
+  "model": "glm-5.3"
+}

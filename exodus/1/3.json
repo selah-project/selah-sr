@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 1:3",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "Јисахар, Звулун и Бињамин.",
+  "tokens": [
+    {
+      "surface": "יששכר",
+      "gloss": "Јисахар"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Звулун"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "и Бињамин"
+    }
+  ],
+  "timestamp": "2026-09-05T09:59:11.778056929Z",
+  "model": "glm-5.3"
+}

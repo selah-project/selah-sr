@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 34:9",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 34,
+  "translation": "Кушајте и видите да ⟨је⟩ добар Јахве; благо човеку што се у њега склања.",
+  "tokens": [
+    {
+      "surface": "טעמו",
+      "gloss": "Кушајте"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "и видите"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добар"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "благо"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "човеку"
+    },
+    {
+      "surface": "יחסה",
+      "gloss": "склања-се"
+    },
+    {
+      "surface": "בו",
+      "gloss": "у-њега"
+    }
+  ],
+  "timestamp": "2026-09-05T13:21:48.219753635Z",
+  "model": "glm-5.3"
+}

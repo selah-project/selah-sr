@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 57:21",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 57,
+  "translation": "„Нема шалома, рече Елохим мој, злочинцима.“",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Нема"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "шалома"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим мој"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "злочинцима"
+    }
+  ],
+  "timestamp": "2026-09-05T12:17:36.936371320Z",
+  "model": "glm-5.3"
+}

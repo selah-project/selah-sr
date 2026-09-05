@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 83:7",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 83,
+  "translation": "Шатори Едома и Ишмаелци, Моав и Хагарејци,",
+  "tokens": [
+    {
+      "surface": "אהלי",
+      "gloss": "Шатори"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Едома"
+    },
+    {
+      "surface": "וישמעאלים",
+      "gloss": "и Ишмаелци"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моав"
+    },
+    {
+      "surface": "והגרים",
+      "gloss": "и Хагарејци"
+    }
+  ],
+  "timestamp": "2026-09-05T13:32:59.035955053Z",
+  "model": "glm-5.3"
+}

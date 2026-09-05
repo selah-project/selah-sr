@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 19:2",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 19,
+  "translation": "три града раздвој за себе усред земље своје, коју ти даје Јахве, Елохим твој, да је наследиш.",
+  "tokens": [
+    {
+      "surface": "שלוש",
+      "gloss": "три"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "града"
+    },
+    {
+      "surface": "תבדיל",
+      "gloss": "раздвој"
+    },
+    {
+      "surface": "לך",
+      "gloss": "за себе"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "усред"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "земље своје"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "коју"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Елохим твој"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "даје"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "да је наследиш"
+    }
+  ],
+  "timestamp": "2026-09-05T10:51:08.127027496Z",
+  "model": "glm-5.3"
+}

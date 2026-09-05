@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "nehemiah 11:36",
+  "book": "nehemiah",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "И од Левита: делови Јехуде ⟨придружени⟩ Бењамину.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "и од"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Левита"
+    },
+    {
+      "surface": "מחלקות",
+      "gloss": "делови"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јехуде"
+    },
+    {
+      "surface": "לבנימין",
+      "gloss": "Бењамину"
+    }
+  ],
+  "timestamp": "2026-09-05T14:32:29.360462571Z",
+  "model": "glm-5.3"
+}

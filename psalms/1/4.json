@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "Нису тако безбожници, него су као плева коју ветар разноси.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "нису"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тако"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "безбожници"
+    },
+    {
+      "surface": "כי",
+      "gloss": "негo"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨су⟩"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "као плева"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "коју"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "разноси"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ветар"
+    }
+  ],
+  "timestamp": "2026-09-05T15:52:28.476339129Z",
+  "model": "glm-5.3"
+}

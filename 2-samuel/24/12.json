@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 24:12",
+  "book": "2-samuel",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "Иди и говори Давиду: тако рече Јахве: три ⟨ствари⟩ ја узимам на те; изабери себи једну од њих, и учинићу ти.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "иди"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "и говори"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давиду"
+    },
+    {
+      "surface": "כה",
+      "gloss": "тако"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "три"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ја"
+    },
+    {
+      "surface": "נוטל",
+      "gloss": "узимам"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "на те"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "изабери"
+    },
+    {
+      "surface": "לך",
+      "gloss": "себи"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "једну"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "од њих"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "и учинићу"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    }
+  ],
+  "timestamp": "2026-09-05T11:38:09.418728034Z",
+  "model": "glm-5.3"
+}

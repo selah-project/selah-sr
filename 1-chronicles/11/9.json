@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 11:9",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "И иђаше Давид (Давид) све даље и све већи, и Јахве Цеваот беше с њим.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "и иђаше"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "ходећи"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "и све већи"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "и Јахве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "с њим"
+    }
+  ],
+  "timestamp": "2026-09-05T14:37:43.491911490Z",
+  "model": "glm-5.3"
+}

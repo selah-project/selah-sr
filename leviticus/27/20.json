@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 27:20",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 27,
+  "translation": "А ако не откупи поље, или ако прода ⟨את⟩ поље човеку другом, не може се више откупити.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "А ако"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "откупи"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "поље"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "поље"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "или ако"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "прода"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "поље"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "поље"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "човеку"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "другом"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "може се откупити"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "више"
+    }
+  ],
+  "timestamp": "2026-09-05T10:27:34.297278206Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 46:22",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 46,
+  "translation": "Глас њен као змија иде — јер војском иду и секирама дођоше на њу, као сечиоце дрва.",
+  "tokens": [
+    {
+      "surface": "קולה",
+      "gloss": "глас њен"
+    },
+    {
+      "surface": "כנחש",
+      "gloss": "као змија"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "иде"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "בחיל",
+      "gloss": "војском"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "иду"
+    },
+    {
+      "surface": "ובקרדמות",
+      "gloss": "и секирама"
+    },
+    {
+      "surface": "באו",
+      "gloss": "дођоше"
+    },
+    {
+      "surface": "לה",
+      "gloss": "на њу"
+    },
+    {
+      "surface": "כחטבי",
+      "gloss": "као сечиоце"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "дрва"
+    }
+  ],
+  "timestamp": "2026-09-05T12:36:35.492613017Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 30:17",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 30,
+  "translation": "И рече Јахве Мошеу (Мојсију) ⟨да каже⟩:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Мошеу"
+    },
+    {
+      "surface": "משה",
+      "gloss": "(Мојсију)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨да каже⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T10:10:46.821824153Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 30:1",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 30,
+  "translation": "Речи Агура, сина Јакеовог: ноша, изјава човека — Итиелу, Итиелу и Укалу:",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Речи"
+    },
+    {
+      "surface": "אגור",
+      "gloss": "Агура"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "יקה",
+      "gloss": "Јакеовог"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "ноша"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "изјава"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "човек"
+    },
+    {
+      "surface": "לאיתיאל",
+      "gloss": "Итиелу"
+    },
+    {
+      "surface": "לאיתיאל",
+      "gloss": "Итиелу"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "и Укалу"
+    }
+  ],
+  "timestamp": "2026-09-05T13:54:00.026061782Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 12:22",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "А они помогоше уз Давида против одреда, јер сви беху јунаци снаге, и постадоше кнезови у војсци.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "А они"
+    },
+    {
+      "surface": "עזרו",
+      "gloss": "помогоше"
+    },
+    {
+      "surface": "עם",
+      "gloss": "уз"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давида"
+    },
+    {
+      "surface": "על",
+      "gloss": "против"
+    },
+    {
+      "surface": "הגדוד",
+      "gloss": "одреда"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "јунаци"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "снаге"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "свих"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "и постадоше"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "кнезови"
+    },
+    {
+      "surface": "בצבא",
+      "gloss": "у војсци"
+    }
+  ],
+  "timestamp": "2026-09-05T14:39:02.945081090Z",
+  "model": "glm-5.3"
+}

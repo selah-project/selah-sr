@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 4:7",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "Почетак ⟨је⟩ мудрост: купи мудрост, и у свему стицању свом купи разум.",
+  "tokens": [
+    {
+      "surface": "ראשית",
+      "gloss": "Почетак"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мудрост"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "купи"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мудрост"
+    },
+    {
+      "surface": "ובכל",
+      "gloss": "и у свему"
+    },
+    {
+      "surface": "קנינך",
+      "gloss": "стицању свом"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "купи"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "разум"
+    }
+  ],
+  "timestamp": "2026-09-05T13:46:20.169039948Z",
+  "model": "glm-5.3"
+}

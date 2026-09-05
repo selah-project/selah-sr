@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "leviticus 13:56",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "А ако види свештеник, и ево, зараза је избледела после прања ⟨את⟩ њега, нека ишчупа ⟨את⟩ то из одеће, или из коже, или из основe, или из потке.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "а ако"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "види"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "свештеник"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и ево"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "избледела"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "зараза"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "после"
+    },
+    {
+      "surface": "הכבס",
+      "gloss": "прања"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ њега",
+      "marks": "зараза"
+    },
+    {
+      "surface": "וקרע",
+      "gloss": "нека ишчупа"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ то",
+      "marks": "из одеће…"
+    },
+    {
+      "surface": "מן",
+      "gloss": "из"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "одеће"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "מן",
+      "gloss": "из"
+    },
+    {
+      "surface": "העור",
+      "gloss": "коже"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "מן",
+      "gloss": "из"
+    },
+    {
+      "surface": "השתי",
+      "gloss": "основe"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "מן",
+      "gloss": "из"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "потке"
+    }
+  ],
+  "timestamp": "2026-09-05T10:21:35.538982765Z",
+  "model": "glm-5.3"
+}

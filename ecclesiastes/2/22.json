@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ecclesiastes 2:22",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Јер шта ⟨је⟩ човеку од свега труда својега и од бриге срца својега којом се труди под сунцем?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "מה",
+      "gloss": "шта"
+    },
+    {
+      "surface": "הוה",
+      "gloss": "⟨је⟩"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "човеку"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "од свега"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "труда својега"
+    },
+    {
+      "surface": "וברעיון",
+      "gloss": "и од бриге"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "срца својега"
+    },
+    {
+      "surface": "שהוא",
+      "gloss": "којом се"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "труди"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "сунцем"
+    }
+  ],
+  "timestamp": "2026-09-05T14:11:40.392026089Z",
+  "model": "glm-5.3"
+}

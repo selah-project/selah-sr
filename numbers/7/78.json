@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 78,
+  "ref": "numbers 7:78",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Дванаестог дана ⟨принесе⟩ кнез синâ Нефталијевих, Ахира (Ахирап), син Енанов.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Дванаестог дана"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "два"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "наест"
+    },
+    {
+      "surface": "יום",
+      "gloss": "дан"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "кнез"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "синâ"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Нефталијевих"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "Ахира"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "Енанов"
+    }
+  ],
+  "timestamp": "2026-09-05T15:09:19.540792685Z",
+  "model": "glm-5.3"
+}

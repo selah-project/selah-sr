@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 32:9",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 32,
+  "translation": "Јер део Јахвеа ⟨је⟩ народ његов; Јааков (Јаков) − уже једро наследства његовог.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "део"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "народ његов"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Јааков"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "уже једро"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "наследства његовог"
+    }
+  ],
+  "timestamp": "2026-09-05T10:55:54.035607923Z",
+  "model": "glm-5.3"
+}

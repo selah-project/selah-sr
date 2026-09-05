@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 24:28",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "И отрча девојка, и јави у дом мајке своје према речима овим.",
+  "tokens": [
+    {
+      "surface": "ותרץ",
+      "gloss": "И отрча"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "девојка"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "и јави"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "у дом"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "мајке своје"
+    },
+    {
+      "surface": "כדברים",
+      "gloss": "према речима"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "овим"
+    }
+  ],
+  "timestamp": "2026-09-05T14:59:28.912849430Z",
+  "model": "glm-5.3"
+}

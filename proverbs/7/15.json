@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 7:15",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Зато изиђох у сусрет теби, да тражим лице твоје — и нађох те.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "зато"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "יצאתי",
+      "gloss": "изиђох"
+    },
+    {
+      "surface": "לקראתך",
+      "gloss": "у сусрет теби"
+    },
+    {
+      "surface": "לשחר",
+      "gloss": "да тражим"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "лице твоје"
+    },
+    {
+      "surface": "ואמצאך",
+      "gloss": "и нађох те"
+    }
+  ],
+  "timestamp": "2026-09-05T13:47:21.675404167Z",
+  "model": "glm-5.3"
+}

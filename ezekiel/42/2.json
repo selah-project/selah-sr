@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 42:2",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 42,
+  "translation": "Пред дужином од сто лаката ⟨беше⟩ врата северна, а ширина педесет лаката.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "пред"
+    },
+    {
+      "surface": "פני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "дужином"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "лаката"
+    },
+    {
+      "surface": "המאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "врата"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "северна"
+    },
+    {
+      "surface": "והרחב",
+      "gloss": "а ширина"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "педесет"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "лаката"
+    }
+  ],
+  "timestamp": "2026-09-05T17:06:55.798042996Z",
+  "model": "glm-5.3"
+}

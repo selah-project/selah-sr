@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 16:3",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 16,
+  "translation": "Узврни на Јахвеа дела своја, и утврдиће се намисли твоје.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "Узврни"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "дела своја"
+    },
+    {
+      "surface": "ויכנו",
+      "gloss": "и утврдиће се"
+    },
+    {
+      "surface": "מחשבתיך",
+      "gloss": "намисли твоје"
+    }
+  ],
+  "timestamp": "2026-09-05T13:49:48.110924330Z",
+  "model": "glm-5.3"
+}

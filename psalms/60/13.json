@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 60:13",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 60,
+  "translation": "Дај нам помоћ од невоље, ⟨јер⟩ је узалушно спасење човеково.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "Дај"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "нам"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "помоћ"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "од невоље"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "а узалушно ⟨је⟩"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "спасење"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човеково"
+    }
+  ],
+  "timestamp": "2026-09-05T13:28:15.916454432Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 16:15",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 16,
+  "translation": "Сећајте се навек завета његовог, речи коју заповеди ⟨за⟩ хиљаду колена;",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "Сећајте се"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "навек"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "завета његовог"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "речи"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповеди"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "⟨за⟩ хиљаду"
+    },
+    {
+      "surface": "דור",
+      "gloss": "колена"
+    }
+  ],
+  "timestamp": "2026-09-05T16:46:34.693074863Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 39:7",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 39,
+  "translation": "Подсмева се вреви града, вриску погонича не чује.",
+  "tokens": [
+    {
+      "surface": "ישחק",
+      "gloss": "Подсмева се"
+    },
+    {
+      "surface": "להמון",
+      "gloss": "вреви"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "града"
+    },
+    {
+      "surface": "תשאות",
+      "gloss": "вриску"
+    },
+    {
+      "surface": "נוגש",
+      "gloss": "погонича"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "чује"
+    }
+  ],
+  "timestamp": "2026-09-05T14:04:44.709561046Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 24:11",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "Напољу стој, и човек којем ти позајмљујеш њему нека изнесе теби ⟨את⟩ залог напоље.",
+  "tokens": [
+    {
+      "surface": "בחוץ",
+      "gloss": "Напољу"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "стој"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "и човек"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "којем"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "נשה",
+      "gloss": "позајмљујеш"
+    },
+    {
+      "surface": "בו",
+      "gloss": "њему"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "нека изнесе"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "теби"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "залог"
+    },
+    {
+      "surface": "העבוט",
+      "gloss": "залог"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "напоље"
+    }
+  ],
+  "timestamp": "2026-09-05T10:52:18.126167555Z",
+  "model": "glm-5.3"
+}

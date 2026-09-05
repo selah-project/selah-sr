@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 31:18",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 31,
+  "translation": "А ја — сакривајући сакрићу лице своје у дан онај због свега зла која учини, јер се окрену ка боговима другим.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "а ја"
+    },
+    {
+      "surface": "הסתר",
+      "gloss": "сакривајући"
+    },
+    {
+      "surface": "אסתיר",
+      "gloss": "сакрићу"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лице своје"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "у дан"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "онај"
+    },
+    {
+      "surface": "על",
+      "gloss": "због"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сва"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "зла"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "која"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "учини"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "окрену се"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ка"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "боговима"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "другим"
+    }
+  ],
+  "timestamp": "2026-09-05T10:57:05.764114993Z",
+  "model": "glm-5.3"
+}

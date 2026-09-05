@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 18:21",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "Ако кажеш у срцу свом: Како ћемо дознати ⟨את⟩ реч коју није изговорио Јахве?",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Ако"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "кажеш"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "у срцу свом"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "Како"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "ћемо дознати"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "реч"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "реч"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "коју"
+    },
+    {
+      "surface": "לא",
+      "gloss": "није"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "изговорио"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-09-05T10:50:27.025550317Z",
+  "model": "glm-5.3"
+}

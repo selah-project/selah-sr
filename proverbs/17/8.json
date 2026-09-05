@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 17:8",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 17,
+  "translation": "Камен милости је мито у очима онога који га даје; у сваку страну што се окрене, успева.",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "камен"
+    },
+    {
+      "surface": "חן",
+      "gloss": "милости"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "митo"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "у очима"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "онога који га даје"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сваку страну"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "се окрене"
+    },
+    {
+      "surface": "ישכיל",
+      "gloss": "успева"
+    }
+  ],
+  "timestamp": "2026-09-05T13:50:14.657143450Z",
+  "model": "glm-5.3"
+}

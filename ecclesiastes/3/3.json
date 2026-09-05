@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Време убијању и време лечењу, време рушењу и време зидању.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "Време"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "убијању"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "и време"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "лечењу"
+    },
+    {
+      "surface": "עת",
+      "gloss": "време"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "рушењу"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "и време"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "зидању"
+    }
+  ],
+  "timestamp": "2026-09-05T14:11:27.685487210Z",
+  "model": "glm-5.3"
+}

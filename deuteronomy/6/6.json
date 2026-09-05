@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 6:6",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "И нека буду ове речи, које ти заповедам данас, на срцу твојем.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "И нека буду"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "речи"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ове"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "које"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ја"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "заповедам ти"
+    },
+    {
+      "surface": "היום",
+      "gloss": "данас"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "срцу твојем"
+    }
+  ],
+  "timestamp": "2026-09-05T10:44:42.289789544Z",
+  "model": "glm-5.3"
+}

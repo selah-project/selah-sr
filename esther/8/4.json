@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "esther 8:4",
+  "book": "esther",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "И пружи цар Естери ⟨את⟩ жезло златно, и уста Естер и стаде пред царем.",
+  "tokens": [
+    {
+      "surface": "ויושט",
+      "gloss": "И пружи"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "Естери"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жезло златно"
+    },
+    {
+      "surface": "שרבט",
+      "gloss": "жезло"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "златно"
+    },
+    {
+      "surface": "ותקם",
+      "gloss": "и уста"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Естер"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "и стаде"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царем"
+    }
+  ],
+  "timestamp": "2026-09-05T14:16:48.931008711Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 8:4",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "И учини Моше као што заповеди Јахве ⟨את⟩ њега; и скупи се скупштина на улаз шатора састанка.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "И учини"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "као што"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповеди"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ њега"
+    },
+    {
+      "surface": "ותקהל",
+      "gloss": "и скупи се"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "скупштина"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "улаз"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "шатора"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "састанка"
+    }
+  ],
+  "timestamp": "2026-09-05T10:17:49.580482249Z",
+  "model": "glm-5.3"
+}

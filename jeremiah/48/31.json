@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "jeremiah 48:31",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 48,
+  "translation": "Због тога ћу заједати над Моавом и за Моав свега вапићу; над људима Кир-Хереса уздише ⟨срце моје⟩.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "због"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тога"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моавом"
+    },
+    {
+      "surface": "איליל",
+      "gloss": "ћу заједати"
+    },
+    {
+      "surface": "ולמואב",
+      "gloss": "и за Моав"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "свега"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "вапићу"
+    },
+    {
+      "surface": "אל",
+      "gloss": "над"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "људима"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "Кир"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "Хереса"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "уздише"
+    }
+  ],
+  "timestamp": "2026-09-05T12:39:05.382353648Z",
+  "model": "glm-5.3"
+}

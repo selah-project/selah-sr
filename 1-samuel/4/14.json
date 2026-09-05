@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 4:14",
+  "book": "1-samuel",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "И чу Ели ⟨את⟩ глас вике, и рече: шта ⟨је⟩ глас ове граје? И човек пожури, и дође, и јави Елију.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "и чу"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Ели"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "глас"
+    },
+    {
+      "surface": "קול",
+      "gloss": "глас"
+    },
+    {
+      "surface": "הצעקה",
+      "gloss": "вике"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "מה",
+      "gloss": "шта"
+    },
+    {
+      "surface": "קול",
+      "gloss": "глас"
+    },
+    {
+      "surface": "ההמון",
+      "gloss": "граје"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ове"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "и човек"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "пожури"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "и дође"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "и јави"
+    },
+    {
+      "surface": "לעלי",
+      "gloss": "Елију"
+    }
+  ],
+  "timestamp": "2026-09-05T11:17:11.745109541Z",
+  "model": "glm-5.3"
+}

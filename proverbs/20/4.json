@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 20:4",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 20,
+  "translation": "Због зиме лењивац неће орати; пита ⟨покрај⟩ ⟨жетве⟩ и нема ништа.",
+  "tokens": [
+    {
+      "surface": "מחרף",
+      "gloss": "Због зиме"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "лењивац"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "оре"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "пита"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "у жетви"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и нема"
+    }
+  ],
+  "timestamp": "2026-09-05T16:00:51.582819045Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 22:20",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "А ако ⟨је⟩ истина била ствар ова, не нађоше се знаци девичанства код девојке —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "а ако"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "истина"
+    },
+    {
+      "surface": "היה",
+      "gloss": "била"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ствар"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ова"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "нађоше се"
+    },
+    {
+      "surface": "בתולים",
+      "gloss": "знаци девичанства"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "девојци"
+    }
+  ],
+  "timestamp": "2026-09-05T15:15:26.692455889Z",
+  "model": "glm-5.3"
+}

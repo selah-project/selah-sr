@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 2:37",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "И Забад роди ⟨את⟩ Ефлала, и Ефлал роди ⟨את⟩ Оведа.",
+  "tokens": [
+    {
+      "surface": "וזבד",
+      "gloss": "и Забад"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ефлала"
+    },
+    {
+      "surface": "אפלל",
+      "gloss": "Ефлал"
+    },
+    {
+      "surface": "ואפלל",
+      "gloss": "и Ефлал"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Оведа"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Овед"
+    }
+  ],
+  "timestamp": "2026-09-05T14:33:41.887104251Z",
+  "model": "glm-5.3"
+}

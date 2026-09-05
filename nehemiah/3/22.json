@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "nehemiah 3:22",
+  "book": "nehemiah",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "И после њега утврдише свештеници, људи ⟨из⟩ Кикара.",
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "и после њега"
+    },
+    {
+      "surface": "החזיקו",
+      "gloss": "утврдише"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "свештеници"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "људи"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "Кикара"
+    }
+  ],
+  "timestamp": "2026-09-05T14:28:55.377871368Z",
+  "model": "glm-5.3"
+}

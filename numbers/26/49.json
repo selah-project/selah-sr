@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "numbers 26:49",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 26,
+  "translation": "За Јецера породица Јецрова; за Шилема породица Шилмова.",
+  "tokens": [
+    {
+      "surface": "ליצר",
+      "gloss": "За Јецера"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "породица"
+    },
+    {
+      "surface": "היצרי",
+      "gloss": "Јецрова"
+    },
+    {
+      "surface": "לשלם",
+      "gloss": "за Шилема"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "породица"
+    },
+    {
+      "surface": "השלמי",
+      "gloss": "Шилмова"
+    }
+  ],
+  "timestamp": "2026-09-05T10:39:00.678442032Z",
+  "model": "glm-5.3"
+}

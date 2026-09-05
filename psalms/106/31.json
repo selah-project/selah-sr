@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 106:31",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 106,
+  "translation": "и уброји му се ⟨то⟩ у праведност, за род и род, до века.",
+  "tokens": [
+    {
+      "surface": "ותחשב",
+      "gloss": "и уброји се"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "לצדקה",
+      "gloss": "у праведност"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "за род"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "и род"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "века"
+    }
+  ],
+  "timestamp": "2026-09-05T13:38:00.696724240Z",
+  "model": "glm-5.3"
+}

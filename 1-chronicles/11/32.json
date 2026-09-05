@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 11:32",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "Хурај из нахала Гаша, Авиел Араваћанин —",
+  "tokens": [
+    {
+      "surface": "חורי",
+      "gloss": "Хурај"
+    },
+    {
+      "surface": "מנחלי",
+      "gloss": "из нахала"
+    },
+    {
+      "surface": "געש",
+      "gloss": "Гаша"
+    },
+    {
+      "surface": "אביאל",
+      "gloss": "Авиел"
+    },
+    {
+      "surface": "הערבתי",
+      "gloss": "Араваћанин"
+    }
+  ],
+  "timestamp": "2026-09-05T14:37:16.024518301Z",
+  "model": "glm-5.3"
+}

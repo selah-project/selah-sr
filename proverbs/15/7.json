@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 15:7",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 15,
+  "translation": "Устна мудрих расипају знање, а срце лудака — не тако.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "Устна"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "мудрих"
+    },
+    {
+      "surface": "יזרו",
+      "gloss": "расипају"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "знање"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "а срце"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "лудака"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тако"
+    }
+  ],
+  "timestamp": "2026-09-05T13:49:22.017982605Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 12:8",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "Или проговори земљи, и научиће те, и причаће ти рибе мора.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "שיח",
+      "gloss": "проговори"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "земљи"
+    },
+    {
+      "surface": "ותרך",
+      "gloss": "и научиће те"
+    },
+    {
+      "surface": "ויספרו",
+      "gloss": "и причаће"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "דגי",
+      "gloss": "рибе"
+    },
+    {
+      "surface": "הים",
+      "gloss": "мора"
+    }
+  ],
+  "timestamp": "2026-09-05T13:57:47.418605161Z",
+  "model": "glm-5.3"
+}

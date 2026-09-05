@@ -1,0 +1,96 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 13:14",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "И оста ковчег Елохимов код дома Овед-Едома, у кући његовој, три месеца; и благослови Јахве ⟨את⟩ дом Овед-Едомов и ⟨את⟩ све што је његово.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "оста"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ковчег"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елохимов"
+    },
+    {
+      "surface": "עם",
+      "gloss": "код"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Овед-"
+    },
+    {
+      "surface": "адом",
+      "surface_note": "",
+      "gloss": "Едома"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "у кући његовој"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "три"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "месеца"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "и благослови"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дом"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "Овед-"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "Едомов"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "све"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "לו",
+      "gloss": "је његово"
+    }
+  ],
+  "timestamp": "2026-09-05T14:38:51.247589503Z",
+  "model": "glm-5.3"
+}

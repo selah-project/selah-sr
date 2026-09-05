@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 37:21",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 37,
+  "translation": "Зли позајмљује и не враћа, а праведник ⟨је⟩ милостив и даје.",
+  "tokens": [
+    {
+      "surface": "לוה",
+      "gloss": "позајмљује"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "зли"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "враћа"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "а праведник"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "милостив"
+    },
+    {
+      "surface": "ונותן",
+      "gloss": "и даје"
+    }
+  ],
+  "timestamp": "2026-09-05T13:24:47.672916936Z",
+  "model": "glm-5.3"
+}

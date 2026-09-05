@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 13:4",
+  "book": "judges",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "а сада чувај се, молим: не пиј вина ни жестоког пића, и не једи ништа нечисто.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "а сада"
+    },
+    {
+      "surface": "השמרי",
+      "gloss": "чувај се"
+    },
+    {
+      "surface": "נא",
+      "gloss": "молим"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשתי",
+      "gloss": "пиј"
+    },
+    {
+      "surface": "יין",
+      "gloss": "вина"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "жестоког пића"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תאכלי",
+      "gloss": "једи"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ништа"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "нечисто"
+    }
+  ],
+  "timestamp": "2026-09-05T11:11:31.988008067Z",
+  "model": "glm-5.3"
+}

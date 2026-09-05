@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 20:21",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 20,
+  "translation": "И стаде народ издалека, а Моше приступи ка мраку где бејаше тамо Елохим.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "И стаде"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "издалека"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "а Моше"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "приступи"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ка"
+    },
+    {
+      "surface": "הערפל",
+      "gloss": "мраку"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "где"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тамо"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елохим"
+    }
+  ],
+  "timestamp": "2026-09-05T10:06:32.403561546Z",
+  "model": "glm-5.3"
+}

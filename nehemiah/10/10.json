@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 10:10",
+  "book": "nehemiah",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "А Левити: Јешуа син Азаније, Бинуј, од синова Хенададових, Кадмиил.",
+  "tokens": [
+    {
+      "surface": "והלוים",
+      "gloss": "А Левити"
+    },
+    {
+      "surface": "וישוע",
+      "gloss": "Јешуа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אזניה",
+      "gloss": "Азаније"
+    },
+    {
+      "surface": "בנוי",
+      "gloss": "Бинуј"
+    },
+    {
+      "surface": "мבני",
+      "gloss": "од синова"
+    },
+    {
+      "surface": "חנדד",
+      "gloss": "Хенададових"
+    },
+    {
+      "surface": "קדמיאל",
+      "gloss": "Кадмиил"
+    }
+  ],
+  "timestamp": "2026-09-05T14:31:44.479294841Z",
+  "model": "glm-5.3"
+}

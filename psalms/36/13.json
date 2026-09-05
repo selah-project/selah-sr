@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 36:13",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 36,
+  "translation": "Тамо падоше чиниоци ништавила, оборени су и не могу да устану.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Тамо"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "падоше"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "чиниоци"
+    },
+    {
+      "surface": "און",
+      "gloss": "ништавила"
+    },
+    {
+      "surface": "דחו",
+      "gloss": "оборени су"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "могу"
+    },
+    {
+      "surface": "קום",
+      "gloss": "да устану"
+    }
+  ],
+  "timestamp": "2026-09-05T17:09:58.965740313Z",
+  "model": "glm-5.3"
+}

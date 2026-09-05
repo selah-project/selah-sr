@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 38:18",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 38,
+  "translation": "Да ли си размислио до ширине земље? Говори, ако знаш све ⟨то⟩!",
+  "tokens": [
+    {
+      "surface": "התבננת",
+      "gloss": "Да ли си размислио"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "רחבי",
+      "gloss": "ширине"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земље"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "Говори"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "знаш"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "све"
+    }
+  ],
+  "timestamp": "2026-09-05T14:05:20.958754579Z",
+  "model": "glm-5.3"
+}

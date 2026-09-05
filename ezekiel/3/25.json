@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 3:25",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "А ти, сине човечји, ево, метнуше на тебе ужа и свезаће те њима, и нећеш изаћи међу њих.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "А ти"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сине"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човечји"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ево"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "метнуше"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "на тебе"
+    },
+    {
+      "surface": "עבותים",
+      "gloss": "ужа"
+    },
+    {
+      "surface": "ואסרוך",
+      "gloss": "и свезаће те"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "њима"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и нећеш"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "изаћи"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "међу њих"
+    }
+  ],
+  "timestamp": "2026-09-05T12:43:02.331060643Z",
+  "model": "glm-5.3"
+}

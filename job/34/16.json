@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 34:16",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 34,
+  "translation": "И ако ⟨имаш⟩ разум, чуј ово: приклон уво гласу речи мојих.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "И ако"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "разум"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "чуј"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ово"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "приклон уво"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "гласу"
+    },
+    {
+      "surface": "מלי",
+      "gloss": "речи мојих"
+    }
+  ],
+  "timestamp": "2026-09-05T14:03:54.619809234Z",
+  "model": "glm-5.3"
+}

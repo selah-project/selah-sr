@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 7:10",
+  "book": "judges",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "А ако си се ти уплашио да сиђеш, сиђи ти и Фура, момче твоје, у логор.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "а ако"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "плашиш се"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "да сиђеш"
+    },
+    {
+      "surface": "רד",
+      "gloss": "сиђи"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "ופורה",
+      "gloss": "и Фура"
+    },
+    {
+      "surface": "נערך",
+      "gloss": "момче твоје"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "логор"
+    }
+  ],
+  "timestamp": "2026-09-05T11:08:33.506879355Z",
+  "model": "glm-5.3"
+}

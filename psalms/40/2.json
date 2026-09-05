@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 40:2",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 40,
+  "translation": "Чекати чеках Јахвеа, и пригну се к мени, и чу вапај мој.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "Чекати"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "чеках"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "и пригну се"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "к мени"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "и чу"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "вапај мој"
+    }
+  ],
+  "timestamp": "2026-09-05T13:25:23.215703956Z",
+  "model": "glm-5.3"
+}

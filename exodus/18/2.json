@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 18:2",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "И узе Јитро, таст Мошеов, ⟨את⟩ Ципору, жену Мошеову, после отпуштања њеног.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "И узе"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Јитро"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "таст"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошеов"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ципору"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Ципору"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "жену"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошеову"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "после"
+    },
+    {
+      "surface": "שלוחיה",
+      "gloss": "отпуштања њеног"
+    }
+  ],
+  "timestamp": "2026-09-05T10:06:37.155098170Z",
+  "model": "glm-5.3"
+}

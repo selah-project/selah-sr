@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Каква је добит ⟨од⟩ онога који ради у оном у што се он труди?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "каква"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "добит"
+    },
+    {
+      "surface": "העושה",
+      "gloss": "онога који ради"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "у оном у што"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "труди се"
+    }
+  ],
+  "timestamp": "2026-09-05T14:11:18.745070359Z",
+  "model": "glm-5.3"
+}

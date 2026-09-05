@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "daniel 2:32",
+  "book": "daniel",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Тај кип: глава му од злата доброга, прса и руке његове од сребра, трбух и бедра његова од бакра.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Тај"
+    },
+    {
+      "surface": "צלמא",
+      "gloss": "кип"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "главa му"
+    },
+    {
+      "surface": "די",
+      "gloss": "од"
+    },
+    {
+      "surface": "דהב",
+      "gloss": "злата"
+    },
+    {
+      "surface": "טב",
+      "gloss": "доброга"
+    },
+    {
+      "surface": "חדוהי",
+      "gloss": "прса"
+    },
+    {
+      "surface": "ודרעוהי",
+      "gloss": "и руке његове"
+    },
+    {
+      "surface": "די",
+      "gloss": "од"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "сребра"
+    },
+    {
+      "surface": "מעוהי",
+      "gloss": "трбух"
+    },
+    {
+      "surface": "וירכתה",
+      "gloss": "и бедра његова"
+    },
+    {
+      "surface": "די",
+      "gloss": "од"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "бакра"
+    }
+  ],
+  "timestamp": "2026-09-05T14:18:33.983706622Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 9:7",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "Иди, једи у радости хлеб свој, и пиј у срцу добром вино своје, јер већ се задовољи Елохим ⟨את⟩ дела твоја.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "иди"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "једи"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "у радости"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "хлеб свој"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "и пиј"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "у срцу"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добром"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "вино своје"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "већ"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "задовољи"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дела твоја"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "дела твоја"
+    }
+  ],
+  "timestamp": "2026-09-05T16:45:09.666159119Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 51:18",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 51,
+  "translation": "Јер жртву не желиш — ⟨да је желиш⟩ дао бих је ⟨ти⟩; паљеницу не прихваташ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תחפץ",
+      "gloss": "желиш"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "жртву"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "и дао бих"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "паљеницу"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "прихваташ"
+    }
+  ],
+  "timestamp": "2026-09-05T17:29:50.291765845Z",
+  "model": "glm-5.3"
+}

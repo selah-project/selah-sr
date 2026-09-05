@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "За смех рекох: лудост ⟨је⟩; а за весеље: шта то чини?",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "за смех"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "рекох"
+    },
+    {
+      "surface": "מהולל",
+      "gloss": "лудост"
+    },
+    {
+      "surface": "ולשמחה",
+      "gloss": "а за весеље"
+    },
+    {
+      "surface": "מה",
+      "gloss": "шта"
+    },
+    {
+      "surface": "זה",
+      "gloss": "то"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "чини"
+    }
+  ],
+  "timestamp": "2026-09-05T14:11:33.653286833Z",
+  "model": "glm-5.3"
+}

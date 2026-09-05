@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 27:13",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 27,
+  "translation": "И рече му мати његова: на ме твоја клетва, сине мој; само послушај глас мој, и иди, узми ми ⟨их⟩.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "мати његова"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "на ме"
+    },
+    {
+      "surface": "קללתך",
+      "gloss": "твоја клетва"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сине мој"
+    },
+    {
+      "surface": "אך",
+      "gloss": "само"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "послушај"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "глас мој"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "и иди"
+    },
+    {
+      "surface": "קח",
+      "gloss": "узми"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    }
+  ],
+  "timestamp": "2026-09-05T16:54:21.984534856Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 97:9",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 97,
+  "translation": "Јер ти, Јахве, ⟨си⟩ Елион над свом земљом, врло си узвишен над свим боговима.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Елион (Највиши)"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "כל",
+      "gloss": "свом"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земљом"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "врло"
+    },
+    {
+      "surface": "נעלית",
+      "gloss": "си узвишен"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "כל",
+      "gloss": "свим"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "боговима"
+    }
+  ],
+  "timestamp": "2026-09-05T13:36:09.783472144Z",
+  "model": "glm-5.3"
+}

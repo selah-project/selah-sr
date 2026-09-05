@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 2:18",
+  "book": "1-kings",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "И рече Бат-Шева: „Добро; ја ћу говорити за тебе ка краљу.“",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Бат-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Шева"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Добро"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ја"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ћу говорити"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "за тебе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ка"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "краљу"
+    }
+  ],
+  "timestamp": "2026-09-05T15:26:42.468647763Z",
+  "model": "glm-5.3"
+}

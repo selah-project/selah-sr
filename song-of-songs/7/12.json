@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 7:12",
+  "book": "song-of-songs",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Хајде, драги мој, изађимо у поље, преноћимо у селима.",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "Хајде"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "драги мој"
+    },
+    {
+      "surface": "נצא",
+      "gloss": "изађимо"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "у поље"
+    },
+    {
+      "surface": "נלינה",
+      "gloss": "преноћимо"
+    },
+    {
+      "surface": "бכפרים",
+      "gloss": "у селима"
+    }
+  ],
+  "timestamp": "2026-09-05T14:07:42.396212290Z",
+  "model": "glm-5.3"
+}

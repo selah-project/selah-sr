@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "jeremiah 23:40",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "И метнућу на вас срамоту вечну и поругу вечну ⟨која⟩ се неће заборавити.",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "метнућу"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "на вас"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "срамоту"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "вечну"
+    },
+    {
+      "surface": "וכלמות",
+      "gloss": "и поругу"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "вечну"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨која⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "заборавити"
+    }
+  ],
+  "timestamp": "2026-09-05T15:40:29.403041630Z",
+  "model": "glm-5.3"
+}

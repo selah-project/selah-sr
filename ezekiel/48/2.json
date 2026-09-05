@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 48:2",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 48,
+  "translation": "А уз границу Дана, од стране истока до стране морске ⟨запад⟩: Ашер, један ⟨део⟩.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "а уз"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "границу"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Дана"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "од стране"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "истока"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "стране"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "морске"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Ашер"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "један"
+    }
+  ],
+  "timestamp": "2026-09-05T12:59:33.478150271Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 9:26",
+  "book": "joshua",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "И учини им тако, и избави ⟨את⟩ њих из руке синâ Израиљевих, и не побише их.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "И учини"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тако"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "и избави"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "њих"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "из руке"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синâ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљевих"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "הרגום",
+      "gloss": "побише их"
+    }
+  ],
+  "timestamp": "2026-09-05T10:59:11.860662636Z",
+  "model": "glm-5.3"
+}

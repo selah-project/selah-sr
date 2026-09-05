@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 26:18",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 26,
+  "translation": "Као лудак што баца буктиње, стреле и смрт —",
+  "tokens": [
+    {
+      "surface": "כמתלהלה",
+      "gloss": "као лудак"
+    },
+    {
+      "surface": "הירה",
+      "gloss": "што баца"
+    },
+    {
+      "surface": "זקים",
+      "gloss": "буктиње"
+    },
+    {
+      "surface": "חצים",
+      "gloss": "стреле"
+    },
+    {
+      "surface": "ומות",
+      "gloss": "и смрт"
+    }
+  ],
+  "timestamp": "2026-09-05T13:52:38.567908946Z",
+  "model": "glm-5.3"
+}

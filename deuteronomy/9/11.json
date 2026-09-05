@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 9:11",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "И би на крају четрдесет дана и четрдесет ноћи, даде Јахве мени ⟨את⟩ две плоче камене, плоче завета.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "и би"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "на крају"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "четрдесет"
+    },
+    {
+      "surface": "יום",
+      "gloss": "дана"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "и четрдесет"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ноћи"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "даде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мени"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "две плоче камене"
+    },
+    {
+      "surface": "שני",
+      "gloss": "две"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "плоче"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "камене"
+    },
+    {
+      "surface": "לחות",
+      "gloss": "плоче"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "завета"
+    }
+  ],
+  "timestamp": "2026-09-05T10:47:50.031240964Z",
+  "model": "glm-5.3"
+}

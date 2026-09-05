@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "psalms 119:57",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 119,
+  "translation": "Мој део ⟨је⟩ Јахве; рекох да чувам речи твоје.",
+  "tokens": [
+    {
+      "surface": "חלקי",
+      "gloss": "мој део"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "рекох"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "да чувам"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "речи твоје"
+    }
+  ],
+  "timestamp": "2026-09-05T15:59:21.331471505Z",
+  "model": "glm-5.3"
+}

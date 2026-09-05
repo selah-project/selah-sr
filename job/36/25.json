@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 36:25",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 36,
+  "translation": "Сав је човек ⟨га⟩ видео; смртник гледа издалека.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "сав"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човек"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "видео"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨га⟩"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "смртник"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "гледа"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "издалека"
+    }
+  ],
+  "timestamp": "2026-09-05T17:11:51.426143247Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 6:4",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "Јер у хебел дође, и у тами оди, и у тами име његово покривено би:",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "у хебел"
+    },
+    {
+      "surface": "בא",
+      "gloss": "дође"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "и у тами"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "оди"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "и у тами"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "име његово"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "покривено би"
+    }
+  ],
+  "timestamp": "2026-09-05T14:13:51.193400048Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 1:5",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "И назва Елохим светлост дан, а таму назва ноћ; и би вече, и би јутро — дан један.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "и назва"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "светлост"
+    },
+    {
+      "surface": "יום",
+      "gloss": "дан"
+    },
+    {
+      "surface": "ולחשך",
+      "gloss": "а таму"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "назва"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ноћ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и би"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "вече"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и би"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "јутро"
+    },
+    {
+      "surface": "יום",
+      "gloss": "дан"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "један"
+    }
+  ],
+  "timestamp": "2026-09-05T09:39:36.443853550Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 36:31",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 36,
+  "translation": "И начини пречке од дрвета шитим, пет за даске једног бока мишкана.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "и начини"
+    },
+    {
+      "surface": "בריחי",
+      "gloss": "пречке"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "од дрвета"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "шитим"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "пет"
+    },
+    {
+      "surface": "לקרשי",
+      "gloss": "за даске"
+    },
+    {
+      "surface": "צלע",
+      "gloss": "бока"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "мишкана"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "једног"
+    }
+  ],
+  "timestamp": "2026-09-05T10:13:58.406913182Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 33:10",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 33,
+  "translation": "Јахве поништи савет народâ, осујети намере племена.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "הפיר",
+      "gloss": "поништи"
+    },
+    {
+      "surface": "עצת",
+      "gloss": "савет"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "народâ"
+    },
+    {
+      "surface": "הניא",
+      "gloss": "осујети"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "намере"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "племена"
+    }
+  ],
+  "timestamp": "2026-09-05T13:21:38.170428773Z",
+  "model": "glm-5.3"
+}

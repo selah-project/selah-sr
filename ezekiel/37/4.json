@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 37:4",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 37,
+  "translation": "И рече ми: „Пророкуј над костима овим и реци им: кости суве, чујте реч Јахвеа!“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "Пророкуј"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "העצמות",
+      "gloss": "костима"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "овим"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "и реци"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "העצמות",
+      "gloss": "кости"
+    },
+    {
+      "surface": "היבשות",
+      "gloss": "суве"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "чујте"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "реч"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    }
+  ],
+  "timestamp": "2026-09-05T15:47:59.627586211Z",
+  "model": "glm-5.3"
+}

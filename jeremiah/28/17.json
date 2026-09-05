@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 28:17",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "И умре Хананја (Хананија) пророчки ⟨те⟩ године, у седмом месецу.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "И умре"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Хананја"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "пророчки"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "године"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "⟨те⟩"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "у месецу"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "седмом"
+    }
+  ],
+  "timestamp": "2026-09-05T12:30:50.970992964Z",
+  "model": "glm-5.3"
+}

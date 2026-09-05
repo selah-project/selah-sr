@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 29:6",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 29,
+  "translation": "У преступу човека злог ⟨јесте⟩ замка, а праведник кличе и радује се.",
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "у преступу"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човека"
+    },
+    {
+      "surface": "רע",
+      "gloss": "злог"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "замка"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "а праведник"
+    },
+    {
+      "surface": "ירון",
+      "gloss": "кличе"
+    },
+    {
+      "surface": "ושמח",
+      "gloss": "и радује се"
+    }
+  ],
+  "timestamp": "2026-09-05T13:53:20.509643051Z",
+  "model": "glm-5.3"
+}

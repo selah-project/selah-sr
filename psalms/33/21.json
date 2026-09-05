@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 33:21",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 33,
+  "translation": "Јер у њега се радује срце наше, јер у име свето Његово уздасмо ⟨наду⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "בו",
+      "gloss": "у њега"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "се радује"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "срце наше"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "у име"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "свето Његово"
+    },
+    {
+      "surface": "בטחנו",
+      "gloss": "уздасмо ⟨наду⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T13:21:26.334433681Z",
+  "model": "glm-5.3"
+}

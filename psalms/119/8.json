@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 119:8",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 119,
+  "translation": "⟨את⟩ уредбе твоје чувати ћу; не напусти ме сасвим!",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "уредбе твоје"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "уредбе твоје"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "чувати ћу"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "напусти ме"
+    },
+    {
+      "surface": "עד",
+      "gloss": "сасвим"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "досуто"
+    }
+  ],
+  "timestamp": "2026-09-05T13:39:42.971088897Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 34:3",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 34,
+  "translation": "Јер ухо речи испробава, и непце укусује ⟨да би се⟩ јело.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ухо"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "речи"
+    },
+    {
+      "surface": "תבחן",
+      "gloss": "испробава"
+    },
+    {
+      "surface": "וחך",
+      "gloss": "и непце"
+    },
+    {
+      "surface": "יטעם",
+      "gloss": "укусује"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "за јело"
+    }
+  ],
+  "timestamp": "2026-09-05T14:03:48.375903065Z",
+  "model": "glm-5.3"
+}

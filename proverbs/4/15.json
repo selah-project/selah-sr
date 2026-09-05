@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 4:15",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "Избегавај га, не пролази кроз њега, скрењи с њега и даље прођи.",
+  "tokens": [
+    {
+      "surface": "פרעהו",
+      "gloss": "избегавај га"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "пролази"
+    },
+    {
+      "surface": "בו",
+      "gloss": "кроз њега"
+    },
+    {
+      "surface": "שטה",
+      "gloss": "скрењи"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "с њега"
+    },
+    {
+      "surface": "ועבור",
+      "gloss": "и прођи"
+    }
+  ],
+  "timestamp": "2026-09-05T13:46:15.452005874Z",
+  "model": "glm-5.3"
+}

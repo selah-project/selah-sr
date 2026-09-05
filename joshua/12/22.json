@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 12:22",
+  "book": "joshua",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "краљ Кедеша један, краљ Јокнеама на Кармелу један;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "краљ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Кедеша"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "један"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "краљ"
+    },
+    {
+      "surface": "יקנעם",
+      "gloss": "Јокнеама"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "на Кармелу"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "један"
+    }
+  ],
+  "timestamp": "2026-09-05T11:01:00.680352700Z",
+  "model": "glm-5.3"
+}

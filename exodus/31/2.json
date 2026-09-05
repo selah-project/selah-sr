@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 31:2",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 31,
+  "translation": "Види: позвах именом Бецалела, сина Урија, сина Хура, из племена Јехуде:",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Види"
+    },
+    {
+      "surface": "позовах",
+      "gloss": "позвах"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "именом"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Бецалела"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "Урија"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Хура"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "из племена"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јехуде"
+    }
+  ],
+  "timestamp": "2026-09-05T10:10:11.339677591Z",
+  "model": "glm-5.3"
+}

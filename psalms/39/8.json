@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 39:8",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 39,
+  "translation": "И сада, шта да чекам, Адонаје? нада моја ⟨јесте⟩ у тебе.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "и сада"
+    },
+    {
+      "surface": "מה",
+      "gloss": "шта"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "да чекам"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонаје"
+    },
+    {
+      "surface": "תוחלתי",
+      "gloss": "нада моја"
+    },
+    {
+      "surface": "לך",
+      "gloss": "у тебе"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨она⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T13:25:27.987559308Z",
+  "model": "glm-5.3"
+}

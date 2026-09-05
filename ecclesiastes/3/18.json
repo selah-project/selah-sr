@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 3:18",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Рекох ја у срцу своме о стању синова људских: да њих испробава Елохим, и да виде да су животиње — они сами.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Рекох"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "у срцу своме"
+    },
+    {
+      "surface": "על",
+      "gloss": "о"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "стању"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синова"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "људских"
+    },
+    {
+      "surface": "לברם",
+      "gloss": "да их испробава"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "ולראות",
+      "gloss": "и да виде"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "да су"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "животиње"
+    },
+    {
+      "surface": "המה",
+      "gloss": "они"
+    },
+    {
+      "surface": "להם",
+      "gloss": "сами"
+    }
+  ],
+  "timestamp": "2026-09-05T14:11:52.884632967Z",
+  "model": "glm-5.3"
+}

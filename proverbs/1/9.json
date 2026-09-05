@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 1:9",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "Јер су венац од милоће за главу твоју, и огрлице за врат твој.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "לוית",
+      "gloss": "венац"
+    },
+    {
+      "surface": "חן",
+      "gloss": "милоће"
+    },
+    {
+      "surface": "הם",
+      "gloss": "су"
+    },
+    {
+      "surface": "לראשך",
+      "gloss": "за главу твоју"
+    },
+    {
+      "surface": "וענקים",
+      "gloss": "и огрлице"
+    },
+    {
+      "surface": "לגרגרתיך",
+      "gloss": "за врат твој"
+    }
+  ],
+  "timestamp": "2026-09-05T13:45:20.138566137Z",
+  "model": "glm-5.3"
+}

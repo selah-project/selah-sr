@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 40:18",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 40,
+  "translation": "А подина уз раму капија, према дужини капија ⟨њихове⟩ — подина доња.",
+  "tokens": [
+    {
+      "surface": "והרצפה",
+      "gloss": "а подина"
+    },
+    {
+      "surface": "אל",
+      "gloss": "уз"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "раму"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "капија"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "према"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "дужини"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "капија"
+    },
+    {
+      "surface": "הרצפה",
+      "gloss": "подина"
+    },
+    {
+      "surface": "התחתונה",
+      "gloss": "доња"
+    }
+  ],
+  "timestamp": "2026-09-05T12:57:02.201246240Z",
+  "model": "glm-5.3"
+}

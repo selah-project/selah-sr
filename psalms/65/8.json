@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 65:8",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 65,
+  "translation": "Утиваш бучање мора, бучање валовâ њихових и грају народâ.",
+  "tokens": [
+    {
+      "surface": "משביח",
+      "gloss": "утиваш"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "бучање"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "мора"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "бучање"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "валовâ њихових"
+    },
+    {
+      "surface": "והמון",
+      "gloss": "и грају"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "народâ"
+    }
+  ],
+  "timestamp": "2026-09-05T13:29:13.707427999Z",
+  "model": "glm-5.3"
+}

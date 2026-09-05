@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 16:11",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 16,
+  "translation": "Тражите Јахвеа и снагу његову, тражите лице његово непрестано.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "Тражите"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "и снагу његову"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "тражите"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "лице његово"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "непрестано"
+    }
+  ],
+  "timestamp": "2026-09-05T16:45:45.816474893Z",
+  "model": "glm-5.3"
+}

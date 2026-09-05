@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 15:16",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 15,
+  "translation": "Боље ⟨је⟩ мало у страху Јахвеа него ризница велика и метеж у њој.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "боље"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "мало"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "у страху"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "מאוצר",
+      "gloss": "него ризница"
+    },
+    {
+      "surface": "רב",
+      "gloss": "велика"
+    },
+    {
+      "surface": "ומהומה",
+      "gloss": "и метеж"
+    },
+    {
+      "surface": "בו",
+      "gloss": "у њој"
+    }
+  ],
+  "timestamp": "2026-09-05T13:49:28.302269846Z",
+  "model": "glm-5.3"
+}

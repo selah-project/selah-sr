@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 7:19",
+  "book": "nehemiah",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Синови Бигваија: две хиљаде шездесет и седам.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синови"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "Бигваија"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "две хиљаде"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "шездесет"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "и седам"
+    }
+  ],
+  "timestamp": "2026-09-05T14:30:47.020424358Z",
+  "model": "glm-5.3"
+}

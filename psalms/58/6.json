@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 58:6",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 58,
+  "translation": "која не слуша глас шаптача чара, ма колико вешто плела чари.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "која"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "слуша"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "глас"
+    },
+    {
+      "surface": "מלחשים",
+      "gloss": "шаптача чара"
+    },
+    {
+      "surface": "חובר",
+      "gloss": "плела"
+    },
+    {
+      "surface": "חברים",
+      "gloss": "чари"
+    },
+    {
+      "surface": "מחכם",
+      "gloss": "вешто највише"
+    }
+  ],
+  "timestamp": "2026-09-05T13:28:07.886161043Z",
+  "model": "glm-5.3"
+}

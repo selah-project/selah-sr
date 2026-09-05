@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 2:20",
+  "book": "2-samuel",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "И огледа се Авнер за себе и рече: Јеси ли ти Асаел? А он рече: ја сам.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "И огледа се"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Авнер"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "за себе"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "Јеси ли"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "עשהאל",
+      "gloss": "Асаел"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "А он рече"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ја сам"
+    }
+  ],
+  "timestamp": "2026-09-05T11:28:12.387216777Z",
+  "model": "glm-5.3"
+}

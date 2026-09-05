@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 8:6",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "Јер свакој жељи има време и суд; јер је зло човеково велико на њему.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "свакој"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "жељи"
+    },
+    {
+      "surface": "יש",
+      "gloss": "има"
+    },
+    {
+      "surface": "עת",
+      "gloss": "време"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "и суд"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "зло"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "човеково"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "велико"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "на њему"
+    }
+  ],
+  "timestamp": "2026-09-05T14:13:25.290702951Z",
+  "model": "glm-5.3"
+}

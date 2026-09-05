@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 26:2",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 26,
+  "translation": "Он сазида ⟨את⟩ Елот и врати га Јехуди, после лежања краља са оцима његовим.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Он"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "сазида"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Елот"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "Елот"
+    },
+    {
+      "surface": "וישיבה",
+      "gloss": "и врати"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Јехуди"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "после"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "лежања"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "краља"
+    },
+    {
+      "surface": "עם",
+      "gloss": "са"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "оцима његовим"
+    }
+  ],
+  "timestamp": "2026-09-05T14:52:42.666453064Z",
+  "model": "glm-5.3"
+}

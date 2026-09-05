@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 8:8",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "И пусти ⟨את⟩ голубицу од себе, да види је ли олакшала вода с лица тла.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "И пусти"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "голубицу"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "голубицу"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "⟨од себе⟩ од ⟨את⟩-њега"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "да види"
+    },
+    {
+      "surface": "הקלו",
+      "gloss": "је ли олакшала"
+    },
+    {
+      "surface": "המים",
+      "gloss": "вода"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "с"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лица"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "тла"
+    }
+  ],
+  "timestamp": "2026-09-05T09:40:44.017772085Z",
+  "model": "glm-5.3"
+}

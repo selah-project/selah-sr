@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 10:20",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "Изабрано сребро ⟨јесте⟩ језик праведника, срце злих — ⟨вреди⟩ мало.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "сребро"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "Изабрано"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "језик"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "праведника"
+    },
+    {
+      "surface": "לב",
+      "gloss": "срце"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "злих"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "као мало"
+    }
+  ],
+  "timestamp": "2026-09-05T13:48:11.714817459Z",
+  "model": "glm-5.3"
+}

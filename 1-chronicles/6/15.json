@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 6:15",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "Шимеа, син његов; Хагија, син његов; Асаја, син његов.",
+  "tokens": [
+    {
+      "surface": "שמעא",
+      "gloss": "Шимеа"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син његов"
+    },
+    {
+      "surface": "חגיה",
+      "gloss": "Хагија"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син његов"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "Асаја"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син његов"
+    }
+  ],
+  "timestamp": "2026-09-05T14:36:13.261542478Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 18:14",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "Голотињу брата оца твојега не откривај; к жени његовој не приступај — стрина је твоја она.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "голотињу"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "брата"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "оца твојега"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "откривај"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "жени његовој"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "приступај"
+    },
+    {
+      "surface": "דדתך",
+      "gloss": "стрина твоја"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "она"
+    }
+  ],
+  "timestamp": "2026-09-05T10:21:50.637805670Z",
+  "model": "glm-5.3"
+}

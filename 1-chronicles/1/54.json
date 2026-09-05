@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-chronicles 1:54",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "кнез Магдиел, кнез Ирам. Ово су кнезови Едома.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "кнез"
+    },
+    {
+      "surface": "מגדיאל",
+      "gloss": "Магдиел"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "кнез"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "Ирам"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ово"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "кнезови"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Едома"
+    }
+  ],
+  "timestamp": "2026-09-05T14:33:16.646297476Z",
+  "model": "glm-5.3"
+}

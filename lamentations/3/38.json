@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "lamentations 3:38",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Из уст Вишњега не излазе ли зло и добро?",
+  "tokens": [
+    {
+      "surface": "מפי",
+      "gloss": "из уст"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Вишњега"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "излазе ли"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "зло"
+    },
+    {
+      "surface": "והטוב",
+      "gloss": "и добро"
+    }
+  ],
+  "timestamp": "2026-09-05T14:09:35.117375313Z",
+  "model": "glm-5.3"
+}

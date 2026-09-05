@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 2:4",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Седи на небесима — смеје се, Адонај им се руга.",
+  "tokens": [
+    {
+      "surface": "יושב",
+      "gloss": "седи"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "на небесима"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "смеје се"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "ילעג",
+      "gloss": "руга се"
+    },
+    {
+      "surface": "למו",
+      "gloss": "им"
+    }
+  ],
+  "timestamp": "2026-09-05T13:16:43.330321088Z",
+  "model": "glm-5.3"
+}

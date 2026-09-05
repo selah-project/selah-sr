@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 55:6",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 55,
+  "translation": "Страх и дрхтање дођоше у ме, и страшност ме покри.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "страх"
+    },
+    {
+      "surface": "ורעד",
+      "gloss": "и дрхтање"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "дођоше"
+    },
+    {
+      "surface": "בי",
+      "gloss": "у ме"
+    },
+    {
+      "surface": "ותכסני",
+      "gloss": "и покри ме"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "страшност"
+    }
+  ],
+  "timestamp": "2026-09-05T13:27:22.288503395Z",
+  "model": "glm-5.3"
+}

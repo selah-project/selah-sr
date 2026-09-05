@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 48:14",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 48,
+  "translation": "Како кажете: „јунаци смо, и људи храбрости за бој“?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "како"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "кажете"
+    },
+    {
+      "surface": "гבורים",
+      "gloss": "јунаци"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "смо (ми)"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "и људи"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "храбрости"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "за бој"
+    }
+  ],
+  "timestamp": "2026-09-05T12:38:12.274648393Z",
+  "model": "glm-5.3"
+}

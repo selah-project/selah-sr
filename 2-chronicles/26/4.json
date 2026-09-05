@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 26:4",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 26,
+  "translation": "И чињаше што је право у очима Јахвеа, по свему што чињаше Амацјаху отац његов.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "И чињаше"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "право"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "у очима"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "по свему"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "чињаше"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Амацјаху"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "отац његов"
+    }
+  ],
+  "timestamp": "2026-09-05T14:52:42.666721207Z",
+  "model": "glm-5.3"
+}

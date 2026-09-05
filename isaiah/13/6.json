@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 13:6",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "Ридајте, јер је близу дан Јахвеов; као пустошење од Шадаја долази.",
+  "tokens": [
+    {
+      "surface": "הילילו",
+      "gloss": "ридајте"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "близу"
+    },
+    {
+      "surface": "יום",
+      "gloss": "дан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеов"
+    },
+    {
+      "surface": "כשד",
+      "gloss": "као пустошење"
+    },
+    {
+      "surface": "משדי",
+      "gloss": "од Шадаја"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "долази"
+    }
+  ],
+  "timestamp": "2026-09-05T12:03:42.362734492Z",
+  "model": "glm-5.3"
+}

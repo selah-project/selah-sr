@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "numbers 22:41",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "И би ујутру, и узе Балак ⟨את⟩ Билама и изведе га на Бамот Баал, и виде одатле крај народа.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И би"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ујутру"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "и узе"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Балак"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Билама"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Билама"
+    },
+    {
+      "surface": "ויעלהו",
+      "gloss": "и изведе га на вис"
+    },
+    {
+      "surface": "במות",
+      "gloss": "Бамот"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Баал"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "и виде"
+    },
+    {
+      "surface": "משם",
+      "gloss": "одатле"
+    },
+    {
+      "surface": "קצה",
+      "gloss": "крај"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народа"
+    }
+  ],
+  "timestamp": "2026-09-05T10:37:10.340384851Z",
+  "model": "glm-5.3"
+}

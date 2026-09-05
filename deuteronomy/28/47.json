@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "deuteronomy 28:47",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "Зато што ниси служио ⟨את⟩ Јахвеа, Елохима свога, у радости и у добру срца, ⟨због⟩ обиља свега.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "зато што"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "служио си"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јахвеа"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Елохима свога"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "у радости"
+    },
+    {
+      "surface": "ובטוב",
+      "gloss": "и у добру"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "срца"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "⟨због⟩ обиља"
+    },
+    {
+      "surface": "כל",
+      "gloss": "свега"
+    }
+  ],
+  "timestamp": "2026-09-05T10:53:52.087553292Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 8:8",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "И изађе Моше и Арон од Пароа, и вапи Моше ка Јахвеу због жабâ које ⟨је⟩ поставио на Пароа.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "И изађе"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "и Арон"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "од"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Пароа"
+    },
+    {
+      "surface": "ויצעק",
+      "gloss": "и вапи"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ка"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеу"
+    },
+    {
+      "surface": "על",
+      "gloss": "због"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ствари"
+    },
+    {
+      "surface": "הצפרדעים",
+      "gloss": "жабâ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "које"
+    },
+    {
+      "surface": "שם",
+      "gloss": "постави"
+    },
+    {
+      "surface": "לפרעה",
+      "gloss": "на Пароа"
+    }
+  ],
+  "timestamp": "2026-09-05T10:01:56.607423658Z",
+  "model": "glm-5.3"
+}

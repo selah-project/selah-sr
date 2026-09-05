@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 15:10",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 15,
+  "translation": "Зла је наука ономе који напушта пут; мрзилац укора умреће.",
+  "tokens": [
+    {
+      "surface": "מוסר",
+      "gloss": "наука"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зла"
+    },
+    {
+      "surface": "לעזב",
+      "gloss": "ономе који напушта"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "пут"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "мрзилац"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "укора"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "умреће"
+    }
+  ],
+  "timestamp": "2026-09-05T13:49:25.035870158Z",
+  "model": "glm-5.3"
+}

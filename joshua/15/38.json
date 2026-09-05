@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "joshua 15:38",
+  "book": "joshua",
+  "lang": "sr",
+  "chapter": 15,
+  "translation": "и Дилан и Ха-Мицпа и Јоктеел,",
+  "tokens": [
+    {
+      "surface": "ודלען",
+      "gloss": "и Дилан"
+    },
+    {
+      "surface": "והמצפה",
+      "gloss": "и Ха-Мицпа"
+    },
+    {
+      "surface": "ויקתאל",
+      "gloss": "и Јоктеел"
+    }
+  ],
+  "timestamp": "2026-09-05T11:02:29.864615Z",
+  "model": "glm-5.3"
+}

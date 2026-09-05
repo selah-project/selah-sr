@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 40:6",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 40,
+  "translation": "И дође к њима Јосеф (Јосиф) ујутру, и виде ⟨את⟩ њих, и гле — невољни су.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "дође"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "к њима"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Јосеф (Јосиф)"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ујутру"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "виде"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "њих"
+    },
+    {
+      "surface": "והנם",
+      "gloss": "и гле"
+    },
+    {
+      "surface": "зעפים",
+      "gloss": "невољни су"
+    }
+  ],
+  "timestamp": "2026-09-05T09:53:46.057499687Z",
+  "model": "glm-5.3"
+}

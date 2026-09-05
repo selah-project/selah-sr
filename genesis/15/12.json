@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 15:12",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 15,
+  "translation": "И би сунце да залази, и тешки сан паде на Аврама, и ено страха — тама велика пада на њега.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "и би"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "сунце"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "да залази"
+    },
+    {
+      "surface": "ותרדמה",
+      "gloss": "и тешки сан"
+    },
+    {
+      "surface": "נפלה",
+      "gloss": "паде"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Аврама"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и ено"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "страх"
+    },
+    {
+      "surface": "חשכה",
+      "gloss": "тама"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "велика"
+    },
+    {
+      "surface": "נפלת",
+      "gloss": "пада"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "на њега"
+    }
+  ],
+  "timestamp": "2026-09-05T16:47:50.031925143Z",
+  "model": "glm-5.3"
+}

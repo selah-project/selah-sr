@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 21:14",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "Зато се говори у књизи ратова Јахвеа: ⟨את⟩ Вахеб у Суфи, и ⟨את⟩ потоке Арнона.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "כן",
+      "gloss": "зато"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "говори се"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "у књизи"
+    },
+    {
+      "surface": "מלחמת",
+      "gloss": "ратова"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Вахеб"
+    },
+    {
+      "surface": "והב",
+      "gloss": "Вахеб"
+    },
+    {
+      "surface": "בסופה",
+      "gloss": "у Суфи"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "потоке Арнона"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "потоке"
+    },
+    {
+      "surface": "ארנון",
+      "gloss": "Арнона"
+    }
+  ],
+  "timestamp": "2026-09-05T10:36:16.759711496Z",
+  "model": "glm-5.3"
+}

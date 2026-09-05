@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 9:1",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "И одговори Јов (Јов) и рече:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "И одговори"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Јов"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    }
+  ],
+  "timestamp": "2026-09-05T13:56:52.240095352Z",
+  "model": "glm-5.3"
+}

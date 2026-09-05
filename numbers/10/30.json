@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 10:30",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "А он му рече: „Нећу ићи, него у земљу своју и у завичај свој ићи ћу.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "А рече"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "му"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "идем"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "אם",
+      "gloss": "него"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "земљу своју"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и у"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "завичај свој"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ићи ћу"
+    }
+  ],
+  "timestamp": "2026-09-05T10:32:09.333326567Z",
+  "model": "glm-5.3"
+}

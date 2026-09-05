@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 34:17",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 34,
+  "translation": "Богове ливене не прави себи.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "богове"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "ливене"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "прави"
+    },
+    {
+      "surface": "לך",
+      "gloss": "себи"
+    }
+  ],
+  "timestamp": "2026-09-05T10:12:21.691242802Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 4:3",
+  "book": "zechariah",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "и две маслине на њој, једна с десна стране зделе, и једна с леве стране њезине.",
+  "tokens": [
+    {
+      "surface": "ושנים",
+      "gloss": "и две"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "маслине"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "на њој"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "једна"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "с десна стране"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "зделе"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "и једна"
+    },
+    {
+      "surface": "על",
+      "gloss": "с"
+    },
+    {
+      "surface": "שמאלה",
+      "gloss": "леве стране њезине"
+    }
+  ],
+  "timestamp": "2026-09-05T15:51:13.382318950Z",
+  "model": "glm-5.3"
+}

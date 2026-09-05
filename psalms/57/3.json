@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 57:3",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 57,
+  "translation": "Зазваћу Елохим Елиона, Ела што свршава ⟨своје дело⟩ за ме.",
+  "tokens": [
+    {
+      "surface": "אקרא",
+      "gloss": "зазваћу"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Елион"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "Елу"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "свршава"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "за ме"
+    }
+  ],
+  "timestamp": "2026-09-05T15:56:15.967097716Z",
+  "model": "glm-5.3"
+}

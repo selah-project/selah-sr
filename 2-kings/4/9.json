@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 4:9",
+  "book": "2-kings",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "И рече мужу своме: Ево, сад знам да свет човек Елохима ⟨јест⟩ он, што пролази поред нас свагда.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אל",
+      "gloss": "мужу"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "своме"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ево"
+    },
+    {
+      "surface": "נא",
+      "gloss": "сад"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "знам"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохима"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "свет"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "пролази"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "поред нас"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "свагда"
+    }
+  ],
+  "timestamp": "2026-09-05T11:51:06.990526883Z",
+  "model": "glm-5.3"
+}

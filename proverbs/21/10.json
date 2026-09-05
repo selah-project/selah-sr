@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 21:10",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "Душа злога чезне за злом: ближњи његов не налази ⟨милост⟩ у очима његовим.",
+  "tokens": [
+    {
+      "surface": "нפש",
+      "gloss": "душа"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "злога"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "чезне"
+    },
+    {
+      "surface": "רע",
+      "gloss": "злом"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "дарива милост"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "у очима његовим"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ближњи његов"
+    }
+  ],
+  "timestamp": "2026-09-05T16:01:41.135582792Z",
+  "model": "glm-5.3"
+}

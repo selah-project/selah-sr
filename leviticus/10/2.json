@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 10:2",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "И изађе огањ испред Јахвеа, и прождје ⟨את⟩ њих, и умријеше пред Јахвеом.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "и изађе"
+    },
+    {
+      "surface": "אש",
+      "gloss": "огањ"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "испред"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "и прождје"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "њих"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "и умријеше"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеом"
+    }
+  ],
+  "timestamp": "2026-09-05T15:06:47.046582241Z",
+  "model": "glm-5.3"
+}

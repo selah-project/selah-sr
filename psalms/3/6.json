@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 3:6",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Ја легох и спавах, пробудих ⟨се⟩, јер ме Јахве подупире.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ја"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "легох"
+    },
+    {
+      "surface": "ואישנה",
+      "gloss": "и спавах"
+    },
+    {
+      "surface": "הקיצותי",
+      "gloss": "пробудих ⟨се⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "יסמכני",
+      "gloss": "ме подупире"
+    }
+  ],
+  "timestamp": "2026-09-05T13:16:27.496998275Z",
+  "model": "glm-5.3"
+}

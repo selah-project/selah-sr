@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "2-samuel 22:42",
+  "book": "2-samuel",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "Гледаху — и нема ⟨спасиоца⟩; ка Јахвеу — и не одговори им.",
+  "tokens": [
+    {
+      "surface": "ישעו",
+      "gloss": "гледаху"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и нема"
+    },
+    {
+      "surface": "משיע",
+      "gloss": "⟨спасиоца⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ка"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеу"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "одговори им"
+    }
+  ],
+  "timestamp": "2026-09-05T11:36:55.298750543Z",
+  "model": "glm-5.3"
+}

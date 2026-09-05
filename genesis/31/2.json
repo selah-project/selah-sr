@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 31:2",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 31,
+  "translation": "И видеш Јааков ⟨את⟩ лице Лаваново, и гле, није к њему као јуче и пре три дана.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "И видеш"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Јааков"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "лице"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лице"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Лаваново"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и гле"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "није"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "к њему"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "као јуче"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "и пре три дана"
+    }
+  ],
+  "timestamp": "2026-09-05T09:49:48.816414068Z",
+  "model": "glm-5.3"
+}

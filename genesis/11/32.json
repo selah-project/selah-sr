@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 11:32",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "И бише дани Терахови двеста и пет година, и умре Терах у Харану.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "и бише"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дани"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Терахови"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "пет"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "година"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "и двеста"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "година"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "и умре"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Терах"
+    },
+    {
+      "surface": "בחרן",
+      "gloss": "у Харану"
+    }
+  ],
+  "timestamp": "2026-09-05T09:42:44.032328899Z",
+  "model": "glm-5.3"
+}

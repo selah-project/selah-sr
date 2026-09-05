@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 6:6",
+  "book": "zechariah",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "У којој су коњи црни — излазе ка земљи севера, а белы изашле за њима, и пегави изашле ка земљи југа.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "у којој"
+    },
+    {
+      "surface": "בה",
+      "gloss": "у њој"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "коњи"
+    },
+    {
+      "surface": "השחרים",
+      "gloss": "црни"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "излазе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ка"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земљи"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "севера"
+    },
+    {
+      "surface": "והלבנים",
+      "gloss": "а белы"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "изашле"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ка"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "за њима"
+    },
+    {
+      "surface": "והברדים",
+      "gloss": "и пегави"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "изашле"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ка"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земљи"
+    },
+    {
+      "surface": "התימן",
+      "gloss": "југа"
+    }
+  ],
+  "timestamp": "2026-09-05T17:08:51.529756618Z",
+  "model": "glm-5.3"
+}

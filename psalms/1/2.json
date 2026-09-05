@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 1:2",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "Него је воља његова у Тори Јахвеовој, и о Тори својој говори дан и ноћ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Него"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨је⟩"
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "у Тори"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеовој"
+    },
+    {
+      "surface": "חפצו",
+      "gloss": "воља његова"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "и о Тори својој"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "говори"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "дан"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "и ноћ"
+    }
+  ],
+  "timestamp": "2026-09-05T15:53:20.773722377Z",
+  "model": "glm-5.3"
+}

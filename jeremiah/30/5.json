@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 30:5",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 30,
+  "translation": "Јер овако рече Јахве: глас трезања чусмо, страх — и нема мира.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "כה",
+      "gloss": "овако"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "קול",
+      "gloss": "глас"
+    },
+    {
+      "surface": "חרדה",
+      "gloss": "трезања"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "чусмо"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "страх"
+    },
+    {
+      "surface": "וין",
+      "gloss": "и нема"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мира"
+    }
+  ],
+  "timestamp": "2026-09-05T15:40:50.744740403Z",
+  "model": "glm-5.3"
+}

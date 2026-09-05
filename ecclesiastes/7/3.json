@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Боље ⟨је⟩ жало од смеха, јер у жалости лица срце бива добро.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "боље ⟨је⟩"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "жало"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "од смеха"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "у жалости"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "лица"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "бива добро"
+    },
+    {
+      "surface": "לב",
+      "gloss": "срце"
+    }
+  ],
+  "timestamp": "2026-09-05T14:13:02.662042673Z",
+  "model": "glm-5.3"
+}

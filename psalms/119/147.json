@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 147,
+  "ref": "psalms 119:147",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 119,
+  "translation": "Претекох зору и завапих; речју твојом надах се.",
+  "tokens": [
+    {
+      "surface": "קדמתי",
+      "gloss": "Претекох"
+    },
+    {
+      "surface": "בנשף",
+      "gloss": "зору"
+    },
+    {
+      "surface": "ואשועה",
+      "gloss": "и завапих"
+    },
+    {
+      "surface": "לדבריך",
+      "gloss": "речи твоје"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "надах се"
+    }
+  ],
+  "timestamp": "2026-09-05T13:40:25.515002999Z",
+  "model": "glm-5.3"
+}

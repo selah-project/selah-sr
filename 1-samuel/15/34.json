@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-samuel 15:34",
+  "book": "1-samuel",
+  "lang": "sr",
+  "chapter": 15,
+  "translation": "И отиде Шемоуел у Раму, а Шаул се попе у дом свој, у Гиву Шаулову.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "И отиде"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шемоуел"
+    },
+    {
+      "surface": "הרמתה",
+      "gloss": "у Раму"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "а Шаул"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "попе се"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "дом свој"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "Гиву"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаулову"
+    }
+  ],
+  "timestamp": "2026-09-05T11:19:53.129736746Z",
+  "model": "glm-5.3"
+}

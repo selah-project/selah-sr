@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 18:5",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "Ужад смрти обуше ме, и потоци безакоња уплашише ме.",
+  "tokens": [
+    {
+      "surface": "אפפוני",
+      "gloss": "обуше ме"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "ужад"
+    },
+    {
+      "surface": "מות",
+      "gloss": "смрти"
+    },
+    {
+      "surface": "ונחלי",
+      "gloss": "и потоци"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "безакоња"
+    },
+    {
+      "surface": "יבעתוני",
+      "gloss": "уплашише ме"
+    }
+  ],
+  "timestamp": "2026-09-05T17:08:58.987483010Z",
+  "model": "glm-5.3"
+}

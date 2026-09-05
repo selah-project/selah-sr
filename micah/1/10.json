@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 1:10",
+  "book": "micah",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "У Гату не казујте, не плачите; у Бет-Ле-Афри у праху се ваљах.",
+  "tokens": [
+    {
+      "surface": "בגת",
+      "gloss": "У Гату"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תגידו",
+      "gloss": "казујте"
+    },
+    {
+      "surface": "בכו",
+      "gloss": "плачите"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תבכו",
+      "gloss": "плачите"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "у"
+    },
+    {
+      "surface": "לעפרה",
+      "gloss": "Бет-Ле-Афри"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "у праху"
+    },
+    {
+      "surface": "התפלשתי",
+      "gloss": "се ваљах"
+    }
+  ],
+  "timestamp": "2026-09-05T13:07:26.221555472Z",
+  "model": "glm-5.3"
+}

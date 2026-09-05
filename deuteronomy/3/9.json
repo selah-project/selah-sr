@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 3:9",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Цидонци зову Хермон ⟨за⟩ Сирион, а Аморци га зову Снир.",
+  "tokens": [
+    {
+      "surface": "צידנים",
+      "gloss": "Цидонци"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "зову"
+    },
+    {
+      "surface": "לחרמון",
+      "gloss": "Хермон"
+    },
+    {
+      "surface": "שרין",
+      "gloss": "Сирион"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "а Аморци"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "зову"
+    },
+    {
+      "surface": "לו",
+      "gloss": "га"
+    },
+    {
+      "surface": "שניר",
+      "gloss": "Снир"
+    }
+  ],
+  "timestamp": "2026-09-05T15:12:00.832393644Z",
+  "model": "glm-5.3"
+}

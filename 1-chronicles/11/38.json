@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 11:38",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "Јоел брат Натанов, Мивхар син Хагријев.",
+  "tokens": [
+    {
+      "surface": "יואל",
+      "gloss": "Јоел"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "брат"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Натанов"
+    },
+    {
+      "surface": "מבחר",
+      "gloss": "Мивхар"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "הגרי",
+      "gloss": "Хагријев"
+    }
+  ],
+  "timestamp": "2026-09-05T14:37:07.963283945Z",
+  "model": "glm-5.3"
+}

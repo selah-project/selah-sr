@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 11:20",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "И после ње узе ⟨את⟩ Мааху, кћер Авшаломову; и роди му ⟨את⟩ Авју и ⟨את⟩ Атаја и ⟨את⟩ Зизу и ⟨את⟩ Шеломит.",
+  "tokens": [
+    {
+      "surface": "ואחריה",
+      "gloss": "и после ње"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "узе"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мааху"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Мааху"
+    },
+    {
+      "surface": "בת",
+      "gloss": "кћер"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Авшаломову"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "и роди"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Авју"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Авју"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Атаја"
+    },
+    {
+      "surface": "עתי",
+      "gloss": "Атаја"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Зизу"
+    },
+    {
+      "surface": "זיזא",
+      "gloss": "Зизу"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Шеломит"
+    },
+    {
+      "surface": "שלמית",
+      "gloss": "Шеломит"
+    }
+  ],
+  "timestamp": "2026-09-05T14:47:39.034682947Z",
+  "model": "glm-5.3"
+}

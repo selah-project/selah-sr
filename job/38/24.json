@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 38:24",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 38,
+  "translation": "Где ⟨је⟩ тај пут — дели се светлост, рашће источни ветар по земљи?",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "Где"
+    },
+    {
+      "surface": "זה",
+      "gloss": "тај"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "пут"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "дели се"
+    },
+    {
+      "surface": "אור",
+      "gloss": "светлост"
+    },
+    {
+      "surface": "יפץ",
+      "gloss": "рашће"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "источни ветар"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "по"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земљи"
+    }
+  ],
+  "timestamp": "2026-09-05T16:06:00.748399962Z",
+  "model": "glm-5.3"
+}

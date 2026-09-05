@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "isaiah 28:26",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "Јер Елохим његов уразумљује га за право, учи га.",
+  "tokens": [
+    {
+      "surface": "ויסרו",
+      "gloss": "и уразумљује га"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "за право"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Елохим његов"
+    },
+    {
+      "surface": "יורנו",
+      "gloss": "учи га"
+    }
+  ],
+  "timestamp": "2026-09-05T16:39:21.530492372Z",
+  "model": "glm-5.3"
+}

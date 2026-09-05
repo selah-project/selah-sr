@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 1:31",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "Јетур, Нафиш и Кедема. Ово су синови Јишмаелови.",
+  "tokens": [
+    {
+      "surface": "יטור",
+      "gloss": "Јетур"
+    },
+    {
+      "surface": "נפיש",
+      "gloss": "Нафиш"
+    },
+    {
+      "surface": "וקדמה",
+      "gloss": "и Кедема"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ово"
+    },
+    {
+      "surface": "הם",
+      "gloss": "су"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Јишмаелови"
+    }
+  ],
+  "timestamp": "2026-09-05T14:33:34.530470442Z",
+  "model": "glm-5.3"
+}

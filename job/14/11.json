@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 14:11",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "Нестају воде из мора, и река пресахне и осуши се.",
+  "tokens": [
+    {
+      "surface": "אזלו",
+      "gloss": "нестају"
+    },
+    {
+      "surface": "מים",
+      "gloss": "воде"
+    },
+    {
+      "surface": "מני",
+      "gloss": "из"
+    },
+    {
+      "surface": "ים",
+      "gloss": "мора"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "и река"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "пресахне"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "и осуши се"
+    }
+  ],
+  "timestamp": "2026-09-05T13:58:00.225865411Z",
+  "model": "glm-5.3"
+}

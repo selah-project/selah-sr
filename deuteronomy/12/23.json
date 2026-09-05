@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 12:23",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "Само чврсто држи да не једеш крв, јер крв ⟨је⟩ душа; и не једи душе с месом.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Само"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "чврсто држи"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "да не"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "једеш"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "крв"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "крв"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨је⟩"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "душа"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "једи"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "душе"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "месом"
+    }
+  ],
+  "timestamp": "2026-09-05T10:48:47.978899180Z",
+  "model": "glm-5.3"
+}

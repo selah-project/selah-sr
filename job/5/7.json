@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 5:7",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Јер човек се рађа за муку, и синови пламена уздижу се у лет.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човек"
+    },
+    {
+      "surface": "לעמל",
+      "gloss": "за муку"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "рађа се"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "и синови"
+    },
+    {
+      "surface": "רשף",
+      "gloss": "пламена"
+    },
+    {
+      "surface": "יגביהו",
+      "gloss": "уздижу се"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "у лет"
+    }
+  ],
+  "timestamp": "2026-09-05T13:56:34.102416288Z",
+  "model": "glm-5.3"
+}

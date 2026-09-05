@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 23:5",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "И одговорише синови Хета Аврахаму (Авраму), говорећи му:",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "и одговорише"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Хета"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Аврахаму"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврахаму"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорећи"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    }
+  ],
+  "timestamp": "2026-09-05T09:45:26.536029276Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 6:17",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "Очи надмене, језик лажљив и руке што проливају крв невину,",
+  "tokens": [
+    {
+      "surface": "עינים",
+      "gloss": "очи"
+    },
+    {
+      "surface": "רמות",
+      "gloss": "надмене"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "језик"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "лажљив"
+    },
+    {
+      "surface": "וידים",
+      "gloss": "и руке"
+    },
+    {
+      "surface": "שפכות",
+      "gloss": "што проливају"
+    },
+    {
+      "surface": "דם",
+      "gloss": "крв"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "невину"
+    }
+  ],
+  "timestamp": "2026-09-05T13:47:05.357367554Z",
+  "model": "glm-5.3"
+}

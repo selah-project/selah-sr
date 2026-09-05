@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 4:8",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "Због овога опашите ⟨се⟩ врећама, плачите и ридајте, јер се не вратила жара гнева Јахвеа од нас.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "због"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "овога"
+    },
+    {
+      "surface": "חגרו",
+      "gloss": "опашите"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "врећама"
+    },
+    {
+      "surface": "ספדו",
+      "gloss": "плачите"
+    },
+    {
+      "surface": "והילילу",
+      "gloss": "и ридајте"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שב",
+      "gloss": "вратила се"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "жара"
+    },
+    {
+      "surface": "אף",
+      "gloss": "гнева"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "од нас"
+    }
+  ],
+  "timestamp": "2026-09-05T15:38:11.027503787Z",
+  "model": "glm-5.3"
+}

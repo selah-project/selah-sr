@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 103:15",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 103,
+  "translation": "Човек — као трава дани су му; као цвет поља тако цвета.",
+  "tokens": [
+    {
+      "surface": "אנוש",
+      "gloss": "Човек"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "као трава"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "дани су му"
+    },
+    {
+      "surface": "כציץ",
+      "gloss": "као цвет"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "поља"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тако"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "цвета"
+    }
+  ],
+  "timestamp": "2026-09-05T13:36:27.815363748Z",
+  "model": "glm-5.3"
+}

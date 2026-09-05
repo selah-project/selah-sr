@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 62:7",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 62,
+  "translation": "и не дајте њему мира док не утврди и док не учини ⟨את⟩ Јерушалајим хвалом на земљи.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "дајте"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "мира"
+    },
+    {
+      "surface": "לו",
+      "gloss": "њему"
+    },
+    {
+      "surface": "עד",
+      "gloss": "док"
+    },
+    {
+      "surface": "יכונן",
+      "gloss": "утврди"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и док"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "учини"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јерушалајим"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Јерушалајим"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "хвалом"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "на земљи"
+    }
+  ],
+  "timestamp": "2026-09-05T12:19:21.176388494Z",
+  "model": "glm-5.3"
+}

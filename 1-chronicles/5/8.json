@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 5:8",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "и Бела (Вела) син Азаза, син Шема, син Јоела; он настане у Ароеру и до Невâ и Баал Меона.",
+  "tokens": [
+    {
+      "surface": "ובלע",
+      "gloss": "и Бела"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עזז",
+      "gloss": "Азаза"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Шема"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Јоела"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "настане"
+    },
+    {
+      "surface": "בערער",
+      "gloss": "у Ароеру"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и до"
+    },
+    {
+      "surface": "нבו",
+      "gloss": "Невâ"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "и Баал"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "Меона"
+    }
+  ],
+  "timestamp": "2026-09-05T14:34:57.015286096Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Боље да не заветујеш, него да заветујеш и не извршиш.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Боље"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "да"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "заветујеш"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "него да заветујеш"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "извршиш"
+    }
+  ],
+  "timestamp": "2026-09-05T16:08:49.287268041Z",
+  "model": "glm-5.3"
+}

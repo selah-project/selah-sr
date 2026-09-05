@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 77:1",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 77,
+  "translation": "Начелнику, према Једутуну, Асафу, псалам.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Начелнику"
+    },
+    {
+      "surface": "על",
+      "gloss": "према"
+    },
+    {
+      "surface": "ידיתון",
+      "gloss": "Једутуну"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Асафу"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "псалам"
+    }
+  ],
+  "timestamp": "2026-09-05T13:31:45.620554604Z",
+  "model": "glm-5.3"
+}

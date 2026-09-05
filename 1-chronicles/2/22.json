@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 2:22",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "И Сегуб роди ⟨את⟩ Јаира; и бише њему двадесет и три града у земљи Гилада.",
+  "tokens": [
+    {
+      "surface": "ושגוב",
+      "gloss": "И Сегуб"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јаира"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Јаира"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и бише"
+    },
+    {
+      "surface": "לו",
+      "gloss": "њему"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двадесет"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "и три"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "града"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "у земљи"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Гилада"
+    }
+  ],
+  "timestamp": "2026-09-05T14:34:06.178073337Z",
+  "model": "glm-5.3"
+}

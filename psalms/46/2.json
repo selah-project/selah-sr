@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 46:2",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 46,
+  "translation": "Елохим ⟨је⟩ нам уточиште и снага, помоћ у тескобама наша нађена веома.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "нам"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "уточиште"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "и снага"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "помоћ"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "у тескобама"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "нађена"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "веома"
+    }
+  ],
+  "timestamp": "2026-09-05T13:26:16.096609895Z",
+  "model": "glm-5.3"
+}

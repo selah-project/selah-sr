@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 22:21",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "Сваку удовицу и сироче не тлачите.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "сваку"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "удовицу"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "и сироче"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תענון",
+      "gloss": "тлачите"
+    }
+  ],
+  "timestamp": "2026-09-05T16:32:57.695146965Z",
+  "model": "glm-5.3"
+}

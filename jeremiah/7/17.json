@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 7:17",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Не видиш ли шта они чине у градовима Јехуде и у улицама Јерушалајима?",
+  "tokens": [
+    {
+      "surface": "האינך",
+      "gloss": "не"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "видиш"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ли"
+    },
+    {
+      "surface": "המה",
+      "gloss": "шта"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "они"
+    },
+    {
+      "surface": "בערי",
+      "gloss": "чине"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "у градовима"
+    },
+    {
+      "surface": "ובחצות",
+      "gloss": "Јехуде"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "и у улицама"
+    }
+  ],
+  "timestamp": "2026-09-05T12:23:31.531121036Z",
+  "model": "glm-5.3"
+}

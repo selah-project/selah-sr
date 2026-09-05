@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 22:10",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "Одагнај подсмевача — и изаћи ће препирка, и престаће суд и срамота.",
+  "tokens": [
+    {
+      "surface": "גרש",
+      "gloss": "Одагнај"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "подсмевача"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "и изаћи ће"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "препирка"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "и престаће"
+    },
+    {
+      "surface": "דין",
+      "gloss": "суд"
+    },
+    {
+      "surface": "וקלון",
+      "gloss": "и срамота"
+    }
+  ],
+  "timestamp": "2026-09-05T13:50:57.371958215Z",
+  "model": "glm-5.3"
+}

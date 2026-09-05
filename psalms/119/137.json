@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 137,
+  "ref": "psalms 119:137",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 119,
+  "translation": "Праведан си Ти, Јахве, и права су Твоја наређења.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "праведан"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "си Ти"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "и права"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "Твоја наређења"
+    }
+  ],
+  "timestamp": "2026-09-05T13:41:04.710306656Z",
+  "model": "glm-5.3"
+}

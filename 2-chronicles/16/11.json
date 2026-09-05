@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 16:11",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 16,
+  "translation": "И ево, дâла Асина, прва и последња, ево их, написана ⟨су⟩ у књизи царâ Јуде и Израиља.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "и ево"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "дâла"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Асина"
+    },
+    {
+      "surface": "הראשונים",
+      "gloss": "прва"
+    },
+    {
+      "surface": "והאחרונים",
+      "gloss": "и последња"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "ево их"
+    },
+    {
+      "surface": "כתובים",
+      "gloss": "написана"
+    },
+    {
+      "surface": "על",
+      "gloss": "у"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "књизи"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "царâ"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "Јуде"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "и Израиља"
+    }
+  ],
+  "timestamp": "2026-09-05T14:49:03.679371533Z",
+  "model": "glm-5.3"
+}

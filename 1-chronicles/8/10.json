@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 8:10",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "И ⟨את⟩ Јеуца, и ⟨את⟩ Шахију, и ⟨את⟩ Мирму; ово су његови синови, поглавице породица.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Јеуца"
+    },
+    {
+      "surface": "יעוץ",
+      "gloss": "Јеуца"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Шахију"
+    },
+    {
+      "surface": "שכיה",
+      "gloss": "Шахију"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Мирму"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "Мирму"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ово"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "су његови синови"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "поглавице"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "породица"
+    }
+  ],
+  "timestamp": "2026-09-05T14:36:05.977903504Z",
+  "model": "glm-5.3"
+}

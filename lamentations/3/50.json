@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "lamentations 3:50",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Док Јахве не загледа и не види са небеса.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "док"
+    },
+    {
+      "surface": "ישקיף",
+      "gloss": "не загледа"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "и не види"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "са небеса"
+    }
+  ],
+  "timestamp": "2026-09-05T14:09:05.936741361Z",
+  "model": "glm-5.3"
+}

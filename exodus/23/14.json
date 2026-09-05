@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 23:14",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "Три путâ у години слави празник мени.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "Три"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "путâ"
+    },
+    {
+      "surface": "תחג",
+      "gloss": "слави празник"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мени"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "у години"
+    }
+  ],
+  "timestamp": "2026-09-05T10:07:48.564667834Z",
+  "model": "glm-5.3"
+}

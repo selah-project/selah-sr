@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 25,
+  "translation": "одсеци ⟨את⟩ руку њену; око твоје нека не поштеди.",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "одсеци"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "руку њену"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "руку њену"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "нека не поштеди"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "око твоје"
+    }
+  ],
+  "timestamp": "2026-09-05T10:52:17.193323576Z",
+  "model": "glm-5.3"
+}

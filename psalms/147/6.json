@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 147:6",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 147,
+  "translation": "Јахве подиже смирене, понижава безбожнике до краја земље.",
+  "tokens": [
+    {
+      "surface": "מעודד",
+      "gloss": "подиже"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "смирене"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "понижава"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "безбожнике"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "до краја"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земље"
+    }
+  ],
+  "timestamp": "2026-09-05T13:45:13.836479019Z",
+  "model": "glm-5.3"
+}

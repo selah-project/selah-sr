@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 36:22",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 36,
+  "translation": "Две рукеце ⟨има⟩ једна даска, спојене једна с другом; тако начини за све даске Мишкана.",
+  "tokens": [
+    {
+      "surface": "שתי",
+      "gloss": "Две"
+    },
+    {
+      "surface": "ידת",
+      "gloss": "рукеце"
+    },
+    {
+      "surface": "לקרש",
+      "gloss": "⟨има⟩ даска"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "једна"
+    },
+    {
+      "surface": "משלבת",
+      "gloss": "спојене"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "једна"
+    },
+    {
+      "surface": "אל",
+      "gloss": "с"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "другом"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тако"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "начини"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "за све"
+    },
+    {
+      "surface": "קרשי",
+      "gloss": "даске"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "Мишкана"
+    }
+  ],
+  "timestamp": "2026-09-05T10:14:01.028072028Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 11:23",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "А свака мрва летеха којој ⟨је⟩ четири ноге — гадост је то за вас.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "а свака"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "мрва"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "летех"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "којој"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨је⟩"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "четири"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "ноге"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "гадост"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "то"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "за вас"
+    }
+  ],
+  "timestamp": "2026-09-05T15:06:40.724387304Z",
+  "model": "glm-5.3"
+}

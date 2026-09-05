@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 6:8",
+  "book": "nehemiah",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "И послам њему да кажем: није било по речима овим што ти говориш; јер из срца твога ти их измишљаш.",
+  "tokens": [
+    {
+      "surface": "ואשלחה",
+      "gloss": "и послам"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "њему"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "да кажем"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נהיה",
+      "gloss": "није било"
+    },
+    {
+      "surface": "כדברים",
+      "gloss": "по речима"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "овим"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "אומר",
+      "gloss": "говориш"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "מלבך",
+      "gloss": "из срца твога"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "בודאם",
+      "gloss": "измишљаш их"
+    }
+  ],
+  "timestamp": "2026-09-05T14:30:25.273654029Z",
+  "model": "glm-5.3"
+}

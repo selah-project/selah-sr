@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 23:7",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "Гершунцима: Ладан и Шимеј.",
+  "tokens": [
+    {
+      "surface": "לגרשני",
+      "gloss": "Гершунцима"
+    },
+    {
+      "surface": "לעדן",
+      "gloss": "Ладан"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "и Шимеј"
+    }
+  ],
+  "timestamp": "2026-09-05T14:42:00.444968990Z",
+  "model": "glm-5.3"
+}

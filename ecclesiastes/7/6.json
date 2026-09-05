@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 7:6",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Јер као пукотање трња под лонцем, тако је смех лудога; и ово је хевел.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "као пукотање"
+    },
+    {
+      "surface": "הסירים",
+      "gloss": "трња"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "лонцем"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тако је"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "смех"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "лудога"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "и"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ово"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "хевел"
+    }
+  ],
+  "timestamp": "2026-09-05T14:12:24.873666513Z",
+  "model": "glm-5.3"
+}

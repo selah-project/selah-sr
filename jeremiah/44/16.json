@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 44:16",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 44,
+  "translation": "Реч коју си нам говорио у име Јахвеа — нећемо ⟨је⟩ слушати тебе.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "Реч"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "коју"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "си говорио"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "нам"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "у име"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "нећемо"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "слушати"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "тебе"
+    }
+  ],
+  "timestamp": "2026-09-05T12:37:12.641217026Z",
+  "model": "glm-5.3"
+}

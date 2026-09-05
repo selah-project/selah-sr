@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 31:4",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 31,
+  "translation": "да смишља замисли, да ради у злату и у сребру и у бронзи",
+  "tokens": [
+    {
+      "surface": "לחשב",
+      "gloss": "да смишља"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "замисли"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "да ради"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "у злату"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "и у сребру"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "и у бронзи"
+    }
+  ],
+  "timestamp": "2026-09-05T16:33:37.882582810Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 11:30",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "Плод праведника ⟨је⟩ дрво живота, а ко задобија душе — мудар ⟨је⟩.",
+  "tokens": [
+    {
+      "surface": "פרי",
+      "gloss": "Плод"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "праведника"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "дрво"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "живота"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "а ко задобија"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "душе"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мудар"
+    }
+  ],
+  "timestamp": "2026-09-05T13:49:02.571037932Z",
+  "model": "glm-5.3"
+}

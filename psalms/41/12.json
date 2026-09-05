@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 41:12",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 41,
+  "translation": "По томе знам да си ме заволео, јер неће да победоносно виче непријатељ мој нада мном.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "по томе"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "знам"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "волиш"
+    },
+    {
+      "surface": "בי",
+      "gloss": "мене"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "виче"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "непријатељ мој"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "нада мном"
+    }
+  ],
+  "timestamp": "2026-09-05T15:54:58.185611314Z",
+  "model": "glm-5.3"
+}

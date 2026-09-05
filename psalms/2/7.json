@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 2:7",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Објавићу наредбу: Јахве ми рече: „Син си мој, ја те данас родих.",
+  "tokens": [
+    {
+      "surface": "אספרה",
+      "gloss": "Објавићу"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨о⟩"
+    },
+    {
+      "surface": "חק",
+      "gloss": "наредбу"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "בני",
+      "gloss": "син"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти си"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "היום",
+      "gloss": "данас"
+    },
+    {
+      "surface": "ילדתיך",
+      "gloss": "родих те"
+    }
+  ],
+  "timestamp": "2026-09-05T13:16:31.565336592Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "И би ковчег Јахвеов у пољу Плиштима седам месеци.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И би"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ковчег"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеов"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "у пољу"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Плиштима"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "седам"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "месеци"
+    }
+  ],
+  "timestamp": "2026-09-05T11:17:23.369599324Z",
+  "model": "glm-5.3"
+}

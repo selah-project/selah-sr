@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 106:3",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 106,
+  "translation": "Срећни чувари права, који чине правду у свако доба.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Срећни"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "чувари"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "права"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "који чине"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "правду"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "у свако"
+    },
+    {
+      "surface": "עת",
+      "gloss": "доба"
+    }
+  ],
+  "timestamp": "2026-09-05T13:37:47.951506582Z",
+  "model": "glm-5.3"
+}

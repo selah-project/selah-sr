@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 10:11",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "И чуше сви Јавеш Гилада ⟨את⟩ свега шта учинише Плиштимци Шаулу.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "и чуше"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сви"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Јавеш"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Гилада"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "свега"
+    },
+    {
+      "surface": "כל",
+      "gloss": "свега"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "шта"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "учинише"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Плиштимци"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "Шаулу"
+    }
+  ],
+  "timestamp": "2026-09-05T14:37:38.474294333Z",
+  "model": "glm-5.3"
+}

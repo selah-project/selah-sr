@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 36,
+  "translation": "И настани се Исав у гори Сеир; Исав ⟨јесте⟩ Едом.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "и настани се"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Исав"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "у гори"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Сеир"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Исав"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Едом"
+    }
+  ],
+  "timestamp": "2026-09-05T16:32:33.821475289Z",
+  "model": "glm-5.3"
+}

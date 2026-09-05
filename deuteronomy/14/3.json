@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "Не једи ниједну гадост",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "једи"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ниједну"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "гадост"
+    }
+  ],
+  "timestamp": "2026-09-05T10:48:27.816136541Z",
+  "model": "glm-5.3"
+}

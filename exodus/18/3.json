@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 18:3",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "И ⟨את⟩ два сина њезина, којима име једноме Гершом, јер рече: дошљак бејах у земљи туђој.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "два сина"
+    },
+    {
+      "surface": "שני",
+      "gloss": "два"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "сина њезина"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "којима"
+    },
+    {
+      "surface": "שם",
+      "gloss": "име"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "једноме"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Гершом"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "גר",
+      "gloss": "дошљак"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "бејах"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "у земљи"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "туђој"
+    }
+  ],
+  "timestamp": "2026-09-05T10:06:37.155295279Z",
+  "model": "glm-5.3"
+}

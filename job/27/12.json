@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 27:12",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 27,
+  "translation": "Ено, ви — сви сте видели; зашто дакле ово узалуд говорите?",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Ено"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ви"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "сви"
+    },
+    {
+      "surface": "חזיתם",
+      "gloss": "сте видели"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ово"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "узалуд"
+    },
+    {
+      "surface": "תהבלו",
+      "gloss": "говорите"
+    }
+  ],
+  "timestamp": "2026-09-05T16:04:24.525625593Z",
+  "model": "glm-5.3"
+}

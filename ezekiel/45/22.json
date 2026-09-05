@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 45:22",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 45,
+  "translation": "И начиниће кнез тога дана, за себе и за сав народ земље, јуне ⟨као⟩ жртву за грех.",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "и начиниће"
+    },
+    {
+      "surface": "הנשיא",
+      "gloss": "кнез"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "у дан"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тај"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "за себе"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "и за"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сав"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земље"
+    },
+    {
+      "surface": "פר",
+      "gloss": "јуне"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "жртва за грех"
+    }
+  ],
+  "timestamp": "2026-09-05T12:58:42.675561814Z",
+  "model": "glm-5.3"
+}

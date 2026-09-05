@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 20,
+  "translation": "Не сведочи лажно на ближњега свога.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "сведочи"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "на ближњега свога"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨као сведок⟩ лажно"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "лажно"
+    }
+  ],
+  "timestamp": "2026-09-05T10:05:51.484477789Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 33:35",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 33,
+  "translation": "И кренуше од Авроне, и улогорише у Ецион Гаверу.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "и кренуше"
+    },
+    {
+      "surface": "מעברנה",
+      "gloss": "од Авроне"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "и улогорише"
+    },
+    {
+      "surface": "בעציון",
+      "gloss": "у Ецион"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "Гаверу"
+    }
+  ],
+  "timestamp": "2026-09-05T10:42:07.122563370Z",
+  "model": "glm-5.3"
+}

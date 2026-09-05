@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 6:7",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "И пашће побијени усред вас, и знаћете да сам ја Јахве.",
+  "tokens": [
+    {
+      "surface": "ונפל",
+      "gloss": "и пашће"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "побијени"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "усред вас"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "и знаћете"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-09-05T12:42:51.604466838Z",
+  "model": "glm-5.3"
+}

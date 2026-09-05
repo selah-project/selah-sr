@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 6:19",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "сведок лажан што издахњује лажи, и онај који пушта раздор међу браћом.",
+  "tokens": [
+    {
+      "surface": "יפיח",
+      "gloss": "што издахњује"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "лажи"
+    },
+    {
+      "surface": "עד",
+      "gloss": "сведок"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "лажан"
+    },
+    {
+      "surface": "ומשלח",
+      "gloss": "и онај који пушта"
+    },
+    {
+      "surface": "מדנים",
+      "gloss": "раздор"
+    },
+    {
+      "surface": "בין",
+      "gloss": "међу"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "браћом"
+    }
+  ],
+  "timestamp": "2026-09-05T13:47:05.357728803Z",
+  "model": "glm-5.3"
+}

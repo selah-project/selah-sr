@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-chronicles 9:30",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "И царова Шеломо у Јерушалајиму над свим Израиљем четрдесет година.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "И царова"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "у Јерушалајиму"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "כל",
+      "gloss": "свим"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљем"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "четрдесет"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "година"
+    }
+  ],
+  "timestamp": "2026-09-05T14:47:20.046265670Z",
+  "model": "glm-5.3"
+}

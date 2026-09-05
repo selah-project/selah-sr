@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 18:4",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "А Јехошафат рече цару Израиљевом: „Потражи, молим те, данас ⟨את⟩ реч Јахвеову.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "А рече"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Јехошафат"
+    },
+    {
+      "surface": "אל",
+      "gloss": "─"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цару"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљевом"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "Потражи"
+    },
+    {
+      "surface": "נא",
+      "gloss": "молим те"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "данас"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "реч"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "реч"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеову"
+    }
+  ],
+  "timestamp": "2026-09-05T14:50:06.179201242Z",
+  "model": "glm-5.3"
+}

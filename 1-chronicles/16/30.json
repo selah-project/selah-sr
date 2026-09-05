@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 16:30",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 16,
+  "translation": "Дрхтите пред њим, сва земља; ⟨и⟩ утврђена ⟨је⟩ васељена, неће се поклати.",
+  "tokens": [
+    {
+      "surface": "חילו",
+      "gloss": "дрхтите"
+    },
+    {
+      "surface": "מלפניו",
+      "gloss": "пред њим"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сва"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земља"
+    },
+    {
+      "surface": "אף",
+      "gloss": "⟨и⟩"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "утврђена ⟨је⟩"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "васељена"
+    },
+    {
+      "surface": "בל",
+      "gloss": "неће"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "поклати се"
+    }
+  ],
+  "timestamp": "2026-09-05T14:40:11.197396561Z",
+  "model": "glm-5.3"
+}

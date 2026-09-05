@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 10:13",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "Зашто презре безбожник Елохима? Рече у срцу своме: „Нећеш тражити.“",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "због"
+    },
+    {
+      "surface": "מה",
+      "gloss": "чега"
+    },
+    {
+      "surface": "נאץ",
+      "gloss": "презре"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "безбожник"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохима"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "у срцу своме"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תדרש",
+      "gloss": "ћеш тражити"
+    }
+  ],
+  "timestamp": "2026-09-05T15:52:33.923440211Z",
+  "model": "glm-5.3"
+}

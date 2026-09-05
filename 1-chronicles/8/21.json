@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 8:21",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "и Адаја, и Бераја, и Шимрат — синови Шимијеви.",
+  "tokens": [
+    {
+      "surface": "ועדיה",
+      "gloss": "и Адаја"
+    },
+    {
+      "surface": "ובראיה",
+      "gloss": "и Бераја"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "и Шимрат"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Шимијеви"
+    }
+  ],
+  "timestamp": "2026-09-05T14:35:58.780038652Z",
+  "model": "glm-5.3"
+}

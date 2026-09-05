@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 70:2",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 70,
+  "translation": "Елохиме, да ме избавиш; Јахве, у помоћ моју — пожури!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Елохиме"
+    },
+    {
+      "surface": "להצילני",
+      "gloss": "да ме избавиш"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "у помоћ моју"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "пожури"
+    }
+  ],
+  "timestamp": "2026-09-05T15:55:52.262388243Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 9:43",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "И Моца роди ⟨את⟩ Бинеја; и Рфаја син његов, Ел'аса син његов, Ацел син његов.",
+  "tokens": [
+    {
+      "surface": "ומוצא",
+      "gloss": "И Моца"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Бинеја"
+    },
+    {
+      "surface": "בנעא",
+      "gloss": "Бинеа"
+    },
+    {
+      "surface": "ורפיה",
+      "gloss": "и Рфаја"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син његов"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "Ел'аса"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син његов"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "Ацел"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син његов"
+    }
+  ],
+  "timestamp": "2026-09-05T14:37:50.712515313Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 136:13",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 136,
+  "translation": "⟨Ком је⟩ расекао море Суф на делове, јер је довека хесед његов.",
+  "tokens": [
+    {
+      "surface": "לגזר",
+      "gloss": "ком је расекао"
+    },
+    {
+      "surface": "ים",
+      "gloss": "море"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Суф"
+    },
+    {
+      "surface": "לגזרים",
+      "gloss": "на делове"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "довека"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "хесед његов"
+    }
+  ],
+  "timestamp": "2026-09-05T15:59:48.579585764Z",
+  "model": "glm-5.3"
+}

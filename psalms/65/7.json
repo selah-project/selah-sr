@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 65:7",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 65,
+  "translation": "Утврђујеш горе силом својом, опсан ⟨јеси⟩ јунаштвом.",
+  "tokens": [
+    {
+      "surface": "מכין",
+      "gloss": "утврђујеш"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "горе"
+    },
+    {
+      "surface": "בכחו",
+      "gloss": "силом својом"
+    },
+    {
+      "surface": "נאזר",
+      "gloss": "опасан"
+    },
+    {
+      "surface": "בגבורה",
+      "gloss": "јунаштвом"
+    }
+  ],
+  "timestamp": "2026-09-05T13:29:13.707313589Z",
+  "model": "glm-5.3"
+}

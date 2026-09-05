@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 8:3",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "И бише синови Бели (Бела): Адар, и Гера, и Авиуд.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "бише"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "синови"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "Бели (Бела)"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "Адар"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "и Гера"
+    },
+    {
+      "surface": "ואביהוד",
+      "gloss": "и Авиуд"
+    }
+  ],
+  "timestamp": "2026-09-05T16:15:20.419626756Z",
+  "model": "glm-5.3"
+}

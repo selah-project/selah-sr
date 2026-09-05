@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "genesis 41:37",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 41,
+  "translation": "И би добра реч у очима Парховим и у очима свих слуга његових.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "и би добра"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "реч"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "у очима"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Парховим"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "и у очима"
+    },
+    {
+      "surface": "כל",
+      "gloss": "свих"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "слуга његових"
+    }
+  ],
+  "timestamp": "2026-09-05T09:55:20.084149245Z",
+  "model": "glm-5.3"
+}

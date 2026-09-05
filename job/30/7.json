@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 30:7",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 30,
+  "translation": "Међу жбуњем цвиле; под копривама скуплени су.",
+  "tokens": [
+    {
+      "surface": "בין",
+      "gloss": "међу"
+    },
+    {
+      "surface": "שיחים",
+      "gloss": "жбуњем"
+    },
+    {
+      "surface": "ינהקו",
+      "gloss": "цвиле"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "חרול",
+      "gloss": "копривама"
+    },
+    {
+      "surface": "יספחו",
+      "gloss": "скуплени су"
+    }
+  ],
+  "timestamp": "2026-09-05T14:02:09.071722458Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 7:8",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Ево, ви се уздате ⟨у⟩ речи лажи — ⟨извод⟩ без користи.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ево"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ви"
+    },
+    {
+      "surface": "בטחים",
+      "gloss": "уздате се"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "себи"
+    },
+    {
+      "surface": "על",
+      "gloss": "у"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "речи"
+    },
+    {
+      "surface": "השקר",
+      "gloss": "лажи"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "без"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "користи"
+    }
+  ],
+  "timestamp": "2026-09-05T15:38:54.574233613Z",
+  "model": "glm-5.3"
+}

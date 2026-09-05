@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 1:20",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "Мудрост напољу узвикује, на трговима даје глас свој.",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "Мудрост"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "напољу"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "узвикује"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "на трговима"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "даје"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "глас свој"
+    }
+  ],
+  "timestamp": "2026-09-05T13:45:28.683356610Z",
+  "model": "glm-5.3"
+}

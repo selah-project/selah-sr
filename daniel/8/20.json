@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "daniel 8:20",
+  "book": "daniel",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "Ован којега виде ⟨да има⟩ рогове — краљеви Мадаја и Параса ⟨су⟩.",
+  "tokens": [
+    {
+      "surface": "האיל",
+      "gloss": "ован"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "којега"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "виде"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "⟨да има⟩"
+    },
+    {
+      "surface": "הקרנים",
+      "gloss": "рогове"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "краљеви"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Мадаја"
+    },
+    {
+      "surface": "ופרס",
+      "gloss": "и Параса"
+    }
+  ],
+  "timestamp": "2026-09-05T14:20:55.808782581Z",
+  "model": "glm-5.3"
+}

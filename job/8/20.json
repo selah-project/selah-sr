@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 8:20",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "Ето, Ел не одбацује непорочнога, и не држи за руку зликоваце.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Ето"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "одбацује"
+    },
+    {
+      "surface": "תם",
+      "gloss": "непорочнога"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יחזיק",
+      "gloss": "држи"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "за руку"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "зликовце"
+    }
+  ],
+  "timestamp": "2026-09-05T16:03:41.984754331Z",
+  "model": "glm-5.3"
+}

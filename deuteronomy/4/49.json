@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "deuteronomy 4:49",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "и сву Араву преко Јардена, ка истоку, и до мора Араве, под падинама Писге.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "и сву"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "Араву"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "преко"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Јардена"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "ка истоку"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и до"
+    },
+    {
+      "surface": "ים",
+      "gloss": "мора"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "Араве"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "אשדת",
+      "gloss": "падинама"
+    },
+    {
+      "surface": "הפסגה",
+      "gloss": "Писге"
+    }
+  ],
+  "timestamp": "2026-09-05T10:44:27.269724566Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 106:22",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 106,
+  "translation": "чудеса у земљи Хамовој, страхоте на мору Суф (Црвеном мору).",
+  "tokens": [
+    {
+      "surface": "נפלאות",
+      "gloss": "чудеса"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "у земљи"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Хамовој"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "страхоте"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ים",
+      "gloss": "мору"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Суф (Црвеном мору)"
+    }
+  ],
+  "timestamp": "2026-09-05T13:37:29.710771372Z",
+  "model": "glm-5.3"
+}

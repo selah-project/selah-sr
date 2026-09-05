@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 22:23",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "Кад буде девојка, девица, заручена човеку, и нађе је човек у граду, и легне с њом.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "кад"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "буде"
+    },
+    {
+      "surface": "נער",
+      "gloss": "девојка"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "девица"
+    },
+    {
+      "surface": "מארשה",
+      "gloss": "заручена"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "човеку"
+    },
+    {
+      "surface": "ומצאה",
+      "gloss": "и нађе је"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "у граду"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "и легне"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "с њом"
+    }
+  ],
+  "timestamp": "2026-09-05T10:53:14.552784004Z",
+  "model": "glm-5.3"
+}

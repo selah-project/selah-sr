@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 4:11",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "Такође, ако легну двојица, топло је њима; а једноме како да се огреје?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "такође"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "легну"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "двојица"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "топло је"
+    },
+    {
+      "surface": "להם",
+      "gloss": "њима"
+    },
+    {
+      "surface": "ולאחד",
+      "gloss": "а једноме"
+    },
+    {
+      "surface": "איך",
+      "gloss": "како"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "да се огреје"
+    }
+  ],
+  "timestamp": "2026-09-05T14:11:13.440049486Z",
+  "model": "glm-5.3"
+}

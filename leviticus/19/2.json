@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 19:2",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 19,
+  "translation": "Говори свој сабору синâ Израиљевих и реци им: Свети будите, јер свет ⟨сам⟩ ја, Јахве, Елохим ваш.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Говори"
+    },
+    {
+      "surface": "אל",
+      "gloss": "сабору ⟨према⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сав"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "сабор"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синове"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљеве"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "и реци"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "свети"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "будите"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "свет"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Елохим ваш"
+    }
+  ],
+  "timestamp": "2026-09-05T10:23:08.123610881Z",
+  "model": "glm-5.3"
+}

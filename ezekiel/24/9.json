@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 24:9",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "Зато овако рече Адонај Јахве: тешко граду крви! И ја ћу учинити великом ломачу.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Зато"
+    },
+    {
+      "surface": "כה",
+      "gloss": "овако"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "тешко"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "граду"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "крви"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "אגדיל",
+      "gloss": "учињу великом"
+    },
+    {
+      "surface": "המדורה",
+      "gloss": "ломачу"
+    }
+  ],
+  "timestamp": "2026-09-05T12:49:37.075094828Z",
+  "model": "glm-5.3"
+}

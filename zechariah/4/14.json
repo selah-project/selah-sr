@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zechariah 4:14",
+  "book": "zechariah",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "И рече: „Ово су двојица синова уља који стоје уз господара целе земље.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ово"
+    },
+    {
+      "surface": "שני",
+      "gloss": "двојица"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синова"
+    },
+    {
+      "surface": "היצהר",
+      "gloss": "уља"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "који стоје"
+    },
+    {
+      "surface": "על",
+      "gloss": "уз"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "господара"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целе"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земље"
+    }
+  ],
+  "timestamp": "2026-09-05T13:12:16.177926777Z",
+  "model": "glm-5.3"
+}

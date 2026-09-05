@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 28:23",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "Елохим разумева пут њен, и он зна ⟨את⟩ место њено.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "разумева"
+    },
+    {
+      "surface": "דרכה",
+      "gloss": "пут њен"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "и он"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "зна"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "место њено"
+    },
+    {
+      "surface": "מקומה",
+      "gloss": "место њено"
+    }
+  ],
+  "timestamp": "2026-09-05T14:01:14.881687287Z",
+  "model": "glm-5.3"
+}

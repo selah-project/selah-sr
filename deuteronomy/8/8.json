@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "земља пшенице и јечма, и лозе и смокве и шипка; земља маслине ⟨уља⟩ и меда.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "земља"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "пшенице"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "и јечма"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "и лозе"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "и смокве"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "и шипка"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земља"
+    },
+    {
+      "surface": "זית",
+      "gloss": "маслине"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "уља"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "и меда"
+    }
+  ],
+  "timestamp": "2026-09-05T16:47:46.445360505Z",
+  "model": "glm-5.3"
+}

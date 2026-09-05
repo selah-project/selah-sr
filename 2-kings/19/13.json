@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-kings 19:13",
+  "book": "2-kings",
+  "lang": "sr",
+  "chapter": 19,
+  "translation": "Где је цар Хамата, и цар Арпада, и цар града Сефарвајима, Хена и Ава?",
+  "tokens": [
+    {
+      "surface": "איו",
+      "gloss": "где је"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Хамата"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "и цар"
+    },
+    {
+      "surface": "ארפד",
+      "gloss": "Арпада"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "и цар"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "града"
+    },
+    {
+      "surface": "ספרוים",
+      "gloss": "Сефарвајима"
+    },
+    {
+      "surface": "הנע",
+      "gloss": "Хена"
+    },
+    {
+      "surface": "ועוה",
+      "gloss": "и Ава"
+    }
+  ],
+  "timestamp": "2026-09-05T15:31:02.509560482Z",
+  "model": "glm-5.3"
+}

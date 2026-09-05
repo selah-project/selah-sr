@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 2:16",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "да те избави од жене туђе, од натфарке чије су речи углађене;",
+  "tokens": [
+    {
+      "surface": "להצילך",
+      "gloss": "да те избави"
+    },
+    {
+      "surface": "מאשה",
+      "gloss": "од жене"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "туђе"
+    },
+    {
+      "surface": "מנכריה",
+      "gloss": "од натфарке"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "речи њезине"
+    },
+    {
+      "surface": "החליקה",
+      "gloss": "углађене"
+    }
+  ],
+  "timestamp": "2026-09-05T13:45:55.480093035Z",
+  "model": "glm-5.3"
+}

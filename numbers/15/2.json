@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 15:2",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 15,
+  "translation": "Говори синовима Израиљевим и реци им: кад уђете у земљу настањења свог, коју ја дајем вама,",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "говори"
+    },
+    {
+      "surface": "אל",
+      "gloss": "с"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовима"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљевим"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "и реци"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "תבאו",
+      "gloss": "уђете"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земљу"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "настањења-свог"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "коју"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "дајем"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вама"
+    }
+  ],
+  "timestamp": "2026-09-05T17:27:46.229477852Z",
+  "model": "glm-5.3"
+}

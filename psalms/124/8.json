@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 124:8",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 124,
+  "translation": "Помоћ је наша у имену Јахвеа, који учини небеса и земљу.",
+  "tokens": [
+    {
+      "surface": "עזרנו",
+      "gloss": "Помоћ је наша"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "у имену"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "који учини"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "небеса"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "и земљу"
+    }
+  ],
+  "timestamp": "2026-09-05T13:41:56.440969532Z",
+  "model": "glm-5.3"
+}

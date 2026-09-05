@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 27:32",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 27,
+  "translation": "И сваки десетак говеда и ситне стоке, све што пређе под штапом, десето ⟨је⟩ светиња Јахвеу.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "и сваки"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "десетак"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "говеда"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "и ситна стока"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "пређе"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "השבט",
+      "gloss": "штапом"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "десето"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨је⟩"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "светиња"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Јахвеу"
+    }
+  ],
+  "timestamp": "2026-09-05T17:15:46.362256279Z",
+  "model": "glm-5.3"
+}

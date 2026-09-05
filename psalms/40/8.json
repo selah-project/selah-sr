@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 40:8",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 40,
+  "translation": "Тада рекох: ево, дошао сам — у свитку књиге написано је за мене.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Тада"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "рекох"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ево"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "дошао сам"
+    },
+    {
+      "surface": "במגלת",
+      "gloss": "у свитку"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "књиге"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "написано је"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "за мене"
+    }
+  ],
+  "timestamp": "2026-09-05T13:25:31.806956105Z",
+  "model": "glm-5.3"
+}

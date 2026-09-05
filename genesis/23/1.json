@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 23:1",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "И бише животи Саре (Сарe) сто година и двадесет година и седам година — године живота Саре.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "И бише"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "животи"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Саре"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "година"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "и двадесет"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "година"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "и седам"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "година"
+    },
+    {
+      "surface": "שני",
+      "gloss": "године"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "живота"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Саре"
+    }
+  ],
+  "timestamp": "2026-09-05T09:45:48.186462028Z",
+  "model": "glm-5.3"
+}

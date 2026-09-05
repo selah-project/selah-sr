@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 46:6",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 46,
+  "translation": "Нека не бежи лакац, нека се не извуче јунак; на северу, уз реку Перат, посрнуше и падоше.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "нека не"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "бежи"
+    },
+    {
+      "surface": "הקל",
+      "gloss": "лакац"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и нека се не"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "извуче"
+    },
+    {
+      "surface": "הגבור",
+      "gloss": "јунак"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "на северу"
+    },
+    {
+      "surface": "על",
+      "gloss": "уз"
+    },
+    {
+      "surface": "יד",
+      "gloss": "обалу"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "реку"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "Перат"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "посрнуше"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "и падоше"
+    }
+  ],
+  "timestamp": "2026-09-05T12:36:38.394470559Z",
+  "model": "glm-5.3"
+}

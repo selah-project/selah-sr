@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 31:16",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 31,
+  "translation": "Смисли њиву и узе је; од плода дланова својих посади виноград.",
+  "tokens": [
+    {
+      "surface": "זממה",
+      "gloss": "Смисли"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "њиву"
+    },
+    {
+      "surface": "ותקחהו",
+      "gloss": "и узе је"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "од плода"
+    },
+    {
+      "surface": "כפיה",
+      "gloss": "дланова својих"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "посади"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "виноград"
+    }
+  ],
+  "timestamp": "2026-09-05T13:54:31.269379304Z",
+  "model": "glm-5.3"
+}

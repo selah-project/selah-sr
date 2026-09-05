@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 25:27",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 25,
+  "translation": "Јести много меда није добро, и испитивати славу своју ⟨није⟩ слава.",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "јести"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "меда"
+    },
+    {
+      "surface": "הרבות",
+      "gloss": "много"
+    },
+    {
+      "surface": "לא",
+      "gloss": "није"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "וחקר",
+      "gloss": "и испитивати"
+    },
+    {
+      "surface": "כבדם",
+      "gloss": "славу своју"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "слава"
+    }
+  ],
+  "timestamp": "2026-09-05T13:52:26.752822594Z",
+  "model": "glm-5.3"
+}

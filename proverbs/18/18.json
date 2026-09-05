@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 18:18",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "Сваре утишава жреб, и између силних раздваја.",
+  "tokens": [
+    {
+      "surface": "מדינים",
+      "gloss": "сваре"
+    },
+    {
+      "surface": "ישבית",
+      "gloss": "утишава"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "жреб"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "и између"
+    },
+    {
+      "surface": "עצומים",
+      "gloss": "силних"
+    },
+    {
+      "surface": "יפריד",
+      "gloss": "раздваја"
+    }
+  ],
+  "timestamp": "2026-09-05T13:50:31.881595380Z",
+  "model": "glm-5.3"
+}

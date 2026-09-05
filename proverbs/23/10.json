@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 23:10",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "Не померај вечну међу, и у поља сирочади не улази.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תסג",
+      "gloss": "померај"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "међу"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "вечну"
+    },
+    {
+      "surface": "ובשדי",
+      "gloss": "и у поља"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "сирочади"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "улази"
+    }
+  ],
+  "timestamp": "2026-09-05T13:51:44.982648353Z",
+  "model": "glm-5.3"
+}

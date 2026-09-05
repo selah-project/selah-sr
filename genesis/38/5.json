@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 38:5",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 38,
+  "translation": "И опет заче, и роди сина, и надену му име Шела (Шила); а беше у Кезиву кад га роди.",
+  "tokens": [
+    {
+      "surface": "ותסף",
+      "gloss": "и опет заче"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "опет"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "и роди"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "и надену"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "му име"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "име"
+    },
+    {
+      "surface": "שלה",
+      "gloss": "Шела"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "и беше"
+    },
+    {
+      "surface": "בכזיב",
+      "gloss": "у Кезиву"
+    },
+    {
+      "surface": "בלדתה",
+      "gloss": "кад роди"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "га"
+    }
+  ],
+  "timestamp": "2026-09-05T09:53:32.051399275Z",
+  "model": "glm-5.3"
+}

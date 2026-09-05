@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 30:11",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 30,
+  "translation": "И рече Леа: „Срећа долази!“ — и надене ⟨את⟩ име његово Гад.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Леа"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "срећа долази"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "и надене"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "име његово"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "име његово"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гад"
+    }
+  ],
+  "timestamp": "2026-09-05T09:48:10.508618691Z",
+  "model": "glm-5.3"
+}

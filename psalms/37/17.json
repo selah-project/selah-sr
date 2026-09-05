@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 37:17",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 37,
+  "translation": "Јер се руке злих сломиће, а Јахве уздржава праведне.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "זרועות",
+      "gloss": "руке"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "злих"
+    },
+    {
+      "surface": "תשברנה",
+      "gloss": "сломиће се"
+    },
+    {
+      "surface": "וסומך",
+      "gloss": "а уздржава"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "праведне"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-09-05T13:24:39.519187692Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 36:28",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 36,
+  "translation": "и две даске начини за углове шатора, у зачељу.",
+  "tokens": [
+    {
+      "surface": "ושני",
+      "gloss": "и две"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "даске"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "начини"
+    },
+    {
+      "surface": "למקצעת",
+      "gloss": "за углове"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "шатора"
+    },
+    {
+      "surface": "בירכתים",
+      "gloss": "у зачељу"
+    }
+  ],
+  "timestamp": "2026-09-05T10:13:38.908246907Z",
+  "model": "glm-5.3"
+}

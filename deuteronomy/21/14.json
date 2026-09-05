@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 21:14",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "И ако не заиштеш њу, па је отпустиш на вољу њену, али за новац не продаш је — не тираниши њу, пошто си њу понизио.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "и ако би"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "заиштеш"
+    },
+    {
+      "surface": "בה",
+      "gloss": "њу"
+    },
+    {
+      "surface": "ושלחתה",
+      "gloss": "отпустиш је"
+    },
+    {
+      "surface": "לנפשה",
+      "gloss": "на вољу њену"
+    },
+    {
+      "surface": "ומכר",
+      "gloss": "продају"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תמכרנה",
+      "gloss": "продаш је"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "за новац"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תתעמר",
+      "gloss": "тираниши"
+    },
+    {
+      "surface": "בה",
+      "gloss": "њу"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "пошто"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "עניתה",
+      "gloss": "понизио си њу"
+    }
+  ],
+  "timestamp": "2026-09-05T10:51:42.686856449Z",
+  "model": "glm-5.3"
+}

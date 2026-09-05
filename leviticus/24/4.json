@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 24:4",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "На менори чистој уредиће ⟨את⟩ светиљке, пред Јахвеом, непрестано.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "На"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "менори"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "чистој"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "уредиће"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "светиљке"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "светиљке"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеом"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "непрестано"
+    }
+  ],
+  "timestamp": "2026-09-05T10:26:16.016664844Z",
+  "model": "glm-5.3"
+}

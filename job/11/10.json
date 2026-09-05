@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 11:10",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "Ако прође и затвори, и скупи — и ко ће га вратити?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ако"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "прође"
+    },
+    {
+      "surface": "ויסגיר",
+      "gloss": "и затвори"
+    },
+    {
+      "surface": "ויקהיל",
+      "gloss": "и скупи"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "и ко"
+    },
+    {
+      "surface": "ישיבנו",
+      "gloss": "ће га вратити"
+    }
+  ],
+  "timestamp": "2026-09-05T13:57:33.238683027Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 34:15",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 34,
+  "translation": "Ако ⟨једино⟩ у овом пристанемо вама: ако будете као ми, обрезати вам се сваки мушки.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "⟨једино⟩"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "у овом"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "пристанемо"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вама"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "будете"
+    },
+    {
+      "surface": "כמנו",
+      "gloss": "као ми"
+    },
+    {
+      "surface": "להמל",
+      "gloss": "обрезати се"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ви"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сваки"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "мушки"
+    }
+  ],
+  "timestamp": "2026-09-05T15:00:47.171453393Z",
+  "model": "glm-5.3"
+}

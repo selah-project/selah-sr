@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 36:1",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 36,
+  "translation": "А ово су порекла Исава: он је Едом.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "А ово"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "порекла"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Исава"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Едом"
+    }
+  ],
+  "timestamp": "2026-09-05T16:54:36.514955681Z",
+  "model": "glm-5.3"
+}

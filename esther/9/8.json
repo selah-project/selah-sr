@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 9:8",
+  "book": "esther",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "и ⟨את⟩ Порату, и ⟨את⟩ Адалију, и ⟨את⟩ Аридату —",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Порату"
+    },
+    {
+      "surface": "פורתא",
+      "gloss": "Порату"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Адалију"
+    },
+    {
+      "surface": "אדליא",
+      "gloss": "Адалију"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Аридату"
+    },
+    {
+      "surface": "ארידתא",
+      "gloss": "Аридату"
+    }
+  ],
+  "timestamp": "2026-09-05T14:15:57.329648900Z",
+  "model": "glm-5.3"
+}

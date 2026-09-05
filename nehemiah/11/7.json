@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 11:7",
+  "book": "nehemiah",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "А ово су синови Бењамина: Салу син Мешулама, син Јоеда, син Педаје, син Колаје, син Маасејах, син Итиела, син Јешаје.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "а ово"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Бењамина"
+    },
+    {
+      "surface": "סלא",
+      "gloss": "Салу"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "Мешулама"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "יועד",
+      "gloss": "Јоеда"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "פדיה",
+      "gloss": "Педаје"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "קוליה",
+      "gloss": "Колаје"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "מעשיה",
+      "gloss": "Маасејах"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "איתיאל",
+      "gloss": "Итиела"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "ישעיה",
+      "gloss": "Јешаје"
+    }
+  ],
+  "timestamp": "2026-09-05T14:32:20.009533872Z",
+  "model": "glm-5.3"
+}

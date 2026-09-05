@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 33:21",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 33,
+  "translation": "И кренуше из Ливне и улогорише у Риси.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "И кренуше"
+    },
+    {
+      "surface": "מלבנה",
+      "gloss": "из Ливне"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "и улогорише"
+    },
+    {
+      "surface": "ברסה",
+      "gloss": "у Риси"
+    }
+  ],
+  "timestamp": "2026-09-05T10:42:04.780072576Z",
+  "model": "glm-5.3"
+}

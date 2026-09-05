@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 27:13",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 27,
+  "translation": "Да нисам веровао ⟨та⟩ да видим доброту Јахвеа у земљи живих —",
+  "tokens": [
+    {
+      "surface": "לולא",
+      "gloss": "да нисам"
+    },
+    {
+      "surface": "האמנתי",
+      "gloss": "веровао"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "да видим"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "доброту"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "у земљи"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "живих"
+    }
+  ],
+  "timestamp": "2026-09-05T13:20:16.265381740Z",
+  "model": "glm-5.3"
+}

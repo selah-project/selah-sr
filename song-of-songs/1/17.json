@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "song-of-songs 1:17",
+  "book": "song-of-songs",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "Греде куће наше ⟨јесу⟩ кедрови, а оплата наша чемпреси.",
+  "tokens": [
+    {
+      "surface": "קרות",
+      "gloss": "греде"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "куће наше"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "кедрови"
+    },
+    {
+      "surface": "רחיטנו",
+      "gloss": "оплата наша"
+    },
+    {
+      "surface": "ברותים",
+      "gloss": "чемпреси"
+    }
+  ],
+  "timestamp": "2026-09-05T14:05:44.929104499Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 11:2",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "Дај део седмори, па и осмори, јер не знаш какво ће зло бити на земљи.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "Дај"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "део"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "седмори"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "па и"
+    },
+    {
+      "surface": "לשמונה",
+      "gloss": "осмори"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "знаш"
+    },
+    {
+      "surface": "מה",
+      "gloss": "какво"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ће бити"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зло"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земљи"
+    }
+  ],
+  "timestamp": "2026-09-05T14:13:25.867777694Z",
+  "model": "glm-5.3"
+}

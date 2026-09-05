@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 8:3",
+  "book": "hosea",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "Забаци Израил добро — непријатељ ће га гонити.",
+  "tokens": [
+    {
+      "surface": "זנח",
+      "gloss": "забаци"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израил"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "непријатељ"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "ће гонити га"
+    }
+  ],
+  "timestamp": "2026-09-05T13:02:39.754368056Z",
+  "model": "glm-5.3"
+}

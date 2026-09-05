@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 27:20",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 27,
+  "translation": "Дедан трговаше тобом у простиркама за јахање.",
+  "tokens": [
+    {
+      "surface": "דדן",
+      "gloss": "Дедан"
+    },
+    {
+      "surface": "רכלתך",
+      "gloss": "трговаше тобом"
+    },
+    {
+      "surface": "בבגדי",
+      "gloss": "у покривачима"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "расплетеним"
+    },
+    {
+      "surface": "לרכבה",
+      "gloss": "за јахање"
+    }
+  ],
+  "timestamp": "2026-09-05T12:51:41.643028461Z",
+  "model": "glm-5.3"
+}

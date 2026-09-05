@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 38:24",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 38,
+  "translation": "И рече Цидкијаху (Седекија) Јирмејаху (Јеремији): нико да не зна за ове речи, и нећеш умрети.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Цидкијаху"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ка"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Јирмејаху"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "да зна"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "за речи"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ове"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "умрети"
+    }
+  ],
+  "timestamp": "2026-09-05T15:41:21.954644865Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "lamentations 3:28",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Нека седне сам и ћути, јер ⟨то⟩ је наложено на њега.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "Нека седне"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "сам"
+    },
+    {
+      "surface": "וידם",
+      "gloss": "и ћути"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "נטל",
+      "gloss": "наложено"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "на њега"
+    }
+  ],
+  "timestamp": "2026-09-05T14:09:37.874953785Z",
+  "model": "glm-5.3"
+}

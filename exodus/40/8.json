@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 40:8",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 40,
+  "translation": "И постави ⟨את⟩ двор унаоколо, и стави ⟨את⟩ завесу врата двора.",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "И постави"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "двор"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "двор"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "унаоколо"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "и стави"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "завесу врата двора"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "завесу"
+    },
+    {
+      "surface": "שער",
+      "gloss": "врата"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "двора"
+    }
+  ],
+  "timestamp": "2026-09-05T10:15:14.046303385Z",
+  "model": "glm-5.3"
+}

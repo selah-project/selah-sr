@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 4:11",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "На путу мудрости поучих те, водих те стазама правости.",
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "На путу"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мудрости"
+    },
+    {
+      "surface": "הרתיך",
+      "gloss": "поучих те"
+    },
+    {
+      "surface": "הדרכתיך",
+      "gloss": "водих те"
+    },
+    {
+      "surface": "במעגלי",
+      "gloss": "стазама"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "правости"
+    }
+  ],
+  "timestamp": "2026-09-05T13:46:00.143264786Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 1:10",
+  "book": "1-samuel",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "И она, горка душе, молаше се Јахвеу и плакаше, плакаше много.",
+  "tokens": [
+    {
+      "surface": "והיא",
+      "gloss": "и она"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "горка"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "душе"
+    },
+    {
+      "surface": "ותתפלל",
+      "gloss": "молаше се"
+    },
+    {
+      "surface": "על",
+      "gloss": "ка"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеу"
+    },
+    {
+      "surface": "ובכה",
+      "gloss": "и плакаше"
+    },
+    {
+      "surface": "תבכה",
+      "gloss": "плакаше"
+    }
+  ],
+  "timestamp": "2026-09-05T11:14:33.118856426Z",
+  "model": "glm-5.3"
+}

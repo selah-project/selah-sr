@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 11:22",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "И живе Сруг (Серуг) тридесет година, и роди ⟨את⟩ Нахора.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "И живе"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Сруг (Серуг)"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "тридесет"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "година"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "и роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Нахора"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Нахора"
+    }
+  ],
+  "timestamp": "2026-09-05T09:41:43.347102390Z",
+  "model": "glm-5.3"
+}

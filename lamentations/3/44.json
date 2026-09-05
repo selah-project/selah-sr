@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "lamentations 3:44",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Покрио си се облаком за себе, да молитва не прође.",
+  "tokens": [
+    {
+      "surface": "סכותה",
+      "gloss": "покрио си се"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "облаком"
+    },
+    {
+      "surface": "לך",
+      "gloss": "за себе"
+    },
+    {
+      "surface": "מעבור",
+      "gloss": "да не прође"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "молитва"
+    }
+  ],
+  "timestamp": "2026-09-05T14:09:12.421280482Z",
+  "model": "glm-5.3"
+}

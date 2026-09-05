@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 27:32",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 27,
+  "translation": "И рече му Ицхак отац његов: ко си ти? А он рече: ја сам син твој, првенац твој, Исав.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Ицхак"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "отац његов"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ко"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "си ти"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "А он рече"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја сам"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "син твој"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "првенац твој"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Исав"
+    }
+  ],
+  "timestamp": "2026-09-05T09:49:09.556561894Z",
+  "model": "glm-5.3"
+}

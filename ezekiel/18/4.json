@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 18:4",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "Ено, све душе Моје су: као душа оца, тако и душа сина — Моје су; душа која греши, она ће умрети.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ено"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "הנפשות",
+      "gloss": "душе"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Моје"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "су"
+    },
+    {
+      "surface": "כנפש",
+      "gloss": "као душа"
+    },
+    {
+      "surface": "האב",
+      "gloss": "оца"
+    },
+    {
+      "surface": "וכנפש",
+      "gloss": "тако и душа"
+    },
+    {
+      "surface": "הבן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Моје"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "су"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "душа"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "која греши"
+    },
+    {
+      "surface": "היא",
+      "gloss": "она"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "ће умрети"
+    }
+  ],
+  "timestamp": "2026-09-05T12:47:37.448459608Z",
+  "model": "glm-5.3"
+}

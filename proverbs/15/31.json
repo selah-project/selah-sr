@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 15:31",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 15,
+  "translation": "Ухо што слуша прекор живота усреди мудраца пребива.",
+  "tokens": [
+    {
+      "surface": "אזן",
+      "gloss": "Ухо"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "што слуша"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "прекор"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "живота"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "усреди"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "мудраца"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "пребива"
+    }
+  ],
+  "timestamp": "2026-09-05T13:50:02.149542100Z",
+  "model": "glm-5.3"
+}

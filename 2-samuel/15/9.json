@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 15:9",
+  "book": "2-samuel",
+  "lang": "sr",
+  "chapter": 15,
+  "translation": "И рече му краљ: „Иди у миру.“ И устаде те отиде у Хеврон (Хеврона).",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "краљ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Иди"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "у миру"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "и устаде"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "те отиде"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "у Хеврон"
+    }
+  ],
+  "timestamp": "2026-09-05T17:00:47.519179472Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 5:25",
+  "book": "daniel",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "А ово ⟨је⟩ напис што ⟨је⟩ написан: Мене, Мене, Текел, Уфарсин.",
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "а ово"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "напис"
+    },
+    {
+      "surface": "די",
+      "gloss": "што"
+    },
+    {
+      "surface": "רשים",
+      "gloss": "написан ⟨је⟩"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "Мене"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "Мене"
+    },
+    {
+      "surface": "תקל",
+      "gloss": "Текел"
+    },
+    {
+      "surface": "ופרסין",
+      "gloss": "и Уфарсин"
+    }
+  ],
+  "timestamp": "2026-09-05T14:18:19.338740Z",
+  "model": "glm-5.3"
+}

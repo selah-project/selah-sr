@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "lamentations 3:63",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Седњу њихову и устајање њихово — погледај: ја сам им песма подсмеха.",
+  "tokens": [
+    {
+      "surface": "שבתם",
+      "gloss": "Седњу њихову"
+    },
+    {
+      "surface": "וקימתם",
+      "gloss": "и устајање њихово"
+    },
+    {
+      "surface": "הביטה",
+      "gloss": "погледај"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "מנגינתם",
+      "gloss": "песма подсмеха сам им"
+    }
+  ],
+  "timestamp": "2026-09-05T16:07:34.299576Z",
+  "model": "glm-5.3"
+}

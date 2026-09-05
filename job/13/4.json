@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 13:4",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "А ви сте мазачи лажи, лекарници ништавности — сви ви.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "а"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ви"
+    },
+    {
+      "surface": "טפלי",
+      "gloss": "мазачи"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "лажи"
+    },
+    {
+      "surface": "רפאי",
+      "gloss": "лекарници"
+    },
+    {
+      "surface": "אלל",
+      "gloss": "ништавности"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "сви ви"
+    }
+  ],
+  "timestamp": "2026-09-05T13:57:57.537242616Z",
+  "model": "glm-5.3"
+}

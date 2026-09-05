@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "и ⟨את⟩ кугаћа и ⟨את⟩ шалаха и ⟨את⟩ јаншуфа",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "кугаћа"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "кугаћа"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "шалаха"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "шалаха"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "јаншуфа"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "јаншуфа"
+    }
+  ],
+  "timestamp": "2026-09-05T10:19:05.360719849Z",
+  "model": "glm-5.3"
+}

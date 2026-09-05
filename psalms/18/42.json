@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 18:42",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "Вику ⟨за помоћ⟩, а нема избавитеља; к Јахвеу — а не одговори им.",
+  "tokens": [
+    {
+      "surface": "ישועו",
+      "gloss": "вику"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "а нема"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "избавитеља"
+    },
+    {
+      "surface": "על",
+      "gloss": "к"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеу"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "а не"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "одговори им"
+    }
+  ],
+  "timestamp": "2026-09-05T13:19:19.717498275Z",
+  "model": "glm-5.3"
+}

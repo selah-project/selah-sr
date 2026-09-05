@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 1:31",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "И виде Елохим ⟨את⟩ све што је учинио, и ено, врло добро. И би вече, и би јутро — дан шести.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "И виде"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "све"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "учинио"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и ено"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "врло"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "И би"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "вече"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и би"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "јутро"
+    },
+    {
+      "surface": "יום",
+      "gloss": "дан"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "шести"
+    }
+  ],
+  "timestamp": "2026-09-05T14:57:55.196556316Z",
+  "model": "glm-5.3"
+}

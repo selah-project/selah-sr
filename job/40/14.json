@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 40:14",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 40,
+  "translation": "Тада ћу и ја тебе славити, јер те спасава десница твоја.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "и такође"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "славићу тебе"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "תושע",
+      "gloss": "спасава"
+    },
+    {
+      "surface": "לך",
+      "gloss": "те"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "десница твоја"
+    }
+  ],
+  "timestamp": "2026-09-05T14:05:01.824828847Z",
+  "model": "glm-5.3"
+}

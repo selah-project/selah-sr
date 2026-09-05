@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 6:10",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "Што јесте, одавно је име његово названо, и познато ⟨је⟩ да је ⟨он⟩ човек; и неће моћи да се суди са ⟨оним⟩ моћнијим од себе.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Што"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "јесте"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "одавно"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "названо"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "име његово"
+    },
+    {
+      "surface": "ונודע",
+      "gloss": "и познато"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "да"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човек"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "може"
+    },
+    {
+      "surface": "לדין",
+      "gloss": "да се суди"
+    },
+    {
+      "surface": "עם",
+      "gloss": "са"
+    },
+    {
+      "surface": "שהתקיף",
+      "gloss": "моћнијим"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "од себе"
+    }
+  ],
+  "timestamp": "2026-09-05T14:13:20.592031547Z",
+  "model": "glm-5.3"
+}

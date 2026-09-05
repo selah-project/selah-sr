@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "job 36:33",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 36,
+  "translation": "Јавља о њему бука његова; и стока о оном што се диже.",
+  "tokens": [
+    {
+      "surface": "יגיד",
+      "gloss": "јавља"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "о њему"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "бука његова"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "стока"
+    },
+    {
+      "surface": "אף",
+      "gloss": "и"
+    },
+    {
+      "surface": "על",
+      "gloss": "о"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "оном што се диже"
+    }
+  ],
+  "timestamp": "2026-09-05T14:03:13.045678642Z",
+  "model": "glm-5.3"
+}

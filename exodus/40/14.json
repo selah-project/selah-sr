@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 40:14",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 40,
+  "translation": "И ⟨את⟩ синове његове приведи, и обуче ⟨את⟩ их кошуљама.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "синове његове"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "синове његове"
+    },
+    {
+      "surface": "תקריב",
+      "gloss": "приведи"
+    },
+    {
+      "surface": "והלבשת",
+      "gloss": "и обуче"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "их"
+    },
+    {
+      "surface": "כתנת",
+      "gloss": "кошуљама"
+    }
+  ],
+  "timestamp": "2026-09-05T10:15:19.060806452Z",
+  "model": "glm-5.3"
+}

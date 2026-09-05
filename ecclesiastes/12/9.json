@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 12:9",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "И још, јер Коелет беше мудар, још ⟨је⟩ учио народ знању — уз ⟨את⟩ народ — и настраја, и испита, и уреди приче многе.",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "И још"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "јер беше"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Коелет"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мудар"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "још"
+    },
+    {
+      "surface": "למד",
+      "gloss": "учио"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "знање"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "народ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "ואזן",
+      "gloss": "и настраја"
+    },
+    {
+      "surface": "וחקר",
+      "gloss": "и испита"
+    },
+    {
+      "surface": "תקן",
+      "gloss": "уреди"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "прочеме"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "многе"
+    }
+  ],
+  "timestamp": "2026-09-05T14:14:17.102799483Z",
+  "model": "glm-5.3"
+}

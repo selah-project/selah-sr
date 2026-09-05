@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 28:10",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "И изађе Јааков (Јаков) из Беер-Шеве, и отиде ка Харану.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "изађе"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Јааков"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "из Беер-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Шеве"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "отиде"
+    },
+    {
+      "surface": "חרנה",
+      "gloss": "ка Харану"
+    }
+  ],
+  "timestamp": "2026-09-05T09:48:41.147342798Z",
+  "model": "glm-5.3"
+}

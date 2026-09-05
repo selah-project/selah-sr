@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 13:10",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "И разгори се гнев Јахвеов на Узу, и удари га што простре руку своју на ковчег; и умре тамо пред Елохимом.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "разгори се"
+    },
+    {
+      "surface": "אף",
+      "gloss": "гнев"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеов"
+    },
+    {
+      "surface": "בעזא",
+      "gloss": "на Узу"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "удари га"
+    },
+    {
+      "surface": "על",
+      "gloss": "што"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨јер⟩"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "простре"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "руку своју"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "ковчег"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "умре"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тамо"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохимом"
+    }
+  ],
+  "timestamp": "2026-09-05T14:39:30.828823730Z",
+  "model": "glm-5.3"
+}

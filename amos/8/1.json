@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "amos 8:1",
+  "book": "amos",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "Овако ми показа Адонај Јахве, и гле — кошница летњег плода.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Овако"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "ми показа"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и гле"
+    },
+    {
+      "surface": "כלוב",
+      "gloss": "кошница"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "летњег плода"
+    }
+  ],
+  "timestamp": "2026-09-05T13:05:40.935221322Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "lamentations 3:41",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Подигнимо срца наша ка длановима, ка Елу ⟨на⟩ небесима.",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "подигнимо"
+    },
+    {
+      "surface": "לבבנו",
+      "gloss": "срца наша"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ка"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "длановима"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ка"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Елу"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "на небесима"
+    }
+  ],
+  "timestamp": "2026-09-05T14:09:12.420724780Z",
+  "model": "glm-5.3"
+}

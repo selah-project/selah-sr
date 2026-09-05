@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 29:2",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 29,
+  "translation": "И чињаше право у очима Јахвеа, по свему што учини Давид (Давид), отац његов.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "И чињаше"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "право"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "у очима"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "по свему"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "учини"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "отац његов"
+    }
+  ],
+  "timestamp": "2026-09-05T16:19:15.759052999Z",
+  "model": "glm-5.3"
+}

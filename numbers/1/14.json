@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 1:14",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "За Гада — Елијасаф, син Деуелов.",
+  "tokens": [
+    {
+      "surface": "לגד",
+      "gloss": "За Гада"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "Елијасаф"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "Деуелов"
+    }
+  ],
+  "timestamp": "2026-09-05T10:26:58.426429608Z",
+  "model": "glm-5.3"
+}

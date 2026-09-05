@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 9:26",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "Само у земљи Гошен, где тамо беху синови Израиљеви, не беше града.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "само"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "у земљи"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "Гошен"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "где"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тамо"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљеви"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "היה",
+      "gloss": "беше"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "града"
+    }
+  ],
+  "timestamp": "2026-09-05T10:02:24.442779443Z",
+  "model": "glm-5.3"
+}

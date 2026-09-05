@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 102:4",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 102,
+  "translation": "Јер дани моји се свршише као дим, и кости моје као жер изгореше.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "се свршише"
+    },
+    {
+      "surface": "בעשן",
+      "gloss": "као дим"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дани моји"
+    },
+    {
+      "surface": "ועצמותי",
+      "gloss": "и кости моје"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "као"
+    },
+    {
+      "surface": "קד",
+      "gloss": "жер"
+    },
+    {
+      "surface": "נחרו",
+      "gloss": "изгореше"
+    }
+  ],
+  "timestamp": "2026-09-05T13:36:44.639822834Z",
+  "model": "glm-5.3"
+}

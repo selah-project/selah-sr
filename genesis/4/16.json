@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 4:16",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "И изађе Каин испред лица Јахвеа, и настани се у земљи Нод, источно од Едена.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "И изађе"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Каин"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "испред лица"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "и настани се"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "у земљи"
+    },
+    {
+      "surface": "נוד",
+      "gloss": "Нод"
+    },
+    {
+      "surface": "קדמת",
+      "gloss": "источно"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "од Едена"
+    }
+  ],
+  "timestamp": "2026-09-05T09:39:25.742962935Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 11:5",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "Али ко да Елоах проговори, и отвори усне своје са тобом!",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Али"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ко"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "да"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Елоах"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "проговори"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "и отвори"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "усне своје"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "са тобом"
+    }
+  ],
+  "timestamp": "2026-09-05T13:58:11.162052427Z",
+  "model": "glm-5.3"
+}

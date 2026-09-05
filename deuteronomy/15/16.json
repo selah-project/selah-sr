@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 15:16",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 15,
+  "translation": "И буде ли ти рекао: нећу изаћи од тебе, јер љуби тебе и ⟨את⟩ дом твој, јер добро му је код тебе —",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "И буде"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ли"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "рекао"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нећу"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "изаћи"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "од тебе"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "אהבך",
+      "gloss": "љуби тебе"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "дом твој"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "дом твој"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "код тебе"
+    }
+  ],
+  "timestamp": "2026-09-05T10:48:46.450097260Z",
+  "model": "glm-5.3"
+}

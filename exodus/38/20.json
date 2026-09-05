@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 38:20",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 38,
+  "translation": "И сви кољци Шатора и двора около беху ⟨од⟩ бронзе.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "и сви"
+    },
+    {
+      "surface": "היתדת",
+      "gloss": "кољци"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "Шатора"
+    },
+    {
+      "surface": "ולחצר",
+      "gloss": "и двора"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "около"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "бронзе"
+    }
+  ],
+  "timestamp": "2026-09-05T10:14:32.090092236Z",
+  "model": "glm-5.3"
+}

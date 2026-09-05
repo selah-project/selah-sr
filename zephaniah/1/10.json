@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zephaniah 1:10",
+  "book": "zephaniah",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "И биће у дан онај — реч Јахвеова — глас вапаја од Дана рибљег, и јаук из Мишне, и велики лом с брегова.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "и биће"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "у дан"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "онај"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "реч"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеова"
+    },
+    {
+      "surface": "קול",
+      "gloss": "глас"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "вапаја"
+    },
+    {
+      "surface": "משער",
+      "gloss": "од Дана"
+    },
+    {
+      "surface": "הדגים",
+      "gloss": "рибљег"
+    },
+    {
+      "surface": "ויללה",
+      "gloss": "и јаук"
+    },
+    {
+      "surface": "מן",
+      "gloss": "из"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "Мишне"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "и лом"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "велики"
+    },
+    {
+      "surface": "מהגבעות",
+      "gloss": "с брегова"
+    }
+  ],
+  "timestamp": "2026-09-05T13:11:30.802055402Z",
+  "model": "glm-5.3"
+}

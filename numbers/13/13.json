@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 13:13",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "За племе Ашерово: Сетур, син Михаелов.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "за племе"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Ашерово"
+    },
+    {
+      "surface": "סתור",
+      "gloss": "Сетур"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "מיכאל",
+      "gloss": "Михаелов"
+    }
+  ],
+  "timestamp": "2026-09-05T10:32:51.848563678Z",
+  "model": "glm-5.3"
+}

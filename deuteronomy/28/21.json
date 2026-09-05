@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 28:21",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "Прионуће Јахве на тебе ⟨את⟩ кугу док ⟨את⟩ те не истреби са земље у коју ти долазиш онамо да је наследиш.",
+  "tokens": [
+    {
+      "surface": "ידבק",
+      "gloss": "Прионуће"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "בך",
+      "gloss": "на тебе"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кугу"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "кугу"
+    },
+    {
+      "surface": "עד",
+      "gloss": "док"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "не истреби"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ те"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "са"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "земље"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "коју"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "בא",
+      "gloss": "долазиш"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "онамо"
+    },
+    {
+      "surface": "לרשתה",
+      "gloss": "да је наследиш"
+    }
+  ],
+  "timestamp": "2026-09-05T10:54:41.739727023Z",
+  "model": "glm-5.3"
+}

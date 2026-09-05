@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 18:2",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "И наслеђа неће бити њему усред браће његове: Јахве — ⟨он⟩ је наслеђе његово, као што рече њему.",
+  "tokens": [
+    {
+      "surface": "ונחלה",
+      "gloss": "и наслеђа"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "неће бити"
+    },
+    {
+      "surface": "לו",
+      "gloss": "њему"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "усред"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "браће његове"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "наслеђе његово"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "као што"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "לו",
+      "gloss": "њему"
+    }
+  ],
+  "timestamp": "2026-09-05T16:35:25.212223616Z",
+  "model": "glm-5.3"
+}

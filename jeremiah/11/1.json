@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 11:1",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "Реч која би Јермејаху (Јеремија) од ⟨את⟩ Јахве, говорећи:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "Реч"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "која"
+    },
+    {
+      "surface": "היה",
+      "gloss": "би"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ка"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Јермејаху (Јеремија)"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "од ⟨את⟩",
+      "marks": "Јахве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорећи"
+    }
+  ],
+  "timestamp": "2026-09-05T12:25:08.698589125Z",
+  "model": "glm-5.3"
+}

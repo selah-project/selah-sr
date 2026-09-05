@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 21:13",
+  "book": "1-samuel",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "И стави Давид ⟨את⟩ речи те у срце своје, и побоја се врло од Ахиша, краља Гата.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "И стави"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "речи те"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "речи"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "те"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "у срце своје"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "и побоја се"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "врло"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "од"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Ахиша"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "краља"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Гата"
+    }
+  ],
+  "timestamp": "2026-09-05T15:23:29.300408271Z",
+  "model": "glm-5.3"
+}

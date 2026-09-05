@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 69:35",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 69,
+  "translation": "Нека хвале небеса и земља, мора и све што се креће у њима.",
+  "tokens": [
+    {
+      "surface": "יהללוהו",
+      "gloss": "нека хвале"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "небеса"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "и земља"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "мора"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и све"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "што се креће"
+    },
+    {
+      "surface": "בם",
+      "gloss": "у њима"
+    }
+  ],
+  "timestamp": "2026-09-05T13:30:48.613351467Z",
+  "model": "glm-5.3"
+}

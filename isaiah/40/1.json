@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 40:1",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 40,
+  "translation": "Тешите, тешите народ мој, рече Елохим ваш.",
+  "tokens": [
+    {
+      "surface": "נחמו",
+      "gloss": "Тешите"
+    },
+    {
+      "surface": "נחמו",
+      "gloss": "тешите"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "народ мој"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Елохим ваш"
+    }
+  ],
+  "timestamp": "2026-09-05T12:13:48.527142191Z",
+  "model": "glm-5.3"
+}

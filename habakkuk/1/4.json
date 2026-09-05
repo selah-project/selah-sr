@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "habakkuk 1:4",
+  "book": "habakkuk",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "Зато Тора клону, и суд не излази довека, јер зликовац опкољава ⟨את⟩ праведника; зато суд излази изопачен.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "зато"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "תפוג",
+      "gloss": "клону"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Тора"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "излази"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "довека"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "суд"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "зликовац"
+    },
+    {
+      "surface": "מכתיר",
+      "gloss": "опкољава"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "праведника"
+    },
+    {
+      "surface": "הצדיק",
+      "gloss": "праведника"
+    },
+    {
+      "surface": "על",
+      "gloss": "зато"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "יצא",
+      "gloss": "излази"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "суд"
+    },
+    {
+      "surface": "מעקל",
+      "gloss": "изопачен"
+    }
+  ],
+  "timestamp": "2026-09-05T17:08:36.318663460Z",
+  "model": "glm-5.3"
+}

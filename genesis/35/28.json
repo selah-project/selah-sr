@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 35:28",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 35,
+  "translation": "И бише дани Ицхакови (Исакови) сто година и осамдесет година.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "И бише"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дани"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Ицхака (Исака)"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "сто"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "година"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "и осамдесет"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "година"
+    }
+  ],
+  "timestamp": "2026-09-05T15:00:50.251830633Z",
+  "model": "glm-5.3"
+}

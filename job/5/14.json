@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 5:14",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Даном сусрећу таму, и као ноћ тапају у подневу.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "Даном"
+    },
+    {
+      "surface": "יפגשו",
+      "gloss": "сусрећу"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "таму"
+    },
+    {
+      "surface": "וכלילה",
+      "gloss": "и као ноћ"
+    },
+    {
+      "surface": "ימששו",
+      "gloss": "тапају"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "у подневу"
+    }
+  ],
+  "timestamp": "2026-09-05T13:56:23.051588168Z",
+  "model": "glm-5.3"
+}

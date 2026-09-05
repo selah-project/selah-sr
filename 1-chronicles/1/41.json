@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 1:41",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "Синови Анаха (Анин): Дишон; и синови Дишона: Хамран, и Ешбан, и Јитран, и Керан.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Анаха"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "Дишон"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "и синови"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "Дишона"
+    },
+    {
+      "surface": "חמרן",
+      "gloss": "Хамран"
+    },
+    {
+      "surface": "ואשבן",
+      "gloss": "и Ешбан"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "и Јитран"
+    },
+    {
+      "surface": "וכרן",
+      "gloss": "и Керан"
+    }
+  ],
+  "timestamp": "2026-09-05T14:33:29.745615973Z",
+  "model": "glm-5.3"
+}

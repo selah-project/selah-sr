@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 73:11",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 73,
+  "translation": "И рекоше: „Како зна Ел? и има ли знања у Вишњем?“",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "И рекоше"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "Како"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "зна"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "и има ли"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "знања"
+    },
+    {
+      "surface": "בעליון",
+      "gloss": "у Вишњем"
+    }
+  ],
+  "timestamp": "2026-09-05T13:30:58.975930666Z",
+  "model": "glm-5.3"
+}

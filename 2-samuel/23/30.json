@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 23:30",
+  "book": "2-samuel",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "Бенаја Пиротонија, Хидај из нахала Гааша",
+  "tokens": [
+    {
+      "surface": "בניהו",
+      "gloss": "Бенаја"
+    },
+    {
+      "surface": "פרעתני",
+      "gloss": "Пиротонија"
+    },
+    {
+      "surface": "הדי",
+      "gloss": "Хидај"
+    },
+    {
+      "surface": "מנחלי",
+      "gloss": "из нахала"
+    },
+    {
+      "surface": "געש",
+      "gloss": "Гааша"
+    }
+  ],
+  "timestamp": "2026-09-05T11:37:13.117059430Z",
+  "model": "glm-5.3"
+}

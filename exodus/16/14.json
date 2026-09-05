@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 16:14",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 16,
+  "translation": "И узиде слагање росе, и ето, на лицу пустиње ситно, љускасто, ситно као мраз на земљи.",
+  "tokens": [
+    {
+      "surface": "ותעל",
+      "gloss": "И узиде"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "слагање"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "росе"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и ето"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицу"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "пустиње"
+    },
+    {
+      "surface": "דק",
+      "gloss": "ситно"
+    },
+    {
+      "surface": "מחספס",
+      "gloss": "љускасто"
+    },
+    {
+      "surface": "דק",
+      "gloss": "ситно"
+    },
+    {
+      "surface": "ככפר",
+      "gloss": "као мраз"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земљи"
+    }
+  ],
+  "timestamp": "2026-09-05T10:06:31.852923178Z",
+  "model": "glm-5.3"
+}

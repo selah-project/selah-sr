@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 22:12",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "Јер на место куда га прогнаше ⟨את⟩, тамо ће умрети, и ⟨את⟩ ову земљу неће видети више.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "на место"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "куда"
+    },
+    {
+      "surface": "הגלו",
+      "gloss": "прогнаше"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ га",
+      "marks": "Шалума"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тамо"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "умреће"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "ову земљу"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земљу"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ову"
+    },
+    {
+      "surface": "לא",
+      "gloss": "неће"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "видети"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "више"
+    }
+  ],
+  "timestamp": "2026-09-05T12:28:20.093899050Z",
+  "model": "glm-5.3"
+}

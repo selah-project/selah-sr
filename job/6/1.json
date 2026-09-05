@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 6:1",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "И одговори Ијов (Јов) и рече:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "и одговори"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ијов"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    }
+  ],
+  "timestamp": "2026-09-05T13:56:38.067778713Z",
+  "model": "glm-5.3"
+}

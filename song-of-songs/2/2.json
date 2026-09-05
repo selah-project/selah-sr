@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 2:2",
+  "book": "song-of-songs",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Као љиљан међу трњем, тако је друга моја међу кћерима.",
+  "tokens": [
+    {
+      "surface": "כשושנה",
+      "gloss": "Као љиљан"
+    },
+    {
+      "surface": "בין",
+      "gloss": "међу"
+    },
+    {
+      "surface": "החוחים",
+      "gloss": "трњем"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тако"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "друга моја"
+    },
+    {
+      "surface": "בין",
+      "gloss": "међу"
+    },
+    {
+      "surface": "הבנות",
+      "gloss": "кћерима"
+    }
+  ],
+  "timestamp": "2026-09-05T16:06:39.511219806Z",
+  "model": "glm-5.3"
+}

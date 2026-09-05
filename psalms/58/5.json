@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 58,
+  "translation": "Отров је њихов као отров змије, као глува аспида што затвара ухо своје.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "отров"
+    },
+    {
+      "surface": "למו",
+      "gloss": "њихов"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "као"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "отров"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "змије"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "као"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "аспида"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "глува"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "затвара"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "ухо своје"
+    }
+  ],
+  "timestamp": "2026-09-05T13:28:07.885904843Z",
+  "model": "glm-5.3"
+}

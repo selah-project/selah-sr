@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 24:11",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "Спаси одведене на смрт и оне што клизе на покољ — зар да уздржиш?",
+  "tokens": [
+    {
+      "surface": "הצל",
+      "gloss": "Спаси"
+    },
+    {
+      "surface": "לקחים",
+      "gloss": "одведене"
+    },
+    {
+      "surface": "למות",
+      "gloss": "на смрт"
+    },
+    {
+      "surface": "ומטים",
+      "gloss": "и оне што клизе"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "на покољ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "зар"
+    },
+    {
+      "surface": "תחשוך",
+      "gloss": "да уздржиш"
+    }
+  ],
+  "timestamp": "2026-09-05T13:51:53.006383263Z",
+  "model": "glm-5.3"
+}

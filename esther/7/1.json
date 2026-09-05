@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "И дође краљ и Хаман да пију с Естером краљицом.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "И дође"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "краљ"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "и Хаман"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "да пију"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Естером"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "краљицом"
+    }
+  ],
+  "timestamp": "2026-09-05T14:16:33.300559986Z",
+  "model": "glm-5.3"
+}

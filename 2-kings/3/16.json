@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 3:16",
+  "book": "2-kings",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "И рече: „Тако рече Јахве: ископајте ову долину јарке, јарке.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "כה",
+      "gloss": "тако"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ископајте"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "ову долину"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ову"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "јарке"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "јарке"
+    }
+  ],
+  "timestamp": "2026-09-05T15:29:06.920471852Z",
+  "model": "glm-5.3"
+}

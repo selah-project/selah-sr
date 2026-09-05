@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 12:14",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "Ето, руши — и не гради се; затвора над човеком — и не отвара се.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Ето"
+    },
+    {
+      "surface": "יהרוס",
+      "gloss": "руши"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "гради се"
+    },
+    {
+      "surface": "יסגר",
+      "gloss": "затвора"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човеком"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "отвара се"
+    }
+  ],
+  "timestamp": "2026-09-05T13:57:40.742007011Z",
+  "model": "glm-5.3"
+}

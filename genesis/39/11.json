@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 39:11",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 39,
+  "translation": "И би као дан онај, и уђе у дом да ради посао свој, и немаше човека од људи дома тамо у дому.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "и би"
+    },
+    {
+      "surface": "כהיום",
+      "gloss": "као дан"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "онај"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "и уђе"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "у дом"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "да ради"
+    },
+    {
+      "surface": "מלאכתו",
+      "gloss": "посао свој"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и немаше"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човека"
+    },
+    {
+      "surface": "מאנשי",
+      "gloss": "од људи"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тамо"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "у дому"
+    }
+  ],
+  "timestamp": "2026-09-05T09:53:36.791595920Z",
+  "model": "glm-5.3"
+}

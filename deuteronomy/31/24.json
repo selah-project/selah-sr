@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 31:24",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 31,
+  "translation": "И би, кад сврши Моше да пише ⟨את⟩ речи Торе ове у књигу, до свршетка њиховог.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И би"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "кад сврши"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לכתב",
+      "gloss": "да пише"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "речи"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "речи"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Торе"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ове"
+    },
+    {
+      "surface": "על",
+      "gloss": "у"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "књигу"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "свршетка њиховог"
+    }
+  ],
+  "timestamp": "2026-09-05T10:56:51.335439840Z",
+  "model": "glm-5.3"
+}

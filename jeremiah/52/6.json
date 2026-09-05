@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 52:6",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 52,
+  "translation": "У четвртом месецу, у девети ⟨дан⟩ месеца, ојача глад у граду, и не би хлеба за народ земље.",
+  "tokens": [
+    {
+      "surface": "בחדש",
+      "gloss": "у месецу"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "четвртом"
+    },
+    {
+      "surface": "בתשעה",
+      "gloss": "у девети"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "месеца"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "и ојача"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "глад"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "у граду"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "היה",
+      "gloss": "би"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хлеба"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "за народ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земље"
+    }
+  ],
+  "timestamp": "2026-09-05T12:41:23.275054487Z",
+  "model": "glm-5.3"
+}

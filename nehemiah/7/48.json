@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "nehemiah 7:48",
+  "book": "nehemiah",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "синови Леване, синови Хагаве, синови Салмаја.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Леване"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "חגבה",
+      "gloss": "Хагаве"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "שלמי",
+      "gloss": "Салмаја"
+    }
+  ],
+  "timestamp": "2026-09-05T14:30:47.290437872Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 1:11",
+  "book": "song-of-songs",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "Огрлице од злата начинићемо ти, са пегама од сребра.",
+  "tokens": [
+    {
+      "surface": "תורי",
+      "gloss": "Огрлице"
+    },
+    {
+      "surface": "זהб",
+      "gloss": "од злата"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "начинићемо"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "עם",
+      "gloss": "са"
+    },
+    {
+      "surface": "נקדות",
+      "gloss": "пегама"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "од сребра"
+    }
+  ],
+  "timestamp": "2026-09-05T14:05:57.848305704Z",
+  "model": "glm-5.3"
+}

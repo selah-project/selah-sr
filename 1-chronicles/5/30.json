@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 5:30",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Елазар роди ⟨את⟩ Пинхаса, Пинхас роди ⟨את⟩ Авишуу.",
+  "tokens": [
+    {
+      "surface": "אלעזר",
+      "gloss": "Елазар"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Пинхаса"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Пинхаса"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Пинхас"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Авишуу"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "Авишуу"
+    }
+  ],
+  "timestamp": "2026-09-05T14:35:13.683672377Z",
+  "model": "glm-5.3"
+}

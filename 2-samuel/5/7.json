@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "И заузе Давид ⟨את⟩ тврђаву Циона — она ⟨је⟩ град Давидов.",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "И заузе"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "тврђаву"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "тврђаву"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Циона"
+    },
+    {
+      "surface": "היא",
+      "gloss": "она"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "град"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давидов"
+    }
+  ],
+  "timestamp": "2026-09-05T11:30:15.234389523Z",
+  "model": "glm-5.3"
+}

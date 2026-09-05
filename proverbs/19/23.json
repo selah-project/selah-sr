@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 19:23",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 19,
+  "translation": "Страх Јахвеов ⟨води⟩ у живот, и сит ⟨ће› ноћити› — неће га задесити зло.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "Страх"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеов"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "у живот"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "и сит"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "ноћиће"
+    },
+    {
+      "surface": "בל",
+      "gloss": "не"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "задесити"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зло"
+    }
+  ],
+  "timestamp": "2026-09-05T13:50:26.870375258Z",
+  "model": "glm-5.3"
+}

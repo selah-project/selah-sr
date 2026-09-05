@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 18:16",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "Голотињу жене брата твојега не откривај — голотиња брата твојега ⟨је⟩ она.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "голотињу"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "жене"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "брата твојега"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "откривај"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "голотиња"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "брата твојега"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "она"
+    }
+  ],
+  "timestamp": "2026-09-05T10:21:50.638155604Z",
+  "model": "glm-5.3"
+}

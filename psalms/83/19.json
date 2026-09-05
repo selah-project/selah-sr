@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 83:19",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 83,
+  "translation": "И нека знају да си ти — име твоје Јахве — сам, највиши над свом земљом.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "И нека знају"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "си ти"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "име твоје"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "сам"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "највиши"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "כל",
+      "gloss": "свом"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земљом"
+    }
+  ],
+  "timestamp": "2026-09-05T13:32:38.727825152Z",
+  "model": "glm-5.3"
+}

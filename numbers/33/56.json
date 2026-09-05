@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "numbers 33:56",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 33,
+  "translation": "И биће: као што намислих да учиним њима, учинићу вама.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "и биће"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "као што"
+    },
+    {
+      "surface": "דמיתי",
+      "gloss": "намислих"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "да учиним"
+    },
+    {
+      "surface": "להם",
+      "gloss": "њима"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "учинићу"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вама"
+    }
+  ],
+  "timestamp": "2026-09-05T10:42:53.033057929Z",
+  "model": "glm-5.3"
+}

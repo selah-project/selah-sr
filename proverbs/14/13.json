@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 14:13",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "Чак и у смеху боли срце, и крајњи исход радости јесте туга.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "чак и"
+    },
+    {
+      "surface": "בשחוק",
+      "gloss": "у смеху"
+    },
+    {
+      "surface": "יכאב",
+      "gloss": "боли"
+    },
+    {
+      "surface": "לב",
+      "gloss": "срце"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "и крајњи исход њен"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "радост"
+    },
+    {
+      "surface": "תוגה",
+      "gloss": "туга"
+    }
+  ],
+  "timestamp": "2026-09-05T13:48:59.796790793Z",
+  "model": "glm-5.3"
+}

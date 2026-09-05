@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 21:4",
+  "book": "1-samuel",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "А сада шта има под руком твојом? Пет хлебова дај у руку моју, или што се нађе.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "а сада"
+    },
+    {
+      "surface": "מה",
+      "gloss": "шта"
+    },
+    {
+      "surface": "יש",
+      "gloss": "има"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "руком твојом"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "пет"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хлебова"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "дај"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "у руку моју"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "што се нађе"
+    }
+  ],
+  "timestamp": "2026-09-05T11:23:52.820927848Z",
+  "model": "glm-5.3"
+}

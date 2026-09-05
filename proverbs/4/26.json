@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 4:26",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "Изравнај стазу ноге своје, и сви путеви твоји нека се утврде.",
+  "tokens": [
+    {
+      "surface": "פלס",
+      "gloss": "изравнај"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "стазу"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "ноге своје"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и сви"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "путеви твоји"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "нека се утврде"
+    }
+  ],
+  "timestamp": "2026-09-05T13:46:02.289027524Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 2:9",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "И видех, и гле, рука послана к мени, и гле, у њој свитак књиге.",
+  "tokens": [
+    {
+      "surface": "ואראה",
+      "gloss": "И видех"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и гле"
+    },
+    {
+      "surface": "יד",
+      "gloss": "рука"
+    },
+    {
+      "surface": "שלוחה",
+      "gloss": "послана"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "к мени"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и гле"
+    },
+    {
+      "surface": "בו",
+      "gloss": "у њој"
+    },
+    {
+      "surface": "מגלת",
+      "gloss": "свитак"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "књиге"
+    }
+  ],
+  "timestamp": "2026-09-05T12:42:38.937796879Z",
+  "model": "glm-5.3"
+}

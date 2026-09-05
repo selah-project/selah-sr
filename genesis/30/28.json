@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 30:28",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 30,
+  "translation": "И рече: одреди ⟨тачно⟩ плату своју ⟨нама⟩ мени, и ја ћу дати.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "одреди"
+    },
+    {
+      "surface": "שכרך",
+      "gloss": "плату своју"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ммени"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "и ја ћу дати"
+    }
+  ],
+  "timestamp": "2026-09-05T15:00:23.859715855Z",
+  "model": "glm-5.3"
+}

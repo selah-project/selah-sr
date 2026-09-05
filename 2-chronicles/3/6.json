@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 3:6",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "И обложи ⟨את⟩ кућу камењем драгим за красоту, а злато ⟨јесте⟩ злато Парваима.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "и обложи"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кућу"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "кућу"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "камењем"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "драгим"
+    },
+    {
+      "surface": "לתפארת",
+      "gloss": "за красоту"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "а злато"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "злато"
+    },
+    {
+      "surface": "פרוים",
+      "gloss": "Парваима"
+    }
+  ],
+  "timestamp": "2026-09-05T14:45:37.940331232Z",
+  "model": "glm-5.3"
+}

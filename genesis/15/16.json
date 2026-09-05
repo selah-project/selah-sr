@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 15:16",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 15,
+  "translation": "И четврто поколење вратиће се овамо, јер још није пуно безакоње Емореја до овде.",
+  "tokens": [
+    {
+      "surface": "ודור",
+      "gloss": "И поколење"
+    },
+    {
+      "surface": "רביעי",
+      "gloss": "четврто"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "вратиће се"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "овамо"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "није"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "пуно"
+    },
+    {
+      "surface": "עון",
+      "gloss": "безакоње"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Емореја"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "овде"
+    }
+  ],
+  "timestamp": "2026-09-05T14:59:26.179936335Z",
+  "model": "glm-5.3"
+}

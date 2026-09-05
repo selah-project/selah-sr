@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "leviticus 14:49",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "И узе да очисти ⟨את⟩ кућу: две птице, и дрво кедрово, и скарлетно влакно, и изоп.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "и узе"
+    },
+    {
+      "surface": "לחטא",
+      "gloss": "да очисти"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кућу"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "кућу"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "две"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "птице"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "и дрво"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "кедрово"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "и скарлетно"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "влакно"
+    },
+    {
+      "surface": "ואזב",
+      "gloss": "и изоп"
+    }
+  ],
+  "timestamp": "2026-09-05T15:07:46.178029551Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 20:9",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 20,
+  "translation": "Шест дана радићеш и учинићеш сав посао свој:",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "Шест"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дана"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "радићеш"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "и учинићеш"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сав"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "посао свој"
+    }
+  ],
+  "timestamp": "2026-09-05T10:06:35.053763005Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 17:11",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 17,
+  "translation": "Само бунтовник тражи зло, а против њега биће послан окрутан гласник.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "само"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "бунтовник"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "тражи"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зло"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "а гласник"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "окрутан"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "биће послан"
+    },
+    {
+      "surface": "בו",
+      "gloss": "против њега"
+    }
+  ],
+  "timestamp": "2026-09-05T13:49:34.470798702Z",
+  "model": "glm-5.3"
+}

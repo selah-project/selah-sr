@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 21:1",
+  "book": "1-samuel",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "И уста и отиде, а Јонатан дође ⟨у⟩ град.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "и уста"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "и отиде"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "а Јонатан"
+    },
+    {
+      "surface": "בא",
+      "gloss": "дође"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "град"
+    }
+  ],
+  "timestamp": "2026-09-05T11:23:52.820302368Z",
+  "model": "glm-5.3"
+}

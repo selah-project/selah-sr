@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 5:17",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Не убијај.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תרצח",
+      "gloss": "убијај"
+    }
+  ],
+  "timestamp": "2026-09-05T10:44:32.982282121Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 45:24",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 45,
+  "translation": "И принос: ефу по јунцу и ефу по овну начиниће, и уља хин по ефи.",
+  "tokens": [
+    {
+      "surface": "ומנחה",
+      "gloss": "и принос"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "ефа"
+    },
+    {
+      "surface": "לפר",
+      "gloss": "по јунцу"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "и ефа"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "по овну"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "начиниће"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "и уља"
+    },
+    {
+      "surface": "הין",
+      "gloss": "хин"
+    },
+    {
+      "surface": "לאיפה",
+      "gloss": "по ефи"
+    }
+  ],
+  "timestamp": "2026-09-05T12:58:42.675836592Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 31:5",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 31,
+  "translation": "да не би пио па заборавио одредбу и измењивао право свих синова беде.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "да не би"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "пио"
+    },
+    {
+      "surface": "וישכח",
+      "gloss": "па заборавио"
+    },
+    {
+      "surface": "מחקק",
+      "gloss": "одредбу"
+    },
+    {
+      "surface": "וישנה",
+      "gloss": "и измењивао"
+    },
+    {
+      "surface": "דין",
+      "gloss": "право"
+    },
+    {
+      "surface": "כל",
+      "gloss": "свих"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синова"
+    },
+    {
+      "surface": "עני",
+      "gloss": "беде"
+    }
+  ],
+  "timestamp": "2026-09-05T13:54:01.858349250Z",
+  "model": "glm-5.3"
+}

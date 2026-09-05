@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 29:14",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 29,
+  "translation": "Јер ⟨את⟩ оне који су овде с нама, стоје данас пред Јахвеом, Елохимом нашим, и ⟨את⟩ оне којих нема овде с нама данас —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "оне који"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "ישנו",
+      "gloss": "има их"
+    },
+    {
+      "surface": "פה",
+      "gloss": "овде"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "с нама"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "стоје"
+    },
+    {
+      "surface": "היום",
+      "gloss": "данас"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеом"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Елохимом нашим"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "оне који"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "нема их"
+    },
+    {
+      "surface": "פה",
+      "gloss": "овде"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "с нама"
+    },
+    {
+      "surface": "היום",
+      "gloss": "данас"
+    }
+  ],
+  "timestamp": "2026-09-05T10:54:30.471174072Z",
+  "model": "glm-5.3"
+}

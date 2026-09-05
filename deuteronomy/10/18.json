@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 10:18",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "Чини правду сирочету и удовици, и љуби дошљака, да му даје хлеб и одећу.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "Чини"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "правду"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "сирочету"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "и удовици"
+    },
+    {
+      "surface": "ואהב",
+      "gloss": "и љуби"
+    },
+    {
+      "surface": "גר",
+      "gloss": "дошљака"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "да даје"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хлеб"
+    },
+    {
+      "surface": "ושמלה",
+      "gloss": "и одећу"
+    }
+  ],
+  "timestamp": "2026-09-05T10:46:55.369780453Z",
+  "model": "glm-5.3"
+}

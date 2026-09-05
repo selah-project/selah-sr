@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "psalms 119:62",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 119,
+  "translation": "У поноћ устајем да ти захвалим ради пресуда правде твоје.",
+  "tokens": [
+    {
+      "surface": "חצות",
+      "gloss": "у поноћ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ноћи"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "устајем"
+    },
+    {
+      "surface": "להודות",
+      "gloss": "да захвалим"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "על",
+      "gloss": "ради"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "пресуда"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "правде твоје"
+    }
+  ],
+  "timestamp": "2026-09-05T13:40:17.826505031Z",
+  "model": "glm-5.3"
+}

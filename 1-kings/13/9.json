@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-kings 13:9",
+  "book": "1-kings",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "Јер тако ми заповеди ⟨речју⟩ Јахвеа говорећи: не једи хлеб, и не пиј воде, и не враћај се путем којим си дошао.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тако"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповеди"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ме",
+      "marks": "мене (сSuffix 1. лица)"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "речју"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорећи"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "једи"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хлеб"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "пиј"
+    },
+    {
+      "surface": "מים",
+      "gloss": "воде"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "враћај се"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "путем"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "којим"
+    },
+    {
+      "surface": "הלכת",
+      "gloss": "си дошао"
+    }
+  ],
+  "timestamp": "2026-09-05T11:44:40.698254928Z",
+  "model": "glm-5.3"
+}

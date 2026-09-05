@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 116:9",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 116,
+  "translation": "Ходићу пред лицем Јахвеовим у земљама живих.",
+  "tokens": [
+    {
+      "surface": "אתהלך",
+      "gloss": "Ходићу"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред лицем"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеовим"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "у земљама"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "живих"
+    }
+  ],
+  "timestamp": "2026-09-05T13:39:30.788039050Z",
+  "model": "glm-5.3"
+}

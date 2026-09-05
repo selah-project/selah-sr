@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 108:13",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 108,
+  "translation": "Дај нам помоћ из невоље, јер је ⟨је⟩ узалудна помоћ човека.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "Дај"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "нам"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "помоћ"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "из невоље"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "јер узалудна"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "помоћ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човека"
+    }
+  ],
+  "timestamp": "2026-09-05T13:38:12.699304891Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 16:2",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 16,
+  "translation": "Рекох Јахвеу: Адонај ⟨јеси⟩ ти; добро моје ⟨није⟩ над тобом.",
+  "tokens": [
+    {
+      "surface": "אמרת",
+      "gloss": "рекох"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Јахвеу"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "טובתי",
+      "gloss": "добро моје"
+    },
+    {
+      "surface": "בל",
+      "gloss": "не"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "над тобом"
+    }
+  ],
+  "timestamp": "2026-09-05T13:18:35.838368019Z",
+  "model": "glm-5.3"
+}

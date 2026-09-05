@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nahum 3:1",
+  "book": "nahum",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Тешко граду крви, сав ⟨је⟩ у превари, пун насиља — плен не одступа.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Тешко"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "граду"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "крви"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "сав"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "у превари"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "насиља"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "пун"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "одступа"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "плен"
+    }
+  ],
+  "timestamp": "2026-09-05T13:09:40.992390396Z",
+  "model": "glm-5.3"
+}

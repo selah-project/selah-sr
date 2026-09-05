@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 7:39",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "јуначе један, син стоке; ован један; јагње једно, син године своје, за жртву пањеву.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "јуначе"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "један"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "стоке"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ован"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "један"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "јагње"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "једно"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "године своје"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "за жртву пањеву"
+    }
+  ],
+  "timestamp": "2026-09-05T10:29:29.830860102Z",
+  "model": "glm-5.3"
+}

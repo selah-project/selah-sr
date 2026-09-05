@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 7:22",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Иде за њом изненада, као во на клање долази, и као у оковима ⟨стаје⟩ на казну лудака.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "иде"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "за њом"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "изненада"
+    },
+    {
+      "surface": "כשור",
+      "gloss": "као во"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "טבח",
+      "gloss": "клање"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "долази"
+    },
+    {
+      "surface": "וכעכס",
+      "gloss": "и као у оковима"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "казну"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "лудака"
+    }
+  ],
+  "timestamp": "2026-09-05T16:00:52.454677721Z",
+  "model": "glm-5.3"
+}

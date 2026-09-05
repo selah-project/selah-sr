@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 34:8",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 34,
+  "translation": "Јер дан освете Јахвеу ⟨је⟩, година узвраћања за парницу Циона.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "יום",
+      "gloss": "дан"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "освете"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Јахвеу"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "година"
+    },
+    {
+      "surface": "שלומים",
+      "gloss": "узвраћања"
+    },
+    {
+      "surface": "לריב",
+      "gloss": "за парницу"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Циона"
+    }
+  ],
+  "timestamp": "2026-09-05T12:11:34.653154430Z",
+  "model": "glm-5.3"
+}

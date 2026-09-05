@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 3:31",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Не завиди човеку насилном, и не бирај ниједан од путева његових.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "завиди"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "човеку"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "насилном"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תבחר",
+      "gloss": "бирај"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ниједан од"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "путева његових"
+    }
+  ],
+  "timestamp": "2026-09-05T16:00:33.303676433Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 4:4",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "Приоње језик сисањчета уз непце његово у жеђи; дечица искаше хлеб — ко раздељује немају.",
+  "tokens": [
+    {
+      "surface": "דבק",
+      "gloss": "Приоње"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "језик"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "сисањчета"
+    },
+    {
+      "surface": "אל",
+      "gloss": "уз"
+    },
+    {
+      "surface": "חכו",
+      "gloss": "непце његово"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "у жеђи"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "дечица"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "искаше"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хлеб"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "ко раздељује"
+    },
+    {
+      "surface": "אין",
+      "gloss": "немају"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨им⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T16:06:58.837525647Z",
+  "model": "glm-5.3"
+}

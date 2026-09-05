@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 18:19",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "Претекоше ме у дан невоље моје, и би Јахве ⟨ослонац⟩ мени.",
+  "tokens": [
+    {
+      "surface": "יקדמוני",
+      "gloss": "Претекоше ме"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "у дан"
+    },
+    {
+      "surface": "אידי",
+      "gloss": "невоље моје"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и би"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "למשען",
+      "gloss": "⟨ослонац⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мени"
+    }
+  ],
+  "timestamp": "2026-09-05T13:19:34.488366985Z",
+  "model": "glm-5.3"
+}

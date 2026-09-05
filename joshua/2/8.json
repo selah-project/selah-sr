@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 2:8",
+  "book": "joshua",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "А они још не легоше, а она се попе к њима на кров.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "а они"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "још не"
+    },
+    {
+      "surface": "ישכבון",
+      "gloss": "легоше"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "а она"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "попе се"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "к њима"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הגג",
+      "gloss": "кров"
+    }
+  ],
+  "timestamp": "2026-09-05T16:59:36.236000451Z",
+  "model": "glm-5.3"
+}

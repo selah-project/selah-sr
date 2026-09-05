@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 2:32",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "А синови Јаде, брата Шамајевог: Јетер и Јонатан; и умре Јетер без деце.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "А синови"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "Јаде"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "брата"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Шамајевог"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Јетер"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "и Јонатан"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "и умре"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Јетер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "без"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "деце"
+    }
+  ],
+  "timestamp": "2026-09-05T14:33:53.728712531Z",
+  "model": "glm-5.3"
+}

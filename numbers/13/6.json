@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 13:6",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "За племе Јехуде (Јуде): Калев, син Јефинеев.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "за племе"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јехуде"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Калев"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Јефинеев"
+    }
+  ],
+  "timestamp": "2026-09-05T10:32:41.195983524Z",
+  "model": "glm-5.3"
+}

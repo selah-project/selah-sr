@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 116:17",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 116,
+  "translation": "Теби ћу заклати жртву хвале и у Имену Јахвеа зовнути.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Теби"
+    },
+    {
+      "surface": "אזבח",
+      "gloss": "ћу заклати"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "жртву"
+    },
+    {
+      "surface": "תודה",
+      "gloss": "хвале"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "и у Имену"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "зовнути"
+    }
+  ],
+  "timestamp": "2026-09-05T13:39:23.487380327Z",
+  "model": "glm-5.3"
+}

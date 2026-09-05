@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 105:13",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 105,
+  "translation": "И лутаху од народа до народа, од краљевства ка народу другом.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "и лутаху"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "од народа"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "народа"
+    },
+    {
+      "surface": "מממלכה",
+      "gloss": "од краљевства"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ка"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народу"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "другом"
+    }
+  ],
+  "timestamp": "2026-09-05T15:58:20.399186696Z",
+  "model": "glm-5.3"
+}

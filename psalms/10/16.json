@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 10:16",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "Јахве ⟨је⟩ краљ века и довека; изгинуше народи из земље његове.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "краљ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "века"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и довека"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "изгинуше"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "народи"
+    },
+    {
+      "surface": "מארצו",
+      "gloss": "из земље његове"
+    }
+  ],
+  "timestamp": "2026-09-05T15:52:24.206693273Z",
+  "model": "glm-5.3"
+}

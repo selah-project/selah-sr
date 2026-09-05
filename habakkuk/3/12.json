@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "habakkuk 3:12",
+  "book": "habakkuk",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "У гневу газиш земљу, у срџби вршаш народе.",
+  "tokens": [
+    {
+      "surface": "בזעם",
+      "gloss": "у гневу"
+    },
+    {
+      "surface": "תצעד",
+      "gloss": "газиш"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земљу"
+    },
+    {
+      "surface": "באף",
+      "gloss": "у срџби"
+    },
+    {
+      "surface": "תדוש",
+      "gloss": "вршаш"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "народе"
+    }
+  ],
+  "timestamp": "2026-09-05T13:10:40.729069870Z",
+  "model": "glm-5.3"
+}

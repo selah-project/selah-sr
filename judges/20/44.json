@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "judges 20:44",
+  "book": "judges",
+  "lang": "sr",
+  "chapter": 20,
+  "translation": "И падоше од Бењамина осамнаест хиљада људи: ⟨את⟩ све ове, људе храбрости.",
+  "tokens": [
+    {
+      "surface": "ויפלו",
+      "gloss": "и падоше"
+    },
+    {
+      "surface": "מבנימן",
+      "gloss": "од Бењамина"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "осам"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-наест"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "хиљада"
+    },
+    {
+      "surface": "איש",
+      "gloss": "људи"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "све ове"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ове"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "људе"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "храбрости"
+    }
+  ],
+  "timestamp": "2026-09-05T11:14:34.087996597Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 12:12",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "А више од ових, сине мој, чувај се: правити књиге у мноштву — нема краја, а много разговарања мука је тела.",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "а више"
+    },
+    {
+      "surface": "מהמה",
+      "gloss": "од ових"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сине мој"
+    },
+    {
+      "surface": "הזהר",
+      "gloss": "чувај се"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "правити"
+    },
+    {
+      "surface": "ספרים",
+      "gloss": "књиге"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "у мноштву"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "краја"
+    },
+    {
+      "surface": "ולהג",
+      "gloss": "а разговарања"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "много"
+    },
+    {
+      "surface": "יגעת",
+      "gloss": "мука"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "је тела"
+    }
+  ],
+  "timestamp": "2026-09-05T17:12:28.624722340Z",
+  "model": "glm-5.3"
+}

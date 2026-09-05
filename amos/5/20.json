@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "amos 5:20",
+  "book": "amos",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Није ли тмина дан Јахвеов, а не светлина, и тама без и сјаја за ⟨њега⟩?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Није ли"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "тмина"
+    },
+    {
+      "surface": "יום",
+      "gloss": "дан"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеов"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "а не"
+    },
+    {
+      "surface": "אור",
+      "gloss": "светлина"
+    },
+    {
+      "surface": "ואפל",
+      "gloss": "и тама"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "без"
+    },
+    {
+      "surface": "נגה",
+      "gloss": "сјаја"
+    },
+    {
+      "surface": "לו",
+      "gloss": "за ⟨њега⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T13:06:03.963552176Z",
+  "model": "glm-5.3"
+}

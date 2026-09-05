@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 40:6",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 40,
+  "translation": "И одговори Јахве ⟨את⟩ Јова из вихора, и рече:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "И одговори"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јова"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Јова"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "из"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "вихора"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    }
+  ],
+  "timestamp": "2026-09-05T14:04:44.501289743Z",
+  "model": "glm-5.3"
+}

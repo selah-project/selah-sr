@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 20,
+  "translation": "Нека ти не буде других богова пред лицем мојим.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "буде"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "богова"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "других"
+    },
+    {
+      "surface": "על",
+      "gloss": "пред"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицем мојим"
+    }
+  ],
+  "timestamp": "2026-09-05T10:06:13.560337880Z",
+  "model": "glm-5.3"
+}

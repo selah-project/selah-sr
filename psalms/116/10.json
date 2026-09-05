@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 116:10",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 116,
+  "translation": "Поверовах, јер говорим — ја сам веома пострадао.",
+  "tokens": [
+    {
+      "surface": "האמנתי",
+      "gloss": "Поверовах"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "говорим"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "пострадао сам"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "веома"
+    }
+  ],
+  "timestamp": "2026-09-05T13:39:30.788268847Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "judges 1:11",
+  "book": "judges",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "И пође отуд против становника Девира — а име Девиру пре беше Кирјат-Сефер.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "И пође"
+    },
+    {
+      "surface": "משם",
+      "gloss": "отуд"
+    },
+    {
+      "surface": "אל",
+      "gloss": "против"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "становника"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "Девира"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "а име"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "Девиру"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "пре"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Кирјат"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "Сефер"
+    }
+  ],
+  "timestamp": "2026-09-05T11:05:08.909208261Z",
+  "model": "glm-5.3"
+}

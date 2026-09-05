@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 3:9",
+  "book": "song-of-songs",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Паланкин направи себи краљ Шеломо (Соломун) од дрва Лебанона.",
+  "tokens": [
+    {
+      "surface": "אפריון",
+      "gloss": "Паланкин"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "направи"
+    },
+    {
+      "surface": "לו",
+      "gloss": "себи"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "краљ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "מעצי",
+      "gloss": "од дрва"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Лебанона"
+    }
+  ],
+  "timestamp": "2026-09-05T14:06:31.786727019Z",
+  "model": "glm-5.3"
+}

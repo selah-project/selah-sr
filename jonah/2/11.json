@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jonah 2:11",
+  "book": "jonah",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "И рече Јахве риби, и избљува она ⟨את⟩ Јону на суву земљу.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "לדג",
+      "gloss": "риби"
+    },
+    {
+      "surface": "ויקא",
+      "gloss": "и избљува"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јону"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Јону"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "суву земљу"
+    }
+  ],
+  "timestamp": "2026-09-05T13:07:08.955149441Z",
+  "model": "glm-5.3"
+}

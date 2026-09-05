@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 36:27",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 36,
+  "translation": "И за зачеље шатора, према западу, начини шест даска.",
+  "tokens": [
+    {
+      "surface": "ולירכתי",
+      "gloss": "и за зачеље"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "шатора"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "према западу"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "начини"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "шест"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "даска"
+    }
+  ],
+  "timestamp": "2026-09-05T10:13:38.908149330Z",
+  "model": "glm-5.3"
+}

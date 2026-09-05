@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 40:13",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 40,
+  "translation": "Ко одмери ⟨את⟩ дух Јахвеа, и ко му као саветник својом поруком то јави?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ко"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "одмери"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дух Јахвеа"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "дух"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "и човек"
+    },
+    {
+      "surface": "עצתו",
+      "gloss": "саветом својим"
+    },
+    {
+      "surface": "יודיענו",
+      "gloss": "јави му"
+    }
+  ],
+  "timestamp": "2026-09-05T12:13:08.035839707Z",
+  "model": "glm-5.3"
+}

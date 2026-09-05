@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 7:32",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "И Хевер роди ⟨את⟩ Јафлета и ⟨את⟩ Шомера и ⟨את⟩ Хотама и ⟨את⟩ Шуу, сестру њихову.",
+  "tokens": [
+    {
+      "surface": "וחבר",
+      "gloss": "И Хевер"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јафлета"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "Јафлета"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Шомера"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "Шомера"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Хотама"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "Хотама"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Шуу"
+    },
+    {
+      "surface": "שועא",
+      "gloss": "Шуу"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "сестру њихову"
+    }
+  ],
+  "timestamp": "2026-09-05T16:15:38.462066736Z",
+  "model": "glm-5.3"
+}

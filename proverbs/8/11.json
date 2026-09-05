@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 8:11",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "Јер је боља мудрост од бисера, и све жеље не равнају се ⟨с њом⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "боља"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мудрост"
+    },
+    {
+      "surface": "מפנינים",
+      "gloss": "од бисера"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и све"
+    },
+    {
+      "surface": "חפצים",
+      "gloss": "жеље"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישוו",
+      "gloss": "равнају се"
+    },
+    {
+      "surface": "בה",
+      "gloss": "⟨с њом⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T13:47:20.928440304Z",
+  "model": "glm-5.3"
+}

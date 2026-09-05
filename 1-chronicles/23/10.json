@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 23:10",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "И синови Шимејеви: Јахат, Зина, Јеуш и Верија. Ово су синови Шимејеви, четворица.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "И синови"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Шимејеви"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Јахат"
+    },
+    {
+      "surface": "זינא",
+      "gloss": "Зина"
+    },
+    {
+      "surface": "ויעוש",
+      "gloss": "и Јеуш"
+    },
+    {
+      "surface": "ובריעה",
+      "gloss": "и Верија"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ово"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Шимејеви"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "четворица"
+    }
+  ],
+  "timestamp": "2026-09-05T14:42:03.118924768Z",
+  "model": "glm-5.3"
+}

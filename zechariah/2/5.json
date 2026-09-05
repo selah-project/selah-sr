@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 2:5",
+  "book": "zechariah",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "И подигох очи своје и видех, и гле, човек, а у руци његовој конопац мерни.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "И подигох"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "очи своје"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "и видех"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и гле"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "ובידו",
+      "gloss": "а у руци његовој"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "конопац"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "мерни"
+    }
+  ],
+  "timestamp": "2026-09-05T13:13:04.097427777Z",
+  "model": "glm-5.3"
+}

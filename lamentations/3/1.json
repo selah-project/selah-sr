@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 3:1",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Ја сам ⟨тај⟩ гевер што виде изгнанье под штапом гнева Његовог.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ја"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "гевер ⟨тај⟩"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "виде"
+    },
+    {
+      "surface": "עני",
+      "gloss": "изгнанье"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "под штапом"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "гнева Његовог"
+    }
+  ],
+  "timestamp": "2026-09-05T14:09:29.363311566Z",
+  "model": "glm-5.3"
+}

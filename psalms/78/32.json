@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 78:32",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 78,
+  "translation": "Уз све ово још грешише, и не повероваше у чудеса Његова.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "уз све"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ово"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "грешише"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "још"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "повероваше"
+    },
+    {
+      "surface": "בנפלאותיו",
+      "gloss": "у чуда Његова"
+    }
+  ],
+  "timestamp": "2026-09-05T13:32:18.099291512Z",
+  "model": "glm-5.3"
+}

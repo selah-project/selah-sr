@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 141:3",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 141,
+  "translation": "Постави, Јахве, стражу устима мојим, чувај врата усана мојих.",
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "Постави"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "שמרה",
+      "gloss": "стражу"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "устима мојим"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "чувај"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "דל",
+      "gloss": "врата"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "усана мојих"
+    }
+  ],
+  "timestamp": "2026-09-05T13:43:57.374042282Z",
+  "model": "glm-5.3"
+}

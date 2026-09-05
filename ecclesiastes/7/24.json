@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ecclesiastes 7:24",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Далеко је оно што беше, и дубоко, дубоко — ко ће га наћи?",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "Далеко"
+    },
+    {
+      "surface": "מה",
+      "gloss": "што"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "беше"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "и дубоко"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "дубоко"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ко"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "ће га наћи"
+    }
+  ],
+  "timestamp": "2026-09-05T14:12:29.204331255Z",
+  "model": "glm-5.3"
+}

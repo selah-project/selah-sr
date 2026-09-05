@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 33,
+  "translation": "Певајте му песму нову; лепо свирајте уз трубљење.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Певајте"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "песму"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "нову"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "лепо"
+    },
+    {
+      "surface": "נגן",
+      "gloss": "свирајте"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "уз трубљење"
+    }
+  ],
+  "timestamp": "2026-09-05T13:22:29.226684128Z",
+  "model": "glm-5.3"
+}

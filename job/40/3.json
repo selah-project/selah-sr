@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 40:3",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 40,
+  "translation": "И одговори Јов ⟨את⟩ Јахвеа и рече:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "и одговори"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Јов"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јахвеа"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    }
+  ],
+  "timestamp": "2026-09-05T14:04:59.790236192Z",
+  "model": "glm-5.3"
+}

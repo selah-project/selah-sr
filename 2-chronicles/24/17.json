@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 24:17",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "И после смрти Јехојаде дођоше кнезови Јуде и поклонише се цару; тада послуша цар њих.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "И после"
+    },
+    {
+      "surface": "מות",
+      "gloss": "смрти"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Јехојаде"
+    },
+    {
+      "surface": "באו",
+      "gloss": "дођоше"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "кнезови"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јуде"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "и поклонише се"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "цару"
+    },
+    {
+      "surface": "אז",
+      "gloss": "тада"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "послуша"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "њих"
+    }
+  ],
+  "timestamp": "2026-09-05T14:52:55.032069124Z",
+  "model": "glm-5.3"
+}

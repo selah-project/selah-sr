@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 18:14",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "И царовa Давид над свим Израиљем, и чињаше право и правду свему народу своме.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "и цароваше"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "כל",
+      "gloss": "свим"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљем"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и беше"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "чињаше"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "право"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "и правду"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "свему"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "народу своме"
+    }
+  ],
+  "timestamp": "2026-09-05T14:40:15.275529234Z",
+  "model": "glm-5.3"
+}

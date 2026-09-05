@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 15:3",
+  "book": "judges",
+  "lang": "sr",
+  "chapter": 15,
+  "translation": "И рече им Шимшон: чист сам овога пута од Плиштима, јер ја чиним њима зло.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "Шимшон"
+    },
+    {
+      "surface": "נקיתי",
+      "gloss": "чист сам"
+    },
+    {
+      "surface": "הפעם",
+      "gloss": "овога пута"
+    },
+    {
+      "surface": "מפלשתים",
+      "gloss": "од Плиштима"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "чиним"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "њима"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зло"
+    }
+  ],
+  "timestamp": "2026-09-05T17:00:23.166972036Z",
+  "model": "glm-5.3"
+}

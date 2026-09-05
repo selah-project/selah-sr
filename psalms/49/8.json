@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 49:8",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 49,
+  "translation": "Брат никако да не откупи: човек неће дати Елохиму откупнину своју.",
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "Брат"
+    },
+    {
+      "surface": "לא",
+      "gloss": "никако"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "да откупи"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "откупи"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "לא",
+      "gloss": "неће"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "дати"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Елохиму"
+    },
+    {
+      "surface": "כפרו",
+      "gloss": "откупнину своју"
+    }
+  ],
+  "timestamp": "2026-09-05T13:26:07.240498227Z",
+  "model": "glm-5.3"
+}

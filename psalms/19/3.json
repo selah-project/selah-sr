@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 19:3",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 19,
+  "translation": "Дан на дан изливá реч, и ноћ на ноћ показује знање.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "Дан"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "на дан"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "изливá"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "реч"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "и ноћ"
+    },
+    {
+      "surface": "ללילה",
+      "gloss": "на ноћ"
+    },
+    {
+      "surface": "יחוה",
+      "gloss": "показује"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "знање"
+    }
+  ],
+  "timestamp": "2026-09-05T13:19:59.235047024Z",
+  "model": "glm-5.3"
+}

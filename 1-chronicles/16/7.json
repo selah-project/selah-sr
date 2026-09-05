@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 16:7",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 16,
+  "translation": "У онај дан тада даде Давид на чело захваљивање Јахвеу руком Асафовом и браће његове.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "У дан"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "онај"
+    },
+    {
+      "surface": "אז",
+      "gloss": "тада"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "даде"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "на чело"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "захваљивање"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Јахвеу"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "руком"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Асафовом"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "и браће његове"
+    }
+  ],
+  "timestamp": "2026-09-05T14:39:10.048924127Z",
+  "model": "glm-5.3"
+}

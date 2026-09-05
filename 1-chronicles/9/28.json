@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 9:28",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "и од њих над судовима службе, јер у броју уносише их и у броју изношаху их.",
+  "tokens": [
+    {
+      "surface": "ומהם",
+      "gloss": "и од њих"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "судовима"
+    },
+    {
+      "surface": "העבודה",
+      "gloss": "службе"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "у броју"
+    },
+    {
+      "surface": "יביאום",
+      "gloss": "уносише их"
+    },
+    {
+      "surface": "ובמספר",
+      "gloss": "и у броју"
+    },
+    {
+      "surface": "יוציאום",
+      "gloss": "изношаху их"
+    }
+  ],
+  "timestamp": "2026-09-05T17:13:56.743056807Z",
+  "model": "glm-5.3"
+}

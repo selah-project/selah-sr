@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "psalms 119:85",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 119,
+  "translation": "Изашли су ми насилници јаме — што није по Тори твојој.",
+  "tokens": [
+    {
+      "surface": "כרו",
+      "gloss": "изашли су"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "насилници"
+    },
+    {
+      "surface": "שיחות",
+      "gloss": "јаме"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "לא",
+      "gloss": "није"
+    },
+    {
+      "surface": "כתורתך",
+      "gloss": "по Тори твојој"
+    }
+  ],
+  "timestamp": "2026-09-05T13:40:58.499135360Z",
+  "model": "glm-5.3"
+}

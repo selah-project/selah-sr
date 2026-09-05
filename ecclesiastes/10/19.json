@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 10:19",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "За смех чине хлеб, и вино весели живот, а сребро одговара ⟨את⟩ свему.",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "За смех"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "чине"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хлеб"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "и вино"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "весели"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "живот"
+    },
+    {
+      "surface": "והכסף",
+      "gloss": "а сребро"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "одговара"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "свему"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "свему"
+    }
+  ],
+  "timestamp": "2026-09-05T17:12:28.099921263Z",
+  "model": "glm-5.3"
+}

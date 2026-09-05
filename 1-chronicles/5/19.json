@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 5:19",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "И поведоше рат против Хагареја, и Јетура, и Нафиша, и Нодава.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "и поведоше"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "рат"
+    },
+    {
+      "surface": "עם",
+      "gloss": "против"
+    },
+    {
+      "surface": "ההגריאים",
+      "gloss": "Хагареја"
+    },
+    {
+      "surface": "ויטור",
+      "gloss": "и Јетура"
+    },
+    {
+      "surface": "ונפיש",
+      "gloss": "и Нафиша"
+    },
+    {
+      "surface": "ונודב",
+      "gloss": "и Нодава"
+    }
+  ],
+  "timestamp": "2026-09-05T17:13:54.468823791Z",
+  "model": "glm-5.3"
+}

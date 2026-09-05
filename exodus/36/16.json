@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 36:16",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 36,
+  "translation": "И споји ⟨את⟩ пет завеса посебно, и ⟨את⟩ шест завеса посебно.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "И споји"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "пет завеса"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "пет"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "завеса"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "посебно"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "шест завеса"
+    },
+    {
+      "surface": "שש",
+      "gloss": "шест"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "завеса"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "посебно"
+    }
+  ],
+  "timestamp": "2026-09-05T10:14:18.704324694Z",
+  "model": "glm-5.3"
+}

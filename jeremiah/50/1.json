@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 50:1",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 50,
+  "translation": "Реч коју рече Јахве о Вавилону, о земљи Кашдеја, руком Јермејаха (Јеремије) пророка:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "Реч"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "коју"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "о"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Вавилону"
+    },
+    {
+      "surface": "אל",
+      "gloss": "о"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земљи"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "Кашдеја"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "руком"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Јермејаха (Јеремије)"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "пророка"
+    }
+  ],
+  "timestamp": "2026-09-05T12:40:19.300190575Z",
+  "model": "glm-5.3"
+}

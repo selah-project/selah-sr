@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 20:17",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 20,
+  "translation": "Неће видети потоке река, токове потока меда и масла.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "неће"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "видети"
+    },
+    {
+      "surface": "בפלגות",
+      "gloss": "потоке"
+    },
+    {
+      "surface": "נהרי",
+      "gloss": "река"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "потока"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "меда"
+    },
+    {
+      "surface": "וחמאה",
+      "gloss": "и масла"
+    }
+  ],
+  "timestamp": "2026-09-05T16:44:56.965132086Z",
+  "model": "glm-5.3"
+}

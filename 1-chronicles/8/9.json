@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 8:9",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "И роди од Ходеш ⟨את⟩ своје жене Јовава (Јовав), и ⟨את⟩ Цивју, и ⟨את⟩ Мешу, и ⟨את⟩ Малхама.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "И роди"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "Ходеш"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "своје жене"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јовава"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Јовава"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Цивју"
+    },
+    {
+      "surface": "צביא",
+      "gloss": "Цивју"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Мешу"
+    },
+    {
+      "surface": "מישא",
+      "gloss": "Мешу"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Малхама"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "Малхама"
+    }
+  ],
+  "timestamp": "2026-09-05T14:36:05.977626071Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 13:12",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "И ено, паде зид — зар неће ⟨теби⟩ рећи: где је малтер што сте намазали?",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "И ено"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "паде"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "зид"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "зар не"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "рећи"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "вама"
+    },
+    {
+      "surface": "איה",
+      "gloss": "где је"
+    },
+    {
+      "surface": "הטיח",
+      "gloss": "малтер"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "טחתם",
+      "gloss": "сте намазали"
+    }
+  ],
+  "timestamp": "2026-09-05T12:45:07.071020949Z",
+  "model": "glm-5.3"
+}

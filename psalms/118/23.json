@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 118:23",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 118,
+  "translation": "Од ⟨את⟩ Јахвеа ово би ⟨је⟩; чудо ⟨је⟩ у очима нашим.",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "од ⟨את⟩",
+      "marks": "Јахвеа"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "би"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ово"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨је⟩"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "чудо"
+    },
+    {
+      "surface": "בעינינו",
+      "gloss": "у очима нашим"
+    }
+  ],
+  "timestamp": "2026-09-05T13:39:27.323249050Z",
+  "model": "glm-5.3"
+}

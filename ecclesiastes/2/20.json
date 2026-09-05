@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 2:20",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "И окренух ја своје срце да очаја због свега труда којим сам се трудио под сунцем.",
+  "tokens": [
+    {
+      "surface": "וסבותי",
+      "gloss": "и окренух"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "ליאש",
+      "gloss": "да очаја"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "срце"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "срце"
+    },
+    {
+      "surface": "על",
+      "gloss": "због"
+    },
+    {
+      "surface": "כל",
+      "gloss": "свега"
+    },
+    {
+      "surface": "העמל",
+      "gloss": "труда"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "којим сам се трудио"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "сунцем"
+    }
+  ],
+  "timestamp": "2026-09-05T14:11:47.934478811Z",
+  "model": "glm-5.3"
+}

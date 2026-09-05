@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 6:9",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "Боље ⟨је⟩ гледање очију него лутање душе; и ово ⟨је⟩ испразност и мука духа.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Боље"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "гледање"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "очију"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "лутање"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "душе"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ово"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "испразност"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "и мука"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "духа"
+    }
+  ],
+  "timestamp": "2026-09-05T14:13:20.591802798Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 35:17",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 35,
+  "translation": "И би, кад јој се заоштри рађање, и рече јој бабица: не бој се, јер ⟨је⟩ и ово теби син.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И би"
+    },
+    {
+      "surface": "בהקשתה",
+      "gloss": "кад се заоштри"
+    },
+    {
+      "surface": "בלדתה",
+      "gloss": "рађање"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "לה",
+      "gloss": "јој"
+    },
+    {
+      "surface": "המילדת",
+      "gloss": "бабица"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "бој се"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ово"
+    },
+    {
+      "surface": "לך",
+      "gloss": "теби"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    }
+  ],
+  "timestamp": "2026-09-05T09:52:53.308753803Z",
+  "model": "glm-5.3"
+}

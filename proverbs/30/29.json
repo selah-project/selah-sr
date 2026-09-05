@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 30:29",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 30,
+  "translation": "Три ⟨су⟩ то који добро корачају, и четири који добро ходе:",
+  "tokens": [
+    {
+      "surface": "שלשה",
+      "gloss": "три"
+    },
+    {
+      "surface": "המה",
+      "gloss": "то"
+    },
+    {
+      "surface": "מיטיבי",
+      "gloss": "који добро"
+    },
+    {
+      "surface": "צעד",
+      "gloss": "корачају"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "и четири"
+    },
+    {
+      "surface": "מיטבי",
+      "gloss": "који добро"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "ходе"
+    }
+  ],
+  "timestamp": "2026-09-05T13:53:44.675343252Z",
+  "model": "glm-5.3"
+}

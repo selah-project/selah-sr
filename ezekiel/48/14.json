@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 48:14",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 48,
+  "translation": "И неће продати од њега, ни заменити, ни пренети првина земље, јер ⟨је⟩ светиња Јахвеу.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "ימכרו",
+      "gloss": "продају"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "од њега"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ни"
+    },
+    {
+      "surface": "ימר",
+      "gloss": "заменити"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ни"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "пренети"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "првина"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земље"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "светиња"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Јахвеу"
+    }
+  ],
+  "timestamp": "2026-09-05T13:01:21.625101810Z",
+  "model": "glm-5.3"
+}

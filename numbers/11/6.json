@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 11:6",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "И сада душа наша осуши се — нема ничег, осим мане ⟨пред⟩ очима нашим.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "и сада"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "душа наша"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "осуши се"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ничег"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "осим"
+    },
+    {
+      "surface": "אל",
+      "gloss": "према"
+    },
+    {
+      "surface": "המן",
+      "gloss": "мани"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "очима нашим"
+    }
+  ],
+  "timestamp": "2026-09-05T16:56:32.679693531Z",
+  "model": "glm-5.3"
+}

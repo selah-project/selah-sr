@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 29:16",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 29,
+  "translation": "А Лаван имаше две кћери: име старије беше Леа, а име млађе Рахела.",
+  "tokens": [
+    {
+      "surface": "וללבן",
+      "gloss": "А Лаван"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "две"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "кћери"
+    },
+    {
+      "surface": "שם",
+      "gloss": "име"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "старије"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "беше Леа"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "а име"
+    },
+    {
+      "surface": "הקטנה",
+      "gloss": "млађе"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Рахела"
+    }
+  ],
+  "timestamp": "2026-09-05T15:00:23.139429549Z",
+  "model": "glm-5.3"
+}

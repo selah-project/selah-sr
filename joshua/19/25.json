@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 19:25",
+  "book": "joshua",
+  "lang": "sr",
+  "chapter": 19,
+  "translation": "И би граница њихова: Хелкат и Хали и Бетен и Ахшаф.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И би"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "граница њихова"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "Хелкат"
+    },
+    {
+      "surface": "וחלי",
+      "gloss": "и Хали"
+    },
+    {
+      "surface": "ובטן",
+      "gloss": "и Бетен"
+    },
+    {
+      "surface": "ואכשף",
+      "gloss": "и Ахшаф"
+    }
+  ],
+  "timestamp": "2026-09-05T11:03:53.305758137Z",
+  "model": "glm-5.3"
+}

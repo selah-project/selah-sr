@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 29:10",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 29,
+  "translation": "по једна десетина за јагње једно, за седам јагањаца.",
+  "tokens": [
+    {
+      "surface": "עשרון",
+      "gloss": "по једна десетина"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "десетина"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "за јагње"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "једно"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "за седам"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "јагањаца"
+    }
+  ],
+  "timestamp": "2026-09-05T15:10:52.016477833Z",
+  "model": "glm-5.3"
+}

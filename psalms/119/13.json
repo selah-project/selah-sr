@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 119:13",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 119,
+  "translation": "Уснама својим казивах све одредбе уста Твојих.",
+  "tokens": [
+    {
+      "surface": "בשפתי",
+      "gloss": "уснама својим"
+    },
+    {
+      "surface": "ספרתי",
+      "gloss": "казивах"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "одредбе"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "уста Твојих"
+    }
+  ],
+  "timestamp": "2026-09-05T13:39:44.162927309Z",
+  "model": "glm-5.3"
+}

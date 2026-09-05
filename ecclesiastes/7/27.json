@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ecclesiastes 7:27",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Гле, ово нађох, рече Кохелет: један уз један, да нађеш смисао.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Гле"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ово"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "нађох"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "рече"
+    },
+    {
+      "surface": "קהלет",
+      "gloss": "Кохелет"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "један"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "уз један"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "да нађеш"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "смисао"
+    }
+  ],
+  "timestamp": "2026-09-05T14:12:59.121831972Z",
+  "model": "glm-5.3"
+}

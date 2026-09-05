@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 32:25",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 32,
+  "translation": "Споља ће пометнути мач, а из соба страх; и младића и девицу, одојче заједно са човеком седом косом.",
+  "tokens": [
+    {
+      "surface": "מחוץ",
+      "gloss": "споља"
+    },
+    {
+      "surface": "תשכל",
+      "gloss": "пометнуће"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "мач"
+    },
+    {
+      "surface": "ומחדרים",
+      "gloss": "а из соба"
+    },
+    {
+      "surface": "אימה",
+      "gloss": "страх"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "младића"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "девицу"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "одојче"
+    },
+    {
+      "surface": "עם",
+      "gloss": "заједно са"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човеком"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "седом косом"
+    }
+  ],
+  "timestamp": "2026-09-05T10:55:58.535387988Z",
+  "model": "glm-5.3"
+}

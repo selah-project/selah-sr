@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 1:23",
+  "book": "judges",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "И постави дом Јосифов извиднике у Бет Ел; а име града ⟨бејаше⟩ пре Луз.",
+  "tokens": [
+    {
+      "surface": "ויתירו",
+      "gloss": "и постави извиднике"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Јосифов"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "у Бет"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "а име"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "града"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "пре"
+    },
+    {
+      "surface": "לוז",
+      "gloss": "Луз"
+    }
+  ],
+  "timestamp": "2026-09-05T11:05:08.635023253Z",
+  "model": "glm-5.3"
+}

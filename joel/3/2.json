@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joel 3:2",
+  "book": "joel",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "И на слуге и на служавке у те дане излићу ⟨את⟩ дух свој.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "и"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "העבדים",
+      "gloss": "слуге"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "השפחות",
+      "gloss": "служавке"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "у дане"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "те"
+    },
+    {
+      "surface": "אשפוך",
+      "gloss": "излићу"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дух свој"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "дух свој"
+    }
+  ],
+  "timestamp": "2026-09-05T13:04:13.439968247Z",
+  "model": "glm-5.3"
+}

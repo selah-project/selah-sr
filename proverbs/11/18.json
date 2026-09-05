@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 11:18",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "Зли чини дело лажи, а ко сеје правду — плату истине ⟨ждове⟩.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "зли"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "чини"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "дело"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "лажи"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "а ко сеје"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "правду"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "плату"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "истине"
+    }
+  ],
+  "timestamp": "2026-09-05T13:48:46.987023531Z",
+  "model": "glm-5.3"
+}

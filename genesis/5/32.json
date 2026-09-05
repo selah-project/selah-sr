@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 5:32",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "И би Ноах (Ное) син пет стотина година, и роди Ноах ⟨את⟩ Шема ⟨את⟩ Хама и ⟨את⟩ Јафета.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И би"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ноах (Ное)"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "пет"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "стотина"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "година"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "и роди"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ноах"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Шема"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Шема"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Хама"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Хама"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Јафета"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Јафета"
+    }
+  ],
+  "timestamp": "2026-09-05T14:58:07.939686906Z",
+  "model": "glm-5.3"
+}

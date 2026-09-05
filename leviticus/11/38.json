@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 11:38",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "Ако се пак вода стави на семе и падне од њихове лешине на њега — нечисто је оно вама.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "Ако пак"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "стави се"
+    },
+    {
+      "surface": "מים",
+      "gloss": "вода"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "семе"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "и падне"
+    },
+    {
+      "surface": "מנבלתם",
+      "gloss": "од њихове лешине"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "на њега"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "нечисто"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "оно"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вама"
+    }
+  ],
+  "timestamp": "2026-09-05T10:18:34.528577569Z",
+  "model": "glm-5.3"
+}

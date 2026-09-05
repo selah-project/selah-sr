@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Време рађању и време умирању, време сађењу и време чупању посађеног.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "Време"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "рађању"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "и време"
+    },
+    {
+      "surface": "למות",
+      "gloss": "умирању"
+    },
+    {
+      "surface": "עת",
+      "gloss": "време"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "сађењу"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "и време"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "чупању"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "посађеног"
+    }
+  ],
+  "timestamp": "2026-09-05T14:11:27.685349612Z",
+  "model": "glm-5.3"
+}

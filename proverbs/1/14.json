@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 1:14",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "Горал свој баци међу нас, једна ће ковчег-торба ⟨бити⟩ свима нама.",
+  "tokens": [
+    {
+      "surface": "גורלך",
+      "gloss": "горал свој"
+    },
+    {
+      "surface": "תפיל",
+      "gloss": "баци"
+    },
+    {
+      "surface": "בתוכנו",
+      "gloss": "међу нас"
+    },
+    {
+      "surface": "כיס",
+      "gloss": "торба"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "једна"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ће бити"
+    },
+    {
+      "surface": "לכלנו",
+      "gloss": "свима нама"
+    }
+  ],
+  "timestamp": "2026-09-05T17:10:48.894561870Z",
+  "model": "glm-5.3"
+}

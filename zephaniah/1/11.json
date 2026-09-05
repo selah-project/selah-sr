@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zephaniah 1:11",
+  "book": "zephaniah",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "Завијте, становници Мактеша, јер утичу сви људи Кенаана, истребљени сви носиоци сребра.",
+  "tokens": [
+    {
+      "surface": "הילילו",
+      "gloss": "Завијте"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "становници"
+    },
+    {
+      "surface": "המכתש",
+      "gloss": "Мактеша"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "утичу"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сви"
+    },
+    {
+      "surface": "עם",
+      "gloss": "људи"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Кенаана"
+    },
+    {
+      "surface": "נכרתו",
+      "gloss": "истребљени"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сви"
+    },
+    {
+      "surface": "נטילי",
+      "gloss": "носиоци"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "сребра"
+    }
+  ],
+  "timestamp": "2026-09-05T13:11:30.802222896Z",
+  "model": "glm-5.3"
+}

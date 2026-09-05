@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 44:19",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 44,
+  "translation": "Господару мој, питаш слуге своје ⟨את⟩ говорећи: имате ли оца, или брата?",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "господару мој"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "питао си"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "слуге своје"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "слуге своје"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорећи"
+    },
+    {
+      "surface": "היש",
+      "gloss": "имате ли"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ви"
+    },
+    {
+      "surface": "אב",
+      "gloss": "оца"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "אח",
+      "gloss": "брата"
+    }
+  ],
+  "timestamp": "2026-09-05T09:56:40.367949729Z",
+  "model": "glm-5.3"
+}

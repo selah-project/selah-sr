@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 43:31",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 43,
+  "translation": "И уми лице своје, и изиђе, и савладa се, и рече: „Поставите хлеб.“",
+  "tokens": [
+    {
+      "surface": "וירחץ",
+      "gloss": "уми"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "лице своје"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "и изиђе"
+    },
+    {
+      "surface": "ויתאפק",
+      "gloss": "и савлада се"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "поставите"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хлеб"
+    }
+  ],
+  "timestamp": "2026-09-05T09:56:17.162449303Z",
+  "model": "glm-5.3"
+}

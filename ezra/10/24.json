@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezra 10:24",
+  "book": "ezra",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "И од певача: Елиашив; и од вратара: Шаллум, и Телем, и Ури.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "и од"
+    },
+    {
+      "surface": "המשררים",
+      "gloss": "певача"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "Елиашив"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "и од"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "вратара"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "Шаллум"
+    },
+    {
+      "surface": "וטלם",
+      "gloss": "и Телем"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "и Ури"
+    }
+  ],
+  "timestamp": "2026-09-05T14:27:37.835621047Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 3:19",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "а ја знам да неће дати краљ Мицрајима ⟨את⟩ вама да идете, и то не ⟨ђе⟩ без руке силне",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "а ја"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "знам"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "לא",
+      "gloss": "неће"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "дати"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "вама"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "краљ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрајима"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "да идете"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "руке"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "силне"
+    }
+  ],
+  "timestamp": "2026-09-05T10:01:22.881411276Z",
+  "model": "glm-5.3"
+}

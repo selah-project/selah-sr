@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 30:17",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 30,
+  "translation": "Младићи Авена и Пи-Бесета од мача ће пасти, а оне ⟨ће⟩ у ропство поћи.",
+  "tokens": [
+    {
+      "surface": "בחורי",
+      "gloss": "Младићи"
+    },
+    {
+      "surface": "און",
+      "gloss": "Авена"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "и Пи-"
+    },
+    {
+      "surface": "בסת",
+      "gloss": "Бесета"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "од мача"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "ће пасти"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "а оне"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "у ропство"
+    },
+    {
+      "surface": "תלכנה",
+      "gloss": "поћи"
+    }
+  ],
+  "timestamp": "2026-09-05T12:52:10.992437855Z",
+  "model": "glm-5.3"
+}

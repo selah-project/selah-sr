@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 87:6",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 87,
+  "translation": "Јахве ће набројати, уписујући народе: овај родио се тамо. Села.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "ће набројати"
+    },
+    {
+      "surface": "בכתוב",
+      "gloss": "уписујући"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "народе"
+    },
+    {
+      "surface": "זה",
+      "gloss": "овај"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "родио се"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тамо"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Села"
+    }
+  ],
+  "timestamp": "2026-09-05T13:34:18.287521451Z",
+  "model": "glm-5.3"
+}

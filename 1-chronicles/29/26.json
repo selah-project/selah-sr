@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 29:26",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 29,
+  "translation": "А Давид (Давид), син Јишајев (Јесејев), краљеваше над свим Израиљем.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "А Давид"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Јишајев (Јесејев)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "краљеваше"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "כל",
+      "gloss": "свим"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљем"
+    }
+  ],
+  "timestamp": "2026-09-05T14:43:39.744074146Z",
+  "model": "glm-5.3"
+}

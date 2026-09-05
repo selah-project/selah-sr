@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 33:6",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 33,
+  "translation": "Нека живи Рувен и да не умре, и нека људи његови ⟨буду⟩ у броју.",
+  "tokens": [
+    {
+      "surface": "יחי",
+      "gloss": "Нека живи"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Рувен"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и нека буде"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и да не"
+    },
+    {
+      "surface": "ימת",
+      "gloss": "умре"
+    },
+    {
+      "surface": "מתיו",
+      "gloss": "људи његови"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "број"
+    }
+  ],
+  "timestamp": "2026-09-05T10:56:30.948002088Z",
+  "model": "glm-5.3"
+}

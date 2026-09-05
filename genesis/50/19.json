@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 50:19",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 50,
+  "translation": "И рече им Јосеф: „Не бојте се, јер зар уместо Елохима ⟨стојим⟩ ја?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Јосеф"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "бојте се"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "התחת",
+      "gloss": "зар уместо"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохима"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    }
+  ],
+  "timestamp": "2026-09-05T09:59:34.464956162Z",
+  "model": "glm-5.3"
+}

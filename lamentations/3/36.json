@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "lamentations 3:36",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Да искриви човека у парници његовој — Адонај ⟨то⟩ не виде.",
+  "tokens": [
+    {
+      "surface": "לעות",
+      "gloss": "Да искриви"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човека"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "у парници његовој"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "виде"
+    }
+  ],
+  "timestamp": "2026-09-05T14:09:22.434307083Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 21:1",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "И Јахве обиђе ⟨את⟩ Сару како је рекао, и учини Јахве Сари како је говорио.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "И Јахве"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "обиђе"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Сару"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Сару"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "како"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "је рекао"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "и учини"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "לשרה",
+      "gloss": "Сари"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "како"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "је говорио"
+    }
+  ],
+  "timestamp": "2026-09-05T09:45:13.913407147Z",
+  "model": "glm-5.3"
+}

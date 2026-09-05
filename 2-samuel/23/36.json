@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-samuel 23:36",
+  "book": "2-samuel",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "Јигал син Натана из Цове, Бани Гадићанин,",
+  "tokens": [
+    {
+      "surface": "יגאל",
+      "gloss": "Јигал"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Натана"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "из Цове"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Бани"
+    },
+    {
+      "surface": "הגדי",
+      "gloss": "Гадићанин"
+    }
+  ],
+  "timestamp": "2026-09-05T11:37:11.387410946Z",
+  "model": "glm-5.3"
+}

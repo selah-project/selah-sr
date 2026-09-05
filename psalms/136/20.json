@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 136:20",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 136,
+  "translation": "и Огy (Ог), краљу Башана, јер довека ⟨траје⟩ хесед његов.",
+  "tokens": [
+    {
+      "surface": "ולעוג",
+      "gloss": "и Огy (Ог)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "краљу"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Башана"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "довека"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "хесед његов"
+    }
+  ],
+  "timestamp": "2026-09-05T13:43:17.046561715Z",
+  "model": "glm-5.3"
+}

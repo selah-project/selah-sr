@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 34:2",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 34,
+  "translation": "и ⟨את⟩ сав Нефтали, и ⟨את⟩ земљу Ефраима и Манасије, и ⟨את⟩ сву земљу Јуде, све до задњег мора,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "сав Нефтали"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сав"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Нефтали"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "земљу Ефраима"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земљу"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Ефраима"
+    },
+    {
+      "surface": "ומנשה",
+      "gloss": "и Манасије"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "сву земљу Јуде"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сву"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земљу"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јуде"
+    },
+    {
+      "surface": "עד",
+      "gloss": "све до"
+    },
+    {
+      "surface": "הים",
+      "gloss": "мора"
+    },
+    {
+      "surface": "האחרון",
+      "gloss": "задњег"
+    }
+  ],
+  "timestamp": "2026-09-05T10:56:34.359815017Z",
+  "model": "glm-5.3"
+}

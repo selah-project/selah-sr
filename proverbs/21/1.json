@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 21:1",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "Поточићи воде ⟨јесте⟩ срце краља у руци Јахвеа; куда год хоће, он га ⟨нагиње⟩.",
+  "tokens": [
+    {
+      "surface": "פלגי",
+      "gloss": "поточићи"
+    },
+    {
+      "surface": "מים",
+      "gloss": "воде"
+    },
+    {
+      "surface": "לב",
+      "gloss": "срце"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "краља"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "у руци"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "על",
+      "gloss": "куда"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "хоће"
+    },
+    {
+      "surface": "יטנו",
+      "gloss": "нагиње га"
+    }
+  ],
+  "timestamp": "2026-09-05T16:01:51.432706301Z",
+  "model": "glm-5.3"
+}

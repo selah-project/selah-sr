@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 43:8",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 43,
+  "translation": "И би реч Јахвеа ка Јермeјаху у Тахпанхесу, говорећи:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "и би"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "реч"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ка"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Јермејаху"
+    },
+    {
+      "surface": "בתחפנחס",
+      "gloss": "у Тахпанхесу"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорећи"
+    }
+  ],
+  "timestamp": "2026-09-05T15:41:17.761029930Z",
+  "model": "glm-5.3"
+}

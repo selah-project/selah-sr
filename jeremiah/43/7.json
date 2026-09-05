@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 43:7",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 43,
+  "translation": "И дођоше у земљу Мицрајим, јер не послушаше глас Јахвеа; и дођоше све до Тахпанхеса.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "и дођоше"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земљу"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрајим"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "послушаше"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "глас"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "и дођоше"
+    },
+    {
+      "surface": "עד",
+      "gloss": "све до"
+    },
+    {
+      "surface": "תחפנחס",
+      "gloss": "Тахпанхеса"
+    }
+  ],
+  "timestamp": "2026-09-05T15:41:17.760786237Z",
+  "model": "glm-5.3"
+}

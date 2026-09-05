@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 12:40",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "И бише онамо са Давидом дане три, једући и пијући, јер им приправише браћа њихова.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "И бише"
+    },
+    {
+      "surface": "שם",
+      "gloss": "онамо"
+    },
+    {
+      "surface": "עם",
+      "gloss": "са"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давидом"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дане"
+    },
+    {
+      "surface": "שלושה",
+      "gloss": "три"
+    },
+    {
+      "surface": "אכלים",
+      "gloss": "једући"
+    },
+    {
+      "surface": "ושותים",
+      "gloss": "и пијући"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "הכינו",
+      "gloss": "приправише"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "браћа њихова"
+    }
+  ],
+  "timestamp": "2026-09-05T14:39:39.635262140Z",
+  "model": "glm-5.3"
+}

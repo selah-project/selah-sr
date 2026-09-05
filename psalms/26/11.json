@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 26:11",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 26,
+  "translation": "А ја ходићу у невиности својој; откупи ме и помилуј ме.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "а ја"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "у невиности својој"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ходићу"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "откупи ме"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "и помилуј ме"
+    }
+  ],
+  "timestamp": "2026-09-05T13:20:25.255917311Z",
+  "model": "glm-5.3"
+}

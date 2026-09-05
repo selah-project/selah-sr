@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 25:17",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 25,
+  "translation": "Десети Шими (Шимај), синови његови и брата његова — дванаест.",
+  "tokens": [
+    {
+      "surface": "העשירי",
+      "gloss": "Десети"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Шими"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "синови његови"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "и брата његова"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "дванаест ⟨два⟩"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨-наест⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T16:15:16.032120265Z",
+  "model": "glm-5.3"
+}

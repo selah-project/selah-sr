@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 19:10",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 19,
+  "translation": "Није пристало лудаку раскош, а камоли слузи да влада над кнезовима.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "није"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "пристало"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "лудаку"
+    },
+    {
+      "surface": "תענוג",
+      "gloss": "раскош"
+    },
+    {
+      "surface": "אף",
+      "gloss": "а камоли"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨да⟩"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "слузи"
+    },
+    {
+      "surface": "משל",
+      "gloss": "влада"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "над кнезовима"
+    }
+  ],
+  "timestamp": "2026-09-05T13:50:36.735424416Z",
+  "model": "glm-5.3"
+}

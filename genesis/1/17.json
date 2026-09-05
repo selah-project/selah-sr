@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 1:17",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "И постави их Елохим у своду небеса да светле на земљи.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "и постави"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ њих",
+      "marks": "њих — два светла и звезде"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "ברקיע",
+      "gloss": "у своду"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небеса"
+    },
+    {
+      "surface": "להאיר",
+      "gloss": "да светле"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земљи"
+    }
+  ],
+  "timestamp": "2026-09-05T14:57:58.592797716Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 25:28",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 25,
+  "translation": "Град разорен без зида — човек који нема узде духу своме.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "град"
+    },
+    {
+      "surface": "פרוצה",
+      "gloss": "разорен"
+    },
+    {
+      "surface": "אין",
+      "gloss": "без"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "зида"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "מעצר",
+      "gloss": "узде"
+    },
+    {
+      "surface": "לרוחו",
+      "gloss": "духу своме"
+    }
+  ],
+  "timestamp": "2026-09-05T13:52:26.752990436Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 5:30",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Ужас и одвратност догодише се у земљи.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "ужас"
+    },
+    {
+      "surface": "ושערורה",
+      "gloss": "и одвратност"
+    },
+    {
+      "surface": "נהיתה",
+      "gloss": "догодише се"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "у земљи"
+    }
+  ],
+  "timestamp": "2026-09-05T12:22:13.123752036Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 2:8",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "И рече њој кћи фараонова: „Иди.“ И отиде девојка, те дозва ⟨את⟩ матер дететову.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "לה",
+      "gloss": "њој"
+    },
+    {
+      "surface": "בת",
+      "gloss": "кћи"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "фараонова"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "иди"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "и отиде"
+    },
+    {
+      "surface": "העלמה",
+      "gloss": "девојка"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "те дозва"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "матер дететову"
+    },
+    {
+      "surface": "אם",
+      "gloss": "матер"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "дететову"
+    }
+  ],
+  "timestamp": "2026-09-05T09:59:08.561105159Z",
+  "model": "glm-5.3"
+}

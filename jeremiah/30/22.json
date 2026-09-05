@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 30:22",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 30,
+  "translation": "И бићете мени за народ, а ја ћу бити вама за Елохима.",
+  "tokens": [
+    {
+      "surface": "והייתם",
+      "gloss": "и бићете"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мени"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "за народ"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "а ја"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ћу бити"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вама"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "за Елохима"
+    }
+  ],
+  "timestamp": "2026-09-05T12:32:29.864830240Z",
+  "model": "glm-5.3"
+}

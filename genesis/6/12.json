@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 6:12",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "И виде Елохим ⟨את⟩ земљу, и ето, покварена је, јер поквари свако тело ⟨את⟩ пут свој на земљи.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "И виде"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "земљу"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земљу"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и ето"
+    },
+    {
+      "surface": "נשחתה",
+      "gloss": "покварена је"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "השחית",
+      "gloss": "поквари"
+    },
+    {
+      "surface": "כל",
+      "gloss": "свако"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "тело"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "пут свој"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "пут свој"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земљи"
+    }
+  ],
+  "timestamp": "2026-09-05T09:40:23.514878376Z",
+  "model": "glm-5.3"
+}

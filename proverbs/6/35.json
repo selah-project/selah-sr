@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "proverbs 6:35",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "Неће подићи лице према никаквом откупу, и неће пристати, ма ⟨колико⟩ умножио поклоне.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "подићи ће"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лице"
+    },
+    {
+      "surface": "כל",
+      "gloss": "никакав"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "откуп"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יאבה",
+      "gloss": "пристати"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ма"
+    },
+    {
+      "surface": "תרבה",
+      "gloss": "умножио"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "поклоне"
+    }
+  ],
+  "timestamp": "2026-09-05T13:47:01.685008973Z",
+  "model": "glm-5.3"
+}

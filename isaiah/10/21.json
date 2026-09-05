@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 10:21",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "Остатак ће се вратити, остатак Јаакова, ка Ел Гибору (Елу моћном).",
+  "tokens": [
+    {
+      "surface": "שאר",
+      "gloss": "остатак"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "вратиће се"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "остатак"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Јаакова"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ка"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "Гибор"
+    }
+  ],
+  "timestamp": "2026-09-05T12:04:52.816667706Z",
+  "model": "glm-5.3"
+}

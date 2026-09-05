@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "proverbs 8:35",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "Јер ко ме нађе, нађе ⟨је⟩ живот, и стекне милост од Јахвеа.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "מצאי",
+      "gloss": "ко ме нађе"
+    },
+    {
+      "surface": "מצאי",
+      "gloss": "нађе"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "живот"
+    },
+    {
+      "surface": "ויפק",
+      "gloss": "и стекне"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "милост"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "од Јахвеа"
+    }
+  ],
+  "timestamp": "2026-09-05T13:47:36.439662881Z",
+  "model": "glm-5.3"
+}

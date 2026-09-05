@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 24:4",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "И знањем напуне се одаје ⟨са⟩ свим благом драгоценим и пријатним.",
+  "tokens": [
+    {
+      "surface": "ובדעת",
+      "gloss": "и знањем"
+    },
+    {
+      "surface": "חדרים",
+      "gloss": "одаје"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "напуне се"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сва"
+    },
+    {
+      "surface": "הון",
+      "gloss": "блага"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "драгоцена"
+    },
+    {
+      "surface": "ונעים",
+      "gloss": "и пријатна"
+    }
+  ],
+  "timestamp": "2026-09-05T13:52:22.218645702Z",
+  "model": "glm-5.3"
+}

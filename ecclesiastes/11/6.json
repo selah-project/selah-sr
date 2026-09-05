@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 11:6",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "Ујутру посиј ⟨את⟩ семе своје, а увече не одмарај руку своју; јер не знаш гда ће поспети — ово или оно, а ако обоје ⟨буду⟩ као једно, добри су.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "ујутру"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "посиј"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "семе своје"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "семе своје"
+    },
+    {
+      "surface": "ולערב",
+      "gloss": "а увече"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "одмарај"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "руку своју"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "не"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "знаш"
+    },
+    {
+      "surface": "אי",
+      "gloss": "где"
+    },
+    {
+      "surface": "זה",
+      "gloss": "да ли"
+    },
+    {
+      "surface": "יכשר",
+      "gloss": "ће поспети"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ово"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "זה",
+      "gloss": "оно"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "а ако"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "обоје"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "као једно"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "добри су"
+    }
+  ],
+  "timestamp": "2026-09-05T14:13:56.764482106Z",
+  "model": "glm-5.3"
+}

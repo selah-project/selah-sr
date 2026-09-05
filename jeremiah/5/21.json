@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 5:21",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Чујте сад ово, народе безуман и без срца: очи имају а не виде, уши имају а не чују.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Чујте"
+    },
+    {
+      "surface": "נא",
+      "gloss": "сад"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ово"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народе"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "безуман"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и без"
+    },
+    {
+      "surface": "לב",
+      "gloss": "срца"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "очи"
+    },
+    {
+      "surface": "להם",
+      "gloss": "имају"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "а не"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "виде"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "уши"
+    },
+    {
+      "surface": "להם",
+      "gloss": "имају"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "а не"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "чују"
+    }
+  ],
+  "timestamp": "2026-09-05T12:22:17.521430483Z",
+  "model": "glm-5.3"
+}

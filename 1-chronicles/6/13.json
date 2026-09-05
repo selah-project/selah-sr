@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 6:13",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "И синови Шемуела: прворођени ⟨и⟩ Вашни, и Авија.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "и синови"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шемуела"
+    },
+    {
+      "surface": "הבכר",
+      "gloss": "прворођени"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "и Вашни"
+    },
+    {
+      "surface": "ואביה",
+      "gloss": "и Авија"
+    }
+  ],
+  "timestamp": "2026-09-05T14:36:13.261130240Z",
+  "model": "glm-5.3"
+}

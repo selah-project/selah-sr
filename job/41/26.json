@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 41:26",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 41,
+  "translation": "Види ⟨את⟩ сваку висост; он ⟨је⟩ краљ над свим синовима охолости.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сву висост"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сву"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "висост"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "види"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "краљ"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "כל",
+      "gloss": "свим"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовима"
+    },
+    {
+      "surface": "שחץ",
+      "gloss": "охолости"
+    }
+  ],
+  "timestamp": "2026-09-05T17:11:48.691667129Z",
+  "model": "glm-5.3"
+}

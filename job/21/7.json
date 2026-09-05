@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 21:7",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "Зашто безбожници живе, остареше, чак и oјачаше моћи?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "Зашто"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "безбожници"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "живе"
+    },
+    {
+      "surface": "עתקו",
+      "gloss": "остареше"
+    },
+    {
+      "surface": "גם",
+      "gloss": "чак"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "ојачаше"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "моћи"
+    }
+  ],
+  "timestamp": "2026-09-05T16:04:16.164137613Z",
+  "model": "glm-5.3"
+}

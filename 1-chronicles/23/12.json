@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 23:12",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "Синови Кехатови: Амрам, Јицхар, Хеврон и Узиил, четворица.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синови"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Кехатови"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Амрам"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "Јицхар"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Хеврон"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "и Узиил"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "четворица"
+    }
+  ],
+  "timestamp": "2026-09-05T14:42:03.119307810Z",
+  "model": "glm-5.3"
+}

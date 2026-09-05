@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "lamentations 3:29",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Нека положи у прах уста своја — можда има наде.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "Нека положи"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "у прах"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "уста своја"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "можда"
+    },
+    {
+      "surface": "יש",
+      "gloss": "има"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "наде"
+    }
+  ],
+  "timestamp": "2026-09-05T16:06:54.249494732Z",
+  "model": "glm-5.3"
+}

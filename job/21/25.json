@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 21:25",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "И овај умире у горкој души, и никад није јео ⟨у⟩ добру.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "и овај"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "умире"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "у души"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "горкој"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "јео"
+    },
+    {
+      "surface": "בטובה",
+      "gloss": "у добру"
+    }
+  ],
+  "timestamp": "2026-09-05T14:00:16.962471261Z",
+  "model": "glm-5.3"
+}

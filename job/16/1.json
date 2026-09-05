@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 16:1",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 16,
+  "translation": "И одговори Јов (Јов) и рече:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "и одговори"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Јов"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    }
+  ],
+  "timestamp": "2026-09-05T13:59:11.388877489Z",
+  "model": "glm-5.3"
+}

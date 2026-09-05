@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 35:21",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 35,
+  "translation": "И крену Израел и разапре шатор свој даље од Мигдал-Едера.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "И крену"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израел"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "и разапре"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "шатор свој"
+    },
+    {
+      "surface": "מהלאה",
+      "gloss": "даље од"
+    },
+    {
+      "surface": "למגדל",
+      "gloss": "Мигдал-"
+    },
+    {
+      "surface": "עדר",
+      "gloss": "Едера"
+    }
+  ],
+  "timestamp": "2026-09-05T09:52:00.556660653Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 14:24",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "Венац мудрима ⟨је⟩ богатство њихово, а лудост будалâ — лудост.",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "Венац"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "мудрима"
+    },
+    {
+      "surface": "עשרם",
+      "gloss": "богатство њихово"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "лудост"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "будалâ"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "лудост"
+    }
+  ],
+  "timestamp": "2026-09-05T13:49:22.875021328Z",
+  "model": "glm-5.3"
+}

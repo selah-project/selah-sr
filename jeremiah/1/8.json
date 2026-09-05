@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 1:8",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "Не бој се њихових лица, јер ⟨сам⟩ ⟨את⟩ ⟨с⟩ тобом да те избавим, рече Јахве.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "бој се"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "њихових лица"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ⟨с⟩ тобом"
+    },
+    {
+      "surface": "אני",
+      "gloss": "⟨сам⟩ ја"
+    },
+    {
+      "surface": "להצלך",
+      "gloss": "да те избавим"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-09-05T12:20:01.210112029Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 10:5",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "И звук крила керувима чу се до спољашњег двора, као глас Ел Шадаја кад говори.",
+  "tokens": [
+    {
+      "surface": "וקול",
+      "gloss": "и звук"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "крила"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "керувима"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "чу се"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "двора"
+    },
+    {
+      "surface": "החיצנה",
+      "gloss": "спољашњег"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "као глас"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Шадаја"
+    },
+    {
+      "surface": "בדברו",
+      "gloss": "кад говори"
+    }
+  ],
+  "timestamp": "2026-09-05T17:06:01.855446818Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 92:2",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 92,
+  "translation": "Добро ⟨је⟩ захваљивати Јахвеу и певати Имену твом, Елиону:",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Добро"
+    },
+    {
+      "surface": "להדות",
+      "gloss": "захваљивати"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Јахвеу"
+    },
+    {
+      "surface": "ו לזמר",
+      "gloss": "и певати"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "Имену твом"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Елион"
+    }
+  ],
+  "timestamp": "2026-09-05T13:35:20.942190907Z",
+  "model": "glm-5.3"
+}

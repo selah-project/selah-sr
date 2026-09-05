@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 104:8",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 104,
+  "translation": "Узлазе планине, силазе долине, ка месту које си утемељио њима.",
+  "tokens": [
+    {
+      "surface": "יעלו",
+      "gloss": "Узлазе"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "планине"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "силазе"
+    },
+    {
+      "surface": "בקעות",
+      "gloss": "долине"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ка"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "месту"
+    },
+    {
+      "surface": "זה",
+      "gloss": "које"
+    },
+    {
+      "surface": "יסדת",
+      "gloss": "си утемељио"
+    },
+    {
+      "surface": "להם",
+      "gloss": "њима"
+    }
+  ],
+  "timestamp": "2026-09-05T13:36:47.285511828Z",
+  "model": "glm-5.3"
+}

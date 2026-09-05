@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 73:25",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 73,
+  "translation": "Ко је мени ⟨је⟩ на небесима? А с тобом ништа ⟨не⟩ пожелех на земљи.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ко"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мени"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "на небесима"
+    },
+    {
+      "surface": "ועמך",
+      "gloss": "а с тобом"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "пожелех"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "на земљи"
+    }
+  ],
+  "timestamp": "2026-09-05T13:31:00.753711960Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 4:25",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "Шалум син његов, Мивсам син његов, Мишма син његов.",
+  "tokens": [
+    {
+      "surface": "שלם",
+      "gloss": "Шалум"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син његов"
+    },
+    {
+      "surface": "מבשם",
+      "gloss": "Мивсам"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син његов"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "Мишма"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син његов"
+    }
+  ],
+  "timestamp": "2026-09-05T14:35:17.279138849Z",
+  "model": "glm-5.3"
+}

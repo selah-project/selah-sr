@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 19:5",
+  "book": "joshua",
+  "lang": "sr",
+  "chapter": 19,
+  "translation": "и Циклаг, и Бет-Маркабот и Хацар-Сусах.",
+  "tokens": [
+    {
+      "surface": "וצקלג",
+      "gloss": "и Циклаг"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "и Бет-"
+    },
+    {
+      "surface": "המרכבות",
+      "gloss": "Маркабот"
+    },
+    {
+      "surface": "וחצר",
+      "gloss": "и Хацар-"
+    },
+    {
+      "surface": "סוסה",
+      "gloss": "Сусах"
+    }
+  ],
+  "timestamp": "2026-09-05T11:03:20.332721686Z",
+  "model": "glm-5.3"
+}

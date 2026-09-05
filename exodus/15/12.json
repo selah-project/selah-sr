@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 15:12",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 15,
+  "translation": "Простре десницу Своју — прогута их земља.",
+  "tokens": [
+    {
+      "surface": "נטית",
+      "gloss": "Простре"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "десницу Своју"
+    },
+    {
+      "surface": "תבלעמו",
+      "gloss": "прогута их"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земља"
+    }
+  ],
+  "timestamp": "2026-09-05T15:03:59.692830482Z",
+  "model": "glm-5.3"
+}

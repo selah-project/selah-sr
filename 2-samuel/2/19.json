@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 2:19",
+  "book": "2-samuel",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "И потера Асаел за Авнером, и не скрета да би ишао надесно ни налево иза Авнера.",
+  "tokens": [
+    {
+      "surface": "וירדף",
+      "gloss": "И потера"
+    },
+    {
+      "surface": "עשהאל",
+      "gloss": "Асаел"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "за"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Авнером"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "скрета"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "да би ишао"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הימין",
+      "gloss": "десно"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ни на"
+    },
+    {
+      "surface": "השמאול",
+      "gloss": "лево"
+    },
+    {
+      "surface": "מאחרי",
+      "gloss": "иза"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Авнера"
+    }
+  ],
+  "timestamp": "2026-09-05T11:28:12.387066047Z",
+  "model": "glm-5.3"
+}

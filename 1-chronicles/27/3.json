@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 27:3",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 27,
+  "translation": "Од синова Перецових, ⟨он је⟩ глава свим заповедницима војски, за месец први.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Од"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синова"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Перецових"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "глава"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "свим"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "заповедницима"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "војски"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "за месец"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "први"
+    }
+  ],
+  "timestamp": "2026-09-05T14:43:36.414815872Z",
+  "model": "glm-5.3"
+}

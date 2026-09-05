@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 13:4",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "Данас изилазите, у месецу Авиву.",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "Данас"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ви"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "изилазите"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "у месецу"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "Авиву"
+    }
+  ],
+  "timestamp": "2026-09-05T15:03:07.689233961Z",
+  "model": "glm-5.3"
+}

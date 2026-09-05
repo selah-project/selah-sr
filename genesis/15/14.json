@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 15:14",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 15,
+  "translation": "А и ⟨את⟩ народ којем ће служити — судићу га ја; а после тога изићи ће с имањем великим.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "А и"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "народ"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "народ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "којем"
+    },
+    {
+      "surface": "יעבדו",
+      "gloss": "ће служити"
+    },
+    {
+      "surface": "דן",
+      "gloss": "судићу"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ја"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "а после"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тога"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "изићи ће"
+    },
+    {
+      "surface": "ברכש",
+      "gloss": "с имањем"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "великим"
+    }
+  ],
+  "timestamp": "2026-09-05T16:32:35.265243642Z",
+  "model": "glm-5.3"
+}

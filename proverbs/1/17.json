@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 1:17",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "Јер узалуд је разасута мрежа пред очима свакога поседника крила.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "узалуд"
+    },
+    {
+      "surface": "מזרה",
+      "gloss": "разасута"
+    },
+    {
+      "surface": "הרשת",
+      "gloss": "мрежа"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "пред очима"
+    },
+    {
+      "surface": "כל",
+      "gloss": "свакога"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "поседника"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "крила"
+    }
+  ],
+  "timestamp": "2026-09-05T13:45:28.682667568Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 10:18",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "Ко прикрива мржњу уснама лажи, и ко износи оговор, тај ⟨јесте⟩ луда.",
+  "tokens": [
+    {
+      "surface": "מכסה",
+      "gloss": "Ко прикрива"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "мржњу"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "уснама"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "лажи"
+    },
+    {
+      "surface": "ומוצא",
+      "gloss": "и ко износи"
+    },
+    {
+      "surface": "דבה",
+      "gloss": "оговор"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тај"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "луда"
+    }
+  ],
+  "timestamp": "2026-09-05T13:48:11.714466826Z",
+  "model": "glm-5.3"
+}

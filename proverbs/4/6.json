@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 4:6",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "Не напуштај је, и чуваће те; воли је, и она ће те штитити.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תעזבה",
+      "gloss": "напуштај је"
+    },
+    {
+      "surface": "ותשמרך",
+      "gloss": "и чуваће те"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "воли је"
+    },
+    {
+      "surface": "ותצרך",
+      "gloss": "и она ће те штитити"
+    }
+  ],
+  "timestamp": "2026-09-05T13:46:20.168860999Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 24:1",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "Не завиди људима зла, и не пожели да будеш ⟨את⟩ њима.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "завиди"
+    },
+    {
+      "surface": "באנשי",
+      "gloss": "људима"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зла"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "пожели"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "да будеш"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "њима"
+    }
+  ],
+  "timestamp": "2026-09-05T13:52:22.218153559Z",
+  "model": "glm-5.3"
+}

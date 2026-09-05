@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 33:4",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 33,
+  "translation": "Тору нам заповеди Моше — наслеђе скупштине Јааковљеве.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "Тору"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповеди"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "нам"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "наслеђе"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "скупштине"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Јааковљеве"
+    }
+  ],
+  "timestamp": "2026-09-05T10:55:58.698120116Z",
+  "model": "glm-5.3"
+}

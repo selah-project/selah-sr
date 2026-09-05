@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 2:13",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Сада устајте и пређите себи ⟨את⟩ поток Зеред. И пређосмо ⟨את⟩ поток Зеред.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Сада"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "устајте"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "и пређите"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "себи"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "поток"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "поток"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "Зеред"
+    },
+    {
+      "surface": "ונעבר",
+      "gloss": "и пређосмо"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "поток"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "поток"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "Зеред"
+    }
+  ],
+  "timestamp": "2026-09-05T10:43:24.243800464Z",
+  "model": "glm-5.3"
+}

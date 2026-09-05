@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 17:7",
+  "book": "1-kings",
+  "lang": "sr",
+  "chapter": 17,
+  "translation": "И би, на крају данâ, да поток пресахне, јер не беше кише на земљи.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "и би"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "на крају"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "данâ"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "да пресахне"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "поток"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "היה",
+      "gloss": "беше"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "кише"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "на земљи"
+    }
+  ],
+  "timestamp": "2026-09-05T11:46:10.741092168Z",
+  "model": "glm-5.3"
+}

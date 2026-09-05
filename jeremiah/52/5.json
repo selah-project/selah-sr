@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 52:5",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 52,
+  "translation": "И дође град у опсаду до једанаесте године цара Цидкијахуа.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "и дође"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "град"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "у опсаду"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "једанаесте"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "—"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "године"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "цара"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Цидкијахуа"
+    }
+  ],
+  "timestamp": "2026-09-05T12:41:23.274766787Z",
+  "model": "glm-5.3"
+}

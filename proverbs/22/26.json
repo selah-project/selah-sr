@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 22:26",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "не буди међу онима што лупају длан, међу јамцима за дугове.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "буди"
+    },
+    {
+      "surface": "בתקעי",
+      "gloss": "међу онима што лупају"
+    },
+    {
+      "surface": "כף",
+      "gloss": "длан"
+    },
+    {
+      "surface": "בערבים",
+      "gloss": "међу јамцима"
+    },
+    {
+      "surface": "משאות",
+      "gloss": "за дугове"
+    }
+  ],
+  "timestamp": "2026-09-05T13:51:35.482654045Z",
+  "model": "glm-5.3"
+}

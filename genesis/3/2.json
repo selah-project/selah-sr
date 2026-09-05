@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "А жена рече змији: „Од рода дрвета врта једемо;",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "А рече"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "жена"
+    },
+    {
+      "surface": "אל",
+      "gloss": "змији"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "⟨змији⟩"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "Од рода"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "дрвета"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "врта"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "једемо"
+    }
+  ],
+  "timestamp": "2026-09-05T09:39:46.427276674Z",
+  "model": "glm-5.3"
+}

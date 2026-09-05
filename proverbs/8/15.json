@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 8:15",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "Кроз мене краљеви царевају, и владари урезују право.",
+  "tokens": [
+    {
+      "surface": "בי",
+      "gloss": "кроз мене"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "краљеви"
+    },
+    {
+      "surface": "ימלכו",
+      "gloss": "царевају"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "и владари"
+    },
+    {
+      "surface": "יחקקו",
+      "gloss": "уразују"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "право"
+    }
+  ],
+  "timestamp": "2026-09-05T13:47:36.148836444Z",
+  "model": "glm-5.3"
+}

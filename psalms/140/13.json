@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 140:13",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 140,
+  "translation": "Знам да ће Јахве вршити ⟨את⟩ суд сиромаха, ⟨את⟩ правду убогих.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "Знам"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "вршиће"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "דין",
+      "gloss": "суд"
+    },
+    {
+      "surface": "עני",
+      "gloss": "сиромаха"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "правду"
+    },
+    {
+      "surface": "אבינים",
+      "gloss": "убогих"
+    }
+  ],
+  "timestamp": "2026-09-05T15:59:59.669102807Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 45:13",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 45,
+  "translation": "И кћер Цора ⟨долази⟩ с даром; лице твоје умољавају богати народа.",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "и кћер"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Цора"
+    },
+    {
+      "surface": "במנחה",
+      "gloss": "с даром"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "лице твоје"
+    },
+    {
+      "surface": "יחלו",
+      "gloss": "умољавају"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "богати"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народа"
+    }
+  ],
+  "timestamp": "2026-09-05T13:26:18.783777418Z",
+  "model": "glm-5.3"
+}

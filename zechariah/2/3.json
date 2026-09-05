@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 2:3",
+  "book": "zechariah",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "И показа ми Јахве четворицу занатлија.",
+  "tokens": [
+    {
+      "surface": "ויראני",
+      "gloss": "И показа ми"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "четворицу"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "занатлија"
+    }
+  ],
+  "timestamp": "2026-09-05T13:13:15.547381601Z",
+  "model": "glm-5.3"
+}

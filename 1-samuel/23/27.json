@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-samuel 23:27",
+  "book": "1-samuel",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "И дође гласник Шаулу рекавши: „ Пожури и дођи, јер упадоше Филистеји у земљу!“",
+  "tokens": [
+    {
+      "surface": "ומלאך",
+      "gloss": "И гласник"
+    },
+    {
+      "surface": "בא",
+      "gloss": "дође"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Шаулу"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "⟨Шаул⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "рекавши"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "Пожури"
+    },
+    {
+      "surface": "ולכה",
+      "gloss": "и дођи"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "פשטו",
+      "gloss": "упадоше"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Филистеји"
+    },
+    {
+      "surface": "על",
+      "gloss": "у"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земљу"
+    }
+  ],
+  "timestamp": "2026-09-05T11:24:16.292700487Z",
+  "model": "glm-5.3"
+}

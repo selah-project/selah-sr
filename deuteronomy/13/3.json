@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 13:3",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "И дође знак и чудо које рече теби, говорећи: „Хајдемо за боговима другима, које нисте знали, и служимо им“ —",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "И дође"
+    },
+    {
+      "surface": "האות",
+      "gloss": "знак"
+    },
+    {
+      "surface": "והמופת",
+      "gloss": "и чудо"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "које"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "теби"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорећи"
+    },
+    {
+      "surface": "נלכה",
+      "gloss": "хајдемо"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "за"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "боговима"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "другима"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "које"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "сте знали"
+    },
+    {
+      "surface": "ונעבדם",
+      "gloss": "и служимо им"
+    }
+  ],
+  "timestamp": "2026-09-05T15:13:29.621922280Z",
+  "model": "glm-5.3"
+}

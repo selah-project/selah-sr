@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 27:30",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 27,
+  "translation": "И сва десетина земље — од семена земље и од плода дрвета — Јахвеу ⟨је⟩: свето ⟨је⟩ Јахвеу.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "и св"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "десетина"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земље"
+    },
+    {
+      "surface": "מזרע",
+      "gloss": "од семена"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земље"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "од плода"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "дрвета"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Јахвеу"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨она⟩"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "свето"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Јахвеу"
+    }
+  ],
+  "timestamp": "2026-09-05T10:27:30.972823248Z",
+  "model": "glm-5.3"
+}

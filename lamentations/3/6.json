@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 3:6",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "У мраку ме усадио као мртве од века.",
+  "tokens": [
+    {
+      "surface": "במחשכים",
+      "gloss": "У мраку"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "ме усадио"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "као мртве"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "од века"
+    }
+  ],
+  "timestamp": "2026-09-05T14:09:09.192451869Z",
+  "model": "glm-5.3"
+}

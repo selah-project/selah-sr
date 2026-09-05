@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 33:26",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 33,
+  "translation": "И кренуше из Махелота, и подигоше логор у Тахату.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "И кренуше"
+    },
+    {
+      "surface": "ממקהלת",
+      "gloss": "из Махелота"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "и подигоше логор"
+    },
+    {
+      "surface": "בתחת",
+      "gloss": "у Тахат"
+    }
+  ],
+  "timestamp": "2026-09-05T10:42:05.379528775Z",
+  "model": "glm-5.3"
+}

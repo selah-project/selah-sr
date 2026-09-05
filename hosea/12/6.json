@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 12:6",
+  "book": "hosea",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "И Јахве, Елохим Цеваота — Јахве ⟨је⟩ спомен ⟨његов⟩.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "и Јахве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "Цеваота"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "спомен његов"
+    }
+  ],
+  "timestamp": "2026-09-05T13:02:00.228221275Z",
+  "model": "glm-5.3"
+}

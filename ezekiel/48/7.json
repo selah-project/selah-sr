@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 48:7",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 48,
+  "translation": "И уз границу Реувена, од стране источњачке до стране морске — Јехуда, један ⟨део⟩.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "И уз"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "границу"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Реувена"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "од стране"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "источњачке"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "стране"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "морске"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јехуда"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "један"
+    }
+  ],
+  "timestamp": "2026-09-05T12:59:30.219745281Z",
+  "model": "glm-5.3"
+}

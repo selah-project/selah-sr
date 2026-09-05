@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 11:12",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "Ко презире ближњега свога, без је срца, а човек разуман ћути.",
+  "tokens": [
+    {
+      "surface": "בז",
+      "gloss": "презире"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "ближњега свога"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "без је"
+    },
+    {
+      "surface": "לב",
+      "gloss": "срца"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "а човек"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "разуман"
+    },
+    {
+      "surface": "יחריש",
+      "gloss": "ћути"
+    }
+  ],
+  "timestamp": "2026-09-05T13:48:25.561898515Z",
+  "model": "glm-5.3"
+}

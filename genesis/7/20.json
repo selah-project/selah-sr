@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 7:20",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Петнаест лаката навише преовладаше воде, и покрише се горе.",
+  "tokens": [
+    {
+      "surface": "חמש",
+      "gloss": "пет"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "наест"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "лаката"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "навише"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "преовладаше"
+    },
+    {
+      "surface": "המים",
+      "gloss": "воде"
+    },
+    {
+      "surface": "ויכסו",
+      "gloss": "и покрише се"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "горе"
+    }
+  ],
+  "timestamp": "2026-09-05T09:41:03.953204187Z",
+  "model": "glm-5.3"
+}

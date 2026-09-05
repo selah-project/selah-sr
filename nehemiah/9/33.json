@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 9:33",
+  "book": "nehemiah",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "И ти си праведан у свему што је дошло на нас, јер си истину учинио, а ми зло учинисмо.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "И ти"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "праведан"
+    },
+    {
+      "surface": "על",
+      "gloss": "у"
+    },
+    {
+      "surface": "כל",
+      "gloss": "свему"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "што је дошло"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "на нас"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "истину"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "учинио си"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "а ми"
+    },
+    {
+      "surface": "הרשענו",
+      "gloss": "зло учинисмо"
+    }
+  ],
+  "timestamp": "2026-09-05T16:14:57.542007853Z",
+  "model": "glm-5.3"
+}

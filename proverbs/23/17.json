@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 23:17",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "Не нека завиди срце твоје грешницима, него у страху Јахвеовом сав дан.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "יקנא",
+      "gloss": "нека завиди"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "срце твоје"
+    },
+    {
+      "surface": "בחטאים",
+      "gloss": "грешницима"
+    },
+    {
+      "surface": "כי",
+      "gloss": "него"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨само⟩"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "у страху"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеовом"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сав"
+    },
+    {
+      "surface": "היום",
+      "gloss": "дан"
+    }
+  ],
+  "timestamp": "2026-09-05T13:52:16.368586344Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 2:9",
+  "book": "ezra",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Синови Закијеви, седам стотина и шездесет.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синови"
+    },
+    {
+      "surface": "זכי",
+      "gloss": "Закијеви"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "седам"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "стотина"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "и шездесет"
+    }
+  ],
+  "timestamp": "2026-09-05T14:23:36.903907672Z",
+  "model": "glm-5.3"
+}

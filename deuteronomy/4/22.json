@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 4:22",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "Јер ја умирем у земљи овој — нећу прећи ⟨את⟩ Јарден, а ви ћете прећи и наследити ⟨את⟩ земљу добру ову.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ја"
+    },
+    {
+      "surface": "מת",
+      "gloss": "умирем"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "у земљи"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "овој"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "нећу"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "прећи"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јарден"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Јарден"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "а ви"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "ћете прећи"
+    },
+    {
+      "surface": "וירשתם",
+      "gloss": "и наследити"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "земљу"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земљу"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "добру"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ову"
+    }
+  ],
+  "timestamp": "2026-09-05T10:45:32.422112676Z",
+  "model": "glm-5.3"
+}

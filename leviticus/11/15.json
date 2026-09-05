@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "⟨את⟩ свакога гаврана по врсти својој,",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "свакога гаврана"
+    },
+    {
+      "surface": "כל",
+      "gloss": "свакога"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "гаврана"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "по врсти својој"
+    }
+  ],
+  "timestamp": "2026-09-05T15:07:22.770303972Z",
+  "model": "glm-5.3"
+}

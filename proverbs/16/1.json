@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 16:1",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 16,
+  "translation": "Човеку припадају намере срца, а од Јахвеа ⟨је⟩ одговор језика.",
+  "tokens": [
+    {
+      "surface": "לאדם",
+      "gloss": "човеку"
+    },
+    {
+      "surface": "מערכי",
+      "gloss": "намере"
+    },
+    {
+      "surface": "לב",
+      "gloss": "срца"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "а од Јахвеа"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "одговор"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "језика"
+    }
+  ],
+  "timestamp": "2026-09-05T13:49:48.110518169Z",
+  "model": "glm-5.3"
+}

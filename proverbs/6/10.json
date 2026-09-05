@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 6:10",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "Мало сна, мало дремања, мало склапања руку — па леђа ⟨да се⟩ лежи",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "мало"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "сна"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "мало"
+    },
+    {
+      "surface": "תנומות",
+      "gloss": "дремања"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "мало"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "склапања"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "руку"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "да се лежи"
+    }
+  ],
+  "timestamp": "2026-09-05T13:47:04.158112806Z",
+  "model": "glm-5.3"
+}

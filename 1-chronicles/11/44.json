@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 11:44",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "Узија Аштаротски, Шема и Јеуило, синови Хотама Арарског.",
+  "tokens": [
+    {
+      "surface": "עזיא",
+      "gloss": "Узија"
+    },
+    {
+      "surface": "העשתרתי",
+      "gloss": "Аштаротски"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Шема"
+    },
+    {
+      "surface": "ויעואל",
+      "gloss": "и Јеуило"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "Хотамови"
+    },
+    {
+      "surface": "הערערי",
+      "gloss": "Арарски"
+    }
+  ],
+  "timestamp": "2026-09-05T14:37:08.418927464Z",
+  "model": "glm-5.3"
+}

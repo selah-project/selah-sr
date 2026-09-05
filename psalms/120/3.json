@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 120:3",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 120,
+  "translation": "Шта ће ⟨ти⟩ дати теби, и шта ⟨ће⟩ додати теби, језиче преварни?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Шта"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ће дати"
+    },
+    {
+      "surface": "לך",
+      "gloss": "теби"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "и шта"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "додати"
+    },
+    {
+      "surface": "לך",
+      "gloss": "теби"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "језиче"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "преварни"
+    }
+  ],
+  "timestamp": "2026-09-05T13:41:24.877540146Z",
+  "model": "glm-5.3"
+}

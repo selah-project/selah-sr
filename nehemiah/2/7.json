@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 2:7",
+  "book": "nehemiah",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "И рекох цару: ако ⟨је⟩ цару добро, нека ми дају писма намесницима преко реке, да ме пропусте докле не дођем у Јехуду.",
+  "tokens": [
+    {
+      "surface": "ואומר",
+      "gloss": "и рекох"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "цару"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨је⟩"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "цару"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "אגרות",
+      "gloss": "писма"
+    },
+    {
+      "surface": "יתנו",
+      "gloss": "нека дају"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "על",
+      "gloss": "према"
+    },
+    {
+      "surface": "פחוות",
+      "gloss": "намесницима"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "преко"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "реке"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨да⟩"
+    },
+    {
+      "surface": "יעבירוני",
+      "gloss": "ме пропусте"
+    },
+    {
+      "surface": "עד",
+      "gloss": "докле"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "не"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "дођем"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јехуду"
+    }
+  ],
+  "timestamp": "2026-09-05T14:30:36.205126796Z",
+  "model": "glm-5.3"
+}

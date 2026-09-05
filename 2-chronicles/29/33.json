@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-chronicles 29:33",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 29,
+  "translation": "И посвећених ствари: волова шест стотина, и ситне стоке три хиљаде.",
+  "tokens": [
+    {
+      "surface": "והקדשים",
+      "gloss": "И посвећених ствари"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "волова"
+    },
+    {
+      "surface": "שש",
+      "gloss": "шест"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "стотина"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "и ситне стоке"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "три"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "хиљаде"
+    }
+  ],
+  "timestamp": "2026-09-05T14:54:48.416847934Z",
+  "model": "glm-5.3"
+}

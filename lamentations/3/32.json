@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "lamentations 3:32",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "јер ако и ожалости, помиловаће по множини хеседа свога.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "הוגה",
+      "gloss": "ожалости"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "помиловаће"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "по множини"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "хеседа свога"
+    }
+  ],
+  "timestamp": "2026-09-05T16:07:36.043297239Z",
+  "model": "glm-5.3"
+}

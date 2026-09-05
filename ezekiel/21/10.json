@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 21:10",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "И знаће свако тело да ја, Јахве, извадих мач свој из футроле — неће се вратити више.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "и знаће"
+    },
+    {
+      "surface": "כל",
+      "gloss": "свако"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "тело"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "הוצאתי",
+      "gloss": "извадих"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "мач свој"
+    },
+    {
+      "surface": "מתערה",
+      "gloss": "из футроле"
+    },
+    {
+      "surface": "לא",
+      "gloss": "неће"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "вратити се"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "више"
+    }
+  ],
+  "timestamp": "2026-09-05T15:45:04.783967221Z",
+  "model": "glm-5.3"
+}

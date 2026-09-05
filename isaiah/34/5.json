@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 34:5",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 34,
+  "translation": "Јер се напоји на небесима мач мој; ето, на Едом ће сићи, и на народ херема мојега, на суд.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "רותה",
+      "gloss": "се напоји"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "на небесима"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "мач мој"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ето"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Едом"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "ће сићи"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "חרמי",
+      "gloss": "херема мојега"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "на суд"
+    }
+  ],
+  "timestamp": "2026-09-05T12:11:34.652599914Z",
+  "model": "glm-5.3"
+}

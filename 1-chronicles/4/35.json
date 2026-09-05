@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 4:35",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "и Јоел, и Јеху, син Јошибијин, син Серајин, син Асиелов.",
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "и Јоел"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "и Јеху"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "יושביה",
+      "gloss": "Јошибијин"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Серајин"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עשיאל",
+      "gloss": "Асиелов"
+    }
+  ],
+  "timestamp": "2026-09-05T14:35:03.673581399Z",
+  "model": "glm-5.3"
+}

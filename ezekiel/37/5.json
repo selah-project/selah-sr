@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 37:5",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 37,
+  "translation": "Тако рече Адонај Јахве овим костима: ено, ја доводим у вас дух и поживећете.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Тако"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "לעצמות",
+      "gloss": "костима"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "овим"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ено"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "доводим"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "у вас"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "дух"
+    },
+    {
+      "surface": "וחייתם",
+      "gloss": "и поживећете"
+    }
+  ],
+  "timestamp": "2026-09-05T12:55:07.485069204Z",
+  "model": "glm-5.3"
+}

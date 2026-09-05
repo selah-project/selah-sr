@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 4:7",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "И вратих се ја и видех таштину под сунцем.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "И вратих се"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "и видех"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "таштину"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "сунцем"
+    }
+  ],
+  "timestamp": "2026-09-05T14:12:01.527809311Z",
+  "model": "glm-5.3"
+}

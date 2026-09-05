@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 4:25",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "Видех, и ето — нема ⟨више⟩ човека, и све птице небеса побегоше.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Видех"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и ето"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "човека"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и све"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "птице"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небеса"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "побегоше"
+    }
+  ],
+  "timestamp": "2026-09-05T12:22:15.787390307Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 47:6",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 47,
+  "translation": "Јао, мачу Јахвеов! Докле нећеш да се смириш? Повуци се ⟨у⟩ корице своје, одмори се и ућути.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Јао"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "мачу"
+    },
+    {
+      "surface": "ליהווה",
+      "gloss": "Јахвеов"
+    },
+    {
+      "surface": "עד",
+      "gloss": "Докле"
+    },
+    {
+      "surface": "אנה",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "нећеш"
+    },
+    {
+      "surface": "תשקטי",
+      "gloss": "да се смириш"
+    },
+    {
+      "surface": "האספי",
+      "gloss": "Повуци се"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨у⟩"
+    },
+    {
+      "surface": "תערך",
+      "gloss": "корице своје"
+    },
+    {
+      "surface": "הרגעי",
+      "gloss": "одмори се"
+    },
+    {
+      "surface": "ודמי",
+      "gloss": "и ућути"
+    }
+  ],
+  "timestamp": "2026-09-05T12:36:34.538942954Z",
+  "model": "glm-5.3"
+}

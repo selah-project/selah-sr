@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "и ⟨את⟩ сву скупштину скупи на улаз шатора састанка.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "сву скупштину"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сву"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "скупштину"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "скупи"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "улаз"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "шатора"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "састанка"
+    }
+  ],
+  "timestamp": "2026-09-05T10:17:49.580356035Z",
+  "model": "glm-5.3"
+}

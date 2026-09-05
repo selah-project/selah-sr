@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 23:30",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "Мало помало отераћу га испред тебе, док не родиш и заузмеш ⟨את⟩ земљу.",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "Мало"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "помало"
+    },
+    {
+      "surface": "אגרשנו",
+      "gloss": "отераћу"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "испред тебе"
+    },
+    {
+      "surface": "עד",
+      "gloss": "док"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨што⟩"
+    },
+    {
+      "surface": "תפרה",
+      "gloss": "не родиш"
+    },
+    {
+      "surface": "ונחלת",
+      "gloss": "и заузмеш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "земљу"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земљу"
+    }
+  ],
+  "timestamp": "2026-09-05T15:04:13.190059299Z",
+  "model": "glm-5.3"
+}

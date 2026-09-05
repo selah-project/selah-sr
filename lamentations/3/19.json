@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "lamentations 3:19",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Сети се беде моје и лутања мојега, пелина и жучи.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "сети се"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "беде моје"
+    },
+    {
+      "surface": "ומרודי",
+      "gloss": "и лутања мојега"
+    },
+    {
+      "surface": "לענה",
+      "gloss": "пелин"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "и жуч"
+    }
+  ],
+  "timestamp": "2026-09-05T14:09:29.834426616Z",
+  "model": "glm-5.3"
+}

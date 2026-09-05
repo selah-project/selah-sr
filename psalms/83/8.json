@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 83:8",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 83,
+  "translation": "Гевал и Амон и Амалек, Плишта са становницима Цора.",
+  "tokens": [
+    {
+      "surface": "גבל",
+      "gloss": "Гевал"
+    },
+    {
+      "surface": "ועמון",
+      "gloss": "и Амон"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "и Амалек"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Плишта"
+    },
+    {
+      "surface": "עם",
+      "gloss": "са"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "становницима"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Цора"
+    }
+  ],
+  "timestamp": "2026-09-05T13:32:59.036086645Z",
+  "model": "glm-5.3"
+}

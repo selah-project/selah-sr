@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 10:3",
+  "book": "nehemiah",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "Сераја, Азарија, Јермија,",
+  "tokens": [
+    {
+      "surface": "שריה",
+      "gloss": "Сераја"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Азарија"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "Јермија"
+    }
+  ],
+  "timestamp": "2026-09-05T14:31:07.711122495Z",
+  "model": "glm-5.3"
+}

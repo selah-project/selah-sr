@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 34:3",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 34,
+  "translation": "⟨את⟩ сало једете, и ⟨את⟩ вуну облачете, угојену кољете, стадо не пасете.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сало"
+    },
+    {
+      "surface": "החלב",
+      "gloss": "сало"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "једете"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "вуну"
+    },
+    {
+      "surface": "הצמר",
+      "gloss": "вуну"
+    },
+    {
+      "surface": "תלבשו",
+      "gloss": "облачете"
+    },
+    {
+      "surface": "הבריאה",
+      "gloss": "угојену"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "кољете"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "стадо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "пасете"
+    }
+  ],
+  "timestamp": "2026-09-05T15:46:58.226026031Z",
+  "model": "glm-5.3"
+}

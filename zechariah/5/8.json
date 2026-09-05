@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 5:8",
+  "book": "zechariah",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "И рече: Ово је Безаконица. И баци ⟨את⟩ њу усред ефе, и баци ⟨את⟩ камен олова на уста њена.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ово"
+    },
+    {
+      "surface": "הרשעה",
+      "gloss": "Безаконица"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "и баци"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ њу",
+      "marks": "њу"
+    },
+    {
+      "surface": "אל",
+      "gloss": "усред"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "у сред"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "ефе"
+    },
+    {
+      "surface": "וישלך",
+      "gloss": "и баци"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "камен олова"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "камен"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "олова"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "уста њена"
+    }
+  ],
+  "timestamp": "2026-09-05T13:13:11.305961008Z",
+  "model": "glm-5.3"
+}

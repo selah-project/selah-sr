@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 42:6",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 42,
+  "translation": "„Зато ⟨себе⟩ презирум и кајем се на праху и пепелу.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "зато ⟨на⟩"
+    },
+    {
+      "surface": "כן",
+      "gloss": "зато"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "презирум"
+    },
+    {
+      "surface": "ונחמתי",
+      "gloss": "и кајем се"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "праху"
+    },
+    {
+      "surface": "ואפר",
+      "gloss": "и пепелу"
+    }
+  ],
+  "timestamp": "2026-09-05T14:07:18.261458627Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 6:2",
+  "book": "zechariah",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "У првој колници беху коњи риђи, а у другој колници коњи црни.",
+  "tokens": [
+    {
+      "surface": "במרכבה",
+      "gloss": "у првој колници"
+    },
+    {
+      "surface": "הראשנה",
+      "gloss": "првој"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "коњи"
+    },
+    {
+      "surface": "אדמим",
+      "gloss": "риђи"
+    },
+    {
+      "surface": "ובמרכבה",
+      "gloss": "а у другој колници"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "другој"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "коњи"
+    },
+    {
+      "surface": "שחרים",
+      "gloss": "црни"
+    }
+  ],
+  "timestamp": "2026-09-05T13:13:03.083039525Z",
+  "model": "glm-5.3"
+}

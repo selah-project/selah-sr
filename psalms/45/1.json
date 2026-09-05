@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 45:1",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 45,
+  "translation": "Управнику, на Шошаним, синовима Кораха; поучна ⟨је⟩ песма љубави.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Управнику"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "Шошаним"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "синовима"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Кораха"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "поучна"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "песма"
+    },
+    {
+      "surface": "ידידת",
+      "gloss": "љубави"
+    }
+  ],
+  "timestamp": "2026-09-05T13:26:29.875592551Z",
+  "model": "glm-5.3"
+}

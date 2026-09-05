@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "esther 8:16",
+  "book": "esther",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "Јеврејима би светлост, и радост, и весеље, и част.",
+  "tokens": [
+    {
+      "surface": "ליהודים",
+      "gloss": "Јеврејима"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "би"
+    },
+    {
+      "surface": "אורה",
+      "gloss": "светлост"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "и радост"
+    },
+    {
+      "surface": "וששן",
+      "gloss": "и весеље"
+    },
+    {
+      "surface": "ויקר",
+      "gloss": "и част"
+    }
+  ],
+  "timestamp": "2026-09-05T14:16:12.537726437Z",
+  "model": "glm-5.3"
+}

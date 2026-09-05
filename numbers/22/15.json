@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 22:15",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "И додаде још Балак послати кнезове многе и угледније од оних.",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "И додаде"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "још"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Балак"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "послати"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "кнезове"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "многе"
+    },
+    {
+      "surface": "ונכבדים",
+      "gloss": "и угледније"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "од оних"
+    }
+  ],
+  "timestamp": "2026-09-05T10:37:04.421910587Z",
+  "model": "glm-5.3"
+}

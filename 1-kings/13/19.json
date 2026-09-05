@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 13:19",
+  "book": "1-kings",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "И врати се ⟨את⟩ с њим, и једе хлеб у кући његовој, и пи воде.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "И врати се"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "с њим"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "и једе"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хлеб"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "у кући његовој"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "и пи"
+    },
+    {
+      "surface": "מים",
+      "gloss": "воде"
+    }
+  ],
+  "timestamp": "2026-09-05T11:44:51.329315889Z",
+  "model": "glm-5.3"
+}

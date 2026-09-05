@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 70:4",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 70,
+  "translation": "Нека се врате на пету срамоте своје они који говоре: аха, аха!",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "нека се врате"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "пету"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "срамоте своје"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "они који говоре"
+    },
+    {
+      "surface": "האח",
+      "gloss": "аха"
+    },
+    {
+      "surface": "האח",
+      "gloss": "аха"
+    }
+  ],
+  "timestamp": "2026-09-05T15:56:32.052687730Z",
+  "model": "glm-5.3"
+}

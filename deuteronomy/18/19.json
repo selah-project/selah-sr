@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 18:19",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "И биће: човек који не послуша речи моје што он буде говорио у имену моме — ја ћу ⟨то⟩ од њега тражити.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "и биће"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "послуша"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ка"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "речи моје"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "буде говорио"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "у имену моме"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ја"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "ћу тражити"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "од њега"
+    }
+  ],
+  "timestamp": "2026-09-05T10:50:30.791437582Z",
+  "model": "glm-5.3"
+}

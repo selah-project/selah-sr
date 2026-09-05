@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 6:7",
+  "book": "2-kings",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "И рече: Подигни себи! Па пружи руку своју и узе га.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "הרם",
+      "gloss": "Подигни"
+    },
+    {
+      "surface": "לך",
+      "gloss": "себи"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "Па пружи"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "руку своју"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "и узе га"
+    }
+  ],
+  "timestamp": "2026-09-05T11:51:16.269184318Z",
+  "model": "glm-5.3"
+}

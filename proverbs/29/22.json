@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 29:22",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 29,
+  "translation": "Човек гневни распаљује препирку, а господар срџбе умножава преступ.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Човек"
+    },
+    {
+      "surface": "אף",
+      "gloss": "гневни"
+    },
+    {
+      "surface": "יגרה",
+      "gloss": "распаљује"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "препирку"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "а господар"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "срџбе"
+    },
+    {
+      "surface": "רב",
+      "gloss": "умножава"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "преступ"
+    }
+  ],
+  "timestamp": "2026-09-05T13:53:24.557298813Z",
+  "model": "glm-5.3"
+}

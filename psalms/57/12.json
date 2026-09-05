@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 57:12",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 57,
+  "translation": "Возвисен буди над небеса, Елохиме; над свом земљом слава твоја!",
+  "tokens": [
+    {
+      "surface": "רומה",
+      "gloss": "Возвисен буди"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "небеса"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохиме"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "כל",
+      "gloss": "свом"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земљом"
+    },
+    {
+      "surface": "כבודך",
+      "gloss": "слава твоја"
+    }
+  ],
+  "timestamp": "2026-09-05T15:55:25.980085502Z",
+  "model": "glm-5.3"
+}

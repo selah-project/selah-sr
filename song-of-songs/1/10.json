@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 1:10",
+  "book": "song-of-songs",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "Лепи су образи твоји у огрлицама, врат твој у зрнцима.",
+  "tokens": [
+    {
+      "surface": "נאוו",
+      "gloss": "Лепи су"
+    },
+    {
+      "surface": "לחייך",
+      "gloss": "образи твоји"
+    },
+    {
+      "surface": "בתרים",
+      "gloss": "у огрлицама"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "врат твој"
+    },
+    {
+      "surface": "בחרוזים",
+      "gloss": "у зрнцима"
+    }
+  ],
+  "timestamp": "2026-09-05T14:05:57.848195556Z",
+  "model": "glm-5.3"
+}

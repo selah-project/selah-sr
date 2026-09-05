@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 1:18",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "И рече Шломо ⟨да⟨ сазда дом ⟨за⟨ Име Јахвеа и дом за своју краљевину.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шломо"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "да сазда"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "за Име"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "и дом"
+    },
+    {
+      "surface": "למלכותו",
+      "gloss": "за своју краљевину"
+    }
+  ],
+  "timestamp": "2026-09-05T14:43:17.396069190Z",
+  "model": "glm-5.3"
+}

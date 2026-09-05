@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 41:28",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 41,
+  "translation": "„То ⟨је⟩ ствар коју говорих Фараону: шта Елохим чини, показао је ⟨את⟩ Фараону.“",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "То"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ствар"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "коју"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "говорих"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Фараону"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Фараону"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "шта"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "чини"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "показао је"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Фараону"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Фараону"
+    }
+  ],
+  "timestamp": "2026-09-05T09:54:36.259241090Z",
+  "model": "glm-5.3"
+}

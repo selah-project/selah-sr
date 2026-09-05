@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 130:8",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 130,
+  "translation": "И он ће откупити ⟨את⟩ Израел од свих безакоња његових.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "И он"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "ће откупити"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Израел"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израел"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "од свих"
+    },
+    {
+      "surface": "עונתיв",
+      "gloss": "безакоња његових"
+    }
+  ],
+  "timestamp": "2026-09-05T13:42:14.229306402Z",
+  "model": "glm-5.3"
+}

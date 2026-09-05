@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 63:8",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 63,
+  "translation": "И рече: свакако народ мој јесу, синови ⟨који⟩ неће ⟨да⟩ лажу; и би им ⟨за⟩ спаситеља.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אך",
+      "gloss": "сакако"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "народ мој"
+    },
+    {
+      "surface": "המה",
+      "gloss": "јесу"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "синови"
+    },
+    {
+      "surface": "לא",
+      "gloss": "неће"
+    },
+    {
+      "surface": "ישקרו",
+      "gloss": "лажу"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и би"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "למושיע",
+      "gloss": "спаситељ"
+    }
+  ],
+  "timestamp": "2026-09-05T12:19:15.228941110Z",
+  "model": "glm-5.3"
+}

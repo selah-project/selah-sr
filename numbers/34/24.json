@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 34:24",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 34,
+  "translation": "И за племе синâ Ефрајимових — кнез Кемуел, син Шифтанов.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "и за племе"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синâ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Ефрајимових"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "кнез"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "Кемуел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "שפטן",
+      "gloss": "Шифтанов"
+    }
+  ],
+  "timestamp": "2026-09-05T10:42:18.076905507Z",
+  "model": "glm-5.3"
+}

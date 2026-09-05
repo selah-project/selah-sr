@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nahum 3:2",
+  "book": "nahum",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Глас бича и глас грмења точка, и коњ што јури, и кола што играју.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Глас"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "бича"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "и глас"
+    },
+    {
+      "surface": "רעש",
+      "gloss": "грмења"
+    },
+    {
+      "surface": "אופן",
+      "gloss": "точка"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "и коњ"
+    },
+    {
+      "surface": "דהר",
+      "gloss": "што јури"
+    },
+    {
+      "surface": "ומרכבה",
+      "gloss": "и кола"
+    },
+    {
+      "surface": "מרקדה",
+      "gloss": "што играју"
+    }
+  ],
+  "timestamp": "2026-09-05T13:09:40.992647992Z",
+  "model": "glm-5.3"
+}

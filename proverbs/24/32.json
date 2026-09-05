@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 24:32",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "Тада погледах ја, поставих срце своје, видех, примих поуку.",
+  "tokens": [
+    {
+      "surface": "ואחזה",
+      "gloss": "и погледах"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ја"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "поставих"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "срце своје"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "видех"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "примих"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "поуку"
+    }
+  ],
+  "timestamp": "2026-09-05T16:01:38.055129524Z",
+  "model": "glm-5.3"
+}

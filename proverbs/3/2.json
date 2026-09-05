@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 3:2",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Јер дужину данâ и године живота и Шалом ⟨додаће⟩ ти ⟨оне⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "дужину"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дана"
+    },
+    {
+      "surface": "ושנות",
+      "gloss": "и године"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "живота"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "и Шалом"
+    },
+    {
+      "surface": "יוסיפו",
+      "gloss": "додаће"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    }
+  ],
+  "timestamp": "2026-09-05T13:46:19.000348373Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 11:9",
+  "book": "nehemiah",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "И Јоел син Зикријев, надзорник над њима; и Јуда син Хасенуин — други ⟨над⟩ градом.",
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "И Јоел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "Зикријев"
+    },
+    {
+      "surface": "פקיד",
+      "gloss": "надзорник"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "над њима"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "и Јуда"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "הסנואה",
+      "gloss": "Хасенуин"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨над⟩"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "градом"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "други"
+    }
+  ],
+  "timestamp": "2026-09-05T14:32:33.542199184Z",
+  "model": "glm-5.3"
+}

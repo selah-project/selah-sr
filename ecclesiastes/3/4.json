@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Време плакању и време смеху, време нарицању и време игрању.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "Време"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "плакању"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "и време смеху"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "смеху"
+    },
+    {
+      "surface": "עת",
+      "gloss": "време"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "нарицању"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "и време"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "игрању"
+    }
+  ],
+  "timestamp": "2026-09-05T14:11:27.685596591Z",
+  "model": "glm-5.3"
+}

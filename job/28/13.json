@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 28:13",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "Не зна смртник вредност њену, и не налази се у земљи живих.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "зна"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "смртник"
+    },
+    {
+      "surface": "ערכה",
+      "gloss": "вредност њену"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "налази се"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "у земљи"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "живих"
+    }
+  ],
+  "timestamp": "2026-09-05T14:01:23.034584147Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 31:32",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 31,
+  "translation": "На улици не ноћи странац; врата своја путнику отворих.",
+  "tokens": [
+    {
+      "surface": "בחוץ",
+      "gloss": "на улици"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "ноћи"
+    },
+    {
+      "surface": "גר",
+      "gloss": "странац"
+    },
+    {
+      "surface": "דלתי",
+      "gloss": "врата своја"
+    },
+    {
+      "surface": "לארח",
+      "gloss": "путнику"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "отворих"
+    }
+  ],
+  "timestamp": "2026-09-05T14:03:02.273536669Z",
+  "model": "glm-5.3"
+}

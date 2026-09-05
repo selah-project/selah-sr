@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 10:5",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "Ко сабира у лето — син је разборит; ко дрема у жетви — син је који стид доноси.",
+  "tokens": [
+    {
+      "surface": "אגר",
+      "gloss": "сабира"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "у лето"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "разборит"
+    },
+    {
+      "surface": "נרדם",
+      "gloss": "дрема"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "у жетви"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "који стид доноси"
+    }
+  ],
+  "timestamp": "2026-09-05T13:47:54.915757733Z",
+  "model": "glm-5.3"
+}

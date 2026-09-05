@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 11:8",
+  "book": "nehemiah",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "и после њега Гаваји, Салаји — девет стотина двадесет и осам.",
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "и после њега"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "Гаваји"
+    },
+    {
+      "surface": "סלי",
+      "gloss": "Салаји"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "девет"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "стотина"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двадесет"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "и осам"
+    }
+  ],
+  "timestamp": "2026-09-05T14:32:20.009679503Z",
+  "model": "glm-5.3"
+}

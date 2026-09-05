@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 52:6",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 52,
+  "translation": "Зато ће народ мој знати Име моје; зато ⟨ће знати⟩ у дан онај да ја сам ⟨он⟩ који говори — ено ме!",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "зато"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "зна́ће"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "народ мој"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Име моје"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "зато"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "у дан"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "онај"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "сам ⟨он⟩"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "који говори"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ено ме!"
+    }
+  ],
+  "timestamp": "2026-09-05T12:16:55.749447525Z",
+  "model": "glm-5.3"
+}

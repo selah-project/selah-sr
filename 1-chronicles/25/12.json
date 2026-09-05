@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 25:12",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 25,
+  "translation": "пети Нетанјаху, синови његови и браћа његова дванаест.",
+  "tokens": [
+    {
+      "surface": "החמישי",
+      "gloss": "пети"
+    },
+    {
+      "surface": "נתניהו",
+      "gloss": "Нетанјаху"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "синови његови"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "и браћа његова"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "два"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "наест"
+    }
+  ],
+  "timestamp": "2026-09-05T14:41:47.629532768Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 17:18",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 17,
+  "translation": "А поред њега Јехозавад, и с њим сто и осамдесет хиљада спремних за војску.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "а поред"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "њега"
+    },
+    {
+      "surface": "יהוזבד",
+      "gloss": "Јехозавад"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "и с њим"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "ושמונים",
+      "gloss": "и осамдесет"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "хиљада"
+    },
+    {
+      "surface": "חלוצי",
+      "gloss": "спремних"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "за војску"
+    }
+  ],
+  "timestamp": "2026-09-05T14:48:46.511768183Z",
+  "model": "glm-5.3"
+}

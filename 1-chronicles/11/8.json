@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 11:8",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "И сагради град унаоколо, од Мила па до унаоколо; а Јоав оживи ⟨את⟩ остатак града.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "и сагради"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "град"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "унаоколо"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "המלוא",
+      "gloss": "Мила"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "па до"
+    },
+    {
+      "surface": "הסביב",
+      "gloss": "унаоколо"
+    },
+    {
+      "surface": "ויואב",
+      "gloss": "а Јоав"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "оживи"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "остатак града"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "остатак"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "града"
+    }
+  ],
+  "timestamp": "2026-09-05T14:37:16.881376347Z",
+  "model": "glm-5.3"
+}

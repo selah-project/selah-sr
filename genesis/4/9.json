@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 4:9",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "И рече Јахве Каину: где ⟨је⟩ Хевел, брат твој? А он рече: не знам; да сам ја чувар брата свога?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ка"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Каину"
+    },
+    {
+      "surface": "אי",
+      "gloss": "где"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Хевел"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "брат твој"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "а рече"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "знам"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "чувар ли"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "брата свог"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ја"
+    }
+  ],
+  "timestamp": "2026-09-05T09:39:07.811946693Z",
+  "model": "glm-5.3"
+}

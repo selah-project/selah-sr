@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 3:20",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Зашто даде света страдалнику, и живот огорчену души?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "даде"
+    },
+    {
+      "surface": "לעמל",
+      "gloss": "страдалнику"
+    },
+    {
+      "surface": "אור",
+      "gloss": "света"
+    },
+    {
+      "surface": "וחיים",
+      "gloss": "и живот"
+    },
+    {
+      "surface": "למרי",
+      "gloss": "огорчену"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "души"
+    }
+  ],
+  "timestamp": "2026-09-05T13:54:38.285993409Z",
+  "model": "glm-5.3"
+}

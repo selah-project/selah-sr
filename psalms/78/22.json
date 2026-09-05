@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 78:22",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 78,
+  "translation": "Јер не повероваше у Елохима, и не уздаде се у спасење његово.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "האמינו",
+      "gloss": "повероваше"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "у Елохима"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "בטחו",
+      "gloss": "уздаде се"
+    },
+    {
+      "surface": "בישועתו",
+      "gloss": "у спасење његово"
+    }
+  ],
+  "timestamp": "2026-09-05T13:31:45.318352588Z",
+  "model": "glm-5.3"
+}

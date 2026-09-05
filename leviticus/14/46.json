@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "leviticus 14:46",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "И ко уђе у кућу све дане док ⟨је⟩ она затворена, биће нечист до вечера.",
+  "tokens": [
+    {
+      "surface": "והבא",
+      "gloss": "И ко уђе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "кућу"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дане"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "док је затворена"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨њу⟩",
+      "marks": "он нечист до вечера"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "биће нечист"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "вечера"
+    }
+  ],
+  "timestamp": "2026-09-05T10:21:14.896120839Z",
+  "model": "glm-5.3"
+}

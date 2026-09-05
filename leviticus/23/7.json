@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 23:7",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "Првог дана биће вам света скупштина; сваки посао слуге не чините.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "Првог дана — у дан"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "први"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "скупштина"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "света"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "биће"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сваки"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "посао"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "слуге"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "чините"
+    }
+  ],
+  "timestamp": "2026-09-05T10:24:43.494367933Z",
+  "model": "glm-5.3"
+}

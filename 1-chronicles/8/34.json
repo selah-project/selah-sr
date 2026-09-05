@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 8:34",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "И син Јехонатанов ⟨бејаше⟩ Мерив-Бал, и Мерив-Бал роди ⟨את⟩ Мика.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "И син"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Јехонатанов"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "Мерив-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Бал"
+    },
+    {
+      "surface": "ומריב",
+      "gloss": "и Мерив-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Бал"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мика"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Мика"
+    }
+  ],
+  "timestamp": "2026-09-05T14:37:15.757735201Z",
+  "model": "glm-5.3"
+}

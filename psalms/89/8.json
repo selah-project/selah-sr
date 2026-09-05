@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 89:8",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 89,
+  "translation": "Ел, страшан ⟨је⟩ у савету светих, велик и страховит над свима около својим.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "נערץ",
+      "gloss": "страшан"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "у савету"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "светих"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "велик"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "и страховит"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сви"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "около својих"
+    }
+  ],
+  "timestamp": "2026-09-05T15:57:42.596120627Z",
+  "model": "glm-5.3"
+}

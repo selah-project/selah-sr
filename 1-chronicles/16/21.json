@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 16:21",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 16,
+  "translation": "Не допусти ⟨је⟩ човеку да их тлачи, и покара ⟨је⟩ за њих краљеве.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "допусти"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "човеку"
+    },
+    {
+      "surface": "לעשקם",
+      "gloss": "да их тлачи"
+    },
+    {
+      "surface": "ויוכח",
+      "gloss": "и покара"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "за њих"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "краљеве"
+    }
+  ],
+  "timestamp": "2026-09-05T14:38:45.437501258Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 12:20",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "Превара у срцу смисљиваца зла, а саветницима мира — радост.",
+  "tokens": [
+    {
+      "surface": "мרמה",
+      "gloss": "превара"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "у срцу"
+    },
+    {
+      "surface": "חרשי",
+      "gloss": "смисљиваца"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зла"
+    },
+    {
+      "surface": "וליעצי",
+      "gloss": "а саветницима"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мира"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "радост"
+    }
+  ],
+  "timestamp": "2026-09-05T16:00:56.223100517Z",
+  "model": "glm-5.3"
+}

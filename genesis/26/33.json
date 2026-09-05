@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 26:33",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 26,
+  "translation": "И назва ⟨את⟩ њу Шив'а; зато име града ⟨јесте⟩ Беер-Шеба до дана овог.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "и назва"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "њу (Шив'а)"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "Шив'а"
+    },
+    {
+      "surface": "על",
+      "gloss": "зато"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨зато⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "име"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "града"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Беер"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Шеба"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "היום",
+      "gloss": "дана"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овог"
+    }
+  ],
+  "timestamp": "2026-09-05T16:54:16.972615985Z",
+  "model": "glm-5.3"
+}

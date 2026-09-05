@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 94,
+  "translation": "Јахве зна мисли човека, да су ⟨оне⟩ празнина.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "зна"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "мисли"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човека"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨оне⟩"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "празнина"
+    }
+  ],
+  "timestamp": "2026-09-05T13:35:01.307253540Z",
+  "model": "glm-5.3"
+}

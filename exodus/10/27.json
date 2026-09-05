@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 10:27",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "А утврди Јахве ⟨את⟩ срце Фараоново, и не хте да их отпусти.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "А утврди"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "срце"
+    },
+    {
+      "surface": "לב",
+      "gloss": "срце"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Фараоново"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "хте"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "да их отпусти"
+    }
+  ],
+  "timestamp": "2026-09-05T15:02:59.427090670Z",
+  "model": "glm-5.3"
+}

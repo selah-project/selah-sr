@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 34:25",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 34,
+  "translation": "Не закољ ⟨са⟩ квасцем крв жртве моје, и нека не остане до јутра жртва празника Пасхе.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשחט",
+      "gloss": "закољ"
+    },
+    {
+      "surface": "על",
+      "gloss": "са"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "квасцем"
+    },
+    {
+      "surface": "דם",
+      "gloss": "крв"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "жртве моје"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "нека остане"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "до јутра"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "жртва"
+    },
+    {
+      "surface": "חג",
+      "gloss": "празника"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Пасхе"
+    }
+  ],
+  "timestamp": "2026-09-05T10:13:06.212256564Z",
+  "model": "glm-5.3"
+}

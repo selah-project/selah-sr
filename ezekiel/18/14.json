@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 18:14",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "И ето, роди сина, и виде ⟨את⟩ све грехе оца свог које ⟨оне⟩ учини, па се уплаши и не учини као он.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "И ето"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "и виде"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "све грехе"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "грехе"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "оца свог"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "које"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "учини"
+    },
+    {
+      "surface": "ויראה",
+      "gloss": "па се уплаши"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "учини"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "као он"
+    }
+  ],
+  "timestamp": "2026-09-05T15:44:22.085467563Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 4:5",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "А Ашхуру, оцу Текоe, бише две жене: Хела и Наара.",
+  "tokens": [
+    {
+      "surface": "ולאשחור",
+      "gloss": "А Ашхуру"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "оцу"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "Текое"
+    },
+    {
+      "surface": "היו",
+      "gloss": "бише"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "две"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "жене"
+    },
+    {
+      "surface": "חלאה",
+      "gloss": "Хела"
+    },
+    {
+      "surface": "ונערה",
+      "gloss": "и Наара"
+    }
+  ],
+  "timestamp": "2026-09-05T14:34:49.041848418Z",
+  "model": "glm-5.3"
+}

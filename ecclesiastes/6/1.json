@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "Има зло које видех под сунцем, и велико је оно на човеку:",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "Има"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зло"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "које"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "видех"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "сунцем"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "и велико"
+    },
+    {
+      "surface": "היא",
+      "gloss": "оно"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "човеку"
+    }
+  ],
+  "timestamp": "2026-09-05T14:13:51.192782671Z",
+  "model": "glm-5.3"
+}

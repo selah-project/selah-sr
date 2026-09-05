@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 47:31",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 47,
+  "translation": "И рече: закуни ми се. И закле се њему. И поклони се Израиљ на узглавље постеље.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "закуни се"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "и закле се"
+    },
+    {
+      "surface": "לו",
+      "gloss": "њему"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "и поклони се"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљ"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "узглавље"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "постеље"
+    }
+  ],
+  "timestamp": "2026-09-05T09:57:45.762454372Z",
+  "model": "glm-5.3"
+}

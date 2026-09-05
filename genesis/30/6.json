@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 30:6",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 30,
+  "translation": "И рече Рахел (Рахиља): Судио ми ⟨је⟩ Елохим и чуо ⟨је⟩ глас мој, и даде ми сина; зато назва име његово Дан.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Рахел"
+    },
+    {
+      "surface": "דנני",
+      "gloss": "судио ме"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "и"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "чуо"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "глас мој"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "даде"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "על",
+      "gloss": "зато (на)"
+    },
+    {
+      "surface": "כן",
+      "gloss": "то"
+    },
+    {
+      "surface": "קראה",
+      "gloss": "назва"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "име његово"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Дан"
+    }
+  ],
+  "timestamp": "2026-09-05T09:49:04.102157414Z",
+  "model": "glm-5.3"
+}

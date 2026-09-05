@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 31:20",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 31,
+  "translation": "И украо Јааков ⟨את⟩ срце Лавану Арамејцу, тако да му није јавио да он бежи.",
+  "tokens": [
+    {
+      "surface": "ויגנב",
+      "gloss": "и украо"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Јааков"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "срце"
+    },
+    {
+      "surface": "לב",
+      "gloss": "срце"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Лавану"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "Арамејцу"
+    },
+    {
+      "surface": "על",
+      "gloss": "тако да"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "без"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "јавио"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "бежи"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    }
+  ],
+  "timestamp": "2026-09-05T09:49:56.330272638Z",
+  "model": "glm-5.3"
+}

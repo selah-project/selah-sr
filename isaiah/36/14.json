@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 36:14",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 36,
+  "translation": "Овако рече краљ: Нека вас не заведе Хизкијаху (Језекија), јер неће моћи да ⟨את⟩ вас избави.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "овако"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "краљ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "нека не"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "заведе"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вас"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Хизкијаху"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "неће моћи"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "да избави"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ вас",
+      "marks": "ви"
+    }
+  ],
+  "timestamp": "2026-09-05T12:12:10.522489981Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 6:7",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "И би са срцем Давида, оца мојега, да сазида дом Имену Јахве, Елохима Израиљева.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "и би"
+    },
+    {
+      "surface": "עם",
+      "gloss": "са"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "срцем"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давида"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "оца мојега"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "да сазида"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "Имену"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохима"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљева"
+    }
+  ],
+  "timestamp": "2026-09-05T14:45:13.425089988Z",
+  "model": "glm-5.3"
+}

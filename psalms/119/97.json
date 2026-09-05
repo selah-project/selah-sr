@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 97,
+  "ref": "psalms 119:97",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 119,
+  "translation": "Како љубим Тору твоју! Сав дан она ⟨је⟩ размишљање моје.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Како"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "љубим"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Тору твоју"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Сав"
+    },
+    {
+      "surface": "היום",
+      "gloss": "дан"
+    },
+    {
+      "surface": "היא",
+      "gloss": "она"
+    },
+    {
+      "surface": "שיחתי",
+      "gloss": "размишљање моје"
+    }
+  ],
+  "timestamp": "2026-09-05T13:40:46.717685501Z",
+  "model": "glm-5.3"
+}

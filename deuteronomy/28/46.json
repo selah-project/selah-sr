@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "deuteronomy 28:46",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "И биће на теби за знак и за чудо, и на семе твоје ⟨до⟩ века.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "и биће"
+    },
+    {
+      "surface": "בך",
+      "gloss": "на теби"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "за знак"
+    },
+    {
+      "surface": "ולמופת",
+      "gloss": "и за чудо"
+    },
+    {
+      "surface": "ובזרעך",
+      "gloss": "и на семе твоје"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨до⟩"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "века"
+    }
+  ],
+  "timestamp": "2026-09-05T10:53:52.087420373Z",
+  "model": "glm-5.3"
+}

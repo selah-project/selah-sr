@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 42:2",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 42,
+  "translation": "Као што јелен чезне за потокâ воде, тако чезне душа моја за тобом, Елохиме.",
+  "tokens": [
+    {
+      "surface": "כאיל",
+      "gloss": "као јелен"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "чезне"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "потокâ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "воде"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тако"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душа моја"
+    },
+    {
+      "surface": "תערג",
+      "gloss": "чезне"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "за тобом"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохиме"
+    }
+  ],
+  "timestamp": "2026-09-05T15:54:58.036585330Z",
+  "model": "glm-5.3"
+}

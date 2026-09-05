@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezra 10:37",
+  "book": "ezra",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "Матанија, Матенај и Јашаву,",
+  "tokens": [
+    {
+      "surface": "מתניה",
+      "gloss": "Матанија"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "Матенај"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "и Јашаву"
+    }
+  ],
+  "timestamp": "2026-09-05T14:27:04.144598175Z",
+  "model": "glm-5.3"
+}

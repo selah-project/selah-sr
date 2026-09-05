@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 17:24",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 17,
+  "translation": "⟨את⟩ лицем разборитога ⟨је⟩ мудрост, а очи лудака на крају земље.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "лицем разборитога"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицем"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "разборитога"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мудрост"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "а очи"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "лудака"
+    },
+    {
+      "surface": "בקצה",
+      "gloss": "на крају"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земље"
+    }
+  ],
+  "timestamp": "2026-09-05T13:49:47.765434036Z",
+  "model": "glm-5.3"
+}

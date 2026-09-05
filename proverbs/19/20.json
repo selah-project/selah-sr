@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 19:20",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 19,
+  "translation": "Чуј савет и прими поуку, да би у последње своје био мудар.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Чуј"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "савет"
+    },
+    {
+      "surface": "וקבל",
+      "gloss": "и прими"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "поуку"
+    },
+    {
+      "surface": "למען",
+      "gloss": "да би"
+    },
+    {
+      "surface": "תחכם",
+      "gloss": "био мудар"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "у последње своје"
+    }
+  ],
+  "timestamp": "2026-09-05T13:51:09.723385504Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 47:8",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 47,
+  "translation": "И рече фараон Јаакову: колико је данâ годинâ живота твојег?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "фараон"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨коме⟩"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Јаакову"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "колико"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "данâ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "годинâ"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "живота твојег"
+    }
+  ],
+  "timestamp": "2026-09-05T15:01:48.018656825Z",
+  "model": "glm-5.3"
+}

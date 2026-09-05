@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 26:18",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 26,
+  "translation": "А ако ни до ових не послушате мене, додаћу да вас казним ⟨את⟩ седам пута за грехе ваше.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "а ако"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ових"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "послушате"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мене"
+    },
+    {
+      "surface": "ויספתי",
+      "gloss": "додаћу"
+    },
+    {
+      "surface": "ליסרה",
+      "gloss": "да казним"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "вас"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "седам пута"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "грехе ваше"
+    }
+  ],
+  "timestamp": "2026-09-05T10:27:13.415035520Z",
+  "model": "glm-5.3"
+}

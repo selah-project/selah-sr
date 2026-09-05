@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 76:11",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 76,
+  "translation": "Јер гнев човечји тебе хвали; остатак гнева опасаћеш.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "гнев"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човечји"
+    },
+    {
+      "surface": "תודך",
+      "gloss": "тебе хвали"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "остатак"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "гнева"
+    },
+    {
+      "surface": "תחגר",
+      "gloss": "опасаћеш"
+    }
+  ],
+  "timestamp": "2026-09-05T15:56:54.210566247Z",
+  "model": "glm-5.3"
+}

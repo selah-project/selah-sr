@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 6:30",
+  "book": "1-kings",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "И ⟨את⟩ под дома обложи златом, изнутра и споља.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "под дома"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "под"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "обложи"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "златом"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "изнутра"
+    },
+    {
+      "surface": "ולחיצון",
+      "gloss": "и споља"
+    }
+  ],
+  "timestamp": "2026-09-05T11:40:56.777676725Z",
+  "model": "glm-5.3"
+}

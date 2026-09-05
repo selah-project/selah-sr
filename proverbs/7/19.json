@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 7:19",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Јер нема мужа ⟨је⟩ у кући својој, отишао је на пут далеки.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "мужа"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "у кући својој"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "отишао је"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "на пут"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "далеки"
+    }
+  ],
+  "timestamp": "2026-09-05T13:47:39.114122312Z",
+  "model": "glm-5.3"
+}

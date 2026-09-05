@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 2:32",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "И изађе Сихон пред нас, он и сав народ његов, на бој код Јаце.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "И изађе"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Сихон"
+    },
+    {
+      "surface": "לקראתנו",
+      "gloss": "пред нас"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и сав"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "народ његов"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "на бој"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "код Јаце"
+    }
+  ],
+  "timestamp": "2026-09-05T15:12:53.343764828Z",
+  "model": "glm-5.3"
+}

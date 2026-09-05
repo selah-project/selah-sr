@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 5:23",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "И написа ⟨את⟩ клетве ове свештеник у књигу, и обриса ⟨у⟩ горке воде.",
+  "tokens": [
+    {
+      "surface": "וכתב",
+      "gloss": "И написа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "клетве"
+    },
+    {
+      "surface": "האלת",
+      "gloss": "клетве"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ове"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "свештеник"
+    },
+    {
+      "surface": "בספר",
+      "gloss": "у књигу"
+    },
+    {
+      "surface": "ומחה",
+      "gloss": "и обриса"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨у⟩"
+    },
+    {
+      "surface": "מי",
+      "gloss": "воде"
+    },
+    {
+      "surface": "המרים",
+      "gloss": "горке"
+    }
+  ],
+  "timestamp": "2026-09-05T10:29:59.616026341Z",
+  "model": "glm-5.3"
+}

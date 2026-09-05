@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 6:6",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "Ватра непрекидно гориће на жртвенику, неће се угасити.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "Ватра"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "непрекидно"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "гориће"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "жртвенику"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "угасити се"
+    }
+  ],
+  "timestamp": "2026-09-05T10:16:52.739060480Z",
+  "model": "glm-5.3"
+}

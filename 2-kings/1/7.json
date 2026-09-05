@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-kings 1:7",
+  "book": "2-kings",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "И рече им: Каквога лика ⟨је⟩ човек онај што изађе пред вас и рече вама ⟨את⟩ ове речи?",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Каквог"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "лика"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "изађе"
+    },
+    {
+      "surface": "לקראתכם",
+      "gloss": "пред вас"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "вама"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ове речи"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "речи"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ове"
+    }
+  ],
+  "timestamp": "2026-09-05T11:50:26.397777827Z",
+  "model": "glm-5.3"
+}

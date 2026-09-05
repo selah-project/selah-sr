@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 25:10",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 25,
+  "translation": "да не би онај који чује обрукао тебе, и руга твоја да се не врати.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "да не би"
+    },
+    {
+      "surface": "יחסדך",
+      "gloss": "обрукао тебе"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "онај који чује"
+    },
+    {
+      "surface": "ודבתך",
+      "gloss": "и руга твоја"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "врати"
+    }
+  ],
+  "timestamp": "2026-09-05T13:52:05.970313516Z",
+  "model": "glm-5.3"
+}

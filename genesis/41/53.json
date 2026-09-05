@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "genesis 41:53",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 41,
+  "translation": "И свршише се седам година изобиља која беше у земљи Мицрајима.",
+  "tokens": [
+    {
+      "surface": "ותכלינה",
+      "gloss": "и свршише се"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "седам"
+    },
+    {
+      "surface": "שני",
+      "gloss": "година"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "изобиља"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "која"
+    },
+    {
+      "surface": "היה",
+      "gloss": "беше"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "у земљи"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрајима"
+    }
+  ],
+  "timestamp": "2026-09-05T09:55:27.099546050Z",
+  "model": "glm-5.3"
+}

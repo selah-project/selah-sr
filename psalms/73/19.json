@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 73:19",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 73,
+  "translation": "Како посташе пустош у тренутку! Свиште се, свршише се од страхота.",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "Како"
+    },
+    {
+      "surface": "היו",
+      "gloss": "посташе"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "пустош"
+    },
+    {
+      "surface": "כרגע",
+      "gloss": "у тренутку"
+    },
+    {
+      "surface": "ספו",
+      "gloss": "Свиште се"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "свршише се"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "בלהות",
+      "gloss": "страхота"
+    }
+  ],
+  "timestamp": "2026-09-05T13:30:54.274046183Z",
+  "model": "glm-5.3"
+}

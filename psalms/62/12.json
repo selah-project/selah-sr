@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 62:12",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 62,
+  "translation": "Једанпут проговори Елохим, двапут ово чух: да снага ⟨припада⟩ Елохиму.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "Једанпут"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "проговори"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "двапут"
+    },
+    {
+      "surface": "זו",
+      "gloss": "ово"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "чух"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "עז",
+      "gloss": "снага"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Елохиму"
+    }
+  ],
+  "timestamp": "2026-09-05T13:29:17.553008303Z",
+  "model": "glm-5.3"
+}

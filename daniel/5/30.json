@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "daniel 5:30",
+  "book": "daniel",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "У тој ноћи убијен би Белшазар, краљ халдејски.",
+  "tokens": [
+    {
+      "surface": "בה",
+      "gloss": "У тој"
+    },
+    {
+      "surface": "בליליא",
+      "gloss": "ноћи"
+    },
+    {
+      "surface": "קטיל",
+      "gloss": "убијен би"
+    },
+    {
+      "surface": "בלאשצר",
+      "gloss": "Белшазар"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "краљ"
+    },
+    {
+      "surface": "כשדיא",
+      "gloss": "халдејски"
+    }
+  ],
+  "timestamp": "2026-09-05T14:18:18.515658816Z",
+  "model": "glm-5.3"
+}

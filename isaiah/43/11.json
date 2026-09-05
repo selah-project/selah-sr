@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 43:11",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 43,
+  "translation": "Ја, ја сам Јахве, и нема спасиоца осим мене.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Ја"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ја"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и нема"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "осим мене"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "спасиоца"
+    }
+  ],
+  "timestamp": "2026-09-05T12:12:51.507065046Z",
+  "model": "glm-5.3"
+}

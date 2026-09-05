@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 15:5",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 15,
+  "translation": "Будала гази карту свога оца, а ко чува укор — тај је оштроуман.",
+  "tokens": [
+    {
+      "surface": "אויל",
+      "gloss": "Будала"
+    },
+    {
+      "surface": "ינאץ",
+      "gloss": "гази"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "карту"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "свога оца"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "а чува"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "укор"
+    },
+    {
+      "surface": "יערם",
+      "gloss": "тај је оштроуман"
+    }
+  ],
+  "timestamp": "2026-09-05T13:49:22.017647200Z",
+  "model": "glm-5.3"
+}

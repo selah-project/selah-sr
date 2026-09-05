@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 9:4",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "Јер ко год је изабран међу све живе — има поуздање: јер живом псу боље него мртвом лаву.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ко"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "год"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "је изабран"
+    },
+    {
+      "surface": "אל",
+      "gloss": "међу"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "живе"
+    },
+    {
+      "surface": "יש",
+      "gloss": "има"
+    },
+    {
+      "surface": "בטחון",
+      "gloss": "поуздање"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "псу"
+    },
+    {
+      "surface": "חי",
+      "gloss": "живом"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "боље"
+    },
+    {
+      "surface": "מן",
+      "gloss": "него"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "лаву"
+    },
+    {
+      "surface": "המת",
+      "gloss": "мртвом"
+    }
+  ],
+  "timestamp": "2026-09-05T14:14:02.134163444Z",
+  "model": "glm-5.3"
+}

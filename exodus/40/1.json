@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 40:1",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 40,
+  "translation": "И рече Јахве Мошеу (Мојсију) ⟨да каже⟩:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Мошеу"
+    },
+    {
+      "surface": "משה",
+      "gloss": "(Мојсију)"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨да каже⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T15:05:23.269474473Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "lamentations 3:30",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Нека да образ ономе који га бије; нека се насити срамотом.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "Нека да"
+    },
+    {
+      "surface": "למכהו",
+      "gloss": "ономе који га бије"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "образ"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "нека се насити"
+    },
+    {
+      "surface": "בחרפה",
+      "gloss": "срамотом"
+    }
+  ],
+  "timestamp": "2026-09-05T16:06:54.249940425Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 33:7",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 33,
+  "translation": "Сабира као насип воде морске, полаже у ризнице бездане.",
+  "tokens": [
+    {
+      "surface": "כנס",
+      "gloss": "сабира"
+    },
+    {
+      "surface": "כנד",
+      "gloss": "као насип"
+    },
+    {
+      "surface": "מי",
+      "gloss": "воде"
+    },
+    {
+      "surface": "הים",
+      "gloss": "морске"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "полаже"
+    },
+    {
+      "surface": "באצרות",
+      "gloss": "у ризнице"
+    },
+    {
+      "surface": "תהומות",
+      "gloss": "бездане"
+    }
+  ],
+  "timestamp": "2026-09-05T13:24:24.930210935Z",
+  "model": "glm-5.3"
+}

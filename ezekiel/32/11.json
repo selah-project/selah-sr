@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 32:11",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 32,
+  "translation": "Јер овако рече Адонај Јахве: мач цара Бавела (Вавилона) доћи ће на тебе.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "כה",
+      "gloss": "овако"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "мач"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цара"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Бавела (Вавилона)"
+    },
+    {
+      "surface": "תבואך",
+      "gloss": "доћи ће на тебе"
+    }
+  ],
+  "timestamp": "2026-09-05T12:53:02.249439731Z",
+  "model": "glm-5.3"
+}

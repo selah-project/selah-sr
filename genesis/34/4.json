@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 34:4",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 34,
+  "translation": "И рече Шекем Хамору, оцу своме: „Узми ми ⟨את⟩ ову девојку за жену.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Шекем"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ка"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Хамору"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "оцу своме"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорећи"
+    },
+    {
+      "surface": "קח",
+      "gloss": "узми"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ову девојку"
+    },
+    {
+      "surface": "הילדה",
+      "gloss": "девојку"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ову"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "за жену"
+    }
+  ],
+  "timestamp": "2026-09-05T09:52:49.787519497Z",
+  "model": "glm-5.3"
+}

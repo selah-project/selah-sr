@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 13:8",
+  "book": "zechariah",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "И биће у свој земљи, говори Јахве: две части у њој исецаће се, издахнуће, а трећа остаће у њој.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "и биће"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "у свој"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земљи"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "говори"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "פי",
+      "gloss": "две части"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "два"
+    },
+    {
+      "surface": "בה",
+      "gloss": "у њој"
+    },
+    {
+      "surface": "יכרתו",
+      "gloss": "исецаће се"
+    },
+    {
+      "surface": "יגועו",
+      "gloss": "издахнуће"
+    },
+    {
+      "surface": "והשלשית",
+      "gloss": "а трећа"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "остаће"
+    },
+    {
+      "surface": "בה",
+      "gloss": "у њој"
+    }
+  ],
+  "timestamp": "2026-09-05T13:15:30.533377250Z",
+  "model": "glm-5.3"
+}

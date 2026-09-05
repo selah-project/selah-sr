@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 17:16",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 17,
+  "translation": "И дође краљ Давид, и седе пред Јахвеом, и рече: „Ко сам ја, Јахве, Елохиме, и ко дом мој, да си ме довео довде?“",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "И дође"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "краљ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "и седе"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеом"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Ко"
+    },
+    {
+      "surface": "אני",
+      "gloss": "сам ја"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохиме"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "и ко"
+    },
+    {
+      "surface": "бיתи",
+      "gloss": "дом мој"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "הביאתני",
+      "gloss": "си ме довео"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "овде"
+    }
+  ],
+  "timestamp": "2026-09-05T14:40:56.926967055Z",
+  "model": "glm-5.3"
+}

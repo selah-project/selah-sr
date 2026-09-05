@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Све иде на једно место: све ⟨је⟩ било од прашине, и све се враћа на прашину.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "Све"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "иде"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "место"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "једно"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "све"
+    },
+    {
+      "surface": "היה",
+      "gloss": "било"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "прашине"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "и све"
+    },
+    {
+      "surface": "שב",
+      "gloss": "враћа се"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "прашину"
+    }
+  ],
+  "timestamp": "2026-09-05T14:11:52.885031444Z",
+  "model": "glm-5.3"
+}

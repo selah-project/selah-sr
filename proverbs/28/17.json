@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 28:17",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "Човек оптерећен крвљу душе ⟨једне⟩ до јаме бежаће — нека га нико не подржи.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "човек"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "оптерећен"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "крвљу"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "душе"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "בור",
+      "gloss": "јаме"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "бежаће"
+    },
+    {
+      "surface": "אל",
+      "gloss": "нека"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "не подржи"
+    },
+    {
+      "surface": "בו",
+      "gloss": "га"
+    }
+  ],
+  "timestamp": "2026-09-05T13:53:28.592434548Z",
+  "model": "glm-5.3"
+}

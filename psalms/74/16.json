@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 74:16",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 74,
+  "translation": "Твој ⟨је⟩ дан, и Твоја ⟨је⟩ ноћ; Ти устроји светлило и сунце.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Твој"
+    },
+    {
+      "surface": "יום",
+      "gloss": "дан"
+    },
+    {
+      "surface": "אף",
+      "gloss": "и"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Твоја"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ноћ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "устроји"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "светлило"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "и сунце"
+    }
+  ],
+  "timestamp": "2026-09-05T13:31:41.346131070Z",
+  "model": "glm-5.3"
+}

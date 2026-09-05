@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 7:12",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Ван ⟨сада⟩, на трговима ⟨сада⟩, и уз сваки угао вреба.",
+  "tokens": [
+    {
+      "surface": "פעם",
+      "gloss": "⟨сада⟩ ван"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "ван"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "⟨сада⟩"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "на трговима"
+    },
+    {
+      "surface": "ואצל",
+      "gloss": "и уз"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сваки"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "угао"
+    },
+    {
+      "surface": "תארב",
+      "gloss": "вреба"
+    }
+  ],
+  "timestamp": "2026-09-05T13:47:14.876748452Z",
+  "model": "glm-5.3"
+}

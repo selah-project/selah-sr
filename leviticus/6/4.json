@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 6:4",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "И свуче ⟨את⟩ хаљине своје, и обуче хаљине друге, и изнесе ⟨את⟩ пепел ван логора, на место чисто.",
+  "tokens": [
+    {
+      "surface": "ופשט",
+      "gloss": "И свуче"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "хаљине своје"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "хаљине своје"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "и обуче"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "хаљине"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "друге"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "и изнесе"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "пепел"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "пепел"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ван"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "споља"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "логора"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "место"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "чисто"
+    }
+  ],
+  "timestamp": "2026-09-05T10:17:52.444734330Z",
+  "model": "glm-5.3"
+}

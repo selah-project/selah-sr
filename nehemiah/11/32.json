@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "nehemiah 11:32",
+  "book": "nehemiah",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "у Анатоту, у Нову, у Ананји",
+  "tokens": [
+    {
+      "surface": "ענתות",
+      "gloss": "у Анатоту"
+    },
+    {
+      "surface": "נב",
+      "gloss": "у Нову"
+    },
+    {
+      "surface": "ענניה",
+      "gloss": "у Ананји"
+    }
+  ],
+  "timestamp": "2026-09-05T14:32:15.239795465Z",
+  "model": "glm-5.3"
+}

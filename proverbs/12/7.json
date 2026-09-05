@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 12:7",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "Оборени бивају зли и нема их, а дом праведних стоји.",
+  "tokens": [
+    {
+      "surface": "הפוך",
+      "gloss": "Оборени бивају"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "зли"
+    },
+    {
+      "surface": "ואינם",
+      "gloss": "и нема их"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "а дом"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "праведних"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "стоји"
+    }
+  ],
+  "timestamp": "2026-09-05T13:48:31.625359222Z",
+  "model": "glm-5.3"
+}

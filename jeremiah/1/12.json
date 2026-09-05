@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 1:12",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "И рече Јахве мени: добро си видио, јер ја чувам над речју својом да је извршим.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мени"
+    },
+    {
+      "surface": "היטבת",
+      "gloss": "добро си видио"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "⟨да видиш⟩"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "שקד",
+      "gloss": "чувам"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "речју својом"
+    },
+    {
+      "surface": "לעשתו",
+      "gloss": "да је извршим"
+    }
+  ],
+  "timestamp": "2026-09-05T12:19:35.890805947Z",
+  "model": "glm-5.3"
+}

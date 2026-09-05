@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 20:28",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 20,
+  "translation": "Хесед и верност чувају краља, и хеседом ⟨се⟩ подупире престо његов.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "Хесед"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "и верност"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "чувају"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "краља"
+    },
+    {
+      "surface": "וסעד",
+      "gloss": "и подупире"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "хеседом"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "престо његов"
+    }
+  ],
+  "timestamp": "2026-09-05T16:01:19.275727417Z",
+  "model": "glm-5.3"
+}

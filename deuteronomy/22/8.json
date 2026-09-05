@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 22:8",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "Кад сазидаш нов дом, начини парапет крову своме, да не би ставио крви на дом свој, кад би ко пао с њега.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "кад"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "сазидаш"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "нов"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "начини"
+    },
+    {
+      "surface": "מעקה",
+      "gloss": "парапет"
+    },
+    {
+      "surface": "לגגך",
+      "gloss": "крову своме"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "да не би"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "ставио"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "крви"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "на дом свој"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ако"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "би пао"
+    },
+    {
+      "surface": "הנפל",
+      "gloss": "ко"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "с њега"
+    }
+  ],
+  "timestamp": "2026-09-05T10:51:39.496850237Z",
+  "model": "glm-5.3"
+}

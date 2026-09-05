@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 52:23",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 52,
+  "translation": "И беше нарова деведесет и шест према ветру; сви нарови на мрежи — сто, около.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "и беше"
+    },
+    {
+      "surface": "הרמנים",
+      "gloss": "нарова"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "деведесет"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "и шест"
+    },
+    {
+      "surface": "רוחה",
+      "gloss": "према ветру"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сви"
+    },
+    {
+      "surface": "הרמונים",
+      "gloss": "нарови"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "השבכה",
+      "gloss": "мрежи"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "око"
+    }
+  ],
+  "timestamp": "2026-09-05T12:41:12.552528471Z",
+  "model": "glm-5.3"
+}

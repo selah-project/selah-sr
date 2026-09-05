@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 8:17",
+  "book": "judges",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "И ⟨את⟩ кулу Пенуела поруши, и поби ⟨את⟩ људе града.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "кулу Пенуела"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "кулу"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "Пенуела"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "поруши"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "и поби"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "људе града"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "људе"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "града"
+    }
+  ],
+  "timestamp": "2026-09-05T16:36:09.086254865Z",
+  "model": "glm-5.3"
+}

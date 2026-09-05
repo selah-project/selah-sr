@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 9:2",
+  "book": "zechariah",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "И Хамат који граничи с њом; Цор и Цидон, јер су врло мудри.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "и"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Хамат"
+    },
+    {
+      "surface": "תגבל",
+      "gloss": "граничи"
+    },
+    {
+      "surface": "בה",
+      "gloss": "с њом"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Цор"
+    },
+    {
+      "surface": "וצידון",
+      "gloss": "и Цидон"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мудри ⟨су⟩"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "врло"
+    }
+  ],
+  "timestamp": "2026-09-05T15:51:21.840247375Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "И роди Ноах три сина: ⟨את⟩ Шема, ⟨את⟩ Хама и ⟨את⟩ Јафета.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "И роди"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ноах"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "три"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "сина"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Шема"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Шема"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Хама"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Хама"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Јафета"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Јафета"
+    }
+  ],
+  "timestamp": "2026-09-05T09:40:23.514072830Z",
+  "model": "glm-5.3"
+}

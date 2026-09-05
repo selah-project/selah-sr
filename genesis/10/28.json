@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 10:28",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "И ⟨את⟩ Овала и ⟨את⟩ Авимаела и ⟨את⟩ Шеву.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Овала"
+    },
+    {
+      "surface": "עובל",
+      "gloss": "Овала"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Авимаела"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "Авимаела"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Шеву"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "Шеву"
+    }
+  ],
+  "timestamp": "2026-09-05T09:42:23.034657832Z",
+  "model": "glm-5.3"
+}

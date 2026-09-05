@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 27:3",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 27,
+  "translation": "јер све докле дах мој ⟨је⟩ у мени и дух Елоах у носницама мојим,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "докле"
+    },
+    {
+      "surface": "נשמתי",
+      "gloss": "дах мој"
+    },
+    {
+      "surface": "בי",
+      "gloss": "у мени"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "и дух"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Елоах"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "у носницама мојим"
+    }
+  ],
+  "timestamp": "2026-09-05T14:01:27.939629907Z",
+  "model": "glm-5.3"
+}

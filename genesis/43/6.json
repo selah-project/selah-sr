@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 43:6",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 43,
+  "translation": "И рече Израел: зашто учинисте ми зло, казавши човеку да имате још брата?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израел"
+    },
+    {
+      "surface": "למה",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "הרעתם",
+      "gloss": "учинисте зло"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "להגיד",
+      "gloss": "казавши"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "човеку"
+    },
+    {
+      "surface": "העוד",
+      "gloss": "још"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "имате"
+    },
+    {
+      "surface": "אח",
+      "gloss": "брата"
+    }
+  ],
+  "timestamp": "2026-09-05T15:01:28.727791985Z",
+  "model": "glm-5.3"
+}

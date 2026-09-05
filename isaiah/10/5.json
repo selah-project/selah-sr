@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 10:5",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "Горе Ашуру, пруту гнева мога, и тојази у руци његовој — јарост моја.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Горе"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашуру"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "прут"
+    },
+    {
+      "surface": "אפי",
+      "gloss": "гнева мог"
+    },
+    {
+      "surface": "ומטה",
+      "gloss": "и тојази"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨она⟩"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "у руци његовој"
+    },
+    {
+      "surface": "זעמי",
+      "gloss": "јарост моја"
+    }
+  ],
+  "timestamp": "2026-09-05T15:33:04.937833183Z",
+  "model": "glm-5.3"
+}

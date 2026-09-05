@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "judges 9:50",
+  "book": "judges",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "И отиде Авимелех у Тевец, и утабори се код Тевеца, и заузе га.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "и отиде"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Авимелех"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "תבץ",
+      "gloss": "Тевец"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "и утабори се"
+    },
+    {
+      "surface": "בתבץ",
+      "gloss": "код Тевеца"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "и заузе га"
+    }
+  ],
+  "timestamp": "2026-09-05T11:09:39.399185665Z",
+  "model": "glm-5.3"
+}

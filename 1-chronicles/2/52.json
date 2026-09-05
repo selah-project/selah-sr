@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-chronicles 2:52",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "И бише синови Шовалу, оцу Кирјат-Јеарима: Хароех, половина Менахотâ.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "И бише"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "синови"
+    },
+    {
+      "surface": "לשובל",
+      "gloss": "Шовалу"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "оцу"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Кирјат-"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "Јеарима"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "Хароех"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "половина"
+    },
+    {
+      "surface": "המנחות",
+      "gloss": "Менахотâ"
+    }
+  ],
+  "timestamp": "2026-09-05T14:33:37.068978596Z",
+  "model": "glm-5.3"
+}

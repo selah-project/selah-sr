@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 29:5",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 29,
+  "translation": "Зидајте куће и настаните се, и садите баште и једите ⟨את⟩ плод њихов.",
+  "tokens": [
+    {
+      "surface": "בנו",
+      "gloss": "Зидајте"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "куће"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "и настаните се"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "и садите"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "баште"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "и једите"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "плод њихов"
+    },
+    {
+      "surface": "פרין",
+      "gloss": "плод њихов"
+    }
+  ],
+  "timestamp": "2026-09-05T12:31:47.413420940Z",
+  "model": "glm-5.3"
+}

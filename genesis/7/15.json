@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 7:15",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "И дођоше к Ноаху, у ковчег, по два, по два, од сваког тела у коме ⟨јесте⟩ дух живота.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "и дођоше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ноаху"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ковчег"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "по два"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "по два"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "од сваког"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "тела"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "у коме"
+    },
+    {
+      "surface": "בו",
+      "gloss": "њему"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "дух"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "живота"
+    }
+  ],
+  "timestamp": "2026-09-05T09:41:13.198694681Z",
+  "model": "glm-5.3"
+}

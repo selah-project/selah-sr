@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 24:12",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "А ако је човек сиромах ⟨он⟩, не спавај са залогом његовим.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "А ако"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "עני",
+      "gloss": "сиромах"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨он⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "спавај"
+    },
+    {
+      "surface": "בעבטו",
+      "gloss": "са залогом његовим"
+    }
+  ],
+  "timestamp": "2026-09-05T10:52:18.126279380Z",
+  "model": "glm-5.3"
+}

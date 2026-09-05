@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 1:10",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "Синче мој, ако те завође грешници, не пристај.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синче мој"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "יפתוך",
+      "gloss": "те завође"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "грешници"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "пристај"
+    }
+  ],
+  "timestamp": "2026-09-05T13:45:20.138966641Z",
+  "model": "glm-5.3"
+}

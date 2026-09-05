@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 44:4",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 44,
+  "translation": "И никаће међу травом, као врбе уз токове вода.",
+  "tokens": [
+    {
+      "surface": "וצמחו",
+      "gloss": "и никаће"
+    },
+    {
+      "surface": "בבין",
+      "gloss": "међу"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "травом"
+    },
+    {
+      "surface": "כערבים",
+      "gloss": "као врбе"
+    },
+    {
+      "surface": "על",
+      "gloss": "уз"
+    },
+    {
+      "surface": "יבלי",
+      "gloss": "токове"
+    },
+    {
+      "surface": "מים",
+      "gloss": "вода"
+    }
+  ],
+  "timestamp": "2026-09-05T12:14:12.094641018Z",
+  "model": "glm-5.3"
+}

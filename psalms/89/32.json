@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 89:32",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 89,
+  "translation": "ако наредбе моје оскрнаве и заповести моје не чувају,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "חקתי",
+      "gloss": "наредбе моје"
+    },
+    {
+      "surface": "יחללו",
+      "gloss": "оскрнаве"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "и заповести моје"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "чувају"
+    }
+  ],
+  "timestamp": "2026-09-05T15:57:25.094321634Z",
+  "model": "glm-5.3"
+}

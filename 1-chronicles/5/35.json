@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 5:35",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "А Ахимац роди ⟨את⟩ Азарију, а Азарија роди ⟨את⟩ Јоханана.",
+  "tokens": [
+    {
+      "surface": "ואחימעץ",
+      "gloss": "А Ахимац"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Азарију"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Азарију"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "а Азарија"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јоханана"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Јоханана"
+    }
+  ],
+  "timestamp": "2026-09-05T16:14:18.116206761Z",
+  "model": "glm-5.3"
+}

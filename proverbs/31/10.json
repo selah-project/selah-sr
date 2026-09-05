@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 31:10",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 31,
+  "translation": "Жену вредну ко ће наћи? Вредност јој је далеко изнад бисера.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "жену"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "вредну"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ко"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ће наћи"
+    },
+    {
+      "surface": "ורחק",
+      "gloss": "и далеко"
+    },
+    {
+      "surface": "מפנינים",
+      "gloss": "изнад бисера"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "вредност јој"
+    }
+  ],
+  "timestamp": "2026-09-05T13:54:24.004501032Z",
+  "model": "glm-5.3"
+}

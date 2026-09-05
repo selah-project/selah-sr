@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 9:1",
+  "book": "2-samuel",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "И рече Давид: да ли има још ко остао од дома Шаула, да учиним с њим хесед ради Јехонатана?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "הכי",
+      "gloss": "да ли"
+    },
+    {
+      "surface": "יש",
+      "gloss": "има"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "још"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ко"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "остао"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "од дома"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаула"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "да учиним"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "с њим"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "хесед"
+    },
+    {
+      "surface": "בעבור",
+      "gloss": "ради"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Јехонатана"
+    }
+  ],
+  "timestamp": "2026-09-05T11:30:34.013489681Z",
+  "model": "glm-5.3"
+}

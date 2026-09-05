@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 20:13",
+  "book": "2-samuel",
+  "lang": "sr",
+  "chapter": 20,
+  "translation": "Кад би уклоњен са пута, пређе сваки човек за Јоавом, да гони ⟨за⟩ Шевом, сином Бикријевим.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "Кад"
+    },
+    {
+      "surface": "הגה",
+      "gloss": "би уклоњен"
+    },
+    {
+      "surface": "מן",
+      "gloss": "са"
+    },
+    {
+      "surface": "המסלה",
+      "gloss": "пута"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "пређе"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сваки"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "за"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Јоавом"
+    },
+    {
+      "surface": "לרדף",
+      "gloss": "да гони"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "⟨за⟩"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Шевом"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "בכרי",
+      "gloss": "Бикри"
+    }
+  ],
+  "timestamp": "2026-09-05T11:35:18.458960609Z",
+  "model": "glm-5.3"
+}

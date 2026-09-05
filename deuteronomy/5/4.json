@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 5:4",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Лице у лице говораше Јахве са вама на гори, из средишта оне ватре.",
+  "tokens": [
+    {
+      "surface": "פנים",
+      "gloss": "Лице"
+    },
+    {
+      "surface": "בפנים",
+      "gloss": "у лице"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говораше"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "са вама"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "на гори"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "из средишта"
+    },
+    {
+      "surface": "האש",
+      "gloss": "оне ватре"
+    }
+  ],
+  "timestamp": "2026-09-05T10:44:50.884851563Z",
+  "model": "glm-5.3"
+}

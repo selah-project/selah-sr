@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 2:8",
+  "book": "song-of-songs",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Глас драгог мојега! Ено га, долази, скаче по горама, прескаче по брежуљцима.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "глас"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "драгог мојега"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ено"
+    },
+    {
+      "surface": "זה",
+      "gloss": "га"
+    },
+    {
+      "surface": "בא",
+      "gloss": "долази"
+    },
+    {
+      "surface": "מדלג",
+      "gloss": "скаче"
+    },
+    {
+      "surface": "על",
+      "gloss": "по"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "горама"
+    },
+    {
+      "surface": "מקפץ",
+      "gloss": "прескаче"
+    },
+    {
+      "surface": "על",
+      "gloss": "по"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "брежуљцима"
+    }
+  ],
+  "timestamp": "2026-09-05T14:06:50.249434681Z",
+  "model": "glm-5.3"
+}

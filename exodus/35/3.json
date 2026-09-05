@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 35:3",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 35,
+  "translation": "Не палео огањ ни у једном од станова ваших у дан шабата.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תבערו",
+      "gloss": "палео"
+    },
+    {
+      "surface": "אש",
+      "gloss": "огањ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ни у једном"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "од станова ваших"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "у дан"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "шабата"
+    }
+  ],
+  "timestamp": "2026-09-05T10:13:10.923324484Z",
+  "model": "glm-5.3"
+}

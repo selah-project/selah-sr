@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 2:14",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "и на све високе горе и на све брда издигнута,",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "горе"
+    },
+    {
+      "surface": "הרמים",
+      "gloss": "високе"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "брда"
+    },
+    {
+      "surface": "הנשאות",
+      "gloss": "издигнута"
+    }
+  ],
+  "timestamp": "2026-09-05T12:00:17.516790242Z",
+  "model": "glm-5.3"
+}

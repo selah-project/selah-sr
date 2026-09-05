@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 6:23",
+  "book": "2-samuel",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "А Михалу, кћери Шауловој, не би ⟨детета⟩ до дана смрти њезине.",
+  "tokens": [
+    {
+      "surface": "ולמיכל",
+      "gloss": "А Михалу"
+    },
+    {
+      "surface": "בת",
+      "gloss": "кћери"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шауловој"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "היה",
+      "gloss": "би"
+    },
+    {
+      "surface": "לה",
+      "gloss": "њој"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "⟨детета⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "יום",
+      "gloss": "дана"
+    },
+    {
+      "surface": "מותה",
+      "gloss": "смрти њезине"
+    }
+  ],
+  "timestamp": "2026-09-05T11:29:16.325962527Z",
+  "model": "glm-5.3"
+}

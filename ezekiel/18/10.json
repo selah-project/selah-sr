@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 18:10",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "И роди сина насилника, проливача крви, а учини ⟨једно⟩ од ⟨једног⟩ од ових —",
+  "tokens": [
+    {
+      "surface": "והוליד",
+      "gloss": "И роди"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "פריץ",
+      "gloss": "насилника"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "проливача"
+    },
+    {
+      "surface": "דם",
+      "gloss": "крви"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "а учини"
+    },
+    {
+      "surface": "אח",
+      "gloss": "брату"
+    },
+    {
+      "surface": "מאחד",
+      "gloss": "једно од"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "ових"
+    }
+  ],
+  "timestamp": "2026-09-05T12:46:59.702732587Z",
+  "model": "glm-5.3"
+}

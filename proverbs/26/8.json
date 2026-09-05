@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 26:8",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 26,
+  "translation": "Као ко везује камен у праћку, тако ⟨је⟩ ко даје част безумнику.",
+  "tokens": [
+    {
+      "surface": "כצרור",
+      "gloss": "као ко везује"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "камен"
+    },
+    {
+      "surface": "במרגמה",
+      "gloss": "у праћку"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тако"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "даје"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "безумнику"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "част"
+    }
+  ],
+  "timestamp": "2026-09-05T16:01:52.279210531Z",
+  "model": "glm-5.3"
+}

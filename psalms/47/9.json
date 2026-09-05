@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 47:9",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 47,
+  "translation": "Завлада Елохим народима, Елохим седе на престо светости своје.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "завлада"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "народима"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "седе"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "престо"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "светости своје"
+    }
+  ],
+  "timestamp": "2026-09-05T15:54:52.004399641Z",
+  "model": "glm-5.3"
+}

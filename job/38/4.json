@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 38:4",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 38,
+  "translation": "Где си био кад оснивах земљу? Објави, ако знаш разумевање!",
+  "tokens": [
+    {
+      "surface": "איפה",
+      "gloss": "Где"
+    },
+    {
+      "surface": "היית",
+      "gloss": "си био"
+    },
+    {
+      "surface": "ביסדי",
+      "gloss": "кад оснивах"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земљу"
+    },
+    {
+      "surface": "הגד",
+      "gloss": "Објави"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "знаш"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "разумевање"
+    }
+  ],
+  "timestamp": "2026-09-05T14:05:19.015770215Z",
+  "model": "glm-5.3"
+}

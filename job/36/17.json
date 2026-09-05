@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 36:17",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 36,
+  "translation": "Суд нечастивога наполнио си; суд и право држе ⟨те⟩.",
+  "tokens": [
+    {
+      "surface": "ודין",
+      "gloss": "суд"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "нечастивога"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "напунио си"
+    },
+    {
+      "surface": "דין",
+      "gloss": "суд"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "и право"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "држе"
+    }
+  ],
+  "timestamp": "2026-09-05T14:03:52.084004652Z",
+  "model": "glm-5.3"
+}

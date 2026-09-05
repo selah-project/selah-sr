@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 41:20",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 41,
+  "translation": "Не нагони га у бег син лука; камење праче претвори му се у плеву.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יבריחנו",
+      "gloss": "нагони га у бег"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "лука"
+    },
+    {
+      "surface": "לקש",
+      "gloss": "у плеву"
+    },
+    {
+      "surface": "נהפכו",
+      "gloss": "претвори се"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "камење"
+    },
+    {
+      "surface": "קלע",
+      "gloss": "праче"
+    }
+  ],
+  "timestamp": "2026-09-05T14:06:01.332512817Z",
+  "model": "glm-5.3"
+}

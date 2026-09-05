@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 14:15",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "И узеће свештеник од лога уља, и проливаће ⟨га⟩ на длан руке свештеничке леве.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "и узеће"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "свештеник"
+    },
+    {
+      "surface": "מלג",
+      "gloss": "од лога"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "уља"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "и проливаће"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "כף",
+      "gloss": "длан"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "свештеничке"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "леве"
+    }
+  ],
+  "timestamp": "2026-09-05T10:20:57.737463517Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 13:2",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "Од плода уста својих човек једе добро, а душа издајица ⟨једе⟩ насиље.",
+  "tokens": [
+    {
+      "surface": "מפרי",
+      "gloss": "од плода"
+    },
+    {
+      "surface": "פי",
+      "gloss": "уста"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "једе"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "а душа"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "издајица"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "насиље"
+    }
+  ],
+  "timestamp": "2026-09-05T13:49:02.240084349Z",
+  "model": "glm-5.3"
+}

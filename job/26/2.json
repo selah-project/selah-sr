@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 26:2",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 26,
+  "translation": "Како си помогао ономе без снаге, како си спасао мишицу без моћи!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Како"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "си помогао"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "без"
+    },
+    {
+      "surface": "כח",
+      "gloss": "снаге"
+    },
+    {
+      "surface": "הושעת",
+      "gloss": "си спасао"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "мишицу"
+    },
+    {
+      "surface": "לא",
+      "gloss": "без"
+    },
+    {
+      "surface": "עז",
+      "gloss": "моћи"
+    }
+  ],
+  "timestamp": "2026-09-05T14:01:28.180335193Z",
+  "model": "glm-5.3"
+}

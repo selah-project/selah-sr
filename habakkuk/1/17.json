@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "habakkuk 1:17",
+  "book": "habakkuk",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "Зар зато да празни мрежу своју, и без престанка народе коље без милости?",
+  "tokens": [
+    {
+      "surface": "העל",
+      "gloss": "зар"
+    },
+    {
+      "surface": "כן",
+      "gloss": "зато"
+    },
+    {
+      "surface": "יריק",
+      "gloss": "да празни"
+    },
+    {
+      "surface": "חרמו",
+      "gloss": "мрежу своју"
+    },
+    {
+      "surface": "ותמיד",
+      "gloss": "и без престанка"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "коље"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "народе"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יחמול",
+      "gloss": "милује"
+    }
+  ],
+  "timestamp": "2026-09-05T13:08:39.735658098Z",
+  "model": "glm-5.3"
+}

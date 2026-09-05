@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 22:2",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "И виде Балак, син Ципоров, ⟨את⟩ све што учини Израиљ Емореју.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "И виде"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Балак"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "Ципоров"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "све (што учини Израиљ)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "учини"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљ"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "Емореју"
+    }
+  ],
+  "timestamp": "2026-09-05T15:10:14.784529832Z",
+  "model": "glm-5.3"
+}

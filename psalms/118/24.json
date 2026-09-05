@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 118:24",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 118,
+  "translation": "Ово ⟨је⟩ дан који начини Јахве; да радујемо се и веселимо се у њему.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "ово"
+    },
+    {
+      "surface": "היום",
+      "gloss": "дан"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "начини"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "נגילה",
+      "gloss": "да радујемо се"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "и веселимо се"
+    },
+    {
+      "surface": "בו",
+      "gloss": "у њему"
+    }
+  ],
+  "timestamp": "2026-09-05T13:39:27.323387207Z",
+  "model": "glm-5.3"
+}

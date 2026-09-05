@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 32:17",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 32,
+  "translation": "И биће дело правде мир, и служба правде спокој и уздање довека.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "и биће"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "дело"
+    },
+    {
+      "surface": "הצדקה",
+      "gloss": "правде"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мир"
+    },
+    {
+      "surface": "ועבדת",
+      "gloss": "и служба"
+    },
+    {
+      "surface": "הצדקה",
+      "gloss": "правде"
+    },
+    {
+      "surface": "השקט",
+      "gloss": "спокој"
+    },
+    {
+      "surface": "ובטח",
+      "gloss": "и уздање"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "века"
+    }
+  ],
+  "timestamp": "2026-09-05T12:09:00.816173765Z",
+  "model": "glm-5.3"
+}

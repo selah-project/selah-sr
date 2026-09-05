@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 14:1",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "Човек, рођен од жене, кратка данâ и засићен немира.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "Човек"
+    },
+    {
+      "surface": "ילוד",
+      "gloss": "рођен"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "од жене"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "кратка"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "данâ"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "и засићен"
+    },
+    {
+      "surface": "רגז",
+      "gloss": "немира"
+    }
+  ],
+  "timestamp": "2026-09-05T16:03:22.282894284Z",
+  "model": "glm-5.3"
+}

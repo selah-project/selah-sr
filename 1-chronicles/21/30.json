@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 21:30",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "и не може Давид (Давид) да иде пред њ да тражи Елохима, јер се уплаши од лица мача анђела Јахвеовог.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "може"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "да иде"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "пред њ"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "да тражи"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохима"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "נבעת",
+      "gloss": "се уплаши"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "од лица"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "мача"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "анђела"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеовог"
+    }
+  ],
+  "timestamp": "2026-09-05T14:40:07.583857571Z",
+  "model": "glm-5.3"
+}

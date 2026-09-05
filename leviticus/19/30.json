@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 19:30",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 19,
+  "translation": "⟨את⟩ суботе моје чувајте и светињи мојој бојте се: ја ⟨сам⟩ Јахве.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "суботе моје"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "суботе моје"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "чувајте"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "и светињи мојој"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "бојте се"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-09-05T10:23:47.878505379Z",
+  "model": "glm-5.3"
+}

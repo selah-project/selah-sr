@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 35:19",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 35,
+  "translation": "У осамнаестој години царевања Јошијахуова би учињен тај пасха.",
+  "tokens": [
+    {
+      "surface": "בשמונה",
+      "gloss": "у осамнаестој"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": ""
+    },
+    {
+      "surface": "שנה",
+      "gloss": "году"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "царевања"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "Јошијахуова"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "би учињен"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "пасха"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "тај"
+    }
+  ],
+  "timestamp": "2026-09-05T14:56:36.631129632Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 32:1",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 32,
+  "translation": "Ево, за правду ће краљевати краљ, и кнезови ће за суд владати.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Ево"
+    },
+    {
+      "surface": "לצדק",
+      "gloss": "за правду"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "ће краљевати"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "краљ"
+    },
+    {
+      "surface": "ולשרים",
+      "gloss": "и кнезови"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "за суд"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "ће владати"
+    }
+  ],
+  "timestamp": "2026-09-05T15:35:36.134422738Z",
+  "model": "glm-5.3"
+}

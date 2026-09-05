@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 6:32",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "Ко чини прељуб са женом лишен је срца; разара ⟨он⟩ своју нефеш — он то чини.",
+  "tokens": [
+    {
+      "surface": "נאף",
+      "gloss": "чини прељуб"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "са женом"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "лишен"
+    },
+    {
+      "surface": "לב",
+      "gloss": "срца"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "разара"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "своју нефеш"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "יעשנה",
+      "gloss": "то чини"
+    }
+  ],
+  "timestamp": "2026-09-05T17:11:07.085575123Z",
+  "model": "glm-5.3"
+}

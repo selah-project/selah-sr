@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 31:24",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 31,
+  "translation": "И дође Елохим Лавану Арамејцу у сну ноћном, и рече му: чувај се ти да не говориш с Јааковом од доброг до злог.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "дође"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Лавану"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Лавану"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "Арамејцу"
+    },
+    {
+      "surface": "בחלם",
+      "gloss": "у сну"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ноћном"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "чувај се"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "פן",
+      "gloss": "да не"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "говориш"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Јааковом"
+    },
+    {
+      "surface": "מטוב",
+      "gloss": "од доброг"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "רע",
+      "gloss": "злог"
+    }
+  ],
+  "timestamp": "2026-09-05T09:49:57.984406138Z",
+  "model": "glm-5.3"
+}

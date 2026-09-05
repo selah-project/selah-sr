@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 6:3",
+  "book": "micah",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "Народе мој, шта учиних теби, и чим те заморих? Одговори ми!",
+  "tokens": [
+    {
+      "surface": "עמי",
+      "gloss": "Народе мој"
+    },
+    {
+      "surface": "מה",
+      "gloss": "шта"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "учиних"
+    },
+    {
+      "surface": "לך",
+      "gloss": "теби"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "и чим"
+    },
+    {
+      "surface": "הלאתיך",
+      "gloss": "те заморих"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Одговори"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ми"
+    }
+  ],
+  "timestamp": "2026-09-05T13:09:41.601780448Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 148:11",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 148,
+  "translation": "Краљеви земље и сви народи, кнезови и сви судије земље,",
+  "tokens": [
+    {
+      "surface": "מלכי",
+      "gloss": "краљеви"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земље"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и сви"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "народи"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "кнезови"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и сви"
+    },
+    {
+      "surface": "שפטי",
+      "gloss": "судије"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земље"
+    }
+  ],
+  "timestamp": "2026-09-05T13:44:34.839094031Z",
+  "model": "glm-5.3"
+}

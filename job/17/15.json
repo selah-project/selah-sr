@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 17:15",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 17,
+  "translation": "А где ми је сада нада? и наду моју — ко ће је ⟨видети⟩?",
+  "tokens": [
+    {
+      "surface": "ואיה",
+      "gloss": "А где"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "сада"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "нада"
+    },
+    {
+      "surface": "ותקותי",
+      "gloss": "и наду моју"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ко"
+    },
+    {
+      "surface": "ישורנה",
+      "gloss": "ће је видети"
+    }
+  ],
+  "timestamp": "2026-09-05T13:59:16.286171444Z",
+  "model": "glm-5.3"
+}

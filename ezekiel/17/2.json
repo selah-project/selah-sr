@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 17:2",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 17,
+  "translation": "Сине човечји, задай загонетку и причу изрекај дому Израиљевом:",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Сине"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човечји"
+    },
+    {
+      "surface": "חוד",
+      "gloss": "задай"
+    },
+    {
+      "surface": "חידה",
+      "gloss": "загонетку"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "и причу"
+    },
+    {
+      "surface": "משל",
+      "gloss": "изрекај"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨дому⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дому"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљевом"
+    }
+  ],
+  "timestamp": "2026-09-05T12:47:24.787774045Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 23:16",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "Не предај слугу господару његовоме који се спасе к теби од господара својега.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תסגיר",
+      "gloss": "предај"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "слугу"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ка"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "господару његовоме"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "спасе се"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "к теби"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "од"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "господара својега"
+    }
+  ],
+  "timestamp": "2026-09-05T10:52:35.049082942Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 4:15",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "И синови Калева, сина Јефниног: Иру, Ела и Наам; и синови ⟨од⟩ Еле: и Кеназ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "И синови"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Калева"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Јефниног"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "Иру"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ела"
+    },
+    {
+      "surface": "ונעם",
+      "gloss": "и Наам"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "и синови"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Еле"
+    },
+    {
+      "surface": "וקנז",
+      "gloss": "и Кеназ"
+    }
+  ],
+  "timestamp": "2026-09-05T14:35:23.837011368Z",
+  "model": "glm-5.3"
+}

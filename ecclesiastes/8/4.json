@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "У чему је реч краљева — владавина; и ко ће рећи њему: „шта чиниш?“",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "у чему"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "реч"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "краљева"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "владавина"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "и ко"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ће рећи"
+    },
+    {
+      "surface": "לו",
+      "gloss": "њему"
+    },
+    {
+      "surface": "מה",
+      "gloss": "шта"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "чиниш"
+    }
+  ],
+  "timestamp": "2026-09-05T16:08:23.400399898Z",
+  "model": "glm-5.3"
+}

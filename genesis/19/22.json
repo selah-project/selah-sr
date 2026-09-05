@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 19:22",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 19,
+  "translation": "Пожури, побегни тамо, јер нећу моћи учинити ништа док ти не стигнеш тамо. Зато се назва име града Цоар (мало).",
+  "tokens": [
+    {
+      "surface": "מהר",
+      "gloss": "Пожури"
+    },
+    {
+      "surface": "המלט",
+      "gloss": "побегни"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "тамо"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ћу моћи"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "учинити"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ништа"
+    },
+    {
+      "surface": "עד",
+      "gloss": "док"
+    },
+    {
+      "surface": "באך",
+      "gloss": "не стигнеш"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "тамо"
+    },
+    {
+      "surface": "על",
+      "gloss": "зато"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨по томе⟩"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "назва"
+    },
+    {
+      "surface": "שם",
+      "gloss": "име"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "града"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "Цоар"
+    }
+  ],
+  "timestamp": "2026-09-05T17:15:45.647657851Z",
+  "model": "glm-5.3"
+}

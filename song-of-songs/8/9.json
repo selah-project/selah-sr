@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 8:9",
+  "book": "song-of-songs",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "Ако је зид она, саградићемо на њој круну од сребра; а ако је врата, оградићемо је даском од кедра.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ако"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "зид"
+    },
+    {
+      "surface": "היא",
+      "gloss": "она"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "саградићемо"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "на њој"
+    },
+    {
+      "surface": "טירת",
+      "gloss": "круна"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "од сребра"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "а ако"
+    },
+    {
+      "surface": "דלת",
+      "gloss": "врата"
+    },
+    {
+      "surface": "היא",
+      "gloss": "она"
+    },
+    {
+      "surface": "נצור",
+      "gloss": "оградићемо"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "њу"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "даском"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "од кедра"
+    }
+  ],
+  "timestamp": "2026-09-05T14:07:40.627159472Z",
+  "model": "glm-5.3"
+}

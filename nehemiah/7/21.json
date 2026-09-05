@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 7:21",
+  "book": "nehemiah",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Синови Атера, ⟨синови⟩ Хизкије: деведесет и осам.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синови"
+    },
+    {
+      "surface": "אטר",
+      "gloss": "Атера"
+    },
+    {
+      "surface": "לחזקיה",
+      "gloss": "⟨синови⟩ Хизкије"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "деведесет"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "и осам"
+    }
+  ],
+  "timestamp": "2026-09-05T14:30:47.436827599Z",
+  "model": "glm-5.3"
+}

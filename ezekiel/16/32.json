@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezekiel 16:32",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 16,
+  "translation": "Жена прелюбодејка — место мужа свог примаш ⟨את⟩ странце.",
+  "tokens": [
+    {
+      "surface": "האשה",
+      "gloss": "Жена"
+    },
+    {
+      "surface": "המנאפת",
+      "gloss": "прелюбодејка"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "место"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "мужа свог"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "примаш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "странце"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "странце"
+    }
+  ],
+  "timestamp": "2026-09-05T12:46:50.431612522Z",
+  "model": "glm-5.3"
+}

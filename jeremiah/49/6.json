@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 49:6",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 49,
+  "translation": "А после тога вратићу ⟨את⟩ ропство синâ Амонових, реч Јахвеова.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "А после"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тога"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "вратићу"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ропство"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "ропство"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синâ"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Амонових"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "реч"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеова"
+    }
+  ],
+  "timestamp": "2026-09-05T12:39:22.985987326Z",
+  "model": "glm-5.3"
+}

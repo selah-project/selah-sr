@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 1:7",
+  "book": "2-samuel",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "И обазре се за собом, и виде ме, и зовну ме, а ја рекох: ено ме.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "и обазре се"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "за собом"
+    },
+    {
+      "surface": "ויראני",
+      "gloss": "и виде ме"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "и зовну"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мене"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "а рекох"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ено ме"
+    }
+  ],
+  "timestamp": "2026-09-05T15:24:04.076485892Z",
+  "model": "glm-5.3"
+}

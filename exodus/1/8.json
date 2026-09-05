@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "И уста нов краљ над Мицрајимом, који не знаше ⟨את⟩ Јосефа.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "И уста"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "краљ"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "нов"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрајимом"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "знаше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јосефа"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Јосефа"
+    }
+  ],
+  "timestamp": "2026-09-05T09:58:33.138785097Z",
+  "model": "glm-5.3"
+}

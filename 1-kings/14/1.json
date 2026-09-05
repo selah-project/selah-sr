@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 14:1",
+  "book": "1-kings",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "У то време оболи Авија (Авијах), син Јеровоама.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "У то време"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "то"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "оболи"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Авија (Авијах)"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Јеровоама"
+    }
+  ],
+  "timestamp": "2026-09-05T11:45:34.266551053Z",
+  "model": "glm-5.3"
+}

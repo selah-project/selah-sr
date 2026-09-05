@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 2:4",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Чујте реч Јахвеову, доме Јаковљев, и сви родови дома Израиљевог!",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Чујте"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "реч"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве(ове)"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дому"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Јаковљев"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и сви"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "родови"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљев(ог)"
+    }
+  ],
+  "timestamp": "2026-09-05T15:37:49.087394772Z",
+  "model": "glm-5.3"
+}

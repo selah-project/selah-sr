@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 21:1",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "И устаде сатан против Израиља, и наведе ⟨את⟩ Давида да преброји ⟨את⟩ Израиља.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "и устаде"
+    },
+    {
+      "surface": "שטן",
+      "gloss": "сатан"
+    },
+    {
+      "surface": "על",
+      "gloss": "против"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиља"
+    },
+    {
+      "surface": "ויסת",
+      "gloss": "и наведе"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Давида"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давида"
+    },
+    {
+      "surface": "למנות",
+      "gloss": "да преброји"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Израиља"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиља"
+    }
+  ],
+  "timestamp": "2026-09-05T14:41:23.327609354Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 7:8",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Од стоке чисте и од стоке која није чиста, и од птица, и свега што пуза по тлу.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "стоке"
+    },
+    {
+      "surface": "הטהורה",
+      "gloss": "чисте"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "и од"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "стоке"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "која"
+    },
+    {
+      "surface": "איננה",
+      "gloss": "није"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "чиста"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "и од"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "птица"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и свега"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "пуза"
+    },
+    {
+      "surface": "על",
+      "gloss": "по"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "тлу"
+    }
+  ],
+  "timestamp": "2026-09-05T09:40:29.004340692Z",
+  "model": "glm-5.3"
+}

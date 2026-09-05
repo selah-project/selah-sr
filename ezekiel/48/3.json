@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 48:3",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 48,
+  "translation": "А уз границу Ашера, од стране источне до стране морске ⟨запад⟩: Нафтали, један ⟨део⟩.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "а уз"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "границу"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Ашера"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "од стране"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "источне"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и до"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "стране"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "морске"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Нафтали"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "један"
+    }
+  ],
+  "timestamp": "2026-09-05T12:59:33.478326914Z",
+  "model": "glm-5.3"
+}

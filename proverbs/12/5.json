@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 12:5",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "Мисли праведника ⟨су⟩ суд; савети злих ⟨су⟩ превара.",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "Мисли"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "праведника"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "суд"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "савети"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "злих"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "превара"
+    }
+  ],
+  "timestamp": "2026-09-05T13:48:31.624753857Z",
+  "model": "glm-5.3"
+}

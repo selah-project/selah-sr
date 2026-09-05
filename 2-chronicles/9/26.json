@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-chronicles 9:26",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "И владаше над свим краљевима од Реке до земље Плиштима и до међе Мицрајима (Египат).",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "владаше"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "над свим"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "краљевима"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "Реке"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "до"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земље"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Плиштима"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и до"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "међе"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрајима (Египат)"
+    }
+  ],
+  "timestamp": "2026-09-05T16:16:30.436180458Z",
+  "model": "glm-5.3"
+}

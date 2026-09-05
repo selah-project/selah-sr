@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 23:19",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "Чуј ти, сине мој, и буди мудар, и усмери на пут срце своје.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "чуј"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сине мој"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "и буди мудар"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "и усмери"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "на пут"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "срце своје"
+    }
+  ],
+  "timestamp": "2026-09-05T13:52:16.369007732Z",
+  "model": "glm-5.3"
+}

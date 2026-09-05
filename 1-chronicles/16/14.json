@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 16:14",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 16,
+  "translation": "Он ⟨је⟩ Јахве, Елохим наш; по свој земљи наредбе његове.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Он"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Елохим наш"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "по свој"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земљи"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "наредбе његове"
+    }
+  ],
+  "timestamp": "2026-09-05T16:45:45.817349237Z",
+  "model": "glm-5.3"
+}

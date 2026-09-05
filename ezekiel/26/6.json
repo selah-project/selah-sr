@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 26:6",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 26,
+  "translation": "И кћери њезине које су на пољу мачем побијене биће, и знаће да ја ⟨сам⟩ Јахве.",
+  "tokens": [
+    {
+      "surface": "ובנותיה",
+      "gloss": "и кћери њезине"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "које"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "на пољу"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "мачем"
+    },
+    {
+      "surface": "תהרגנה",
+      "gloss": "побијене биће"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "и знаће"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-09-05T12:51:28.168574291Z",
+  "model": "glm-5.3"
+}

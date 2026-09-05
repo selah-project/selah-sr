@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 11:43",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "Ханан син Маахин, и Јошафат Митнић,",
+  "tokens": [
+    {
+      "surface": "חנן",
+      "gloss": "Ханан"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Маахин"
+    },
+    {
+      "surface": "ויושפט",
+      "gloss": "и Јошафат"
+    },
+    {
+      "surface": "המתני",
+      "gloss": "Митнић"
+    }
+  ],
+  "timestamp": "2026-09-05T14:37:08.418751729Z",
+  "model": "glm-5.3"
+}

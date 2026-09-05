@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 19:2",
+  "book": "joshua",
+  "lang": "sr",
+  "chapter": 19,
+  "translation": "И имаху у наслеђу своме Беер-Шаву ⟨и⟩ Шаву, и Моладу.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И имаху"
+    },
+    {
+      "surface": "להם",
+      "gloss": "своје"
+    },
+    {
+      "surface": "בנחלתם",
+      "gloss": "у наслеђу"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Беер-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Шаву"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "⟨и⟩ Шаву"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "и Моладу"
+    }
+  ],
+  "timestamp": "2026-09-05T11:03:29.947362077Z",
+  "model": "glm-5.3"
+}

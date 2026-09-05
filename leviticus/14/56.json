@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "leviticus 14:56",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "и за оток, и за лишај, и за светлу тачку,",
+  "tokens": [
+    {
+      "surface": "ולשאת",
+      "gloss": "и за оток"
+    },
+    {
+      "surface": "ולספחת",
+      "gloss": "и за лишај"
+    },
+    {
+      "surface": "ולבהרת",
+      "gloss": "и за светлу тачку"
+    }
+  ],
+  "timestamp": "2026-09-05T15:07:41.823457898Z",
+  "model": "glm-5.3"
+}

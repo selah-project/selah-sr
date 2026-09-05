@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 14:3",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "И узе Давид још жена у Јерушалајму (Јерусалим); и роди Давид још синова и кћери.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "И узе"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "још"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "жена"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "у Јерушалајму"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "и роди"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "још"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "синова"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "и кћери"
+    }
+  ],
+  "timestamp": "2026-09-05T14:39:31.250108409Z",
+  "model": "glm-5.3"
+}

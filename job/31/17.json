@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 31:17",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 31,
+  "translation": "и ако сам јео свој залогај сам, и није јео сироче од њега —",
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "и јео сам"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "залогај свој"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "сам"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и није"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "јео"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "сироче"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "од њега"
+    }
+  ],
+  "timestamp": "2026-09-05T14:02:48.132497391Z",
+  "model": "glm-5.3"
+}

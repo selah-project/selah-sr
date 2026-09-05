@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 22:31",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "И чувајте заповести моје и чините ⟨את⟩ њих; ја сам Јахве.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "и чувајте"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "заповести моје"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "и чините"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "њих"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-09-05T10:24:06.730026157Z",
+  "model": "glm-5.3"
+}

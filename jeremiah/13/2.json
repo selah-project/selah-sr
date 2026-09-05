@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 13:2",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "И купих ⟨את⟩ појас по речи Јахвеовој, и метнух га на бедра своја.",
+  "tokens": [
+    {
+      "surface": "ואקנה",
+      "gloss": "И купих"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "појас"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "појас"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "по речи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеовој"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "и метнух"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "бедра своја"
+    }
+  ],
+  "timestamp": "2026-09-05T12:26:06.486907107Z",
+  "model": "glm-5.3"
+}

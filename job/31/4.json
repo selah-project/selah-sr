@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 31:4",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 31,
+  "translation": "Није ли он — види путеве моје, и све кораке моје изброји?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Није ли"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "види"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "путеве моје"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и све"
+    },
+    {
+      "surface": "צעדי",
+      "gloss": "кораке моје"
+    },
+    {
+      "surface": "יספור",
+      "gloss": "изброји"
+    }
+  ],
+  "timestamp": "2026-09-05T16:05:07.953258220Z",
+  "model": "glm-5.3"
+}

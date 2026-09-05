@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 26:12",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 26,
+  "translation": "Јахве, постављаш нам мир, јер си сва дела наша Ти учинио нам.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "תשפת",
+      "gloss": "постављаш"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мир"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "нам"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сва"
+    },
+    {
+      "surface": "מעשינו",
+      "gloss": "дела наша"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "учинио си"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "нам"
+    }
+  ],
+  "timestamp": "2026-09-05T12:07:25.460715578Z",
+  "model": "glm-5.3"
+}

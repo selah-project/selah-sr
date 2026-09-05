@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 162,
+  "ref": "psalms 119:162",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 119,
+  "translation": "Радујем се ријечи твојој као онај што нађе плен велики.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "Радујем се"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ја"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨са⟩"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ријечи твојој"
+    },
+    {
+      "surface": "כמוצא",
+      "gloss": "као онај што нађе"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "плен"
+    },
+    {
+      "surface": "רב",
+      "gloss": "велики"
+    }
+  ],
+  "timestamp": "2026-09-05T15:59:09.193282503Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 21:33",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "И ако отвори човек јаму, или ако ископа човек јаму и не покрије је, и падне онде во или магарац,",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "и ако"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "отвори"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "בור",
+      "gloss": "јаму"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ако"
+    },
+    {
+      "surface": "יכרה",
+      "gloss": "ископа"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "בר",
+      "gloss": "јаму"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יכסנו",
+      "gloss": "покрије је"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "и падне"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "онде"
+    },
+    {
+      "surface": "שור",
+      "gloss": "во"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "магарац"
+    }
+  ],
+  "timestamp": "2026-09-05T10:07:09.768643951Z",
+  "model": "glm-5.3"
+}

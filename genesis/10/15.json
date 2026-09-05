@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "А Кенаан (Ханан) роди ⟨את⟩ Цидона, првенца свог, и ⟨את⟩ Хета.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "А Кенаан"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Цидона"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "Цидона"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "првенца свог"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Хета"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Хета"
+    }
+  ],
+  "timestamp": "2026-09-05T09:42:33.428279042Z",
+  "model": "glm-5.3"
+}

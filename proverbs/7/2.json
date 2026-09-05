@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 7:2",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Чувај заповести моје и живи, Тору моју ⟨као⟩ зеницу ока свог.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "чувај"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "заповести моје"
+    },
+    {
+      "surface": "וחיה",
+      "gloss": "и живи"
+    },
+    {
+      "surface": "ותורתי",
+      "gloss": "и Тору моју"
+    },
+    {
+      "surface": "כאישון",
+      "gloss": "као зеницу"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ока свог"
+    }
+  ],
+  "timestamp": "2026-09-05T16:00:43.821722918Z",
+  "model": "glm-5.3"
+}

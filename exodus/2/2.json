@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 2:2",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "И зачне жена и роди сина, и виде ⟨את⟩ њега ⟨јер⟩ добар ⟨је⟩ он, и скриваше га три месеца.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "и зачне"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "жена"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "и роди"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "и виде"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "њега"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨јер⟩ да"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добар"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "ותצפנהו",
+      "gloss": "и скриваше га"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "три"
+    },
+    {
+      "surface": "ירחים",
+      "gloss": "месеца"
+    }
+  ],
+  "timestamp": "2026-09-05T09:59:28.922614749Z",
+  "model": "glm-5.3"
+}

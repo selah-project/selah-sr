@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 22:8",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "Ко сеје безакоње пожњеће беду, а прут гнева својега биће окончан.",
+  "tokens": [
+    {
+      "surface": "זורע",
+      "gloss": "Ко сеје"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "безакоње"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "пожњеће"
+    },
+    {
+      "surface": "און",
+      "gloss": "беду"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "а прут"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "гнева својега"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "биће окончан"
+    }
+  ],
+  "timestamp": "2026-09-05T13:51:25.668928830Z",
+  "model": "glm-5.3"
+}

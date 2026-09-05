@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 21:21",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "Међутим, ако дан или два дана остане ⟨на ногу⟩, неће бити кажњен, јер је сребро његово.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Међутим"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "יום",
+      "gloss": "дан"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "יומים",
+      "gloss": "два дана"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "остане"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יקק",
+      "gloss": "биће кажњен"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "сребро његово"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "јесте"
+    }
+  ],
+  "timestamp": "2026-09-05T10:07:46.861993035Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 2:27",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "И бише синови Рама, прворођенца Јерахмеелова: Маац, и Јамин, и Екер.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "и бише"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Рама"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "прворођенца"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "Јерахмеелова"
+    },
+    {
+      "surface": "מעץ",
+      "gloss": "Маац"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "и Јамин"
+    },
+    {
+      "surface": "ועקר",
+      "gloss": "и Екер"
+    }
+  ],
+  "timestamp": "2026-09-05T14:33:51.545335958Z",
+  "model": "glm-5.3"
+}

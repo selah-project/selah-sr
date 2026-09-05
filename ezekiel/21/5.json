@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 21:5",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "И рекох: ах, Адонај Јахве! Они ми говоре: зар није творац причâ ⟨он⟩?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "И рекох"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "ах"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "המה",
+      "gloss": "Они"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "говоре"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "зар није"
+    },
+    {
+      "surface": "ממשל",
+      "gloss": "творац"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "причâ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨он⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T12:47:56.611287054Z",
+  "model": "glm-5.3"
+}

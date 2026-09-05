@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 8:4",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "Хаљина твоја не стаде на тобом, ни нога твоја не отече, ових четрдесет година.",
+  "tokens": [
+    {
+      "surface": "שמלתך",
+      "gloss": "Хаљина твоја"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "стаде (истроши се)"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "на тобом"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "ни нога твоја"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "בצקה",
+      "gloss": "отече"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ових"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "четрдесет"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "година"
+    }
+  ],
+  "timestamp": "2026-09-05T10:48:09.143263441Z",
+  "model": "glm-5.3"
+}

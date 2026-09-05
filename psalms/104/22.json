@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 104:22",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 104,
+  "translation": "Израше сунце — скупе се и у јазбине своје се полежу.",
+  "tokens": [
+    {
+      "surface": "תזרח",
+      "gloss": "израше"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "сунце"
+    },
+    {
+      "surface": "יאספון",
+      "gloss": "скупе се"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и у"
+    },
+    {
+      "surface": "מעונתם",
+      "gloss": "јазбине своје"
+    },
+    {
+      "surface": "ירבצון",
+      "gloss": "полежу"
+    }
+  ],
+  "timestamp": "2026-09-05T13:36:24.429378979Z",
+  "model": "glm-5.3"
+}

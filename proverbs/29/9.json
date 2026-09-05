@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 29:9",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 29,
+  "translation": "Мудар човек суди се ⟨с⟩ ⟨את⟩ човеком лудим, па се ⟨онај⟩ гневи и смеје, и нема покоја.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мудар"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "суди се"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "човеком лудим"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човеком"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "лудим"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "и гневи се"
+    },
+    {
+      "surface": "ושחק",
+      "gloss": "и смеје"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и нема"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "покоја"
+    }
+  ],
+  "timestamp": "2026-09-05T13:52:59.747729236Z",
+  "model": "glm-5.3"
+}

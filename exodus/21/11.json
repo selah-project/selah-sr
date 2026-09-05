@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 21:11",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "А ако ова три јој не учини — изаћи ће бесплатно, без сребра.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "а ако"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "три"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ова"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יעשׂה",
+      "gloss": "учини"
+    },
+    {
+      "surface": "לה",
+      "gloss": "јој"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "изаћи ће"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "бесплатно"
+    },
+    {
+      "surface": "אין",
+      "gloss": "без"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "сребра"
+    }
+  ],
+  "timestamp": "2026-09-05T10:07:17.501328064Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 106:48",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 106,
+  "translation": "Благословен Јахве, Елохим Израиљев, од века и до века, и рече сав народ: Амен! Халелу Јах!",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Благословен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљев"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "века"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и до"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "века"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сав"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Амен"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Халелу"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Јах"
+    }
+  ],
+  "timestamp": "2026-09-05T13:37:43.363678942Z",
+  "model": "glm-5.3"
+}

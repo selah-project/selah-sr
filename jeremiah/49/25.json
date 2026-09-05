@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 49:25",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 49,
+  "translation": "Како ⟨је⟩ не остављен град хвале, град радости моје!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "Како"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "עזבה",
+      "gloss": "остављен"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "град"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "хвале"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "град"
+    },
+    {
+      "surface": "משושי",
+      "gloss": "радости моје"
+    }
+  ],
+  "timestamp": "2026-09-05T12:39:51.940848884Z",
+  "model": "glm-5.3"
+}

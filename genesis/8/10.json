@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 8:10",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "И причека још седам дана других, па опет посла ⟨את⟩ голубицу из ковчега.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "и причека"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "још"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "седам"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дана"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "других"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "па опет"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "посла"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "голубицу"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "голубицу"
+    },
+    {
+      "surface": "מן",
+      "gloss": "из"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ковчега"
+    }
+  ],
+  "timestamp": "2026-09-05T09:40:25.750258063Z",
+  "model": "glm-5.3"
+}

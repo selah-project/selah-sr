@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 24:2",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "Јер помишља срце њихово погром, и усне њихове говоре муку.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "שד",
+      "gloss": "погром"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "помишља"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "срце њихово"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "и муку"
+    },
+    {
+      "surface": "שפתיהם",
+      "gloss": "усне њихове"
+    },
+    {
+      "surface": "תדברנה",
+      "gloss": "говоре"
+    }
+  ],
+  "timestamp": "2026-09-05T13:52:22.218382658Z",
+  "model": "glm-5.3"
+}

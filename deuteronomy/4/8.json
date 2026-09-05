@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 4:8",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "И који ⟨је⟩ народ велик коме ⟨има⟩ уредбе и правде праведне као сву ову Тору, коју ја стављам пред вама данас?",
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "И који"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "народ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "велик"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "коме"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨има⟩"
+    },
+    {
+      "surface": "חקים",
+      "gloss": "уредбе"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "и правде"
+    },
+    {
+      "surface": "צדיקם",
+      "gloss": "праведне"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "као сву"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Тору"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ову"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "коју"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ја"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "стављам"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "пред вама"
+    },
+    {
+      "surface": "היום",
+      "gloss": "данас"
+    }
+  ],
+  "timestamp": "2026-09-05T10:46:11.601950796Z",
+  "model": "glm-5.3"
+}

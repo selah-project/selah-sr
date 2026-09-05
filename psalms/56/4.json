@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 56,
+  "translation": "Дана кад се бојим, ја — у тебе се уздам.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "дана"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "бојим се"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "у тебе"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "уздам се"
+    }
+  ],
+  "timestamp": "2026-09-05T13:27:47.992687046Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 28:25",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "И у дан седми биће вам свети сазив; никакав посао службе немојте да радите.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "и у дан"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "седми"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "сазив"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "свети"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "биће"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сваки"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "посао"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "службе"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "радите"
+    }
+  ],
+  "timestamp": "2026-09-05T10:39:24.721961808Z",
+  "model": "glm-5.3"
+}

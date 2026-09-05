@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 12:3",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "И црпећете воде с радошћу из извора ⟨од⟩ спасења.",
+  "tokens": [
+    {
+      "surface": "ושאבתם",
+      "gloss": "И црпећете"
+    },
+    {
+      "surface": "מים",
+      "gloss": "воде"
+    },
+    {
+      "surface": "בששון",
+      "gloss": "с радошћу"
+    },
+    {
+      "surface": "ממעיני",
+      "gloss": "из извора"
+    },
+    {
+      "surface": "הישועה",
+      "gloss": "спасења"
+    }
+  ],
+  "timestamp": "2026-09-05T12:04:00.859846231Z",
+  "model": "glm-5.3"
+}

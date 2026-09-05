@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 91:10",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 91,
+  "translation": "Неће те задесити зло, и удар се неће приближити шатору твоме.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "задесити"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "те"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зло"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "и удар"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "приближити"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "шатору твоме"
+    }
+  ],
+  "timestamp": "2026-09-05T13:34:56.395665247Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 22:19",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "Да буде у Јахвеу уздање твоје, јавих ти данас — и теби ⟨самом⟩.",
+  "tokens": [
+    {
+      "surface": "להיות",
+      "gloss": "Да буде"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "у Јахвеу"
+    },
+    {
+      "surface": "מבטחך",
+      "gloss": "уздање твоје"
+    },
+    {
+      "surface": "הודעתיך",
+      "gloss": "јавих ти"
+    },
+    {
+      "surface": "היום",
+      "gloss": "данас"
+    },
+    {
+      "surface": "אף",
+      "gloss": "и"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "теби ⟨самом⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T13:51:24.652119110Z",
+  "model": "glm-5.3"
+}

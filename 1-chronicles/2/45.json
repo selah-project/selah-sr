@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 2:45",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "И син Шамаја ⟨бејаше⟩ Маон, а Маон ⟨бејаше⟩ отац Беит-Цура.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "И син"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Шамаја"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "Маон"
+    },
+    {
+      "surface": "ומעון",
+      "gloss": "а Маон"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "отац"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Беит-"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Цура"
+    }
+  ],
+  "timestamp": "2026-09-05T16:14:18.867720867Z",
+  "model": "glm-5.3"
+}

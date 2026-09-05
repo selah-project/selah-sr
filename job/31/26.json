@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 31:26",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 31,
+  "translation": "Ако сам гледао светлост како сија, и месец драгоцен како хода —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ако"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "гледах"
+    },
+    {
+      "surface": "אור",
+      "gloss": "светлост"
+    },
+    {
+      "surface": "כי",
+      "gloss": "како"
+    },
+    {
+      "surface": "יהל",
+      "gloss": "сија"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "и месец"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "драгоцен"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "хода"
+    }
+  ],
+  "timestamp": "2026-09-05T16:05:09.645767725Z",
+  "model": "glm-5.3"
+}

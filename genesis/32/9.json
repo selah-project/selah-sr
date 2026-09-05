@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 32:9",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 32,
+  "translation": "И рече: ако Есав дође у један логор и удари га, логор преостали биће за спасење.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "дође"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Есав"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "логор"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "један"
+    },
+    {
+      "surface": "והכהו",
+      "gloss": "и удари га"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "и биће"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "логор"
+    },
+    {
+      "surface": "הנשאר",
+      "gloss": "преостали"
+    },
+    {
+      "surface": "לפליטה",
+      "gloss": "за спасење"
+    }
+  ],
+  "timestamp": "2026-09-05T09:51:20.440376501Z",
+  "model": "glm-5.3"
+}

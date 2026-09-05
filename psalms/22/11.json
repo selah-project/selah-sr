@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 22:11",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "На тебе бацих себе из утробе, из стомака матере моје — Ел мој јеси ти.",
+  "tokens": [
+    {
+      "surface": "עליך",
+      "gloss": "На тебе"
+    },
+    {
+      "surface": "השלכתי",
+      "gloss": "бацих"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "из утробе"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "из стомака"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "матере моје"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Ел мој"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    }
+  ],
+  "timestamp": "2026-09-05T13:19:37.257042196Z",
+  "model": "glm-5.3"
+}

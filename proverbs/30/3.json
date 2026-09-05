@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 30:3",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 30,
+  "translation": "И не научих мудрост, а знање светих ⟨не⟩ знам.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "И не"
+    },
+    {
+      "surface": "למדתי",
+      "gloss": "научих"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мудрост"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "а знање"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "светих"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "знам"
+    }
+  ],
+  "timestamp": "2026-09-05T13:54:00.026439654Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 8:17",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "Јер ево ме шаљем међу вас змије, отровнице којима нема чарања, и ујеће ⟨את⟩ вас — реч Јахвеина.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ево ме"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "шаљем"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "међу вама"
+    },
+    {
+      "surface": "נחשים",
+      "gloss": "змије"
+    },
+    {
+      "surface": "צפענים",
+      "gloss": "отровнице"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "којима"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "чарања"
+    },
+    {
+      "surface": "ונשכו",
+      "gloss": "и ујеће"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "вас"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "реч"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеина"
+    }
+  ],
+  "timestamp": "2026-09-05T12:24:43.576022794Z",
+  "model": "glm-5.3"
+}

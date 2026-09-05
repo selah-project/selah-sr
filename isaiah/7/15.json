@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 7:15",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Масло и мед јеоће док не зна да мрзи зло и да бира добро.",
+  "tokens": [
+    {
+      "surface": "חמאה",
+      "gloss": "масло"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "и мед"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "јеоће"
+    },
+    {
+      "surface": "לדעתו",
+      "gloss": "да зна"
+    },
+    {
+      "surface": "מאוס",
+      "gloss": "мрзи"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "зло"
+    },
+    {
+      "surface": "ובחור",
+      "gloss": "и да бира"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "добро"
+    }
+  ],
+  "timestamp": "2026-09-05T12:02:50.840208590Z",
+  "model": "glm-5.3"
+}

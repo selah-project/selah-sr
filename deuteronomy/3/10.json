@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 3:10",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "све градове ⟨равнице⟩, и сав Гилеад, и сав Башан, до Салхе и Едреја, градове краљевства Оговог у Башану.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "градове"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "равнице"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и сав"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Гилеад"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и сав"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Башан"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "Салхе"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "и Едреја"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "градове"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "краљевства"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "Оговог"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "у Башану"
+    }
+  ],
+  "timestamp": "2026-09-05T15:12:00.832660809Z",
+  "model": "glm-5.3"
+}

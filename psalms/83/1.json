@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 83:1",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 83,
+  "translation": "Песма, псалам Асафу (Асафов).",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Песма"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "псалам"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Асафу (Асафов)"
+    }
+  ],
+  "timestamp": "2026-09-05T15:56:45.282965472Z",
+  "model": "glm-5.3"
+}

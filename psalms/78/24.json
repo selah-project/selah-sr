@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 78:24",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 78,
+  "translation": "И извржа на њих ман ⟨да⟩ једу, и жито небеско даде им.",
+  "tokens": [
+    {
+      "surface": "וימטר",
+      "gloss": "И извржа"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "на њих"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ман"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "⟨да⟩ једу"
+    },
+    {
+      "surface": "ודגן",
+      "gloss": "и жито"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "небеско"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "даде"
+    },
+    {
+      "surface": "למו",
+      "gloss": "им"
+    }
+  ],
+  "timestamp": "2026-09-05T13:31:45.318614026Z",
+  "model": "glm-5.3"
+}

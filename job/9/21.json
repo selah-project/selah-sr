@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 9:21",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "Непоран сам ја: не знам душу своју, презирем живот свој.",
+  "tokens": [
+    {
+      "surface": "תם",
+      "gloss": "непоран"
+    },
+    {
+      "surface": "אני",
+      "gloss": "сам ја"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "знам"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душу своју"
+    },
+    {
+      "surface": "אמאס",
+      "gloss": "презирем"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "живот свој"
+    }
+  ],
+  "timestamp": "2026-09-05T13:57:21.793804296Z",
+  "model": "glm-5.3"
+}

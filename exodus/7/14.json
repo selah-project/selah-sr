@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 7:14",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "И рече Јахве Мошеу (Мојсију): Тешко ⟨је⟩ срце фараона — одби да отпусти народ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨к⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошеу"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "Тешко"
+    },
+    {
+      "surface": "לב",
+      "gloss": "срце"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "фараона"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "одби"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "да отпусти"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    }
+  ],
+  "timestamp": "2026-09-05T10:01:19.264038637Z",
+  "model": "glm-5.3"
+}

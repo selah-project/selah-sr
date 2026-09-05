@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 135:17",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 135,
+  "translation": "Уши имају, али не чују; а и даха нема у устима њиховим.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "уши"
+    },
+    {
+      "surface": "להם",
+      "gloss": "имају"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "али не"
+    },
+    {
+      "surface": "יאזינו",
+      "gloss": "чују"
+    },
+    {
+      "surface": "אף",
+      "gloss": "а и"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨има⟩"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "дах"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "у устима њиховим"
+    }
+  ],
+  "timestamp": "2026-09-05T13:42:57.926583015Z",
+  "model": "glm-5.3"
+}

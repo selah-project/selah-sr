@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 18:15",
+  "book": "judges",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "И скретоше онамо, и дођоше у дом младића Левита, дом Михин, и упиташе га ⟨за⟩ мир.",
+  "tokens": [
+    {
+      "surface": "ויסורו",
+      "gloss": "И скретоше"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "онамо"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "и дођоше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "младића"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "Левита"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Михин"
+    },
+    {
+      "surface": "וישאלו",
+      "gloss": "и упиташе"
+    },
+    {
+      "surface": "לו",
+      "gloss": "га"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "⟨за⟩ мир"
+    }
+  ],
+  "timestamp": "2026-09-05T11:13:40.258281768Z",
+  "model": "glm-5.3"
+}

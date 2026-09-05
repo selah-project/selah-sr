@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 24:26",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "Синови Мерарија: Махли и Муши — синови Јаазијахуа, сина његова.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синови"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Мерарија"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "Махли"
+    },
+    {
+      "surface": "ומושי",
+      "gloss": "и Муши"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "יעזיהו",
+      "gloss": "Јаазијахуа"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "сина његова"
+    }
+  ],
+  "timestamp": "2026-09-05T14:41:40.975827436Z",
+  "model": "glm-5.3"
+}

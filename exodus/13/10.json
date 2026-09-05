@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 13:10",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "И чуваћеш ⟨את⟩ уредбу ову у време њено, од дана на дане.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "и чуваћеш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "уредбу"
+    },
+    {
+      "surface": "החקה",
+      "gloss": "уредбу"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ову"
+    },
+    {
+      "surface": "למועדה",
+      "gloss": "у време њено"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "од дана"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "на дане"
+    }
+  ],
+  "timestamp": "2026-09-05T15:02:58.431603903Z",
+  "model": "glm-5.3"
+}

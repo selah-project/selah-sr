@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 2:27",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Да пређем кроз земљу твоју — путем ћу ићи, нећу скренути десно ни лево.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "Да пређем"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "кроз земљу твоју"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "путем"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "путем"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ћу ићи"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нећу"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "скренути"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "десно"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "ни лево"
+    }
+  ],
+  "timestamp": "2026-09-05T10:43:33.407095908Z",
+  "model": "glm-5.3"
+}

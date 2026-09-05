@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 9:24",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "Побуњени бисте са Јахвеом од дана кад упознах ⟨את⟩ вас.",
+  "tokens": [
+    {
+      "surface": "ממרים",
+      "gloss": "Побуњени"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "бисте"
+    },
+    {
+      "surface": "עם",
+      "gloss": "са"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеом"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "од дана"
+    },
+    {
+      "surface": "דעתי",
+      "gloss": "упознах"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ вас",
+      "marks": "вас"
+    }
+  ],
+  "timestamp": "2026-09-05T10:46:54.655781379Z",
+  "model": "glm-5.3"
+}

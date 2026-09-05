@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 13:10",
+  "book": "1-kings",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "И отиде другим путем, и не врати се путем којим дође њиме у Бет-Ел.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "И отиде"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "путом"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "другим"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "שב",
+      "gloss": "врати се"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "путом"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "којим"
+    },
+    {
+      "surface": "בא",
+      "gloss": "дође"
+    },
+    {
+      "surface": "בה",
+      "gloss": "њиме"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    }
+  ],
+  "timestamp": "2026-09-05T11:44:40.698470268Z",
+  "model": "glm-5.3"
+}

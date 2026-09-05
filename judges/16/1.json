@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 16:1",
+  "book": "judges",
+  "lang": "sr",
+  "chapter": 16,
+  "translation": "И отиде Шимшон (Самсон) у Азу, и виде онде жену блудницу, и уђе к њој.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "И отиде"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "Шимшон"
+    },
+    {
+      "surface": "עזתה",
+      "gloss": "у Азу"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "и виде"
+    },
+    {
+      "surface": "שם",
+      "gloss": "онде"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "жену"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "блудницу"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "и уђе"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "к њој"
+    }
+  ],
+  "timestamp": "2026-09-05T11:13:25.505973919Z",
+  "model": "glm-5.3"
+}

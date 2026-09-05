@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 32:27",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 32,
+  "translation": "И рече: „Пусти ме, јер зора изађе.“ А он рече: „Нећу те пустити док ме не благословиш.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "пусти ме"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "изађе"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "зора"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אשלחך",
+      "gloss": "нећу те пустити"
+    },
+    {
+      "surface": "כי",
+      "gloss": "док"
+    },
+    {
+      "surface": "אם",
+      "gloss": "не"
+    },
+    {
+      "surface": "ברכתני",
+      "gloss": "благословиш"
+    }
+  ],
+  "timestamp": "2026-09-05T09:50:23.538711855Z",
+  "model": "glm-5.3"
+}

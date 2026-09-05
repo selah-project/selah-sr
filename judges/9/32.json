@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "judges 9:32",
+  "book": "judges",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "А сада устани ноћу — ти и народ који ⟨је⟩ ⟨את⟩ с тобом — и заседни у пољу.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "а сада"
+    },
+    {
+      "surface": "קום",
+      "gloss": "устани"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ноћу"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "и народ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ с тобом"
+    },
+    {
+      "surface": "וארב",
+      "gloss": "и заседни"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "у пољу"
+    }
+  ],
+  "timestamp": "2026-09-05T11:10:06.240221240Z",
+  "model": "glm-5.3"
+}

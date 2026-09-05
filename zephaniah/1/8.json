@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zephaniah 1:8",
+  "book": "zephaniah",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "И биће у дан жртве Јахвеове: и посетићу кнезове и синове краљеве и све који облаче одело туђе.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "И биће"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "у дан"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "жртве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеове"
+    },
+    {
+      "surface": "ופקדתי",
+      "gloss": "и посетићу"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "кнезове"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синове"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "краљеве"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "הלבשים",
+      "gloss": "који облаче"
+    },
+    {
+      "surface": "מלבוש",
+      "gloss": "одело"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "туђе"
+    }
+  ],
+  "timestamp": "2026-09-05T16:50:22.015382224Z",
+  "model": "glm-5.3"
+}

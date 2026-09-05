@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 5:17",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "И рече: лени сте, лени — зато говорите: идимо, жртвујмо Јахвеу.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "נרפים",
+      "gloss": "лени сте"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ви"
+    },
+    {
+      "surface": "נרפים",
+      "gloss": "лени"
+    },
+    {
+      "surface": "על",
+      "gloss": "због"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тога"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ви"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "говорите"
+    },
+    {
+      "surface": "נלכה",
+      "gloss": "идимо"
+    },
+    {
+      "surface": "נזבחה",
+      "gloss": "жртвујмо"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Јахвеу"
+    }
+  ],
+  "timestamp": "2026-09-05T10:00:58.001618317Z",
+  "model": "glm-5.3"
+}

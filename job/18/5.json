@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 18:5",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "И светло зликоваца гасне, и не сија пламен огња његовог.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "И"
+    },
+    {
+      "surface": "אור",
+      "gloss": "светло"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "зликоваца"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "гасне"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יגה",
+      "gloss": "сија"
+    },
+    {
+      "surface": "שביב",
+      "gloss": "пламен"
+    },
+    {
+      "surface": "אשו",
+      "gloss": "огањ његов"
+    }
+  ],
+  "timestamp": "2026-09-05T13:58:36.741457962Z",
+  "model": "glm-5.3"
+}

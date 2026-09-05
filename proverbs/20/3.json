@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 20:3",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 20,
+  "translation": "Част је човеку престанак од свађе, а сваки глупан се распиркује.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "Част"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "човеку"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "престанак"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "од свађе"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "а сваки"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "глупан"
+    },
+    {
+      "surface": "יתגלע",
+      "gloss": "се распиркује"
+    }
+  ],
+  "timestamp": "2026-09-05T16:00:51.582595255Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 26:27",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 26,
+  "translation": "Од ратова и од плена посветише ⟨то⟩ за утврђивање дома Јахвеов.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "המלחמות",
+      "gloss": "ратова"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "и од"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "плена"
+    },
+    {
+      "surface": "הקדישו",
+      "gloss": "посветише"
+    },
+    {
+      "surface": "לחזק",
+      "gloss": "за утврђивање"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеов"
+    }
+  ],
+  "timestamp": "2026-09-05T14:43:22.716459857Z",
+  "model": "glm-5.3"
+}

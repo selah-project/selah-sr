@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 19:18",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 19,
+  "translation": "Кастигуј сина својега док има наде, и на уморство његово не дири душу своју.",
+  "tokens": [
+    {
+      "surface": "יסר",
+      "gloss": "Кастигуј"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "сина својега"
+    },
+    {
+      "surface": "כי",
+      "gloss": "док"
+    },
+    {
+      "surface": "יש",
+      "gloss": "има"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "наде"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "на уморство његово"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "дири"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "душу своју"
+    }
+  ],
+  "timestamp": "2026-09-05T13:51:09.723141808Z",
+  "model": "glm-5.3"
+}

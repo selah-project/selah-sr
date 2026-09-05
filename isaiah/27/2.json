@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 27:2",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 27,
+  "translation": "У тај дан: виноград жељени — отпевајте јој!",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "У тај дан"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тај"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "виноград"
+    },
+    {
+      "surface": "חמד",
+      "gloss": "жељени"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "отпевајте"
+    },
+    {
+      "surface": "לה",
+      "gloss": "јој"
+    }
+  ],
+  "timestamp": "2026-09-05T12:08:11.489797970Z",
+  "model": "glm-5.3"
+}

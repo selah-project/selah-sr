@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 12:15",
+  "book": "nehemiah",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "за Харима Адна, за Мерајота Хелкај;",
+  "tokens": [
+    {
+      "surface": "לחרם",
+      "gloss": "за Харима"
+    },
+    {
+      "surface": "עדנא",
+      "gloss": "Адна"
+    },
+    {
+      "surface": "למריות",
+      "gloss": "за Мерајота"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "Хелкај"
+    }
+  ],
+  "timestamp": "2026-09-05T14:32:18.647929677Z",
+  "model": "glm-5.3"
+}

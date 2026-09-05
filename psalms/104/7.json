@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 104:7",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 104,
+  "translation": "Од грде твоје побегоше; од гласа грома твојега похиташе.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Од"
+    },
+    {
+      "surface": "גערתך",
+      "gloss": "грде твоје"
+    },
+    {
+      "surface": "ינוסון",
+      "gloss": "побегоше"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "קול",
+      "gloss": "гласа"
+    },
+    {
+      "surface": "רעמך",
+      "gloss": "грома твојега"
+    },
+    {
+      "surface": "יחפזון",
+      "gloss": "похиташе"
+    }
+  ],
+  "timestamp": "2026-09-05T13:36:47.285397488Z",
+  "model": "glm-5.3"
+}

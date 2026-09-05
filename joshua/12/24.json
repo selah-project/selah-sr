@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 12:24",
+  "book": "joshua",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "краљ Тирце један — свега краљева тридесет и један.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "краљ"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "Тирце"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "један"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сви"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "краљеви"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "тридесет"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "и један"
+    }
+  ],
+  "timestamp": "2026-09-05T11:01:00.680614417Z",
+  "model": "glm-5.3"
+}

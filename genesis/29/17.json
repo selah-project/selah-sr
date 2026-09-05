@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 29:17",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 29,
+  "translation": "А очи Леине беху нежне, а Рахел беше лепа обличјем и лепа изгледом.",
+  "tokens": [
+    {
+      "surface": "ועיני",
+      "gloss": "а очи"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Леине"
+    },
+    {
+      "surface": "רכות",
+      "gloss": "нежне"
+    },
+    {
+      "surface": "ורחל",
+      "gloss": "а Рахел"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "беше"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "лепа"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "обличјем"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "и лепа"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "изгледом"
+    }
+  ],
+  "timestamp": "2026-09-05T09:48:31.466225811Z",
+  "model": "glm-5.3"
+}

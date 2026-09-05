@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 18:21",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "И од семена свог не дај да се пренесе Молоху, и не скрнави ⟨את⟩ име Елохима свог; ја ⟨сам⟩ Јахве.",
+  "tokens": [
+    {
+      "surface": "ומזרעך",
+      "gloss": "и од семена свог"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "дај"
+    },
+    {
+      "surface": "להעביר",
+      "gloss": "да се пренесе"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "Молоху"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תחלל",
+      "gloss": "скрнави"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "име"
+    },
+    {
+      "surface": "שם",
+      "gloss": "име"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Елохима свог"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-09-05T10:22:05.296528205Z",
+  "model": "glm-5.3"
+}

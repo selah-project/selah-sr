@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "jeremiah 49:35",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 49,
+  "translation": "Овако рече Јахве Цеваот: ево ме, ломим ⟨את⟩ лук Елама, почетак силе њихове.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Овако"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ево ме"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ломим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "лук Елама"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "лук"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Елама"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "почетак"
+    },
+    {
+      "surface": "גבורתם",
+      "gloss": "силе њихове"
+    }
+  ],
+  "timestamp": "2026-09-05T12:40:22.540042145Z",
+  "model": "glm-5.3"
+}

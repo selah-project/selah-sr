@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 9:2",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "И каза јој Шеломоу ⟨את⟩ све речи њене, и не оста скривена ниједна ствар од Шеломоу коју не каза њој.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "И каза"
+    },
+    {
+      "surface": "לה",
+      "gloss": "јој"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломоу"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "све"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "דבריה",
+      "gloss": "речи њене"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "оста скривена"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ствар"
+    },
+    {
+      "surface": "משלמה",
+      "gloss": "од Шеломоу"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "коју"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "каза"
+    },
+    {
+      "surface": "לה",
+      "gloss": "њој"
+    }
+  ],
+  "timestamp": "2026-09-05T14:48:31.821797926Z",
+  "model": "glm-5.3"
+}

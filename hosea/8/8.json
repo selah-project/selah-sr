@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 8:8",
+  "book": "hosea",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "Прогутан је Израиљ; сада бише међу народима као суд у коме нема дражи.",
+  "tokens": [
+    {
+      "surface": "נבלע",
+      "gloss": "Прогутан је"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљ"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "сада"
+    },
+    {
+      "surface": "היו",
+      "gloss": "бише"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "међу народима"
+    },
+    {
+      "surface": "ככלי",
+      "gloss": "као суд"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "дражи"
+    },
+    {
+      "surface": "בו",
+      "gloss": "у коме"
+    }
+  ],
+  "timestamp": "2026-09-05T13:03:01.665543632Z",
+  "model": "glm-5.3"
+}

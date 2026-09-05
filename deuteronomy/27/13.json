@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 27:13",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 27,
+  "translation": "А ови ће стасти на клетву на гори Ејвал: Рувен, Гад и Ашер, и Зевулун, Дан и Нафтали.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "А ови"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "ће стасти"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הקללה",
+      "gloss": "клетву"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "на гори"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "Ејвал"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Рувен"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гад"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "и Ашер"
+    },
+    {
+      "surface": "וזבולן",
+      "gloss": "и Зевулун"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Дан"
+    },
+    {
+      "surface": "ונפתלי",
+      "gloss": "и Нафтали"
+    }
+  ],
+  "timestamp": "2026-09-05T10:53:24.546627137Z",
+  "model": "glm-5.3"
+}

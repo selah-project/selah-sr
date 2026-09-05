@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 14:1",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "Која би реч Јахвеова к Јермији (Јеремији) о стварима сушâ:",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "која"
+    },
+    {
+      "surface": "היה",
+      "gloss": "би"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "реч"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеова"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Јермији (Јеремији)"
+    },
+    {
+      "surface": "על",
+      "gloss": "о"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "стварима"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "сушâ"
+    }
+  ],
+  "timestamp": "2026-09-05T12:26:36.384191375Z",
+  "model": "glm-5.3"
+}

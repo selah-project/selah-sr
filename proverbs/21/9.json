@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 21:9",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "Боље ⟨је⟩ седети на углу крова него уз жену свађалицу и ⟨у⟩ кући заједничкој.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "боље"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "седети"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "углу"
+    },
+    {
+      "surface": "גג",
+      "gloss": "крова"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "од жене"
+    },
+    {
+      "surface": "מדינים",
+      "gloss": "свађе"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "и куће"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "заједништва"
+    }
+  ],
+  "timestamp": "2026-09-05T16:01:41.135283778Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 7:9",
+  "book": "hosea",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Изједоше странци снагу његову, а он не зна; седина се посу по њему, а он не зна.",
+  "tokens": [
+    {
+      "surface": "אכלו",
+      "gloss": "изједоше"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "странци"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "снагу његову"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "а он"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "зна"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "седина"
+    },
+    {
+      "surface": "זרקה",
+      "gloss": "посу се"
+    },
+    {
+      "surface": "בו",
+      "gloss": "по њему"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "а он"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "зна"
+    }
+  ],
+  "timestamp": "2026-09-05T13:01:52.621819256Z",
+  "model": "glm-5.3"
+}

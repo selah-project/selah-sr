@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 18:18",
+  "book": "joshua",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "И пређе ⟨до⟩ рамена према Арави, северно, и сиђе Арави.",
+  "tokens": [
+    {
+      "surface": "ועבר",
+      "gloss": "и пређе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "рамена"
+    },
+    {
+      "surface": "מול",
+      "gloss": "према"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "Арави"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "северно"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "и сиђе"
+    },
+    {
+      "surface": "הערבתה",
+      "gloss": "Арави"
+    }
+  ],
+  "timestamp": "2026-09-05T11:03:01.338777137Z",
+  "model": "glm-5.3"
+}

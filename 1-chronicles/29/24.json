@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 29:24",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 29,
+  "translation": "И сви кнезови и јунаци, па и сви синови цара Давида, даше руку под Шелома краља.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "и сви"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "кнезови"
+    },
+    {
+      "surface": "והגברים",
+      "gloss": "и јунаци"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "па и"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сви"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "цара"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давида"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "даше"
+    },
+    {
+      "surface": "יד",
+      "gloss": "руку"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шелома"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "краља"
+    }
+  ],
+  "timestamp": "2026-09-05T14:43:53.975645304Z",
+  "model": "glm-5.3"
+}

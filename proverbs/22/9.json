@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 22:9",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "Добра ока — он ⟨је⟩ благословен, јер даде од хлеба свога сиромаху.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Добра"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ока"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "⟨је⟩ благословен"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "даде"
+    },
+    {
+      "surface": "מלחמו",
+      "gloss": "од хлеба свога"
+    },
+    {
+      "surface": "לדל",
+      "gloss": "сиромаху"
+    }
+  ],
+  "timestamp": "2026-09-05T13:50:57.371650958Z",
+  "model": "glm-5.3"
+}

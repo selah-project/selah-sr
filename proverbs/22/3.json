@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 22:3",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "Опрезан види зло и сакри се, а наивни прођу и казњени буду.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "Опрезан"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "види"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зло"
+    },
+    {
+      "surface": "ויסתר",
+      "gloss": "и сакри се"
+    },
+    {
+      "surface": "ופתיים",
+      "gloss": "а наивни"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "прођу"
+    },
+    {
+      "surface": "ונענשו",
+      "gloss": "и казњени буду"
+    }
+  ],
+  "timestamp": "2026-09-05T13:51:31.596347584Z",
+  "model": "glm-5.3"
+}

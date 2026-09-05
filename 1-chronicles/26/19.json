@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 26:19",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 26,
+  "translation": "Ово ⟨су⟩ делови вратара синова Корахових и синова Мераријевих.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ово"
+    },
+    {
+      "surface": "מחלקות",
+      "gloss": "делови"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "вратара"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "синова"
+    },
+    {
+      "surface": "הקרחי",
+      "gloss": "Корахових"
+    },
+    {
+      "surface": "ולבני",
+      "gloss": "и синова"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Мераријевих"
+    }
+  ],
+  "timestamp": "2026-09-05T14:43:07.129842469Z",
+  "model": "glm-5.3"
+}

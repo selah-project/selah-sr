@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 46:24",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 46,
+  "translation": "А синови Нефталијеви: Јахцеел, и Гуни, и Јецер, и Шелем.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "А синови"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Нефталијеви"
+    },
+    {
+      "surface": "יחצאל",
+      "gloss": "Јахцеел"
+    },
+    {
+      "surface": "וגוני",
+      "gloss": "и Гуни"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "и Јецер"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "и Шелем"
+    }
+  ],
+  "timestamp": "2026-09-05T09:56:41.889483022Z",
+  "model": "glm-5.3"
+}

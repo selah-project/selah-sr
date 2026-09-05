@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 22:24",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "не дружи се ⟨са⟩ господарем гнева, и ⟨са⟩ човеком жестоке срџбе не иди.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תתרע",
+      "gloss": "дружи се"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "господара гнева"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "господара"
+    },
+    {
+      "surface": "אף",
+      "gloss": "гнева"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "човека срџбе"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човека"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "срџбе"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "иди"
+    }
+  ],
+  "timestamp": "2026-09-05T13:51:48.993497615Z",
+  "model": "glm-5.3"
+}

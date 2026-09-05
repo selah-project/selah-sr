@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "isaiah 41:27",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 41,
+  "translation": "Први за Цион — ето, ето их; а Јерушалају весника дајем.",
+  "tokens": [
+    {
+      "surface": "ראשון",
+      "gloss": "Први"
+    },
+    {
+      "surface": "לציון",
+      "gloss": "за Цион"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ето"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "ето их"
+    },
+    {
+      "surface": "ולירושלם",
+      "gloss": "а Јерушалају"
+    },
+    {
+      "surface": "מבשר",
+      "gloss": "весника"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "дајем"
+    }
+  ],
+  "timestamp": "2026-09-05T12:13:36.622460053Z",
+  "model": "glm-5.3"
+}

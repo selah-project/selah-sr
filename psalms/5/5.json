@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Јер ти ниси Ел коме је мило безакоње; неће пребивати зло уз тебе.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ниси"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "коме је мило"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "безакоње"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "לא",
+      "gloss": "неће"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "пребивати уз тебе"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зло"
+    }
+  ],
+  "timestamp": "2026-09-05T13:16:36.736713097Z",
+  "model": "glm-5.3"
+}

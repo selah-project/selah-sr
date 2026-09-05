@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 36:25",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 36,
+  "translation": "И ово су синови Ане: Дишон и Охолибама, кћи Анина.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "И ово"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Ане"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "Дишон"
+    },
+    {
+      "surface": "ואהליבמה",
+      "gloss": "и Охолибама"
+    },
+    {
+      "surface": "בת",
+      "gloss": "кћи"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Анина"
+    }
+  ],
+  "timestamp": "2026-09-05T09:52:36.737487669Z",
+  "model": "glm-5.3"
+}

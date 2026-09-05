@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 18:5",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "И би реч Јахвеа к мени говорећи:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И би"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "реч"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "к мени"
+    },
+    {
+      "surface": "לאמור",
+      "gloss": "говорећи"
+    }
+  ],
+  "timestamp": "2026-09-05T12:27:56.805155968Z",
+  "model": "glm-5.3"
+}

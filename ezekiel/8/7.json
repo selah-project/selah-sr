@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 8:7",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "И доведе ме ⟨את⟩ на улаз ⟨у⟩ двора; и видех, и ено, један отвор у зиду.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "И доведе"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ме",
+      "marks": "мене"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "улаз"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "двора"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "и видех"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и ено"
+    },
+    {
+      "surface": "חר",
+      "gloss": "отвор"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "један"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "у зиду"
+    }
+  ],
+  "timestamp": "2026-09-05T15:43:49.523042067Z",
+  "model": "glm-5.3"
+}

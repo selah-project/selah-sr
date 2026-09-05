@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 3:9",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "И позва Јахве Елохим човека и рече му: Где си?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "и позва"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "האדם",
+      "gloss": "човека"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "где си"
+    }
+  ],
+  "timestamp": "2026-09-05T09:38:57.678443552Z",
+  "model": "glm-5.3"
+}

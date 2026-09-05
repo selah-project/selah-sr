@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 8:5",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "И рече Моше (Мојсије) збору: ово је ствар коју заповеди Јахве да се учини.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "збору"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "⟨збору⟩"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ово"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "је ствар"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "коју"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповеди"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "да се учини"
+    }
+  ],
+  "timestamp": "2026-09-05T15:06:30.212775025Z",
+  "model": "glm-5.3"
+}

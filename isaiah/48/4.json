@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 48:4",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 48,
+  "translation": "Знајући да си тврд, и жила гвоздена врат твој, и чело твоје од бронзе.",
+  "tokens": [
+    {
+      "surface": "מדעתי",
+      "gloss": "Знајући"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "тврд"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "си"
+    },
+    {
+      "surface": "וגיד",
+      "gloss": "и жила"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "гвоздена"
+    },
+    {
+      "surface": "ערפך",
+      "gloss": "врат твој"
+    },
+    {
+      "surface": "ומצחך",
+      "gloss": "и чело твоје"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "од бронзе"
+    }
+  ],
+  "timestamp": "2026-09-05T12:14:47.884615202Z",
+  "model": "glm-5.3"
+}

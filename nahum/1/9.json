@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nahum 1:9",
+  "book": "nahum",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "Шта смислате против Јахвеа? Потпун крај он чини; невоља неће ⟨се⟩ два пута дићи.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Шта"
+    },
+    {
+      "surface": "תחשבון",
+      "gloss": "смислате"
+    },
+    {
+      "surface": "אל",
+      "gloss": "против"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "потпун крај"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "чини"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "дићи ⟨се⟩"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "два пута"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "невоља"
+    }
+  ],
+  "timestamp": "2026-09-05T13:09:04.852749957Z",
+  "model": "glm-5.3"
+}

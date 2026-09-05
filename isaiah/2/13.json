@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 2:13",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "И на све кедре Ливана, високе и издигнуте, и на све храстове Башана,",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "кедре"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "Ливана"
+    },
+    {
+      "surface": "הרמים",
+      "gloss": "високе"
+    },
+    {
+      "surface": "והנשאים",
+      "gloss": "и издигнуте"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "אלוני",
+      "gloss": "храстове"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Башана"
+    }
+  ],
+  "timestamp": "2026-09-05T12:00:17.516588803Z",
+  "model": "glm-5.3"
+}

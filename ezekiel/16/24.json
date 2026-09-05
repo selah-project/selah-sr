@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 16:24",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 16,
+  "translation": "и сагради себи узвишење и начини себи високо ⟨место⟩ на всяком тргу.",
+  "tokens": [
+    {
+      "surface": "ותבני",
+      "gloss": "и сагради"
+    },
+    {
+      "surface": "לך",
+      "gloss": "себи"
+    },
+    {
+      "surface": "גב",
+      "gloss": "узвишење"
+    },
+    {
+      "surface": "ותעשי",
+      "gloss": "и начини"
+    },
+    {
+      "surface": "לך",
+      "gloss": "себи"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "високо место"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "на всяком"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "тргу"
+    }
+  ],
+  "timestamp": "2026-09-05T12:46:23.530799884Z",
+  "model": "glm-5.3"
+}

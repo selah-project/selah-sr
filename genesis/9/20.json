@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 9:20",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "И поче Ное, човек земље, те засади виноград.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "И поче"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ное"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "земље"
+    },
+    {
+      "surface": "ויטע",
+      "gloss": "те засади"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "виноград"
+    }
+  ],
+  "timestamp": "2026-09-05T09:40:25.833691872Z",
+  "model": "glm-5.3"
+}

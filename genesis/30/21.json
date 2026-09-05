@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 30:21",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 30,
+  "translation": "И после роди кћер, и назва ⟨את⟩ име њено Дина.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "и после"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "роди"
+    },
+    {
+      "surface": "בת",
+      "gloss": "кћер"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "и назва"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "име њено"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "име њено"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "Дина"
+    }
+  ],
+  "timestamp": "2026-09-05T09:48:08.102362739Z",
+  "model": "glm-5.3"
+}

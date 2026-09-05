@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 147:9",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 147,
+  "translation": "Даје стоки храну њену, младима гаврановим који кличу.",
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "Даје"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "стоки"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "храну њену"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "младима"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "гаврановим"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "кличу"
+    }
+  ],
+  "timestamp": "2026-09-05T13:44:53.071317279Z",
+  "model": "glm-5.3"
+}

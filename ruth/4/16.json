@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ruth 4:16",
+  "book": "ruth",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "И узе Наоми ⟨את⟩ дете, и стави га у недро своје, и би му за дојкињу.",
+  "tokens": [
+    {
+      "surface": "ותקח",
+      "gloss": "И узе"
+    },
+    {
+      "surface": "נעמי",
+      "gloss": "Наоми"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дете"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "дете"
+    },
+    {
+      "surface": "ותשתהו",
+      "gloss": "и стави га"
+    },
+    {
+      "surface": "בחיקה",
+      "gloss": "у недро своје"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "и би"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "לאמנת",
+      "gloss": "за дојкињу"
+    }
+  ],
+  "timestamp": "2026-09-05T16:07:23.807067994Z",
+  "model": "glm-5.3"
+}

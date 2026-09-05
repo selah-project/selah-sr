@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 38:19",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 38,
+  "translation": "Живи, живи, он ⟨ће⟩ те славити као ја данас; отац деци јавиће ⟨за⟩ твоју верност.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "живи"
+    },
+    {
+      "surface": "חי",
+      "gloss": "живи"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "יודך",
+      "gloss": "славиће те"
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "као ја"
+    },
+    {
+      "surface": "היום",
+      "gloss": "данас"
+    },
+    {
+      "surface": "אב",
+      "gloss": "отац"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "деци"
+    },
+    {
+      "surface": "יודיע",
+      "gloss": "јавиће"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨за⟩"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "твоју верност"
+    }
+  ],
+  "timestamp": "2026-09-05T17:53:30.836953677Z",
+  "model": "glm-5.3"
+}

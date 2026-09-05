@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "proverbs 14:34",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "Правда уздиже народ, а хесед народâ — грех ⟨је⟩.",
+  "tokens": [
+    {
+      "surface": "צדקה",
+      "gloss": "правда"
+    },
+    {
+      "surface": "תרומם",
+      "gloss": "уздиже"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "народ"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "а хесед"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "народâ"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "грех"
+    }
+  ],
+  "timestamp": "2026-09-05T13:49:27.017378735Z",
+  "model": "glm-5.3"
+}

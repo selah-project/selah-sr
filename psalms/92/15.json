@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 92:15",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 92,
+  "translation": "Још ће род рађати у старости, дасни и зелени биће.",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "још"
+    },
+    {
+      "surface": "ינובון",
+      "gloss": "род рађати"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "у старости"
+    },
+    {
+      "surface": "דשנים",
+      "gloss": "дасни"
+    },
+    {
+      "surface": "ורעננים",
+      "gloss": "и зелени"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "биће"
+    }
+  ],
+  "timestamp": "2026-09-05T13:35:18.435109543Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 14:10",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "Сви ће одговорити и рећи теби: и ти си ослабио као ми; нама си се уподобио.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "сви"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "ће одговорити"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "и рећи"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "теби"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "חלית",
+      "gloss": "ослабио си"
+    },
+    {
+      "surface": "כמונו",
+      "gloss": "као ми"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "нама"
+    },
+    {
+      "surface": "נמשלת",
+      "gloss": "уподобио си се"
+    }
+  ],
+  "timestamp": "2026-09-05T12:03:43.524508188Z",
+  "model": "glm-5.3"
+}

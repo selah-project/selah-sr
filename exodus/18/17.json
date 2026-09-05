@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 18:17",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "И рече Мошев таст њему: није добра ствар коју ти чиниш.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "таст"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошев"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "њему"
+    },
+    {
+      "surface": "לא",
+      "gloss": "није"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добра"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ствар"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "коју"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "чиниш"
+    }
+  ],
+  "timestamp": "2026-09-05T10:06:11.218915709Z",
+  "model": "glm-5.3"
+}

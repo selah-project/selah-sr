@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 26:22",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 26,
+  "translation": "Синови Јехиелови: Зетам и Јоел, брат његов, над ризницама дома Јахвеовог.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синови"
+    },
+    {
+      "surface": "יחיאלי",
+      "gloss": "Јехиелови"
+    },
+    {
+      "surface": "זתם",
+      "gloss": "Зетам"
+    },
+    {
+      "surface": "ויואל",
+      "gloss": "и Јоел"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "брат његов"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "ризницама"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеовог"
+    }
+  ],
+  "timestamp": "2026-09-05T14:43:08.034177022Z",
+  "model": "glm-5.3"
+}

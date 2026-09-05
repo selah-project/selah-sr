@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "isaiah 28:29",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "И ово изиђе од Јахвеа Цеваота: ⟨он⟩ учини дивним савет, увелича мудрост.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "И"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ово"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "од"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваота"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "изиђе"
+    },
+    {
+      "surface": "הפליא",
+      "gloss": "учини дивним"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "савет"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "увелича"
+    },
+    {
+      "surface": "תושיה",
+      "gloss": "мудрост"
+    }
+  ],
+  "timestamp": "2026-09-05T12:08:39.405555936Z",
+  "model": "glm-5.3"
+}

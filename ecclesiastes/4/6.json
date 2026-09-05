@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 4:6",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "Добро ⟨је⟩ пуна шака спокоја од пунине обешака — труда и гоњења ветра.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Добро"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "пуна"
+    },
+    {
+      "surface": "כף",
+      "gloss": "шака"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "спокоја"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "од пунине"
+    },
+    {
+      "surface": "חפנים",
+      "gloss": "обешака"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "труда"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "и гоњења"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ветра"
+    }
+  ],
+  "timestamp": "2026-09-05T14:12:01.527692946Z",
+  "model": "glm-5.3"
+}

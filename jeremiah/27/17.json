@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 27:17",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 27,
+  "translation": "Не слушајте их; служите ⟨את⟩ цару Вавилона и живите; зашто да овај град буде пуст?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "слушајте"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "њих"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "служите"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "цару Вавилона"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цару"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Вавилона"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "и живите"
+    },
+    {
+      "surface": "למה",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "да буде"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "град"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "овај"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "пуст"
+    }
+  ],
+  "timestamp": "2026-09-05T12:31:25.082990340Z",
+  "model": "glm-5.3"
+}

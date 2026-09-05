@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 13:5",
+  "book": "hosea",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "Ја те познадох у пустињи, у земљи тлаубот ⟨сухоје⟩.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ја"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "познадох те"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "у пустињи"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "у земљи"
+    },
+    {
+      "surface": "תלאבות",
+      "gloss": "тлаубот ⟨сушe⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T13:02:48.467663289Z",
+  "model": "glm-5.3"
+}

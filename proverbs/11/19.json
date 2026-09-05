@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 11:19",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "Тако правда ⟨води⟩ к животу, а ко гони зло — ⟨води⟩ к смрти својој.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "тако"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "правда"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "к животу"
+    },
+    {
+      "surface": "ומרדף",
+      "gloss": "а ко гони"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зло"
+    },
+    {
+      "surface": "למותו",
+      "gloss": "к смрти својој"
+    }
+  ],
+  "timestamp": "2026-09-05T13:48:46.987134658Z",
+  "model": "glm-5.3"
+}

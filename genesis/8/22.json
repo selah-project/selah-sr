@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 8:22",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "Све дане земље: сетва и жетва, и хладноћа и врућина, и лето и зима, и дан и ноћ — неће престати.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Све"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дане"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земље"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "сетва"
+    },
+    {
+      "surface": "וקציר",
+      "gloss": "и жетва"
+    },
+    {
+      "surface": "וקר",
+      "gloss": "и хладноћа"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "и врућина"
+    },
+    {
+      "surface": "וקיץ",
+      "gloss": "и лето"
+    },
+    {
+      "surface": "וחרף",
+      "gloss": "и зима"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "и дан"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "и ноћ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישבתו",
+      "gloss": "ће престати"
+    }
+  ],
+  "timestamp": "2026-09-05T09:40:22.864536975Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 114,
+  "ref": "psalms 119:114",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 119,
+  "translation": "Заклон мој и штит мој ⟨јеси⟩ ти; надах се ⟨на⟩ реч твоју.",
+  "tokens": [
+    {
+      "surface": "סתרי",
+      "gloss": "заклон мој"
+    },
+    {
+      "surface": "ומגני",
+      "gloss": "и штит мој"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "לדברך",
+      "gloss": "на реч твоју"
+    },
+    {
+      "surface": "יחלתי",
+      "gloss": "надах се"
+    }
+  ],
+  "timestamp": "2026-09-05T13:41:01.689240684Z",
+  "model": "glm-5.3"
+}

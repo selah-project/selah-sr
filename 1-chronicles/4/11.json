@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 4:11",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "И Келув, брат Шухин, роди ⟨את⟩ Мехира; он је отац Ештонов.",
+  "tokens": [
+    {
+      "surface": "וכלוב",
+      "gloss": "И Келув"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "брат"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "Шухин"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мехира"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "Мехира"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "отац"
+    },
+    {
+      "surface": "אשתון",
+      "gloss": "Ештонов"
+    }
+  ],
+  "timestamp": "2026-09-05T14:35:50.629169340Z",
+  "model": "glm-5.3"
+}

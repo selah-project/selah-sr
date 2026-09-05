@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 16:14",
+  "book": "1-samuel",
+  "lang": "sr",
+  "chapter": 16,
+  "translation": "И дух Јахвеов одступи од Шаула, и застрашиваше га дух зао од ⟨את⟩ Јахвеа.",
+  "tokens": [
+    {
+      "surface": "ורוח",
+      "gloss": "и дух"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "одступи"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "од"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаула"
+    },
+    {
+      "surface": "ובעתתו",
+      "gloss": "и застрашиваше га"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "дух"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зао"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "од ⟨את⟩",
+      "marks": "Јахвеа"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    }
+  ],
+  "timestamp": "2026-09-05T11:20:24.386290850Z",
+  "model": "glm-5.3"
+}

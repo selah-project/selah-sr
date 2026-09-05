@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 23:10",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "Јер зна пут којим идем ⟨са мном⟩; испита ме — као злато изиђох.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "зна"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "пут"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "са мном"
+    },
+    {
+      "surface": "בחנני",
+      "gloss": "испита ме"
+    },
+    {
+      "surface": "כזהב",
+      "gloss": "као злато"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "изиђох"
+    }
+  ],
+  "timestamp": "2026-09-05T14:00:40.951832344Z",
+  "model": "glm-5.3"
+}

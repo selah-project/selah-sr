@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 15:33",
+  "book": "2-samuel",
+  "lang": "sr",
+  "chapter": 15,
+  "translation": "И рече му Давид: ако пређеш ⟨са мном⟩, бићеш ми на терет.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "עברת",
+      "gloss": "пређеш"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ мном",
+      "marks": "са мном"
+    },
+    {
+      "surface": "והית",
+      "gloss": "бићеш"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ми на"
+    },
+    {
+      "surface": "למשא",
+      "gloss": "терет"
+    }
+  ],
+  "timestamp": "2026-09-05T16:48:14.520770124Z",
+  "model": "glm-5.3"
+}

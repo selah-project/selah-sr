@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 4:15",
+  "book": "2-kings",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "И рече: Зови је. И позва је, и она стаде на вратима.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Зови"
+    },
+    {
+      "surface": "לה",
+      "gloss": "је"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "и позва"
+    },
+    {
+      "surface": "לה",
+      "gloss": "је"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "и стаде"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "на вратима"
+    }
+  ],
+  "timestamp": "2026-09-05T11:51:55.977811228Z",
+  "model": "glm-5.3"
+}

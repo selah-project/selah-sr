@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 15:17",
+  "book": "joshua",
+  "lang": "sr",
+  "chapter": 15,
+  "translation": "И заузе је Отниел, син Кеназов, брат Калевов; и даде му ⟨את⟩ Аксу, кћер своју, за жену.",
+  "tokens": [
+    {
+      "surface": "וילכדה",
+      "gloss": "и заузе је"
+    },
+    {
+      "surface": "עתניאל",
+      "gloss": "Отниел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "Кеназов"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "брат"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Калевов"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "и даде"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Аксу"
+    },
+    {
+      "surface": "עכסה",
+      "gloss": "Аксу"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "кћер своју"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "за жену"
+    }
+  ],
+  "timestamp": "2026-09-05T11:02:48.129817120Z",
+  "model": "glm-5.3"
+}

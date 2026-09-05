@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 50:9",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 50,
+  "translation": "И попе се с њим и кола и коњаници, и би логор тежак веома.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "и попе се"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "с њим"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "кола"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "коњаници"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и би"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "логор"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "тежак"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "веома"
+    }
+  ],
+  "timestamp": "2026-09-05T09:58:57.696269739Z",
+  "model": "glm-5.3"
+}

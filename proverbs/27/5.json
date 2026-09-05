@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 27:5",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 27,
+  "translation": "Боља ⟨је⟩ отворена покара него љубав сакривена.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "боља"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "покара"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "отворена"
+    },
+    {
+      "surface": "מאהבה",
+      "gloss": "него љубав"
+    },
+    {
+      "surface": "מסתרת",
+      "gloss": "сакривена"
+    }
+  ],
+  "timestamp": "2026-09-05T16:02:40.032460484Z",
+  "model": "glm-5.3"
+}

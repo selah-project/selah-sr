@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 23:9",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "Синови који се њима роде, колену трећем, ући ће им ⟨у⟩ сабор Јахвеа.",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "синови"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "роде се"
+    },
+    {
+      "surface": "להם",
+      "gloss": "њима"
+    },
+    {
+      "surface": "דור",
+      "gloss": "колену"
+    },
+    {
+      "surface": "שלישי",
+      "gloss": "трећем"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ући ће"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "⟨у⟩ сабор"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    }
+  ],
+  "timestamp": "2026-09-05T10:52:33.800770183Z",
+  "model": "glm-5.3"
+}

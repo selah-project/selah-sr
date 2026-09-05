@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 4:12",
+  "book": "esther",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "И јавише Мордехају ⟨את⟩ речи Естерове.",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "И јавише"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "Мордехају"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "речи Естерове"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "речи"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Естерове"
+    }
+  ],
+  "timestamp": "2026-09-05T14:14:26.273543164Z",
+  "model": "glm-5.3"
+}

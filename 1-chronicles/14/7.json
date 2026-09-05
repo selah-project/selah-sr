@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 14:7",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "и Елишама, и Бејалијада, и Елифелет.",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "и Елишама"
+    },
+    {
+      "surface": "ובעלידע",
+      "gloss": "и Бејалијада"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "и Елифелет"
+    }
+  ],
+  "timestamp": "2026-09-05T14:38:58.255278472Z",
+  "model": "glm-5.3"
+}

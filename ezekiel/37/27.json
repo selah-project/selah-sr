@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezekiel 37:27",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 37,
+  "translation": "И биће шатор мој над њима, и бићу им за Елохима, а они биће мени за народ.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "и биће"
+    },
+    {
+      "surface": "мשכני",
+      "gloss": "шатор мој"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "над њима"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "и бићу"
+    },
+    {
+      "surface": "להם",
+      "gloss": "има"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "за Елохима"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "а они"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "биће"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мени"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "за народ"
+    }
+  ],
+  "timestamp": "2026-09-05T12:55:26.304674462Z",
+  "model": "glm-5.3"
+}

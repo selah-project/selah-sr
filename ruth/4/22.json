@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ruth 4:22",
+  "book": "ruth",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "и Овед роди ⟨את⟩ Јешаја, и Јешај роди ⟨את⟩ Давида.",
+  "tokens": [
+    {
+      "surface": "ועבד",
+      "gloss": "и Овед"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јешаја"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Јешаја"
+    },
+    {
+      "surface": "וישי",
+      "gloss": "и Јешај"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Давида"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давида"
+    }
+  ],
+  "timestamp": "2026-09-05T14:07:31.925925884Z",
+  "model": "glm-5.3"
+}

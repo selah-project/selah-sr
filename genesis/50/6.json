@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 50:6",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 50,
+  "translation": "И рече Паро: „Иди и сахрани ⟨את⟩ оца свога, као што те закле.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паро"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "Иди"
+    },
+    {
+      "surface": "וקבר",
+      "gloss": "и сахрани"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "оца свога"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "оца свога"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "као што"
+    },
+    {
+      "surface": "השביעך",
+      "gloss": "те закле"
+    }
+  ],
+  "timestamp": "2026-09-05T09:58:38.275565580Z",
+  "model": "glm-5.3"
+}

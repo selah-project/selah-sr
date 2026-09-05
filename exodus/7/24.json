@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 7:24",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "И копаше сви Мицрајимци около реке воде да пију, јер не могаху пити воде из реке.",
+  "tokens": [
+    {
+      "surface": "ויחפרו",
+      "gloss": "и копаше"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сви"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрајимци"
+    },
+    {
+      "surface": "סביבת",
+      "gloss": "окоо"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "реке"
+    },
+    {
+      "surface": "מים",
+      "gloss": "воде"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "да пију"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "могаху"
+    },
+    {
+      "surface": "לשתת",
+      "gloss": "пити"
+    },
+    {
+      "surface": "ממימי",
+      "gloss": "из воде"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "реке"
+    }
+  ],
+  "timestamp": "2026-09-05T10:00:09.870457559Z",
+  "model": "glm-5.3"
+}

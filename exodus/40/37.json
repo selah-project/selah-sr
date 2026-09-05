@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 40:37",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 40,
+  "translation": "А ако облак не узђе, не кретаху ⟨се⟩ до дана узвођења његова.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "А ако"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "узђе"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "облак"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יסעу",
+      "gloss": "кретаху ⟨се⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "יום",
+      "gloss": "дана"
+    },
+    {
+      "surface": "העלתו",
+      "gloss": "узвођења његова"
+    }
+  ],
+  "timestamp": "2026-09-05T10:15:01.600183159Z",
+  "model": "glm-5.3"
+}

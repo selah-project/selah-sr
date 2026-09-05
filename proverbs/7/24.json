@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 7:24",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "И сада, синови, чујте ме и обратите пажњу на речи мојих уста.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "и сада"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "синови"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "чујте"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мене"
+    },
+    {
+      "surface": "והקשיבו",
+      "gloss": "и обратите пажњу"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "на речи"
+    },
+    {
+      "surface": "פי",
+      "gloss": "мојих уста"
+    }
+  ],
+  "timestamp": "2026-09-05T16:00:23.020380055Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 31:23",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 31,
+  "translation": "Познат је на вратима господар њен, кад седи са старешинама земље.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "познат је"
+    },
+    {
+      "surface": "בשערים",
+      "gloss": "на вратима"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "господар њен"
+    },
+    {
+      "surface": "בשבתו",
+      "gloss": "кад седи"
+    },
+    {
+      "surface": "עם",
+      "gloss": "са"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "старешинама"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земље"
+    }
+  ],
+  "timestamp": "2026-09-05T13:53:57.443244390Z",
+  "model": "glm-5.3"
+}

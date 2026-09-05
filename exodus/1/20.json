@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 1:20",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "И учини добро Елохим бабицама, и умножи се народ и oјача веома.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "и учини добро"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "למילדת",
+      "gloss": "бабицама"
+    },
+    {
+      "surface": "וירב",
+      "gloss": "и умножи се"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "ויעצמו",
+      "gloss": "и oјача"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "веома"
+    }
+  ],
+  "timestamp": "2026-09-05T09:59:07.884605541Z",
+  "model": "glm-5.3"
+}

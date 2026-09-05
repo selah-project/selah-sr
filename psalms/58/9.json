@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 58:9",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 58,
+  "translation": "Као пуж у токљењу својем нека прође ⟨сваки⟩, као побачај жене — не видеше сунце.",
+  "tokens": [
+    {
+      "surface": "כמו",
+      "gloss": "као"
+    },
+    {
+      "surface": "שבלול",
+      "gloss": "пуж"
+    },
+    {
+      "surface": "תמס",
+      "gloss": "у токљењу"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "нека иде"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "побачај"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "жене"
+    },
+    {
+      "surface": "בל",
+      "gloss": "не"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "видеше"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "сунце"
+    }
+  ],
+  "timestamp": "2026-09-05T13:27:44.261293308Z",
+  "model": "glm-5.3"
+}

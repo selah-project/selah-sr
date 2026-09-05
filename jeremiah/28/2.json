@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 28:2",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "Тако рече Јахве Цеваот, Елохим Израиљев, говорећи: Сломих ⟨את⟩ јарам краља Вавилона.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Тако"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљев"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорећи"
+    },
+    {
+      "surface": "שברתי",
+      "gloss": "Сломих"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "јарам"
+    },
+    {
+      "surface": "על",
+      "gloss": "јарам"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "краља"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Вавилона"
+    }
+  ],
+  "timestamp": "2026-09-05T17:18:20.606792447Z",
+  "model": "glm-5.3"
+}

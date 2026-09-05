@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 21:32",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "А он се на гробља носи, и над хумком бди.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "а он"
+    },
+    {
+      "surface": "לקברות",
+      "gloss": "на гробља"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "носи се"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и над"
+    },
+    {
+      "surface": "גדיש",
+      "gloss": "хумком"
+    },
+    {
+      "surface": "ישקוד",
+      "gloss": "бди"
+    }
+  ],
+  "timestamp": "2026-09-05T14:00:31.104538341Z",
+  "model": "glm-5.3"
+}

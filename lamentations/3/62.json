@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "lamentations 3:62",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Уста оних што устадоше против мене, и шапат њихов против мене — сав дан.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "Уста"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "оних што устадоше"
+    },
+    {
+      "surface": "והגיונם",
+      "gloss": "и шапат њихов"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "против мене"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сав"
+    },
+    {
+      "surface": "היום",
+      "gloss": "дан"
+    }
+  ],
+  "timestamp": "2026-09-05T16:45:16.191798254Z",
+  "model": "glm-5.3"
+}

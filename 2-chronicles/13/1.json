@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 13:1",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "У осамнаестој години цара Јеровоама (Јаробоама) зацара се Авија над Јудом.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "У години"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "осам"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "наест"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "цара"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Јеровоама"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "зацара се"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Авија"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јудом"
+    }
+  ],
+  "timestamp": "2026-09-05T16:18:26.167320345Z",
+  "model": "glm-5.3"
+}

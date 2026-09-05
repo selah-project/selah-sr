@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 104:26",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 104,
+  "translation": "Тамо лађе иду; Левијатана овога обликовао си ⟨да⟩ се игра у њему.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Тамо"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "лађе"
+    },
+    {
+      "surface": "יהלכון",
+      "gloss": "иду"
+    },
+    {
+      "surface": "לויתן",
+      "gloss": "Левијатана"
+    },
+    {
+      "surface": "זה",
+      "gloss": "овога"
+    },
+    {
+      "surface": "יצרת",
+      "gloss": "обликовао си"
+    },
+    {
+      "surface": "לשחק",
+      "gloss": "да се игра"
+    },
+    {
+      "surface": "בו",
+      "gloss": "у њему"
+    }
+  ],
+  "timestamp": "2026-09-05T16:43:43.337641366Z",
+  "model": "glm-5.3"
+}

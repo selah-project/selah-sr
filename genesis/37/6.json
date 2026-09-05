@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 37:6",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 37,
+  "translation": "И рече им: Чујте, молим вас, овај сан који сам уснио.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "чујте"
+    },
+    {
+      "surface": "נא",
+      "gloss": "молим вас"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "сан"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овај"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "сам уснио"
+    }
+  ],
+  "timestamp": "2026-09-05T09:53:15.347688933Z",
+  "model": "glm-5.3"
+}

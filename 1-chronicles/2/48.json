@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-chronicles 2:48",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Пилегеш Калева, Мааха, роди Шевера и ⟨את⟩ Тирхану.",
+  "tokens": [
+    {
+      "surface": "פלגש",
+      "gloss": "Пилегеш (наложница)"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Калева"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Мааха"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "Шевера"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Тирхану"
+    },
+    {
+      "surface": "תרחנה",
+      "gloss": "Тирхану"
+    }
+  ],
+  "timestamp": "2026-09-05T16:14:15.777290637Z",
+  "model": "glm-5.3"
+}

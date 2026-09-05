@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "lamentations 3:51",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Око моје измучи душу моју због свих кћери града мога.",
+  "tokens": [
+    {
+      "surface": "עינи",
+      "gloss": "око моје"
+    },
+    {
+      "surface": "עוללה",
+      "gloss": "измучи"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "душу моју"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "због свих"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "кћери"
+    },
+    {
+      "surface": "עירי",
+      "gloss": "града мога"
+    }
+  ],
+  "timestamp": "2026-09-05T14:09:05.936848227Z",
+  "model": "glm-5.3"
+}

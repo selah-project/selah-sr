@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 22:20",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "Све на чему је мана не приносите, јер неће бити за пријем вама.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Све"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "на чему"
+    },
+    {
+      "surface": "בו",
+      "gloss": "је ⟨на њему⟩"
+    },
+    {
+      "surface": "מום",
+      "gloss": "мана"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "приносите"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "за пријем"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "биће"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вама"
+    }
+  ],
+  "timestamp": "2026-09-05T10:23:34.427429284Z",
+  "model": "glm-5.3"
+}

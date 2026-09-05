@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 9:11",
+  "book": "esther",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "У онај дан дође број побијених у Шушану ⟨у⟩ тврђави пред краља.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "У онај дан"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "(онај)"
+    },
+    {
+      "surface": "בא",
+      "gloss": "дође"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "број"
+    },
+    {
+      "surface": "ההרוגים",
+      "gloss": "побијених"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "у Шушану"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "тврђави"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "краља"
+    }
+  ],
+  "timestamp": "2026-09-05T14:16:21.228793813Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 77:2",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 77,
+  "translation": "Глас мој ка Елохиму — и вапим; глас мој ка Елохиму — и ухватиће ухо за ме.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "глас мој"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ка"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохиму"
+    },
+    {
+      "surface": "ואצעקה",
+      "gloss": "и вапим"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "глас мој"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ка"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохиму"
+    },
+    {
+      "surface": "והאזין",
+      "gloss": "и ухватиће ухо"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "за ме"
+    }
+  ],
+  "timestamp": "2026-09-05T13:31:45.620766451Z",
+  "model": "glm-5.3"
+}

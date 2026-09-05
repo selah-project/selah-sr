@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 43:1",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 43,
+  "translation": "И доведе ме к ⟨капији⟩, капији која гледа пут истока.",
+  "tokens": [
+    {
+      "surface": "ויולכני",
+      "gloss": "доведе ме"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "השער",
+      "gloss": "капији"
+    },
+    {
+      "surface": "שער",
+      "gloss": "капији"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "која"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "гледа"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "пут"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "истока"
+    }
+  ],
+  "timestamp": "2026-09-05T12:57:38.083729662Z",
+  "model": "glm-5.3"
+}

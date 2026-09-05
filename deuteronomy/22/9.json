@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 22:9",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "Не сиј винограда свога ⟨са⟩ две врсте, да се не освети пунина — семе које посејеш и род винограда.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "сиј"
+    },
+    {
+      "surface": "כרמך",
+      "gloss": "винограда свога"
+    },
+    {
+      "surface": "כלאים",
+      "gloss": "две врсте"
+    },
+    {
+      "surface": "פן",
+      "gloss": "да се не"
+    },
+    {
+      "surface": "תקדש",
+      "gloss": "освети"
+    },
+    {
+      "surface": "המלאה",
+      "gloss": "пунина"
+    },
+    {
+      "surface": "הזרע",
+      "gloss": "семе"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "које"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "посејеш"
+    },
+    {
+      "surface": "ותבואת",
+      "gloss": "и род"
+    },
+    {
+      "surface": "הכרם",
+      "gloss": "винограда"
+    }
+  ],
+  "timestamp": "2026-09-05T15:14:52.156067137Z",
+  "model": "glm-5.3"
+}

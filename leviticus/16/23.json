@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 16:23",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 16,
+  "translation": "И уђе Арон у шатор састанка, и свуче ⟨את⟩ хаљине од лана које обуче кад уђе у светињу, и остави их тамо.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "и уђе"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Арон"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "шатор"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "састанка"
+    },
+    {
+      "surface": "ופשט",
+      "gloss": "и свуче"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "хаљине од лана"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "хаљине"
+    },
+    {
+      "surface": "הבד",
+      "gloss": "од лана"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "које"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "обуче"
+    },
+    {
+      "surface": "בבאו",
+      "gloss": "кад уђе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "светињу"
+    },
+    {
+      "surface": "והניחם",
+      "gloss": "и остави их"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тамо"
+    }
+  ],
+  "timestamp": "2026-09-05T16:56:29.510611629Z",
+  "model": "glm-5.3"
+}

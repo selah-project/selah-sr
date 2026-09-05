@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 29:5",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 29,
+  "translation": "Хлеб нисте јели, ни вино ни жестоко пиће нисте пили — да бисте знали да сам ја Јахве, Елохим ваш.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "хлеб"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "нисте јели"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "ни вино"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "ни жестоко пиће"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שתיתם",
+      "gloss": "нисте пили"
+    },
+    {
+      "surface": "למען",
+      "gloss": "да бисте"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "знали"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја сам"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Елохим ваш"
+    }
+  ],
+  "timestamp": "2026-09-05T17:43:47.674785619Z",
+  "model": "glm-5.3"
+}

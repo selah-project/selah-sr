@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 28:2",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "Гвожђе из праха узима се, и камен топи се у бакар.",
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "гвожђе"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "из праха"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "узима се"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "и камен"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "топи се"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "у бакар"
+    }
+  ],
+  "timestamp": "2026-09-05T14:01:49.979233053Z",
+  "model": "glm-5.3"
+}

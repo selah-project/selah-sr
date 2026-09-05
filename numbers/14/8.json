@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 14:8",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "Ако у нас узволи Јахве, и уведе нас ⟨את⟩ у ову земљу, и да је нама — земља која тече мле́ком и ме́дом.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "узволи"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "у нама"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "и уведе"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ нас",
+      "marks": "нас"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земљу"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ову"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "и да је"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "нама"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земља"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "која"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨она⟩"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "тече"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "млеком"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "и медом"
+    }
+  ],
+  "timestamp": "2026-09-05T15:09:51.254977527Z",
+  "model": "glm-5.3"
+}

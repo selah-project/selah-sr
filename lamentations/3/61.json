@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "lamentations 3:61",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Чуо си срамоту њихову, Јахве, све намере њихове против мене.",
+  "tokens": [
+    {
+      "surface": "שמעת",
+      "gloss": "Чуо си"
+    },
+    {
+      "surface": "חרפתם",
+      "gloss": "срамоту њихову"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "намере њихове"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "против мене"
+    }
+  ],
+  "timestamp": "2026-09-05T16:45:16.191533325Z",
+  "model": "glm-5.3"
+}

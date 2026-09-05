@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 8:19",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "Ето, то ⟨је⟩ радост пута његовог, а из праха други ниче.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Ето"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "радост"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "пута његовог"
+    },
+    {
+      "surface": "ומעפר",
+      "gloss": "а из праха"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "други"
+    },
+    {
+      "surface": "יצמחו",
+      "gloss": "ниче"
+    }
+  ],
+  "timestamp": "2026-09-05T16:03:41.984548353Z",
+  "model": "glm-5.3"
+}

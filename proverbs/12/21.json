@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 12:21",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "Не задесиће праведника никакво зло, а безбожници биће пуни зла.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יאנה",
+      "gloss": "задесиће"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "праведника"
+    },
+    {
+      "surface": "כל",
+      "gloss": "никакво"
+    },
+    {
+      "surface": "און",
+      "gloss": "зло"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "а безбожници"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "биће пуни"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зла"
+    }
+  ],
+  "timestamp": "2026-09-05T17:11:12.844477026Z",
+  "model": "glm-5.3"
+}

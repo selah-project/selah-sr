@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 9:26",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "И рече: благословен Јахве, Елохим Шемов; и нека буде Кенаан слуга њима.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "благословен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Шемов"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и нека буде"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Кенаан"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "слуга"
+    },
+    {
+      "surface": "למו",
+      "gloss": "њима"
+    }
+  ],
+  "timestamp": "2026-09-05T09:40:20.494940982Z",
+  "model": "glm-5.3"
+}

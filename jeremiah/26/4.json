@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 26:4",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 26,
+  "translation": "И реши им: Овако рече Јахве: Ако не послушате мене да ходите у Тори мојој коју дадох пред вас ⟨ваша⟩,",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "И реши"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Овако"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Ако"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "послушате"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мене"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "да ходите"
+    },
+    {
+      "surface": "בתורתי",
+      "gloss": "у Тори мојој"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "коју"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "дадох"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "пред вас"
+    }
+  ],
+  "timestamp": "2026-09-05T12:30:24.612063652Z",
+  "model": "glm-5.3"
+}

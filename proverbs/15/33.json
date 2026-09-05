@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 15:33",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 15,
+  "translation": "Страх Јахвеов ⟨је⟩ поука мудрости, а пред славом ⟨иде⟩ понизност.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "Страх"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеов"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "поука"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мудрости"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "а пред"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "славом"
+    },
+    {
+      "surface": "ענוה",
+      "gloss": "понизност"
+    }
+  ],
+  "timestamp": "2026-09-05T13:49:11.318768758Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 10:2",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "Синови Јафетови: Гомер и Магог, и Мадај, и Јаван, и Тувал, и Мешех, и Тирас.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синови"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Јафетови"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Гомер"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "и Магог"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "и Мадај"
+    },
+    {
+      "surface": "ויון",
+      "gloss": "и Јаван"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "и Тувал"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "и Мешех"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "и Тирас"
+    }
+  ],
+  "timestamp": "2026-09-05T09:41:18.144244057Z",
+  "model": "glm-5.3"
+}

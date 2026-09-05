@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 21:16",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "Јер тако рече Адонај мени: „Још године, као године најамника, и свеће сав славу Кедара.”",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "כה",
+      "gloss": "тако"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мени"
+    },
+    {
+      "surface": "בעוד",
+      "gloss": "још"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "године"
+    },
+    {
+      "surface": "כשני",
+      "gloss": "као године"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "најамника"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "и свеће"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сав"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "славу"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "Кедара"
+    }
+  ],
+  "timestamp": "2026-09-05T12:05:48.153664089Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 8:5",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "Ако се ти рано обратишь Елу и Шадају се помолишь,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ако"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "תשחר",
+      "gloss": "рано обратишь"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Елу"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и ка"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Шадају"
+    },
+    {
+      "surface": "תתחנן",
+      "gloss": "помолишь се"
+    }
+  ],
+  "timestamp": "2026-09-05T13:55:56.657389558Z",
+  "model": "glm-5.3"
+}

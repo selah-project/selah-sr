@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 22:20",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "А ти, Јахве, не удаљуј се; сило моја, помоћи ми похитај!",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "А ти"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "удаљуј се"
+    },
+    {
+      "surface": "אילותי",
+      "gloss": "сило моја"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "помоћи ми"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "похитај"
+    }
+  ],
+  "timestamp": "2026-09-05T13:19:51.494493137Z",
+  "model": "glm-5.3"
+}

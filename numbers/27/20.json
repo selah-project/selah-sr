@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 27:20",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 27,
+  "translation": "И дај му од славе своје, да слуша сва заједница синова Израиљевих.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "И дај"
+    },
+    {
+      "surface": "מהודך",
+      "gloss": "од славе своје"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "му"
+    },
+    {
+      "surface": "למען",
+      "gloss": "да"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "слуша"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сва"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "заједница"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синова"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљевих"
+    }
+  ],
+  "timestamp": "2026-09-05T10:39:47.158373236Z",
+  "model": "glm-5.3"
+}

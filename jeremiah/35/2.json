@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 35:2",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 35,
+  "translation": "Иди кући Рехабита и говори ⟨את⟩ њих, и доведи их у дом Јахве, у једну од одаја, и дај им да пију вино.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "Иди"
+    },
+    {
+      "surface": "אל",
+      "gloss": "кући"
+    },
+    {
+      "surface": "בית",
+      "gloss": "кући"
+    },
+    {
+      "surface": "הרכבים",
+      "gloss": "Рехабита"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "и говори"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "њих"
+    },
+    {
+      "surface": "והבאותם",
+      "gloss": "и доведи их"
+    },
+    {
+      "surface": "בית",
+      "gloss": "у дом"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "једну"
+    },
+    {
+      "surface": "הלשכות",
+      "gloss": "одаја"
+    },
+    {
+      "surface": "והשקית",
+      "gloss": "и дај им да пију"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "вино"
+    },
+    {
+      "surface": "יין",
+      "gloss": "вино"
+    }
+  ],
+  "timestamp": "2026-09-05T15:41:37.402387927Z",
+  "model": "glm-5.3"
+}

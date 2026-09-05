@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 23:25",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "Кад дођеш у виноград свог друга, и једеш грожђе по жељи својој, до ситости, а у суд свој не дај ⟨ништа⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "кад"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "дођеш"
+    },
+    {
+      "surface": "בכרם",
+      "gloss": "у виноград"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "свог друга"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "и једеш"
+    },
+    {
+      "surface": "ענבים",
+      "gloss": "грожђе"
+    },
+    {
+      "surface": "кנפשך",
+      "gloss": "по жељи својој"
+    },
+    {
+      "surface": "שבעך",
+      "gloss": "до ситости"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "а у"
+    },
+    {
+      "surface": "כליך",
+      "gloss": "суд свој"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "дај"
+    }
+  ],
+  "timestamp": "2026-09-05T10:52:06.360278460Z",
+  "model": "glm-5.3"
+}

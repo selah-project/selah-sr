@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 7:22",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Све у чијим ноздрвама ⟨беше⟩ дах духа живог, од свега што ⟨је⟩ на сухом — све умре.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "дах"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "духа"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "живог"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "у ноздрвама његовим"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "од свега"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "בחרבה",
+      "gloss": "на сухом"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "умре"
+    }
+  ],
+  "timestamp": "2026-09-05T09:40:44.310374124Z",
+  "model": "glm-5.3"
+}

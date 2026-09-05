@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 9:18",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "Не да ми ⟨да⟩ повратим дух свој, јер ме насити горчинама.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יתנני",
+      "gloss": "да ми"
+    },
+    {
+      "surface": "השב",
+      "gloss": "повратим"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "дух свој"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "ישבעני",
+      "gloss": "насити ме"
+    },
+    {
+      "surface": "мמררים",
+      "gloss": "горчинама"
+    }
+  ],
+  "timestamp": "2026-09-05T16:03:00.843159554Z",
+  "model": "glm-5.3"
+}

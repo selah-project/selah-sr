@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 158,
+  "ref": "psalms 119:158",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 119,
+  "translation": "Видех издајнике и огорчих се, ⟨јер⟩ реч твоју не чуваше.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Видех"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "издајнике"
+    },
+    {
+      "surface": "ואתקוטטה",
+      "gloss": "и огорчих се"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨јер⟩"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "реч твоју"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "чуваше"
+    }
+  ],
+  "timestamp": "2026-09-05T15:59:11.532249231Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "leviticus 14:55",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "и за цараат одела и за кућу,",
+  "tokens": [
+    {
+      "surface": "ולצרעת",
+      "gloss": "и за цараат"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "одуела"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "и за кућу"
+    }
+  ],
+  "timestamp": "2026-09-05T15:07:41.823255272Z",
+  "model": "glm-5.3"
+}

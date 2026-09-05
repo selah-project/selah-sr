@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 37:11",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 37,
+  "translation": "И кротки наследиће земљу и насладиће се обиљу мира.",
+  "tokens": [
+    {
+      "surface": "וענוים",
+      "gloss": "И кротки"
+    },
+    {
+      "surface": "יירשו",
+      "gloss": "наследиће"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земљу"
+    },
+    {
+      "surface": "והתענגו",
+      "gloss": "и насладиће се"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "רב",
+      "gloss": "обиљу"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мира"
+    }
+  ],
+  "timestamp": "2026-09-05T13:22:26.280966092Z",
+  "model": "glm-5.3"
+}

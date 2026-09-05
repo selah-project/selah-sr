@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "psalms 78:59",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 78,
+  "translation": "Чу Елохим и разјари се, и веома омрзе Израиља.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "чу"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "ויתעבר",
+      "gloss": "и разјари се"
+    },
+    {
+      "surface": "וימאс",
+      "gloss": "и омрзе"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "веома"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Израиља"
+    }
+  ],
+  "timestamp": "2026-09-05T13:32:14.846786381Z",
+  "model": "glm-5.3"
+}

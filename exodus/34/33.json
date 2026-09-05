@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 34:33",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 34,
+  "translation": "И сврши Моше (Мојсије) да говори са ⟨את⟩-њима, и стави на своје лице вео.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "и сврши"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "да говори"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "са ⟨את⟩-њима",
+      "marks": "њих"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "и стави"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "лице своје"
+    },
+    {
+      "surface": "מסוה",
+      "gloss": "вео"
+    }
+  ],
+  "timestamp": "2026-09-05T10:12:20.751293678Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 25:37",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 25,
+  "translation": "⟨את⟩ сребро своје не дај њему на лихву, и за повећање не дај хране своје.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сребро своје"
+    },
+    {
+      "surface": "כספך",
+      "gloss": "сребро своје"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "дај"
+    },
+    {
+      "surface": "לו",
+      "gloss": "њему"
+    },
+    {
+      "surface": "בנשך",
+      "gloss": "на лихву"
+    },
+    {
+      "surface": "ובמרבית",
+      "gloss": "и за повећање"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "дај"
+    },
+    {
+      "surface": "אכלך",
+      "gloss": "хране своје"
+    }
+  ],
+  "timestamp": "2026-09-05T10:25:42.469925085Z",
+  "model": "glm-5.3"
+}

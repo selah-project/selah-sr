@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 10:24",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "Страх злога — ⟨он⟩ ће га снаћи, а жељу праведника ⟨бива⟩ дато.",
+  "tokens": [
+    {
+      "surface": "מגורת",
+      "gloss": "Страх"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "злога"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨он⟩"
+    },
+    {
+      "surface": "תבואנו",
+      "gloss": "ће га снаћи"
+    },
+    {
+      "surface": "ותאות",
+      "gloss": "а жељу"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "праведника"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "дато"
+    }
+  ],
+  "timestamp": "2026-09-05T13:48:18.233901615Z",
+  "model": "glm-5.3"
+}

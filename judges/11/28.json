@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "judges 11:28",
+  "book": "judges",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "И не послуша краљ синова Амонових речи Јифтаха које посла њему.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "послуша"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "краљ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синова"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Амонових"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "речи"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Јифтаха"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "које"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "посла"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "њему"
+    }
+  ],
+  "timestamp": "2026-09-05T16:59:42.396719757Z",
+  "model": "glm-5.3"
+}

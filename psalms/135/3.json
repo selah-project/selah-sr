@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 135:3",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 135,
+  "translation": "Хвалите Јаха, јер добар ⟨је⟩ Јахве; певајте имену његовом, јер ⟨је⟩ слатко!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Хвалите"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Јаха"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добар"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "певајте"
+    },
+    {
+      "surface": "לשמו",
+      "gloss": "имену његовом"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "слатко"
+    }
+  ],
+  "timestamp": "2026-09-05T13:42:28.913566818Z",
+  "model": "glm-5.3"
+}

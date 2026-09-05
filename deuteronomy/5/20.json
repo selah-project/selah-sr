@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 5:20",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "И не одговарај против ближњега свога ⟨као⟩ сведок лажни.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "одговарај"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "против ближњега свога"
+    },
+    {
+      "surface": "עד",
+      "gloss": "сведок"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "лажни"
+    }
+  ],
+  "timestamp": "2026-09-05T10:44:32.982736825Z",
+  "model": "glm-5.3"
+}

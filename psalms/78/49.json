@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "psalms 78:49",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 78,
+  "translation": "Посла на њих жар гнева свог — јарост и срџбу и невољу, слање гласника злих.",
+  "tokens": [
+    {
+      "surface": "ישלח",
+      "gloss": "посла"
+    },
+    {
+      "surface": "בם",
+      "gloss": "на њих"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "жар"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "гнева свог"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "јарост"
+    },
+    {
+      "surface": "וזעם",
+      "gloss": "и срџбу"
+    },
+    {
+      "surface": "וצרה",
+      "gloss": "и невољу"
+    },
+    {
+      "surface": "משלחת",
+      "gloss": "слање"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "гласника"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "злих"
+    }
+  ],
+  "timestamp": "2026-09-05T13:32:23.691181370Z",
+  "model": "glm-5.3"
+}

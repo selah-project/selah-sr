@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 32:28",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 32,
+  "translation": "Јер су народ изгубљен у плановима, и нема у њима разума.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "народ"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "изгубљен"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "у плановима"
+    },
+    {
+      "surface": "המה",
+      "gloss": "они"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и нема"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "у њима"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "разума"
+    }
+  ],
+  "timestamp": "2026-09-05T10:55:58.535989092Z",
+  "model": "glm-5.3"
+}

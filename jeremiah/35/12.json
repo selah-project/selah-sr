@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 35:12",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 35,
+  "translation": "И би реч Јахвеова Јермејаху, говорећи:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И би"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "реч"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеова"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Јермејаху"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "говорећи"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-05T16:40:04.506425333Z",
+  "model": "glm-5.3"
+}

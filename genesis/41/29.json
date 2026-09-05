@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 41:29",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 41,
+  "translation": "Ево, долази седам година велике ситости у свој земљи Мицрајима (Египат).",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ево"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "седам"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "година"
+    },
+    {
+      "surface": "באות",
+      "gloss": "долази"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ситости"
+    },
+    {
+      "surface": "гдול",
+      "gloss": "велике"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "у свој"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земљи"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрајима"
+    }
+  ],
+  "timestamp": "2026-09-05T09:55:11.089716689Z",
+  "model": "glm-5.3"
+}

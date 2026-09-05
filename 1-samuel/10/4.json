@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 10:4",
+  "book": "1-samuel",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "И упитаће те ⟨за⟩ мир, и даће ти два хлеба, и примићеш из руке њихове.",
+  "tokens": [
+    {
+      "surface": "ושאלו",
+      "gloss": "И упитаће"
+    },
+    {
+      "surface": "לך",
+      "gloss": "те"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "⟨за⟩ мир"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "и даће"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "два"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хлеба"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "и примићеш"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "из руке њихове"
+    }
+  ],
+  "timestamp": "2026-09-05T11:19:08.315111003Z",
+  "model": "glm-5.3"
+}

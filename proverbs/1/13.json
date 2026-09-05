@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 1:13",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "Сав драгоцен имутак наћи ћемо, напунићемо куће своје плијеном.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "сав"
+    },
+    {
+      "surface": "הון",
+      "gloss": "имутак"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "драгоцен"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "наћи ћемо"
+    },
+    {
+      "surface": "נמלא",
+      "gloss": "напунићемо"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "куће своје"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "плијеном"
+    }
+  ],
+  "timestamp": "2026-09-05T13:45:35.307730582Z",
+  "model": "glm-5.3"
+}

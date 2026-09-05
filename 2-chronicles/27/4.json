@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 27:4",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 27,
+  "translation": "И градове сагради у гори Јудиној, и у шумама сагради утврђења и куле.",
+  "tokens": [
+    {
+      "surface": "וערים",
+      "gloss": "И градове"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "сагради"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "у гори"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јудиној"
+    },
+    {
+      "surface": "ובחרשים",
+      "gloss": "и у шумама"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "сагради"
+    },
+    {
+      "surface": "בירניות",
+      "gloss": "утврђења"
+    },
+    {
+      "surface": "ומגדלים",
+      "gloss": "и куле"
+    }
+  ],
+  "timestamp": "2026-09-05T14:52:39.810374215Z",
+  "model": "glm-5.3"
+}

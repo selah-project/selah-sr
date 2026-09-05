@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 29:15",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 29,
+  "translation": "Јер рекосте: „Подигао нам је Јахве пророке у Вавилону.”",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "рекосте"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "подигао је"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "нам"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "пророке"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "у Вавилон"
+    }
+  ],
+  "timestamp": "2026-09-05T12:32:13.915630388Z",
+  "model": "glm-5.3"
+}

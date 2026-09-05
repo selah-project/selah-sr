@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 37:30",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 37,
+  "translation": "И врати се к својој браћи и рече: Дете нема га; а ја — куд ћу ја?",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "И врати се"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "својој браћи"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "Дете"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "нема га"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "а ја"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "куд"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ћу ићи"
+    }
+  ],
+  "timestamp": "2026-09-05T09:54:17.005167470Z",
+  "model": "glm-5.3"
+}

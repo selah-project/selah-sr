@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "judges 18:6",
+  "book": "judges",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "И рече им свештеник: Идите у миру; пред Јахвеом ⟨је⟩ пут ваш којим идете.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "свештеник"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "Идите"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "у миру"
+    },
+    {
+      "surface": "נכח",
+      "gloss": "пред"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеом"
+    },
+    {
+      "surface": "דרככם",
+      "gloss": "пут ваш"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "којим"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "идете"
+    },
+    {
+      "surface": "בה",
+      "gloss": "њим"
+    }
+  ],
+  "timestamp": "2026-09-05T11:13:21.823218021Z",
+  "model": "glm-5.3"
+}

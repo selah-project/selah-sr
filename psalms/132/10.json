@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 132,
+  "translation": "Ради Давида, слуге твога, не одврати лица Машијаха твога.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "ради"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давида"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "слуге твога"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "одврати"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лица"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Машијаха твога"
+    }
+  ],
+  "timestamp": "2026-09-05T13:42:02.895169551Z",
+  "model": "glm-5.3"
+}

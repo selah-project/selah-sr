@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 26:10",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 26,
+  "translation": "Границу круга ⟨описа⟩ на лицу воде, до краја светлости са тамом.",
+  "tokens": [
+    {
+      "surface": "חק",
+      "gloss": "Границу"
+    },
+    {
+      "surface": "חג",
+      "gloss": "круга"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицу"
+    },
+    {
+      "surface": "מים",
+      "gloss": "воде"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "תכלית",
+      "gloss": "краја"
+    },
+    {
+      "surface": "אור",
+      "gloss": "светлости"
+    },
+    {
+      "surface": "עם",
+      "gloss": "са"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "тамом"
+    }
+  ],
+  "timestamp": "2026-09-05T14:01:03.524516780Z",
+  "model": "glm-5.3"
+}

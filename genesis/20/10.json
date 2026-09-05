@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 20:10",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 20,
+  "translation": "И рече Авимелех Аврахаму: „Шта виде те учини ⟨את⟩ ствар ову?“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Авимелех"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Аврахаму"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврахаму"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Шта"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "виде"
+    },
+    {
+      "surface": "כי",
+      "gloss": "те"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "учини"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ствар"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ствар"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ову"
+    }
+  ],
+  "timestamp": "2026-09-05T14:58:59.685160211Z",
+  "model": "glm-5.3"
+}

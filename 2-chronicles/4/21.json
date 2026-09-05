@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 4:21",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "и цвеће, и светиљке, и маказе ⟨од⟩ злата — оно ⟨је⟩ савршеност злата.",
+  "tokens": [
+    {
+      "surface": "והפרח",
+      "gloss": "и цвеће"
+    },
+    {
+      "surface": "והנרות",
+      "gloss": "и светиљке"
+    },
+    {
+      "surface": "והמלקחים",
+      "gloss": "и маказе"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "злата"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "оно"
+    },
+    {
+      "surface": "מכלות",
+      "gloss": "савршеност"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "злата"
+    }
+  ],
+  "timestamp": "2026-09-05T16:16:46.044265877Z",
+  "model": "glm-5.3"
+}

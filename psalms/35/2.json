@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 35:2",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 35,
+  "translation": "Прихвати штит и ⟨куласт› штит⟩, и устани у помоћ моју.",
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "прихвати"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "штит"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "и велики штит"
+    },
+    {
+      "surface": "וקומה",
+      "gloss": "и устани"
+    },
+    {
+      "surface": "בעזרתי",
+      "gloss": "у помоћ моју"
+    }
+  ],
+  "timestamp": "2026-09-05T13:22:34.694416885Z",
+  "model": "glm-5.3"
+}

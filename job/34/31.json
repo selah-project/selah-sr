@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "job 34:31",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 34,
+  "translation": "Јер Елу ⟨је⟩ речено: подегох ⟨казну⟩, нећу више скривити.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "речено"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "подегох"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אחבל",
+      "gloss": "ћу скривити"
+    }
+  ],
+  "timestamp": "2026-09-05T16:06:01.915793168Z",
+  "model": "glm-5.3"
+}

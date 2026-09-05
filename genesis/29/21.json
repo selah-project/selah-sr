@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 29:21",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 29,
+  "translation": "И рече Јааков Лавану: дај ⟨את⟩ жену моју, јер се наполнише дани моји, и да уђем к њој.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Јааков"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Лавану"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "дај"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жену моју"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "жену моју"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "наполнише се"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дани моји"
+    },
+    {
+      "surface": "ואבואה",
+      "gloss": "и да уђем"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "к њој"
+    }
+  ],
+  "timestamp": "2026-09-05T09:48:16.349336657Z",
+  "model": "glm-5.3"
+}

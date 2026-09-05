@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 20:10",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 20,
+  "translation": "И изведох их из земље Мицрајим и доведох их у пустињу.",
+  "tokens": [
+    {
+      "surface": "ואוציאם",
+      "gloss": "и изведох их"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "из земље"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрајим"
+    },
+    {
+      "surface": "ואבאם",
+      "gloss": "и доведох их"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "пустињу"
+    }
+  ],
+  "timestamp": "2026-09-05T12:48:10.099288937Z",
+  "model": "glm-5.3"
+}

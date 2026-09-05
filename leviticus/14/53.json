@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "leviticus 14:53",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "И пусти ⟨את⟩ живу птицу изван града, према пољу, и окаже помирење за кућу, и биће чиста.",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "И пусти"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "живу птицу"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "птицу"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "живу"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "изван"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "града"
+    },
+    {
+      "surface": "אל",
+      "gloss": "према"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицу"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "поља"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "и окаже помирење"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "кућу"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "и биће чиста"
+    }
+  ],
+  "timestamp": "2026-09-05T15:08:12.391444071Z",
+  "model": "glm-5.3"
+}

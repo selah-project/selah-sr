@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 4:16",
+  "book": "1-kings",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "Бана, син Хушаја, у Ашеру и у Беалоту.",
+  "tokens": [
+    {
+      "surface": "בענא",
+      "gloss": "Бана"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "Хушаја"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "у Ашеру"
+    },
+    {
+      "surface": "ובעלות",
+      "gloss": "и у Беалоту"
+    }
+  ],
+  "timestamp": "2026-09-05T11:38:58.878551182Z",
+  "model": "glm-5.3"
+}

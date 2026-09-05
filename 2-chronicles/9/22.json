@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 9:22",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "И превазиде краљ Шеломо све краљеве земље у богатству и мудрости.",
+  "tokens": [
+    {
+      "surface": "ויגדל",
+      "gloss": "И превазиде"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "краљ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "све"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "краљеве"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земље"
+    },
+    {
+      "surface": "לעשר",
+      "gloss": "у богатству"
+    },
+    {
+      "surface": "וחכמה",
+      "gloss": "и мудрости"
+    }
+  ],
+  "timestamp": "2026-09-05T14:47:17.908512144Z",
+  "model": "glm-5.3"
+}

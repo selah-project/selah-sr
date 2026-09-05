@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 23:19",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "И постави вратаре на вратима дома Јахвеовог, да не уђе нечист ни у једној ствари.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "и постави"
+    },
+    {
+      "surface": "השוערים",
+      "gloss": "вратаре"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "вратима"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеовог"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "да не"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "уђе"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "нечист"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ни у једној"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ствари"
+    }
+  ],
+  "timestamp": "2026-09-05T14:52:06.154506756Z",
+  "model": "glm-5.3"
+}

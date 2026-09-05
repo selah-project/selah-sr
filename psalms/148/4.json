@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 148:4",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 148,
+  "translation": "Хвалите га, небеса небеса, и воде ⟨које су⟩ изнад небеса!",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Хвалите га"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "небеса"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небеса"
+    },
+    {
+      "surface": "והמים",
+      "gloss": "и воде"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨које су⟩"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "изнад"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небеса"
+    }
+  ],
+  "timestamp": "2026-09-05T13:45:02.967571092Z",
+  "model": "glm-5.3"
+}

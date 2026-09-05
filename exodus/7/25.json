@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "И напунише се седам дана пошто удари Јахве ⟨את⟩ реку.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "и напунише се"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "седам"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дана"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "пошто"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "удари"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "реку"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "реку"
+    }
+  ],
+  "timestamp": "2026-09-05T10:01:41.366986868Z",
+  "model": "glm-5.3"
+}

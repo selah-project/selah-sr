@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 5:10",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Јер десет парова винограда учиниће један бат, а семе од хомера учиниће једну ефу.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "десет"
+    },
+    {
+      "surface": "צמדי",
+      "gloss": "парова"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "винограда"
+    },
+    {
+      "surface": "יושו note",
+      "gloss": "учиниће"
+    },
+    {
+      "surface": "בת",
+      "gloss": "бат"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "један"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "а семе"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "хомера"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "учиниће"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "ефу"
+    }
+  ],
+  "timestamp": "2026-09-05T12:02:31.140346814Z",
+  "model": "glm-5.3"
+}

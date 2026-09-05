@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 46:9",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 46,
+  "translation": "Ходите, видите дела Јахвеа: постави пустоши по земљи.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "ходите"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "видите"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "дела"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "која"
+    },
+    {
+      "surface": "שם",
+      "gloss": "постави"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "пустоши"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "по земљи"
+    }
+  ],
+  "timestamp": "2026-09-05T13:26:12.618568580Z",
+  "model": "glm-5.3"
+}

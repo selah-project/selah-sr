@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 5:15",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Преста весеље срца нашег, претвори се у жалост плес наш.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Преста"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "весеље"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "срца нашег"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "претвори се"
+    },
+    {
+      "surface": "לאבל",
+      "gloss": "у жалост"
+    },
+    {
+      "surface": "מחלנו",
+      "gloss": "плес наш"
+    }
+  ],
+  "timestamp": "2026-09-05T14:10:48.323234691Z",
+  "model": "glm-5.3"
+}

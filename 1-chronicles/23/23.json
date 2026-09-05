@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 23:23",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "Синови Мушија: Махли и Едер и Јеремот — тројица.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синови"
+    },
+    {
+      "surface": "מושי",
+      "gloss": "Мушија"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "Махли"
+    },
+    {
+      "surface": "ועדר",
+      "gloss": "и Едер"
+    },
+    {
+      "surface": "וירמות",
+      "gloss": "и Јеремот"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "тројица"
+    }
+  ],
+  "timestamp": "2026-09-05T14:42:16.107636562Z",
+  "model": "glm-5.3"
+}

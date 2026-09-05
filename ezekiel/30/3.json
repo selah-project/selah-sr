@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 30:3",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 30,
+  "translation": "јер је близу дан, и близу дан Јахвеу; дан облака ⟨је⟩, време народâ биће.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "је близу"
+    },
+    {
+      "surface": "יום",
+      "gloss": "дан"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "и близу"
+    },
+    {
+      "surface": "יום",
+      "gloss": "дан"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Јахвеу"
+    },
+    {
+      "surface": "יום",
+      "gloss": "дан"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "облака"
+    },
+    {
+      "surface": "עת",
+      "gloss": "време"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "народâ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "биће"
+    }
+  ],
+  "timestamp": "2026-09-05T12:52:25.983236699Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 16:9",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 16,
+  "translation": "Срце човека смишља пут његов, а Јахве утврђује корак његов.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "срце"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човека"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "смишља"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "пут његов"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "а Јахве"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "утврђује"
+    },
+    {
+      "surface": "צעדו",
+      "gloss": "корак његов"
+    }
+  ],
+  "timestamp": "2026-09-05T13:49:30.421053115Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 18:2",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "„Устани, и сиђи у дом лончарев, и тамо ћу ти дати да чујеш ⟨את⟩ речи моје.“",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Устани"
+    },
+    {
+      "surface": "ורדת",
+      "gloss": "и сиђи"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "лончарев"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "и тамо"
+    },
+    {
+      "surface": "אשמיעך",
+      "gloss": "даћу ти да чујеш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "речи моје"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "речи моје"
+    }
+  ],
+  "timestamp": "2026-09-05T12:28:32.606818002Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 11:6",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "И сазида ⟨את⟩ Беит-Лехем (Витлеем) и ⟨את⟩ Еитам и ⟨את⟩ Текоа;",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "И сазида"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Беит-Лехем"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Беит"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "-Лехем"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Еитам"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "Еитам"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Текоа"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "Текоа"
+    }
+  ],
+  "timestamp": "2026-09-05T14:46:56.172028717Z",
+  "model": "glm-5.3"
+}

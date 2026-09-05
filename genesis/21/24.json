@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 21:24",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "И рече Аврахам: „Ја се кунијем.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврахам"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Ја"
+    },
+    {
+      "surface": "אשבע",
+      "gloss": "кунијем се"
+    }
+  ],
+  "timestamp": "2026-09-05T09:45:40.852498196Z",
+  "model": "glm-5.3"
+}

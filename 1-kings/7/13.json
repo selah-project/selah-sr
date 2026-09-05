@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 7:13",
+  "book": "1-kings",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "И посла краљ Шеломо (Соломон), те доведе ⟨את⟩ Хирама из Цора (Тир).",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "посла"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "краљ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "доведе"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Хирама"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Хирама"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "из Цора"
+    }
+  ],
+  "timestamp": "2026-09-05T11:41:35.361071343Z",
+  "model": "glm-5.3"
+}

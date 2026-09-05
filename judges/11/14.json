@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 11:14",
+  "book": "judges",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "И још додаде Јифтах, па посла посланике краљу синова Амонових,",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "И додаде"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "још"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Јифтах"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "и посла"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "посланике"
+    },
+    {
+      "surface": "אל",
+      "gloss": "краљу"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "⟨краљу⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синова"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Амонових"
+    }
+  ],
+  "timestamp": "2026-09-05T11:11:50.774774438Z",
+  "model": "glm-5.3"
+}

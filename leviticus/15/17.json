@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 15:17",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 15,
+  "translation": "И свака одежда и свака кожа на којој буде истек семена биће опрана у води и нечиста до вечера.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "И свака"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "одежда"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и свака"
+    },
+    {
+      "surface": "עור",
+      "gloss": "кожа"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "којој"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "буде"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "на њој"
+    },
+    {
+      "surface": "שכבת",
+      "gloss": "истек"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "семена"
+    },
+    {
+      "surface": "וכבס",
+      "gloss": "биће опрана"
+    },
+    {
+      "surface": "במים",
+      "gloss": "у води"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "и нечиста"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "вечера"
+    }
+  ],
+  "timestamp": "2026-09-05T10:22:45.970192951Z",
+  "model": "glm-5.3"
+}

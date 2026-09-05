@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "habakkuk 1:2",
+  "book": "habakkuk",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "Докле, Јахве, зовем — и не чујеш? Викам к теби ⟨против⟩ насиља, а не спасаваш?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "докле"
+    },
+    {
+      "surface": "אנה",
+      "gloss": ""
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "зовем"
+    },
+    {
+      "surface": "ו לא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "чујеш"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "викам"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "к теби"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "насиље"
+    },
+    {
+      "surface": "ו לא",
+      "gloss": "а не"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "спасаваш"
+    }
+  ],
+  "timestamp": "2026-09-05T17:08:36.318134928Z",
+  "model": "glm-5.3"
+}

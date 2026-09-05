@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 5:2",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Речи моје чуј, Јахве, разузми смрмење моје.",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "Речи моје"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "чуј"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "разузми"
+    },
+    {
+      "surface": "הגיגי",
+      "gloss": "смрмење моје"
+    }
+  ],
+  "timestamp": "2026-09-05T16:43:12.595344854Z",
+  "model": "glm-5.3"
+}

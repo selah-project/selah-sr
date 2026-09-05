@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "deuteronomy 32:48",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 32,
+  "translation": "И говори Јахве са Мошеом истог оног дана, рекавши:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "И говори"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "са"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошеом"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "истог оног"
+    },
+    {
+      "surface": "היום",
+      "gloss": "дана"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "оног"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "рекавши"
+    }
+  ],
+  "timestamp": "2026-09-05T10:55:33.401448521Z",
+  "model": "glm-5.3"
+}

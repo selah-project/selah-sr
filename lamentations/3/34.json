@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "lamentations 3:34",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Да гази под ногама својим све заробљенике земље,",
+  "tokens": [
+    {
+      "surface": "לדכא",
+      "gloss": "Да гази"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "ногама својим"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "заробљенике"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земље"
+    }
+  ],
+  "timestamp": "2026-09-05T14:09:22.434018895Z",
+  "model": "glm-5.3"
+}

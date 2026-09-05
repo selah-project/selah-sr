@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 18:20",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "И изађе дух, и стаде пред Јахвеом, и рече: ја ћу га завести. А Јахве му рече: чиме?",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "И изађе"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "дух"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "и стаде"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеом"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "אפתנו",
+      "gloss": "ћу га завести"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "А рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "му"
+    },
+    {
+      "surface": "במה",
+      "gloss": "чиме"
+    }
+  ],
+  "timestamp": "2026-09-05T16:17:53.207937168Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 27:17",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 27,
+  "translation": "Проклет био ко помиче међу свога ближњега; и рећи ће сав народ: Амен.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Проклет"
+    },
+    {
+      "surface": "מסיג",
+      "gloss": "помиче међу"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "међу"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "свога ближњега"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "и рећи ће"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сав"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Амен"
+    }
+  ],
+  "timestamp": "2026-09-05T10:53:45.262333785Z",
+  "model": "glm-5.3"
+}

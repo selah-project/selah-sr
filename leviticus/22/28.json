@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 22:28",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "И вола или овцу — ⟨את⟩ њега и ⟨את⟩ младе његовога не колите у један дан.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "и вола"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "שה",
+      "gloss": "овцу"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ њега"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "младе његовога"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "младе његовога"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשחטו",
+      "gloss": "колите"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "у дан"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "један"
+    }
+  ],
+  "timestamp": "2026-09-05T10:23:58.497641298Z",
+  "model": "glm-5.3"
+}

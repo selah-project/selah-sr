@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 16:30",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 16,
+  "translation": "Жмури очима својим да смисли превртње; стисне усне своје — изврши зло.",
+  "tokens": [
+    {
+      "surface": "עצה",
+      "gloss": "жмури"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "очима својим"
+    },
+    {
+      "surface": "לחשב",
+      "gloss": "да смисли"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "превртње"
+    },
+    {
+      "surface": "קרץ",
+      "gloss": "стисне"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "усне своје"
+    },
+    {
+      "surface": "кלה",
+      "gloss": "изврши"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зло"
+    }
+  ],
+  "timestamp": "2026-09-05T13:49:48.801659475Z",
+  "model": "glm-5.3"
+}

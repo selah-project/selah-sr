@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 82:2",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 82,
+  "translation": "Докле ћете судити неправедно и лице безбожника подизати? Села.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Докле"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ћете"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "судити"
+    },
+    {
+      "surface": "עול",
+      "gloss": "неправедно"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "и лице"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "безбожника"
+    },
+    {
+      "surface": "תשאו",
+      "gloss": "подизати"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Села"
+    }
+  ],
+  "timestamp": "2026-09-05T13:32:43.425879617Z",
+  "model": "glm-5.3"
+}

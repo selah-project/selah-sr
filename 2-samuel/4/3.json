@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 4:3",
+  "book": "2-samuel",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "И побегоше Вироћани у Гатајим, и бише онамо дошљаци до дана овога.",
+  "tokens": [
+    {
+      "surface": "ויברחו",
+      "gloss": "И побегоше"
+    },
+    {
+      "surface": "הבארתים",
+      "gloss": "Вироћани"
+    },
+    {
+      "surface": "גתימה",
+      "gloss": "у Гатајим"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "и бише"
+    },
+    {
+      "surface": "שם",
+      "gloss": "онамо"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "дошљаци"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "היום",
+      "gloss": "дана"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овога"
+    }
+  ],
+  "timestamp": "2026-09-05T11:28:58.722005442Z",
+  "model": "glm-5.3"
+}

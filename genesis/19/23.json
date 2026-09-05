@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 19:23",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 19,
+  "translation": "Сунце изађе над земљом, а Лот уђе у Цоар.",
+  "tokens": [
+    {
+      "surface": "השמש",
+      "gloss": "Сунце"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "изађе"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земљом"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "а Лот"
+    },
+    {
+      "surface": "вא",
+      "gloss": "уђе"
+    },
+    {
+      "surface": "צערה",
+      "gloss": "у Цоар"
+    }
+  ],
+  "timestamp": "2026-09-05T09:43:36.764348051Z",
+  "model": "glm-5.3"
+}

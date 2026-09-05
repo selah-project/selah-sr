@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 14:11",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "И рече Јахве мени: Не моли се за овај народ ⟨за⟩ добро њихово.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мени"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תתפלל",
+      "gloss": "моли се"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "за"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овај"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "за добро"
+    }
+  ],
+  "timestamp": "2026-09-05T12:26:07.318054060Z",
+  "model": "glm-5.3"
+}

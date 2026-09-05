@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 20:7",
+  "book": "judges",
+  "lang": "sr",
+  "chapter": 20,
+  "translation": "Ено, сви ви сте синови Израиљеви: дајте себи реч и савет овамо.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ено"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "сви ви"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљеви"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "дајте"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "себи"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "реч"
+    },
+    {
+      "surface": "ועצה",
+      "gloss": "и савет"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "овамо"
+    }
+  ],
+  "timestamp": "2026-09-05T11:14:22.678128528Z",
+  "model": "glm-5.3"
+}

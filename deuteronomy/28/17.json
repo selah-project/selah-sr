@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 28:17",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "Клет ће бити кош твој и корито твоје ⟨за мешење⟩.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "клет"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "кош твој"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "и корито твоје"
+    }
+  ],
+  "timestamp": "2026-09-05T10:54:53.828220932Z",
+  "model": "glm-5.3"
+}

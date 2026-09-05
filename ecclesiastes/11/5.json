@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 11:5",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "Као што не знаш који је пут духа, ⟨ни⟩ како кости ⟨расту⟩ у утроби пуној, тако не знаш ⟨את⟩ дело Елохима, који чини ⟨את⟩ све.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "као што"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "не"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "знаш"
+    },
+    {
+      "surface": "מה",
+      "gloss": "који"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "пут"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "духа"
+    },
+    {
+      "surface": "כעצמים",
+      "gloss": "како кости"
+    },
+    {
+      "surface": "בבטן",
+      "gloss": "у утроби"
+    },
+    {
+      "surface": "המלאה",
+      "gloss": "пуној"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "тако"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "знаш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дело Елохима"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "дело"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елохима"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "чи́ни"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "све"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "све"
+    }
+  ],
+  "timestamp": "2026-09-05T14:13:56.764217246Z",
+  "model": "glm-5.3"
+}

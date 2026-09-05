@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 2:12",
+  "book": "song-of-songs",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Цветићи се показаше у земљи, време појања дође, и глас грлице чује се у земљи нашој.",
+  "tokens": [
+    {
+      "surface": "הנצנים",
+      "gloss": "цветићи"
+    },
+    {
+      "surface": "נראו",
+      "gloss": "показаше се"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "у земљи"
+    },
+    {
+      "surface": "עת",
+      "gloss": "време"
+    },
+    {
+      "surface": "הזמיר",
+      "gloss": "појања"
+    },
+    {
+      "surface": "הגיע",
+      "gloss": "дође"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "и глас"
+    },
+    {
+      "surface": "התור",
+      "gloss": "грлице"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "чује се"
+    },
+    {
+      "surface": "בארצנו",
+      "gloss": "у земљи нашој"
+    }
+  ],
+  "timestamp": "2026-09-05T14:06:11.316077281Z",
+  "model": "glm-5.3"
+}

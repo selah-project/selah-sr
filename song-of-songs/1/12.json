@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 1:12",
+  "book": "song-of-songs",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "Док је краљ у кругу своме, нарда моја даде мирис свој.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Док"
+    },
+    {
+      "surface": "שהמלך",
+      "gloss": "је краљ"
+    },
+    {
+      "surface": "במסבו",
+      "gloss": "у кругу своме"
+    },
+    {
+      "surface": "נרדי",
+      "gloss": "нарда моја"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "даде"
+    },
+    {
+      "surface": "ריחו",
+      "gloss": "мирис свој"
+    }
+  ],
+  "timestamp": "2026-09-05T14:05:57.848421022Z",
+  "model": "glm-5.3"
+}

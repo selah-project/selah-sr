@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "jeremiah 31:39",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 31,
+  "translation": "И још ће изаћи мерно уже према њој на брежуљак Гарев, и заобаћиће до Гоате.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "и изаћи ће"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "још"
+    },
+    {
+      "surface": "קוה",
+      "gloss": "мерно уже"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "мерно"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "према њој"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "брежуљак"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "Гарев"
+    },
+    {
+      "surface": "ונסב",
+      "gloss": "и заобаћиће"
+    },
+    {
+      "surface": "געתה",
+      "gloss": "до Гоате"
+    }
+  ],
+  "timestamp": "2026-09-05T12:31:43.380986711Z",
+  "model": "glm-5.3"
+}

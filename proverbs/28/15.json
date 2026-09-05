@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 28:15",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "Лав који рика и медвед који лута — такав је владар злочињац над сиромашним народом.",
+  "tokens": [
+    {
+      "surface": "ארי",
+      "gloss": "лав"
+    },
+    {
+      "surface": "נהם",
+      "gloss": "који рика"
+    },
+    {
+      "surface": "ודב",
+      "gloss": "и медвед"
+    },
+    {
+      "surface": "שוקק",
+      "gloss": "који лута"
+    },
+    {
+      "surface": "משל",
+      "gloss": "владар"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "злочињац"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народом"
+    },
+    {
+      "surface": "דל",
+      "gloss": "сиромашним"
+    }
+  ],
+  "timestamp": "2026-09-05T13:53:25.593913356Z",
+  "model": "glm-5.3"
+}

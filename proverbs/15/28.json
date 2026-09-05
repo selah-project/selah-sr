@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 15:28",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 15,
+  "translation": "Срце праведнога размишља ⟨како⟩ да одговори, а уста злих изливају зла.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "срце"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "праведнога"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "размишља"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "да одговори"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "а уста"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "злих"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "изливају"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "зла"
+    }
+  ],
+  "timestamp": "2026-09-05T16:01:00.262099981Z",
+  "model": "glm-5.3"
+}

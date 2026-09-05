@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 120,
+  "translation": "Предуго је становала душа моја са мрзитељима мира.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Предуго"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "је становала"
+    },
+    {
+      "surface": "לה",
+      "gloss": "она"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душа моја"
+    },
+    {
+      "surface": "עם",
+      "gloss": "са"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "мрзитељима"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мира"
+    }
+  ],
+  "timestamp": "2026-09-05T13:41:21.966236493Z",
+  "model": "glm-5.3"
+}

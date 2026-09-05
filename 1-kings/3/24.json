@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-kings 3:24",
+  "book": "1-kings",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "И рече краљ: „Донесите ми мач.“ И донесоше мач пред краља.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "краљ"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "донесите"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "мач"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "донесоше"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "мач"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "краља"
+    }
+  ],
+  "timestamp": "2026-09-05T11:39:00.744984140Z",
+  "model": "glm-5.3"
+}

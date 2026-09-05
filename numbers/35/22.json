@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 35:22",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 35,
+  "translation": "А ако га изненада гурнуо без мржње, или бацио на њега какав предмет без намере,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "а ако"
+    },
+    {
+      "surface": "בפתע",
+      "gloss": "изненада"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "без"
+    },
+    {
+      "surface": "איבה",
+      "gloss": "мржње"
+    },
+    {
+      "surface": "הדפו",
+      "gloss": "гурнуо га"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "השליך",
+      "gloss": "бацио"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "на њега"
+    },
+    {
+      "surface": "כל",
+      "gloss": "какав"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "предмет"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "без"
+    },
+    {
+      "surface": "צדיה",
+      "gloss": "намере"
+    }
+  ],
+  "timestamp": "2026-09-05T10:42:53.984816310Z",
+  "model": "glm-5.3"
+}

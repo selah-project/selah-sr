@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 29:4",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 29,
+  "translation": "И рече им Јааков: браћо моја, одакле сте? А они рекоше: из Харана смо ми.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Јааков"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "браћо моја"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "одакле"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "сте"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "А они рекоше"
+    },
+    {
+      "surface": "מחרן",
+      "gloss": "из Харана"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "смо ми"
+    }
+  ],
+  "timestamp": "2026-09-05T09:48:41.241916058Z",
+  "model": "glm-5.3"
+}

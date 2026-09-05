@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 6:36",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "Буки син његов, Уззи син његов, Зерахја син његов.",
+  "tokens": [
+    {
+      "surface": "בקי",
+      "gloss": "Буки"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син његов"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "Уззи"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син његов"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "Зерахја"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син његов"
+    }
+  ],
+  "timestamp": "2026-09-05T14:36:33.653641625Z",
+  "model": "glm-5.3"
+}

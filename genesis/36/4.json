@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 36:4",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 36,
+  "translation": "И роди Ада Есаву ⟨את⟩ Елифаза, а Босмат роди ⟨את⟩ Реуела.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "И роди"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ада"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "Есаву"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Елифаза"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Елифаза"
+    },
+    {
+      "surface": "ובשמת",
+      "gloss": "а Босмат"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Реуела"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Реуела"
+    }
+  ],
+  "timestamp": "2026-09-05T09:52:25.126187441Z",
+  "model": "glm-5.3"
+}

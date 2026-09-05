@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "daniel 1:14",
+  "book": "daniel",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "И послуша их у ту реч, и испроба их десет дана.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "и послуша"
+    },
+    {
+      "surface": "להם",
+      "gloss": "их"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "у реч"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ту"
+    },
+    {
+      "surface": "וינסם",
+      "gloss": "и испроба"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дана"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "десет"
+    }
+  ],
+  "timestamp": "2026-09-05T14:16:27.799602698Z",
+  "model": "glm-5.3"
+}

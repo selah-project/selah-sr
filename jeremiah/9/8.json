@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 9:8",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "Зар због ових нећу посетити ⟨них⟩ — реч Јахвеова — зар народу оваквом душа моја неће се осветити?",
+  "tokens": [
+    {
+      "surface": "העל",
+      "gloss": "зар због"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ових"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אפקד",
+      "gloss": "посетити"
+    },
+    {
+      "surface": "בם",
+      "gloss": "њих"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "реч"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеова"
+    },
+    {
+      "surface": "אם",
+      "gloss": "зар"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "народу"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "כזה",
+      "gloss": "оваквом"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תתנקם",
+      "gloss": "осветити се"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душа моја"
+    }
+  ],
+  "timestamp": "2026-09-05T12:24:18.576128616Z",
+  "model": "glm-5.3"
+}

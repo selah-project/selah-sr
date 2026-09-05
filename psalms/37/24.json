@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 37:24",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 37,
+  "translation": "Па да падне, неће бити оборен, јер Јахве подупире руку његову.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "па да"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "падне"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "биће оборен"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "סומך",
+      "gloss": "подупире"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "руку његову"
+    }
+  ],
+  "timestamp": "2026-09-05T13:24:47.673333646Z",
+  "model": "glm-5.3"
+}

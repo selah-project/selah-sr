@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "genesis 27:44",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 27,
+  "translation": "и поживи с њим неколико данâ, докле се не поврати јарост брата твог.",
+  "tokens": [
+    {
+      "surface": "וישבת",
+      "gloss": "поживи"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "с њим"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "данâ"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "неколико"
+    },
+    {
+      "surface": "עד",
+      "gloss": "докле"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "поврати"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "јарост"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "брата твог"
+    }
+  ],
+  "timestamp": "2026-09-05T09:48:57.415083880Z",
+  "model": "glm-5.3"
+}

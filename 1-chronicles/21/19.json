@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 21:19",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "И отиде Давид по речи Гада, коју изговори ⟨у⟩ име Јахвеа.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "и отиде"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "по речи"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гада"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "коју"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "изговори"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "⟨у⟩ име"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    }
+  ],
+  "timestamp": "2026-09-05T16:15:55.818169089Z",
+  "model": "glm-5.3"
+}

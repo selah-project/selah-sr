@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 9:2",
+  "book": "hosea",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "Гувно и пресa неће их хватити, и муст ће њој преварити.",
+  "tokens": [
+    {
+      "surface": "גרן",
+      "gloss": "гувно"
+    },
+    {
+      "surface": "ויקב",
+      "gloss": "и пресa"
+    },
+    {
+      "surface": "לא",
+      "gloss": "неће"
+    },
+    {
+      "surface": "ירעם",
+      "gloss": "хватити их"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "и муст"
+    },
+    {
+      "surface": "יכחש",
+      "gloss": "преварити"
+    },
+    {
+      "surface": "בה",
+      "gloss": "њој"
+    }
+  ],
+  "timestamp": "2026-09-05T13:02:55.868080549Z",
+  "model": "glm-5.3"
+}

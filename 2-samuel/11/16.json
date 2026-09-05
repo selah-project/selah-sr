@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 11:16",
+  "book": "2-samuel",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "И би, кад Јоав опседаше град, те постави ⟨את⟩ Урију на место где знађаше да су тамо људи јуначни.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "и би"
+    },
+    {
+      "surface": "בשמור",
+      "gloss": "кад опседаше"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Јоав"
+    },
+    {
+      "surface": "אל",
+      "gloss": "према"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "граду"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "те постави"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Урију"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Урију"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "место"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "где"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "знађаше"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "људи"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "јуначни"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тамо"
+    }
+  ],
+  "timestamp": "2026-09-05T11:31:02.539635167Z",
+  "model": "glm-5.3"
+}

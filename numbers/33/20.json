@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 33:20",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 33,
+  "translation": "И кренуше из Римон-Переца и разбеше логор у Ливни.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "И кренуше"
+    },
+    {
+      "surface": "מרמן",
+      "gloss": "из Римон-"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Переца"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "и разбеше логор"
+    },
+    {
+      "surface": "בלבנה",
+      "gloss": "у Ливни"
+    }
+  ],
+  "timestamp": "2026-09-05T10:42:17.038208701Z",
+  "model": "glm-5.3"
+}

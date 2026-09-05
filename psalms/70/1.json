@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 70:1",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 70,
+  "translation": "Управитељу хора, Давидов ⟨псалам⟩, за спомињање.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Управитељу хора"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидов"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "за спомињање"
+    }
+  ],
+  "timestamp": "2026-09-05T15:55:52.262132045Z",
+  "model": "glm-5.3"
+}

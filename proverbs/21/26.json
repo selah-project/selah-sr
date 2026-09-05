@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 21:26",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "Сав дан жуди ⟨и⟩ жели, а праведник даје и не штеди.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Сав"
+    },
+    {
+      "surface": "היום",
+      "gloss": "дан"
+    },
+    {
+      "surface": "התאוה",
+      "gloss": "жуди"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "⟨и⟩ жели"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "а праведник"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "даје"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יחשך",
+      "gloss": "штеди"
+    }
+  ],
+  "timestamp": "2026-09-05T13:51:08.270813223Z",
+  "model": "glm-5.3"
+}

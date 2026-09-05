@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 33:14",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 33,
+  "translation": "Јер Ел говори једном, па и двапут — ⟨а човек⟩ то не опажа.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "באחת",
+      "gloss": "једном"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "говори"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "ובשתים",
+      "gloss": "и двапут"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישורנה",
+      "gloss": "опажа"
+    }
+  ],
+  "timestamp": "2026-09-05T14:03:11.730136908Z",
+  "model": "glm-5.3"
+}

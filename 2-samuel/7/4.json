@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 7:4",
+  "book": "2-samuel",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "И би те ноћи, и би реч Јахвеина Натану говорећи:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "и би"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "те ноћи"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨те⟩"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и би"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "реч"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеина"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Натану"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "⟨Натану⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорећи"
+    }
+  ],
+  "timestamp": "2026-09-05T16:36:18.302606085Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 30:26",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 30,
+  "translation": "Добро очекивах — и дође зло; за светлост чеках — и дође мрак.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "очекивах"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "и дође"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зло"
+    },
+    {
+      "surface": "ואיחלה",
+      "gloss": "и чеках"
+    },
+    {
+      "surface": "לאור",
+      "gloss": "за светлост"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "и дође"
+    },
+    {
+      "surface": "אפל",
+      "gloss": "мрак"
+    }
+  ],
+  "timestamp": "2026-09-05T16:05:06.204839366Z",
+  "model": "glm-5.3"
+}

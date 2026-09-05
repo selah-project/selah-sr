@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 4:10",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "И ⟨את⟩ море постави с десне стране, према истоку, наспрам југа.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "море"
+    },
+    {
+      "surface": "הים",
+      "gloss": "море"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "постави"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "с рамена"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "десне"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "према истоку"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "наспрам"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "југа"
+    }
+  ],
+  "timestamp": "2026-09-05T16:16:44.990711401Z",
+  "model": "glm-5.3"
+}

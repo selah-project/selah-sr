@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 26:3",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 26,
+  "translation": "⟨Ду⟩шу ослоњену чуваш ти миром, миром, јер се у теби узда.",
+  "tokens": [
+    {
+      "surface": "יצר",
+      "gloss": "⟨ду⟩шу"
+    },
+    {
+      "surface": "סמוך",
+      "gloss": "ослоњену"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "чуваш"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "миром"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "миром"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "בך",
+      "gloss": "у теби"
+    },
+    {
+      "surface": "בטוח",
+      "gloss": "узда"
+    }
+  ],
+  "timestamp": "2026-09-05T12:07:44.864291883Z",
+  "model": "glm-5.3"
+}

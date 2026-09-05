@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 35:15",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 35,
+  "translation": "И назва Јааков (Јаков) ⟨את⟩ име места у којем говори Елохим ⟨את⟩ ⟨са њим⟩ тамо: Бет Ел.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "и назва"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Јааков"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "име"
+    },
+    {
+      "surface": "שם",
+      "gloss": "име"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "места"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "у којем"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говори"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ ⟨са њим⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тамо"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    }
+  ],
+  "timestamp": "2026-09-05T16:32:53.180981403Z",
+  "model": "glm-5.3"
+}

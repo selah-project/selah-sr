@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 35:12",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 35,
+  "translation": "Тамо вапију, а ⟨он⟩ не одговара, због охолости злих.",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "Тамо"
+    },
+    {
+      "surface": "יצעקו",
+      "gloss": "вапију"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "а не"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "⟨он⟩ одговара"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "због"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "охолости"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "злих"
+    }
+  ],
+  "timestamp": "2026-09-05T14:03:29.386408498Z",
+  "model": "glm-5.3"
+}

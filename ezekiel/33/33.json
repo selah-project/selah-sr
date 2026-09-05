@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "ezekiel 33:33",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 33,
+  "translation": "И кад дође ⟨то⟩ — ето, долази — тада ће знати да пророк би међу њима.",
+  "tokens": [
+    {
+      "surface": "ובבאה",
+      "gloss": "И кад дође ⟨то⟩"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ето"
+    },
+    {
+      "surface": "באה",
+      "gloss": "долази"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "тада ће знати"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "пророк"
+    },
+    {
+      "surface": "היה",
+      "gloss": "би"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "међу њима"
+    }
+  ],
+  "timestamp": "2026-09-05T12:52:19.357913994Z",
+  "model": "glm-5.3"
+}

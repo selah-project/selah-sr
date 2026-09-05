@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 13:14",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "За племе Нефталијево: Нахби, син Вофсијев.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "за племе"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Нефталијево"
+    },
+    {
+      "surface": "נחבי",
+      "gloss": "Нахби"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "ופסי",
+      "gloss": "Вофсијев"
+    }
+  ],
+  "timestamp": "2026-09-05T10:32:51.848944763Z",
+  "model": "glm-5.3"
+}

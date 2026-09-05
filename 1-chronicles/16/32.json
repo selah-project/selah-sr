@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 16:32",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 16,
+  "translation": "Нека загрми море и све што је у њему; нека кличе поље и све што је на њему.",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "нека загрми"
+    },
+    {
+      "surface": "הים",
+      "gloss": "море"
+    },
+    {
+      "surface": "ומלואו",
+      "gloss": "и пуноћа његова"
+    },
+    {
+      "surface": "יעלץ",
+      "gloss": "нека кличе"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "поље"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и све"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што ⟨је⟩"
+    },
+    {
+      "surface": "בו",
+      "gloss": "у њему"
+    }
+  ],
+  "timestamp": "2026-09-05T14:40:11.197691805Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 13:15",
+  "book": "1-kings",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "И рече му: „Ходи ⟨са мном⟩ ⟨у⟩ дом, и једи хлеб.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "му"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ходи"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "са мном"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "кући\/дом"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "и једи"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хлеб"
+    }
+  ],
+  "timestamp": "2026-09-05T11:44:17.296929330Z",
+  "model": "glm-5.3"
+}

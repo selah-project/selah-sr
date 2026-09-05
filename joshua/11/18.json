@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 11:18",
+  "book": "joshua",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "Дуги дане вођаше Јехошуа ⟨את⟩ све краљеве ове ⟨у⟩ рату.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "дани"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "дуги"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "вођаше"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Јехошуа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "све краљеве ове"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "краљеве"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ове"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "у рату"
+    }
+  ],
+  "timestamp": "2026-09-05T11:02:20.565494392Z",
+  "model": "glm-5.3"
+}

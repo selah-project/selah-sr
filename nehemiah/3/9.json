@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 3:9",
+  "book": "nehemiah",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "И поред њих утврди Рефаја (Рафаија) син Хуров, кнез пола округа Јерушалајим.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "и поред"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "њих"
+    },
+    {
+      "surface": "החזיק",
+      "gloss": "утврди"
+    },
+    {
+      "surface": "רפיה",
+      "gloss": "Рефаја"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "חור",
+      "gloss": "Хуров"
+    },
+    {
+      "surface": "שר",
+      "gloss": "кнез"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "пола"
+    },
+    {
+      "surface": "פלך",
+      "gloss": "округа"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Јерушалајим"
+    }
+  ],
+  "timestamp": "2026-09-05T14:28:48.595413558Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 33:28",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 33,
+  "translation": "И станова Израил безбедно сам; извор Јаковљев ⟨на⟩ земљи жита и вина; и небеса његова капљу росу.",
+  "tokens": [
+    {
+      "surface": "וישכן",
+      "gloss": "И станова"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израил"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "безбедно"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "сам"
+    },
+    {
+      "surface": "עין",
+      "gloss": "извор"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Јаковљев"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨на⟩"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земљи"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "жита"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "и вина"
+    },
+    {
+      "surface": "אף",
+      "gloss": "и"
+    },
+    {
+      "surface": "שמיו",
+      "gloss": "небеса његова"
+    },
+    {
+      "surface": "יערפו",
+      "gloss": "капљу"
+    },
+    {
+      "surface": "טל",
+      "gloss": "росу"
+    }
+  ],
+  "timestamp": "2026-09-05T10:56:00.276730474Z",
+  "model": "glm-5.3"
+}

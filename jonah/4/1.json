@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 4:1",
+  "book": "jonah",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "И би зло према Јони — зло велико, и разгневи се ⟨он⟩.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "и би зло"
+    },
+    {
+      "surface": "אל",
+      "gloss": "према"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Јони"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зло"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "велико"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "и разгневи се"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨он⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T15:50:41.709871623Z",
+  "model": "glm-5.3"
+}

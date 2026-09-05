@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 1:4",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "И виде Елохим ⟨את⟩ светло да ⟨је⟩ добро; и раздели Елохим између светла и између таме.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "И виде"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "светло"
+    },
+    {
+      "surface": "האור",
+      "gloss": "светло"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "и раздели"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "בין",
+      "gloss": "између"
+    },
+    {
+      "surface": "האור",
+      "gloss": "светла"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "и између"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "таме"
+    }
+  ],
+  "timestamp": "2026-09-05T17:31:54.446277428Z",
+  "model": "glm-5.3"
+}

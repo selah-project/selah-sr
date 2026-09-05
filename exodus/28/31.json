@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 28:31",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "И начинићеш ⟨את⟩ огртач ефода, сав од плавог порфира.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "И начинићеш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "огртач"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "огртач"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "ефода"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "сав"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "од плавог порфира"
+    }
+  ],
+  "timestamp": "2026-09-05T10:10:46.984467124Z",
+  "model": "glm-5.3"
+}

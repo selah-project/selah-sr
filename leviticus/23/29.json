@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 23:29",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "Јер свака душа која се не понизи баш тога дана, биће истребљена из народа свог.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "כל",
+      "gloss": "свака"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "душа"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "која"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "понизи (себе)"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "баш"
+    },
+    {
+      "surface": "היום",
+      "gloss": "дана"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "тога"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "биће истребљена"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "из народа свог"
+    }
+  ],
+  "timestamp": "2026-09-05T10:25:39.443274598Z",
+  "model": "glm-5.3"
+}

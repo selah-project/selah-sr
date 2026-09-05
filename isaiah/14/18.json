@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 14:18",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "Сви краљеви народа, сви они, леже у слави, сваки у дому своме.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "сви"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "краљеви"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "народâ"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "сви они"
+    },
+    {
+      "surface": "שכבו",
+      "gloss": "леже"
+    },
+    {
+      "surface": "בכבוד",
+      "gloss": "у слави"
+    },
+    {
+      "surface": "איש",
+      "gloss": "сваки"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "у дому своме"
+    }
+  ],
+  "timestamp": "2026-09-05T12:04:31.882979351Z",
+  "model": "glm-5.3"
+}

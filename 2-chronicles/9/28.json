@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-chronicles 9:28",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "И вођаху коње из Мицрајима за Шломоа, и из свих земаља.",
+  "tokens": [
+    {
+      "surface": "ומוציאים",
+      "gloss": "и вођаху"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "коње"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "из Мицрајима"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "за Шломоа"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "и из свих"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "земама"
+    }
+  ],
+  "timestamp": "2026-09-05T16:16:29.201322962Z",
+  "model": "glm-5.3"
+}

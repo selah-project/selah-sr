@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 15:12",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 15,
+  "translation": "Не љуби подсмевач да га неко кори; к мудрима неће ићи.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "љуби"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "подсмевач"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "да га неко кори"
+    },
+    {
+      "surface": "לו",
+      "gloss": "га"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "мудрима"
+    },
+    {
+      "surface": "לא",
+      "gloss": "неће"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ићи"
+    }
+  ],
+  "timestamp": "2026-09-05T13:49:25.036126846Z",
+  "model": "glm-5.3"
+}

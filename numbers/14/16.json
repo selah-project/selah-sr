@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 14:16",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "Јахве не моће да уведе ⟨את⟩ народ овај у земљу за коју им се заклео, те их покла у пустињи.",
+  "tokens": [
+    {
+      "surface": "מבלתי",
+      "gloss": "не"
+    },
+    {
+      "surface": "יכלת",
+      "gloss": "моће"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "להביא",
+      "gloss": "да уведе"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "народ овај"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овај"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земљу"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "за коју"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "им се заклео"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "וישחטם",
+      "gloss": "те их покла"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "у пустињи"
+    }
+  ],
+  "timestamp": "2026-09-05T10:33:35.140832108Z",
+  "model": "glm-5.3"
+}

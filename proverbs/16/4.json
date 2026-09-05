@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 16:4",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 16,
+  "translation": "Све учини Јахве ради сврхе своје, и злико за дан несреће.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Све"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "учини"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "למענהו",
+      "gloss": "ради сврхе своје"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "и"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "злико"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "за дан"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "несреће"
+    }
+  ],
+  "timestamp": "2026-09-05T13:49:48.111059414Z",
+  "model": "glm-5.3"
+}

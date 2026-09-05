@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 33:10",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 33,
+  "translation": "И кренуше из Елима, и разапеше шаторе на мору Суф.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "И кренуше"
+    },
+    {
+      "surface": "מאילם",
+      "gloss": "из Елима"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "и разапеше шаторе"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ים",
+      "gloss": "мору"
+    },
+    {
+      "surface": "сוף",
+      "gloss": "Суф"
+    }
+  ],
+  "timestamp": "2026-09-05T10:42:07.663339684Z",
+  "model": "glm-5.3"
+}

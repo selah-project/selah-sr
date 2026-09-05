@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 9:14",
+  "book": "judges",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "Тада рекошe сва дрвећа купини: хајде ти, царуј над нама.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "и рекоше"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сва"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "дрвећа"
+    },
+    {
+      "surface": "אל",
+      "gloss": "купини"
+    },
+    {
+      "surface": "האטד",
+      "gloss": "купина"
+    },
+    {
+      "surface": "לך",
+      "gloss": "хајде"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царуј"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "над нама"
+    }
+  ],
+  "timestamp": "2026-09-05T11:09:00.684784603Z",
+  "model": "glm-5.3"
+}

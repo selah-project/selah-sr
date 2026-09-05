@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 7:21",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Не бој их се, јер је усред тебе Јахве, Елохим твој, Ел велики и страшан.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תערץ",
+      "gloss": "бој"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "их се"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Елохим твој"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "усред тебе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "велики"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "и страшан"
+    }
+  ],
+  "timestamp": "2026-09-05T15:12:08.502944967Z",
+  "model": "glm-5.3"
+}

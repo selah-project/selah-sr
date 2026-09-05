@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 139:8",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 139,
+  "translation": "Ако се попнем на небеса — тамо си ти; ако постелим постељу у Шеолу — ено те.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "אסק",
+      "gloss": "попнем се"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "небеса"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тамо"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "си ти"
+    },
+    {
+      "surface": "ואציעה",
+      "gloss": "и постелим"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шеол"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "ено те"
+    }
+  ],
+  "timestamp": "2026-09-05T13:43:42.311251809Z",
+  "model": "glm-5.3"
+}

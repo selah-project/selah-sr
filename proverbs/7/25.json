@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 7:25",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Не скрећи срце своје к њеним путевима, не лутај по стазама њеним.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישט",
+      "gloss": "скрећи"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "דרכיה",
+      "gloss": "њеним путевима"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "срце своје"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תתע",
+      "gloss": "лутај"
+    },
+    {
+      "surface": "בנתיבותיה",
+      "gloss": "по стазама њеним"
+    }
+  ],
+  "timestamp": "2026-09-05T13:47:28.920593578Z",
+  "model": "glm-5.3"
+}

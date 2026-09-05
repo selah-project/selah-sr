@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 5:12",
+  "book": "song-of-songs",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Очи му ⟨су⟩ као голубице поред потока воде, купане у млеку, седе на пуној чашици ⟨ока⟩.",
+  "tokens": [
+    {
+      "surface": "עינייו",
+      "gloss": "очи његове"
+    },
+    {
+      "surface": "כיונים",
+      "gloss": "као голубице"
+    },
+    {
+      "surface": "על",
+      "gloss": "поред"
+    },
+    {
+      "surface": "אפיקי",
+      "gloss": "потока"
+    },
+    {
+      "surface": "מים",
+      "gloss": "воде"
+    },
+    {
+      "surface": "רחצות",
+      "gloss": "купане"
+    },
+    {
+      "surface": "בחלב",
+      "gloss": "у млеку"
+    },
+    {
+      "surface": "ישבות",
+      "gloss": "седе"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "пуној чашици"
+    }
+  ],
+  "timestamp": "2026-09-05T14:06:10.717376397Z",
+  "model": "glm-5.3"
+}

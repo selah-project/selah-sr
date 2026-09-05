@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 6:6",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "Јер у смрти нема спомена твог; у Шеолу ко ће ти захвалити?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "במות",
+      "gloss": "у смрти"
+    },
+    {
+      "surface": "זכרך",
+      "gloss": "спомена твог"
+    },
+    {
+      "surface": "בשאול",
+      "gloss": "у Шеолу"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ко"
+    },
+    {
+      "surface": "יודה",
+      "gloss": "ће захвалити"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    }
+  ],
+  "timestamp": "2026-09-05T13:16:42.384959524Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 21:8",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "Преврнут је пут човека кривичнога, а чистога — право ⟨је⟩ дело његово.",
+  "tokens": [
+    {
+      "surface": "הפכפך",
+      "gloss": "преврнут"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "пут"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човека"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "кривичнога"
+    },
+    {
+      "surface": "וזך",
+      "gloss": "а чистога"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "право"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "дело његово"
+    }
+  ],
+  "timestamp": "2026-09-05T13:51:13.755534621Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 4:12",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "И Ештон роди ⟨את⟩ Бет Рафа, и ⟨את⟩ Пасеаха, и ⟨את⟩ Техину, оца Ир Нахаши; ово су људи Рекахини.",
+  "tokens": [
+    {
+      "surface": "ואשתון",
+      "gloss": "И Ештон"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Бет Рафа"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "Рафа"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Пасеаха"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Пасеаха"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Техину"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "Техину"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "оца"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Ир"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Нахаши"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ово"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "људи"
+    },
+    {
+      "surface": "רכה",
+      "gloss": "Рекахини"
+    }
+  ],
+  "timestamp": "2026-09-05T14:35:50.629312876Z",
+  "model": "glm-5.3"
+}

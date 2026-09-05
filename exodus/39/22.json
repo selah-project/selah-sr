@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 39:22",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 39,
+  "translation": "И начини ⟨את⟩ огртач ефода, дело ткачево, сав од текелета.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "И начини"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "огртач ефода"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "огртач"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ефода"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "дело"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "ткачево"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "сав"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "од текелета"
+    }
+  ],
+  "timestamp": "2026-09-05T15:05:35.228214861Z",
+  "model": "glm-5.3"
+}

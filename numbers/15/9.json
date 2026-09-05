@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 15:9",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 15,
+  "translation": "И принесе уз сина стада принос од брашна, три десетине, помешано са уљем, пола хина.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "и принесе"
+    },
+    {
+      "surface": "על",
+      "gloss": "уз"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "стада"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "принос"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "од брашна"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "три"
+    },
+    {
+      "surface": "עשרנים",
+      "gloss": "десятине"
+    },
+    {
+      "surface": "בלול",
+      "gloss": "помешано"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "са уљем"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "пола"
+    },
+    {
+      "surface": "ההין",
+      "gloss": "хина"
+    }
+  ],
+  "timestamp": "2026-09-05T10:34:35.533398734Z",
+  "model": "glm-5.3"
+}

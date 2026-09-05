@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 3:4",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Тако ћеш наћи милост и добар успех у очима Елохима и човека.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "тако ћеш наћи"
+    },
+    {
+      "surface": "חן",
+      "gloss": "милост"
+    },
+    {
+      "surface": "ושכל",
+      "gloss": "и успех"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добар"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "у очима"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохима"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "и човека"
+    }
+  ],
+  "timestamp": "2026-09-05T13:46:19.000591650Z",
+  "model": "glm-5.3"
+}

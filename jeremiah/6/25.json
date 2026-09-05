@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 6:25",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "Не излази у поље и путем не иди, јер мач ⟨је⟩ непријатељев — страхосан ⟨је⟩ на све стране.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תצאי",
+      "gloss": "излази"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "у поље"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "и путем"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "иди"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "мач"
+    },
+    {
+      "surface": "לאיב",
+      "gloss": "непријатељев"
+    },
+    {
+      "surface": "מגור",
+      "gloss": "страхосан"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "на све стране"
+    }
+  ],
+  "timestamp": "2026-09-05T15:39:09.675246236Z",
+  "model": "glm-5.3"
+}

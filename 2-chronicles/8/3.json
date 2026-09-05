@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 8:3",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "И пође Шеломо у Хамат Цову, и учврсти се над њом.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "И пође"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Хамат"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Цова"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "и учврсти се"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "над њом"
+    }
+  ],
+  "timestamp": "2026-09-05T14:47:18.506987103Z",
+  "model": "glm-5.3"
+}

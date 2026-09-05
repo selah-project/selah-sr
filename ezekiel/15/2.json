@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 15:2",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 15,
+  "translation": "Сине човечји, шта ⟨је⟩ дрво лозе више од сваког дрвета, лозница која беше међу дрвећем шуме?",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Сине"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човечји"
+    },
+    {
+      "surface": "מה",
+      "gloss": "шта"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨је⟩"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "дрво"
+    },
+    {
+      "surface": "הגפן",
+      "gloss": "лозе"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "од сваког"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "дрвета"
+    },
+    {
+      "surface": "הזמורה",
+      "gloss": "лозница"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "која"
+    },
+    {
+      "surface": "היה",
+      "gloss": "беше"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "међу дрвећем"
+    },
+    {
+      "surface": "היער",
+      "gloss": "шуме"
+    }
+  ],
+  "timestamp": "2026-09-05T12:46:14.313258639Z",
+  "model": "glm-5.3"
+}

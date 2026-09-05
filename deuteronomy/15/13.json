@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 15:13",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 15,
+  "translation": "И кад га пустиш слободна од себе, не смијеш га… не пошаљеш га празна:",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "и кад"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "пустиш га"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "слободна"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "од себе"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "пошаљеш га"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "празна"
+    }
+  ],
+  "timestamp": "2026-09-05T10:48:46.449531569Z",
+  "model": "glm-5.3"
+}

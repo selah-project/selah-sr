@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 31:15",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 31,
+  "translation": "И јави се Јахве у шатору, у ступу облака; и стаде ступ облака на вратима шатора.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "И јави се"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "у шатору"
+    },
+    {
+      "surface": "בעמוד",
+      "gloss": "у ступу"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "облака"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "и стаде"
+    },
+    {
+      "surface": "עמוד",
+      "gloss": "ступ"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "облака"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "вратима"
+    },
+    {
+      "surface": "האהל",
+      "gloss": "шатора"
+    }
+  ],
+  "timestamp": "2026-09-05T10:56:55.436009772Z",
+  "model": "glm-5.3"
+}

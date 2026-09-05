@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 7:36",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "У дан пети: кнез синова Шимонових, Шелумиел, син Цуришадајев.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "у дан"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "пети"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "кнез"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "синова"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Шимонових"
+    },
+    {
+      "surface": "שלמיאל",
+      "gloss": "Шелумиел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "צורישדי",
+      "gloss": "Цуришадајев"
+    }
+  ],
+  "timestamp": "2026-09-05T10:30:05.682860697Z",
+  "model": "glm-5.3"
+}

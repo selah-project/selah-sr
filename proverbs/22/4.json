@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 22:4",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "Плод понизности ⟨и⟩ страха Јахвевог: богатство и част и живот.",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "Плод"
+    },
+    {
+      "surface": "ענוה",
+      "gloss": "понизности"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "страх"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвевог"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "богатство"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "и част"
+    },
+    {
+      "surface": "וחיים",
+      "gloss": "и живот"
+    }
+  ],
+  "timestamp": "2026-09-05T13:51:31.596525624Z",
+  "model": "glm-5.3"
+}

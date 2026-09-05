@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 8:11",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "И исцелише ⟨את⟩ прелом кћери народа мога лако ⟨презриво⟩, говорећи: „мир, мир“ — а мира нема.",
+  "tokens": [
+    {
+      "surface": "וירפו",
+      "gloss": "и исцелише"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "прелом"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "прелом"
+    },
+    {
+      "surface": "בת",
+      "gloss": "кћери"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "народа мога"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "лако"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорећи"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мир"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мир"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "а нема"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мира"
+    }
+  ],
+  "timestamp": "2026-09-05T15:39:09.600117989Z",
+  "model": "glm-5.3"
+}

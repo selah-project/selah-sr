@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 16:5",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 16,
+  "translation": "Одвратност ⟨је⟩ Јахвеи свако узносито срце; рука уз руку — неће ⟨бити⟩ поштеђен.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "одвратност"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеи"
+    },
+    {
+      "surface": "כל",
+      "gloss": "свако"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "узносито"
+    },
+    {
+      "surface": "לב",
+      "gloss": "срце"
+    },
+    {
+      "surface": "יד",
+      "gloss": "рука"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "уз руку"
+    },
+    {
+      "surface": "לא",
+      "gloss": "неће"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "поштеђен"
+    }
+  ],
+  "timestamp": "2026-09-05T13:49:45.144826966Z",
+  "model": "glm-5.3"
+}

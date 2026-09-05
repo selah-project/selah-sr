@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 43:4",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 43,
+  "translation": "И слава Јахвеова уђе у дом путем капије чије је лице пут истока.",
+  "tokens": [
+    {
+      "surface": "וכבוד",
+      "gloss": "и слава"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "בא",
+      "gloss": "уђе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "путем"
+    },
+    {
+      "surface": "שער",
+      "gloss": "капије"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "чије"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "лице њено"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "пут"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "истока"
+    }
+  ],
+  "timestamp": "2026-09-05T12:57:38.084396981Z",
+  "model": "glm-5.3"
+}

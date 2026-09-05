@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 5:10",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Кожа наша као пећ ужарена ⟨је⟩ због ватара глади.",
+  "tokens": [
+    {
+      "surface": "עורנו",
+      "gloss": "кожа наша"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "као пећ"
+    },
+    {
+      "surface": "נכמרו",
+      "gloss": "ужарена"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "због"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "ватара"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "глади"
+    }
+  ],
+  "timestamp": "2026-09-05T14:10:49.640475858Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "deuteronomy 28:41",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "Синове и кћери родићеш, али неће бити твоји, јер ће у ропство отићи.",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "синове"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "и кћери"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "родићеш"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "али не"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "неће бити"
+    },
+    {
+      "surface": "לך",
+      "gloss": "твоји"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "отаћи"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "у ропство"
+    }
+  ],
+  "timestamp": "2026-09-05T10:53:58.563294238Z",
+  "model": "glm-5.3"
+}

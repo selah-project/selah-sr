@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 1:12",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "И свак према страни лица свога иђаше; куда би Дух да иде, иђаху; не окретаху се у свом ходу.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "и свак"
+    },
+    {
+      "surface": "אל",
+      "gloss": "према"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "страни"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "лица свога"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "иђаше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "куда"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "којим"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "би"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "тамо"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "Дух"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "да иде"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "иђаху"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יסבו",
+      "gloss": "окретаху се"
+    },
+    {
+      "surface": "בלכתן",
+      "gloss": "у свом ходу"
+    }
+  ],
+  "timestamp": "2026-09-05T12:40:51.597904643Z",
+  "model": "glm-5.3"
+}

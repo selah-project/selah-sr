@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 3:13",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Срећан човек што нађе мудрост, и човек што стекне разумевање.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Срећан"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човек"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "нађе"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мудрост"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "и човек"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "стекне"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "разумевање"
+    }
+  ],
+  "timestamp": "2026-09-05T13:46:03.813733244Z",
+  "model": "glm-5.3"
+}

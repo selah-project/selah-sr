@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 20:4",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 20,
+  "translation": "Зар ово не знаш од давнина, од како је човек постављен на земљу?",
+  "tokens": [
+    {
+      "surface": "הזאת",
+      "gloss": "Зар ово"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "не знаш"
+    },
+    {
+      "surface": "מני",
+      "gloss": "од"
+    },
+    {
+      "surface": "עד",
+      "gloss": "давнина"
+    },
+    {
+      "surface": "מני",
+      "gloss": "од како"
+    },
+    {
+      "surface": "שים",
+      "gloss": "постављен"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човек"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "на"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земљу"
+    }
+  ],
+  "timestamp": "2026-09-05T14:00:16.106595424Z",
+  "model": "glm-5.3"
+}

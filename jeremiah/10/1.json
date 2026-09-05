@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 10:1",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "Чујте ⟨את⟩ реч коју рече Јахве на вас, доме Израиљев.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Чујте"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "реч"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "реч"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "коју"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "на вас"
+    },
+    {
+      "surface": "בית",
+      "gloss": "доме"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљев"
+    }
+  ],
+  "timestamp": "2026-09-05T12:25:00.269766143Z",
+  "model": "glm-5.3"
+}

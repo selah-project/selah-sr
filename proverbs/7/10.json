@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 7:10",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "И гле, жена ⟨изиђе⟩ у сусрет њему, у одевштини блуднице и чувара срца.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "И гле"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "жена"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "у сусрет њему"
+    },
+    {
+      "surface": "שית",
+      "gloss": "у одевштини"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "блуднице"
+    },
+    {
+      "surface": "ונצרת",
+      "gloss": "и чувара"
+    },
+    {
+      "surface": "לב",
+      "gloss": "срца"
+    }
+  ],
+  "timestamp": "2026-09-05T13:47:14.876481217Z",
+  "model": "glm-5.3"
+}

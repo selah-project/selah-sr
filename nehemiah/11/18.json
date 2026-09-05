@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 11:18",
+  "book": "nehemiah",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "Сви Левити у светом граду: двеста осамдесет и четири.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Сви"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Левити"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "у"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "светом граду"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "двеста"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "осамдесет"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "и четири"
+    }
+  ],
+  "timestamp": "2026-09-05T14:32:59.472586289Z",
+  "model": "glm-5.3"
+}

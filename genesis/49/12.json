@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 49:12",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 49,
+  "translation": "Тамне су очи од вина, а беле зуби од млека.",
+  "tokens": [
+    {
+      "surface": "חכלילי",
+      "gloss": "Тамне"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "очи"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "од вина"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "а беле"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "зуби"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "од млека"
+    }
+  ],
+  "timestamp": "2026-09-05T09:58:30.490500257Z",
+  "model": "glm-5.3"
+}

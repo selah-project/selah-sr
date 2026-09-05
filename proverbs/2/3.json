@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 2:3",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "јер ако зовеш разум и за проницљивост глас свој подижеш,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "разум"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "зовеш"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "за проницљивост"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "подижеш"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "глас свој"
+    }
+  ],
+  "timestamp": "2026-09-05T13:46:48.411606314Z",
+  "model": "glm-5.3"
+}

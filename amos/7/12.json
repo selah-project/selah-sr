@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 7:12",
+  "book": "amos",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "И рече Амацја Амосу: видовито, иди, бежи себи у земљу Јудину, и једи тамо хлеб, и тамо прорекуј.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "Амацја"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Амосу"
+    },
+    {
+      "surface": "עמוס",
+      "gloss": "—"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "видовито"
+    },
+    {
+      "surface": "לך",
+      "gloss": "иди"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "бежи"
+    },
+    {
+      "surface": "לך",
+      "gloss": "себи"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земљу"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јудину"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "и једи"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тамо"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хлеб"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "и тамо"
+    },
+    {
+      "surface": "תנבא",
+      "gloss": "прорекуј"
+    }
+  ],
+  "timestamp": "2026-09-05T13:06:16.292101857Z",
+  "model": "glm-5.3"
+}

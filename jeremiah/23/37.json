@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "jeremiah 23:37",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "Тако ћеш рећи пророку: Шта ти одговори Јахве, и шта рече Јахве?",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Тако"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ћеш рећи"
+    },
+    {
+      "surface": "אל",
+      "gloss": "пророку"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "пророку"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Шта"
+    },
+    {
+      "surface": "ענך",
+      "gloss": "ти одговори"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "и шта"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-09-05T15:40:42.644334758Z",
+  "model": "glm-5.3"
+}

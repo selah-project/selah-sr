@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 28:22",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "И у време стиске своје додаде да чини неверство против Јахвеа — он, цар Ахаз.",
+  "tokens": [
+    {
+      "surface": "ובעת",
+      "gloss": "И у време"
+    },
+    {
+      "surface": "הצר",
+      "gloss": "стиске"
+    },
+    {
+      "surface": "לו",
+      "gloss": "своје"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "додаде"
+    },
+    {
+      "surface": "למעול",
+      "gloss": "да чини неверство"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "против Јахвеа"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ахаз"
+    }
+  ],
+  "timestamp": "2026-09-05T14:53:24.278134768Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 26:24",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 26,
+  "translation": "Уснама својим таји мрзилац, и у срцу своме смеше превару.",
+  "tokens": [
+    {
+      "surface": "בשפתו",
+      "gloss": "уснама својим"
+    },
+    {
+      "surface": "ינכר",
+      "gloss": "таји"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "мрзилац"
+    },
+    {
+      "surface": "ובקרבו",
+      "gloss": "и у срцу своме"
+    },
+    {
+      "surface": "ישית",
+      "gloss": "смеше"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "превару"
+    }
+  ],
+  "timestamp": "2026-09-05T13:52:42.175078740Z",
+  "model": "glm-5.3"
+}

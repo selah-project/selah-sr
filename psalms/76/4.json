@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 76:4",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 76,
+  "translation": "Онде сломи стрелске муње лука, штит, и мач, и рат. Села.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "онде"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "сломи"
+    },
+    {
+      "surface": "רשפי",
+      "gloss": "муње"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "лука"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "штит"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "и мач"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "и рат"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Села"
+    }
+  ],
+  "timestamp": "2026-09-05T13:31:19.682409065Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 80:13",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 80,
+  "translation": "Зашто поруши ограде њезине, те је оберу сви пролазници пута?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Зашто"
+    },
+    {
+      "surface": "פרצת",
+      "gloss": "поруши"
+    },
+    {
+      "surface": "גדריה",
+      "gloss": "ограде њезине"
+    },
+    {
+      "surface": "וארוה",
+      "gloss": "те је оберу"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сви"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "пролазници"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "пута"
+    }
+  ],
+  "timestamp": "2026-09-05T13:33:09.000788216Z",
+  "model": "glm-5.3"
+}

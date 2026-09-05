@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 11:12",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "Све што нема пераја и крљушти у водама — гадост је то вама.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟚ему⟩"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "пераја"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "и крљушти"
+    },
+    {
+      "surface": "במים",
+      "gloss": "у водама"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "гадост"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "то ⟨је⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вама"
+    }
+  ],
+  "timestamp": "2026-09-05T15:07:04.926832656Z",
+  "model": "glm-5.3"
+}

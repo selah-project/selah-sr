@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 18:14",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "Све што ⟨је⟩ забрањено-предато у Израиљу твоје ће бити.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "забрањено-предато"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "у Израиљу"
+    },
+    {
+      "surface": "לך",
+      "gloss": "твоје"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ће бити"
+    }
+  ],
+  "timestamp": "2026-09-05T15:10:10.921632131Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 21:14",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "Сине човечји, проричи и реци: овако рече Адонај: реци: мач, мач, наоштрен ⟨је⟩ и још углачан.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Сине"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човечји"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "проричи"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "и реци"
+    },
+    {
+      "surface": "כה",
+      "gloss": "овако"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "реци"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "мач"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "мач"
+    },
+    {
+      "surface": "הוחדה",
+      "gloss": "наоштрен"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "и још"
+    },
+    {
+      "surface": "מרוטה",
+      "gloss": "углачан"
+    }
+  ],
+  "timestamp": "2026-09-05T15:45:25.819522656Z",
+  "model": "glm-5.3"
+}

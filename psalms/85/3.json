@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 85:3",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 85,
+  "translation": "Носи ⟨си⟩ безакоње народа својега, покри ⟨си⟩ сав грех њихов. Села.",
+  "tokens": [
+    {
+      "surface": "נשאת",
+      "gloss": "носи си"
+    },
+    {
+      "surface": "עון",
+      "gloss": "безакоње"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "народ својега"
+    },
+    {
+      "surface": "כסית",
+      "gloss": "покри си"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сав"
+    },
+    {
+      "surface": "חטאתם",
+      "gloss": "грех њихов"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Села"
+    }
+  ],
+  "timestamp": "2026-09-05T15:56:28.834195111Z",
+  "model": "glm-5.3"
+}

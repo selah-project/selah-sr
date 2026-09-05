@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 106:36",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 106,
+  "translation": "и служише ⟨את⟩ идоле њихове, те посташе им замка.",
+  "tokens": [
+    {
+      "surface": "ויעבדו",
+      "gloss": "и служише"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "идоле њихове"
+    },
+    {
+      "surface": "עצביהם",
+      "gloss": "идоле њихове"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "те посташе"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "למוקש",
+      "gloss": "замка"
+    }
+  ],
+  "timestamp": "2026-09-05T13:37:43.213424732Z",
+  "model": "glm-5.3"
+}

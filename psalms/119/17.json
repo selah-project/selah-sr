@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 119:17",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 119,
+  "translation": "Учини добро слуги своме да живим и да чувам реч Твоју.",
+  "tokens": [
+    {
+      "surface": "גמל",
+      "gloss": "Учини добро"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨за⟩"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "слуги своме"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "да живим"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "и да чувам"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "реч Твоју"
+    }
+  ],
+  "timestamp": "2026-09-05T13:40:06.405246139Z",
+  "model": "glm-5.3"
+}

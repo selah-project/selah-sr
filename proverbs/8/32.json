@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 8:32",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "„А сад, синови, чујте мене: блажени који стражаре путевима мојим!",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "а сад"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "синови"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "чујте"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мене"
+    },
+    {
+      "surface": "ואשרי",
+      "gloss": "блажени"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "путевима мојим"
+    },
+    {
+      "surface": "ישמרו",
+      "gloss": "који стражаре"
+    }
+  ],
+  "timestamp": "2026-09-05T13:47:56.929227319Z",
+  "model": "glm-5.3"
+}

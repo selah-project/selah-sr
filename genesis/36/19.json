@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 36:19",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 36,
+  "translation": "Ово су синови Исава (Исава), и ово су кнезови њихови; то ⟨је⟩ Едом.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ово"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Исава"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "и ово"
+    },
+    {
+      "surface": "אלופיהם",
+      "gloss": "кнезови њихови"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "то"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Едом"
+    }
+  ],
+  "timestamp": "2026-09-05T09:52:30.778189357Z",
+  "model": "glm-5.3"
+}

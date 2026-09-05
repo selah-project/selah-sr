@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 12:13",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "Јоханан (Јована) осми, Елзавад девети;",
+  "tokens": [
+    {
+      "surface": "יוחנן",
+      "gloss": "Јоханан"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "осми"
+    },
+    {
+      "surface": "אלזבד",
+      "gloss": "Елзавад"
+    },
+    {
+      "surface": "התשיעי",
+      "gloss": "девети"
+    }
+  ],
+  "timestamp": "2026-09-05T14:39:24.565912371Z",
+  "model": "glm-5.3"
+}

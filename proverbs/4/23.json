@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 4:23",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "Изнад сваког чувања чувај срце своје, јер из њега ⟨су⟩ извори живота.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "изнад сваког"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "чувања"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "чувај"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "срце своје"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "из њега"
+    },
+    {
+      "surface": "תוצאות",
+      "gloss": "извори"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "живота"
+    }
+  ],
+  "timestamp": "2026-09-05T13:45:56.772592051Z",
+  "model": "glm-5.3"
+}

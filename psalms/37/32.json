@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 37:32",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 37,
+  "translation": "Зликовац вреба праведника и тражи да га убије.",
+  "tokens": [
+    {
+      "surface": "צופה",
+      "gloss": "вреба"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "зликовац"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "праведника"
+    },
+    {
+      "surface": "ומבקש",
+      "gloss": "и тражи"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "да га убије"
+    }
+  ],
+  "timestamp": "2026-09-05T13:24:36.435393637Z",
+  "model": "glm-5.3"
+}

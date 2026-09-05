@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 32:22",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 32,
+  "translation": "Јер букну огње у гневу мом, и гори до Шеола најдубег, и прождире земљу и род њен, и лиже темеље планина.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "אש",
+      "gloss": "огње"
+    },
+    {
+      "surface": "קדחה",
+      "gloss": "букну"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "у гневу мом"
+    },
+    {
+      "surface": "ותיקד",
+      "gloss": "и гори"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шеола"
+    },
+    {
+      "surface": "תחתית",
+      "gloss": "најдубег"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "и прождире"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земљу"
+    },
+    {
+      "surface": "ויבלה",
+      "gloss": "и род њен"
+    },
+    {
+      "surface": "ותלהט",
+      "gloss": "и лиже"
+    },
+    {
+      "surface": "מוסדי",
+      "gloss": "темеље"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "планина"
+    }
+  ],
+  "timestamp": "2026-09-05T10:55:49.190912317Z",
+  "model": "glm-5.3"
+}

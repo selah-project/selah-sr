@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 21:13",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "И он жену у девичанству њеном да узме.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "и он"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "жену"
+    },
+    {
+      "surface": "בבתוליה",
+      "gloss": "у девичанству њеном"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "да узме"
+    }
+  ],
+  "timestamp": "2026-09-05T10:23:20.422736203Z",
+  "model": "glm-5.3"
+}

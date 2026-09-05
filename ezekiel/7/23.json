@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 7:23",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Начини ланац, јер земља пуна ⟨је⟩ судâ крви, и град пун ⟨је⟩ насиља.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "начини"
+    },
+    {
+      "surface": "הרתוק",
+      "gloss": "ланац"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земља"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "пуна"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "судова"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "крви"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "и град"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "пуна"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "насиља"
+    }
+  ],
+  "timestamp": "2026-09-05T12:42:54.658930305Z",
+  "model": "glm-5.3"
+}

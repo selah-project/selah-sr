@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 77:15",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 77,
+  "translation": "Ти ⟨си⟩ Ел што чиниш чуда; објавио си народима силу своју.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "האל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "чиниш"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "чуда"
+    },
+    {
+      "surface": "הודעת",
+      "gloss": "објавио си"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "народима"
+    },
+    {
+      "surface": "עזך",
+      "gloss": "силу своју"
+    }
+  ],
+  "timestamp": "2026-09-05T13:31:26.084998680Z",
+  "model": "glm-5.3"
+}

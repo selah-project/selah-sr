@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 2:20",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "земља Рефаима и она се броји ⟨за⟩ ⟨земљу Рефаима⟩; Рефаими становаше у њој пре, а Амонци зову њих Замзумими.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "земља"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "Рефаима"
+    },
+    {
+      "surface": "תחשב",
+      "gloss": "броји се"
+    },
+    {
+      "surface": "אף",
+      "gloss": "и"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "она"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "Рефаими"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "становаше"
+    },
+    {
+      "surface": "בה",
+      "gloss": "у њој"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "пре"
+    },
+    {
+      "surface": "והעמנים",
+      "gloss": "а Амонци"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "зову"
+    },
+    {
+      "surface": "להם",
+      "gloss": "њих"
+    },
+    {
+      "surface": "זמזמים",
+      "gloss": "Замзумими"
+    }
+  ],
+  "timestamp": "2026-09-05T10:43:38.770157415Z",
+  "model": "glm-5.3"
+}

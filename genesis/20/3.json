@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 20:3",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 20,
+  "translation": "И дође Елохим Авимелеху у сану ноћном, и рече му: Ено, мртав си због жене коју си узео, а она ⟨је⟩ удата за мужа.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "и дође"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Авимелеху"
+    },
+    {
+      "surface": "בחלום",
+      "gloss": "у сану"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ноћном"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "ено"
+    },
+    {
+      "surface": "מת",
+      "gloss": "мртав"
+    },
+    {
+      "surface": "על",
+      "gloss": "због"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "жене"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "коју"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "си узео"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "а она"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "удата"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "за мужа"
+    }
+  ],
+  "timestamp": "2026-09-05T14:59:13.968398669Z",
+  "model": "glm-5.3"
+}

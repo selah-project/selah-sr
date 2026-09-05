@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 25:8",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 25,
+  "translation": "И нека ми начине светилиште, и становаћу усред њих.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "и нека начине"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "светилиште"
+    },
+    {
+      "surface": "ושכנתי",
+      "gloss": "и становаћу"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "усред њих"
+    }
+  ],
+  "timestamp": "2026-09-05T10:08:40.401247760Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 9:9",
+  "book": "nehemiah",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "И видe невољу отаца наших у Мицрајиму (Египту), и врисак њихов чу на мору Суф.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "и виде"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "невољу"
+    },
+    {
+      "surface": "עני",
+      "gloss": "невољу"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "отаца наших"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "у Мицрајиму"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "врисак њихов"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "врисак њихов"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "чу"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ים",
+      "gloss": "мору"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Суф"
+    }
+  ],
+  "timestamp": "2026-09-05T14:31:20.010107504Z",
+  "model": "glm-5.3"
+}

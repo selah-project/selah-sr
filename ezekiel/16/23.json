@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 16:23",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 16,
+  "translation": "И би после свега зла твога: ај, ај теби — реч Адонаја Јахвеа.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И би"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "после"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "зла твога"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "ај"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "ај"
+    },
+    {
+      "surface": "לך",
+      "gloss": "теби"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "реч"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонаја"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    }
+  ],
+  "timestamp": "2026-09-05T12:46:23.530686034Z",
+  "model": "glm-5.3"
+}

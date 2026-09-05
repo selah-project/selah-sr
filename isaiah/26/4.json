@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 26:4",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 26,
+  "translation": "Уздајте се у Јахве довека, јер у Јаху Јахве ⟨јесте⟩ стена вечна.",
+  "tokens": [
+    {
+      "surface": "בטחו",
+      "gloss": "уздајте се"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "у Јахвеу"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "довека"
+    },
+    {
+      "surface": "עד",
+      "gloss": "вечна"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "у Јаху"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "צור",
+      "gloss": "стена"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "вечна"
+    }
+  ],
+  "timestamp": "2026-09-05T12:07:44.864402590Z",
+  "model": "glm-5.3"
+}

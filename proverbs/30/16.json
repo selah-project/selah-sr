@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 30:16",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 30,
+  "translation": "Шеол, и затворена утроба, земља која се не насити водом, и ватра која не рече: ⟨Доста⟩.",
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "Шеол"
+    },
+    {
+      "surface": "ועצר",
+      "gloss": "и затворена"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "утроба"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земља"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "насити се"
+    },
+    {
+      "surface": "מים",
+      "gloss": "водом"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "и ватра"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "рече"
+    },
+    {
+      "surface": "הון",
+      "gloss": "Доста"
+    }
+  ],
+  "timestamp": "2026-09-05T17:44:01.904076772Z",
+  "model": "glm-5.3"
+}

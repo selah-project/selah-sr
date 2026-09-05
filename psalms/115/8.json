@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 115:8",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 115,
+  "translation": "Као они биће меслари њихови, сваки који се узда у њих.",
+  "tokens": [
+    {
+      "surface": "כמוהם",
+      "gloss": "као они"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "биће"
+    },
+    {
+      "surface": "עשיהם",
+      "gloss": "меслари њихови"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сваки"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "узда се"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "у њих"
+    }
+  ],
+  "timestamp": "2026-09-05T16:49:33.455940207Z",
+  "model": "glm-5.3"
+}

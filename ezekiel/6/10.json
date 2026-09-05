@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 6:10",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "И знаће да сам ја Јахве: не ⟨ништа⟩ узалуд говорих да им учиним ово зло.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "и знаће"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨ништа⟩"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "узалуд"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "говорих"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "да учиним"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "зло"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ово"
+    }
+  ],
+  "timestamp": "2026-09-05T12:43:06.235514894Z",
+  "model": "glm-5.3"
+}

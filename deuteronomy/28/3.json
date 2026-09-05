@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "Благословљен ти ⟨јеси⟩ у граду, и благословљен ти ⟨јеси⟩ у пољу.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Благословљен"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "у граду"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "и благословљен"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "у пољу"
+    }
+  ],
+  "timestamp": "2026-09-05T15:15:14.633592912Z",
+  "model": "glm-5.3"
+}

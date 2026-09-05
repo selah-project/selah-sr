@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 9:11",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "Ено, прође мимо мене па не видим, и промакне па не спознам ⟨га⟩.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Ено"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "прође"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "мимо мене"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "па не"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "видим"
+    },
+    {
+      "surface": "ויחלף",
+      "gloss": "и промакне"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "па не"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "спознам"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨га⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T13:56:04.194990803Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 3:2",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "трећи Авшалом, син Маахе, кћери Талмаја, краља Гешура; четврти Адонија, син Хагитин;",
+  "tokens": [
+    {
+      "surface": "השלשי",
+      "gloss": "трећи"
+    },
+    {
+      "surface": "לאבשלום",
+      "gloss": "Авшалом"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Маахе"
+    },
+    {
+      "surface": "בת",
+      "gloss": "кћери"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "Талмаја"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "краља"
+    },
+    {
+      "surface": "גשור",
+      "gloss": "Гешура"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "четврти"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "Адонија"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "חגית",
+      "gloss": "Хагитин"
+    }
+  ],
+  "timestamp": "2026-09-05T14:35:05.158031392Z",
+  "model": "glm-5.3"
+}

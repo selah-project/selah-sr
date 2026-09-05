@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 35:6",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 35,
+  "translation": "И дође Јааков у Луц, који је у земљи Кенаан — то јест Беит Ел — он и сав народ који беше с њим.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "И дође"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Јааков"
+    },
+    {
+      "surface": "לוזה",
+      "gloss": "у Луц"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који је"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "у земљи"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Кенаан"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "то јест"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Беит"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и сав"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "с њим"
+    }
+  ],
+  "timestamp": "2026-09-05T09:52:54.863856958Z",
+  "model": "glm-5.3"
+}

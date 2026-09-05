@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 29:15",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 29,
+  "translation": "Очи беху ⟨сам⟩ слепоме, а ноге хромоме — ја.",
+  "tokens": [
+    {
+      "surface": "עינים",
+      "gloss": "очи"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "беху"
+    },
+    {
+      "surface": "לעור",
+      "gloss": "слепоме"
+    },
+    {
+      "surface": "ורגלים",
+      "gloss": "а ноге"
+    },
+    {
+      "surface": "לפסח",
+      "gloss": "хромоме"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    }
+  ],
+  "timestamp": "2026-09-05T16:05:46.397668817Z",
+  "model": "glm-5.3"
+}

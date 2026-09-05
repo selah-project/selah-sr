@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 34:6",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 34,
+  "translation": "Изиђе Хамор, отац Шехемов (Сихемов), к Јаакову да говори ⟨את⟩ са њим.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "Изиђе"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Хамор"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "отац"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Шехемов"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Јаакову"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "да говори"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ са њим"
+    }
+  ],
+  "timestamp": "2026-09-05T09:52:43.048234130Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 41:23",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 41,
+  "translation": "И две двери ⟨беше⟩ храму и светињи.",
+  "tokens": [
+    {
+      "surface": "ושתים",
+      "gloss": "и две"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "двери"
+    },
+    {
+      "surface": "להיכל",
+      "gloss": "храму"
+    },
+    {
+      "surface": "ולקדש",
+      "gloss": "и светињи"
+    }
+  ],
+  "timestamp": "2026-09-05T12:56:29.916182475Z",
+  "model": "glm-5.3"
+}

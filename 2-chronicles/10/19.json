@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 10:19",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "И одметну се Израиљ од дома Давидовог до дана овога.",
+  "tokens": [
+    {
+      "surface": "ויפשעו",
+      "gloss": "И одметну се"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "од дома"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давидовог"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "היום",
+      "gloss": "дана"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овога"
+    }
+  ],
+  "timestamp": "2026-09-05T14:47:12.367257063Z",
+  "model": "glm-5.3"
+}

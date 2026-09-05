@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 9:21",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "Постави, Јахве, страх ⟨над⟩ њих — да знају народи: смртници ⟨су⟩ они. Села.",
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "Постави"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "страх"
+    },
+    {
+      "surface": "להם",
+      "gloss": "њих"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "да знају"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "народи"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "смртници"
+    },
+    {
+      "surface": "המה",
+      "gloss": "они"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Села"
+    }
+  ],
+  "timestamp": "2026-09-05T13:17:38.933547917Z",
+  "model": "glm-5.3"
+}

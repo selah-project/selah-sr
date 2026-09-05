@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezekiel 48:27",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 48,
+  "translation": "И уз границу Зевулунову, од стране источнох до стране морске, Гад ⟨један⟩ ⟨део⟩.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "И уз"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "границу"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Зевулунову"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "од стране"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "источнох"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "стране"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "морске"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гад"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "један"
+    }
+  ],
+  "timestamp": "2026-09-05T13:00:36.249854370Z",
+  "model": "glm-5.3"
+}

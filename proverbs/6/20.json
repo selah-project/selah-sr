@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 6:20",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "Чувај, сине мој, заповест оца свога, и не напуштај Тору матере своје,",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "чувај"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сине мој"
+    },
+    {
+      "surface": "мцвит од מצות",
+      "gloss": "заповест"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "оца свога"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תטש",
+      "gloss": "напуштај"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Тору"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "матере своје"
+    }
+  ],
+  "timestamp": "2026-09-05T13:47:05.357841816Z",
+  "model": "glm-5.3"
+}

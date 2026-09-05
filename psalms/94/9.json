@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 94,
+  "translation": "Који посади уво, зар неће чути? Који обликује око, зар неће погледати?",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "Који посади"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "уво"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "зар не"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ће чути"
+    },
+    {
+      "surface": "אם",
+      "gloss": "који (зар)"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "обликује"
+    },
+    {
+      "surface": "עין",
+      "gloss": "око"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "зар не"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "ће погледати"
+    }
+  ],
+  "timestamp": "2026-09-05T13:35:01.306917645Z",
+  "model": "glm-5.3"
+}

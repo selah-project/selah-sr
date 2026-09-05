@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 45:15",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 45,
+  "translation": "Заиста, ти си Ел који се скриваш, Елохиме Израиљев, Спаситељу.",
+  "tokens": [
+    {
+      "surface": "אכן",
+      "gloss": "Заиста"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "מסתתר",
+      "gloss": "који се скриваш"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохиме"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљев"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "Спаситељу"
+    }
+  ],
+  "timestamp": "2026-09-05T12:14:53.797615283Z",
+  "model": "glm-5.3"
+}

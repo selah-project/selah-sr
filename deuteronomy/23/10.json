@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 23:10",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "Кад изађе логор против непријатеља твојих, чуваћеш се од сваке ствари зле.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Кад"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "изађе"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "логор"
+    },
+    {
+      "surface": "על",
+      "gloss": "против"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "непријатеља твојих"
+    },
+    {
+      "surface": "ונשמרת",
+      "gloss": "чуваћеш се"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "од сваке"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ствари"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зле"
+    }
+  ],
+  "timestamp": "2026-09-05T10:52:33.801036998Z",
+  "model": "glm-5.3"
+}

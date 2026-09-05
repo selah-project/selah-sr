@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 7:26",
+  "book": "nehemiah",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Људи Витлеема и Нетофе: сто осамдесет и осам.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "Људи"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Вит"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "леема"
+    },
+    {
+      "surface": "ונטפה",
+      "gloss": "и Нетофе"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "осамдесет"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "и осам"
+    }
+  ],
+  "timestamp": "2026-09-05T14:30:45.536692628Z",
+  "model": "glm-5.3"
+}

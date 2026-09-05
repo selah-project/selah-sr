@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 29:3",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 29,
+  "translation": "Човек који љуби мудрост радује оца свог, а који чува блуднице расипа имање.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "љуби"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мудрост"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "радује"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "оца свог"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "а који чува"
+    },
+    {
+      "surface": "זונות",
+      "gloss": "блуднице"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "расипа"
+    },
+    {
+      "surface": "הון",
+      "gloss": "имaње"
+    }
+  ],
+  "timestamp": "2026-09-05T13:52:51.872745346Z",
+  "model": "glm-5.3"
+}

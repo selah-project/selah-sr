@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 82:5",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 82,
+  "translation": "Не знају и не разумевају; у тами ходе; поколебаће се сви темељи земље.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "знају"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "разумевају"
+    },
+    {
+      "surface": "בחשכה",
+      "gloss": "у тами"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "ходе"
+    },
+    {
+      "surface": "ימוטу",
+      "gloss": "поколебаће се"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сви"
+    },
+    {
+      "surface": "מוסדי",
+      "gloss": "темељи"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земље"
+    }
+  ],
+  "timestamp": "2026-09-05T13:32:58.501830170Z",
+  "model": "glm-5.3"
+}

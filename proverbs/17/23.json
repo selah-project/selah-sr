@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 17:23",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 17,
+  "translation": "Мито из недара узима безбожник да искриви путеве правде.",
+  "tokens": [
+    {
+      "surface": "שחד",
+      "gloss": "мито"
+    },
+    {
+      "surface": "מחיק",
+      "gloss": "из недара"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "безбожник"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "узима"
+    },
+    {
+      "surface": "להטות",
+      "gloss": "да искриви"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "путеве"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "правде"
+    }
+  ],
+  "timestamp": "2026-09-05T13:49:47.765291129Z",
+  "model": "glm-5.3"
+}

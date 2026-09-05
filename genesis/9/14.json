@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 9:14",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "И буде, кад навучем облак на земљу, и покаже се лук у облаку,",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "и буде"
+    },
+    {
+      "surface": "בענני",
+      "gloss": "кад навучем облак"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "облак"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земљу"
+    },
+    {
+      "surface": "ונראתה",
+      "gloss": "и покаже се"
+    },
+    {
+      "surface": "הקשת",
+      "gloss": "лук"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "у облаку"
+    }
+  ],
+  "timestamp": "2026-09-05T09:40:49.095363982Z",
+  "model": "glm-5.3"
+}

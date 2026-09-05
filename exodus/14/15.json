@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 14:15",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "И рече Јахве Мошеу (Мојсију): „Зашто вичеш к мени? Говори синовима Израиљевим да крену!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошеу"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Зашто"
+    },
+    {
+      "surface": "תצעק",
+      "gloss": "вичеш"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "к мени"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Говори"
+    },
+    {
+      "surface": "אל",
+      "gloss": "с"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовима"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљевим"
+    },
+    {
+      "surface": "ויסעו",
+      "gloss": "да крену"
+    }
+  ],
+  "timestamp": "2026-09-05T15:03:18.044734966Z",
+  "model": "glm-5.3"
+}

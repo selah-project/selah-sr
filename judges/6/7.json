@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 6:7",
+  "book": "judges",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "И би, кад завапише синови Израиљеви к Јахвеу због Мидјана,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И би"
+    },
+    {
+      "surface": "כי",
+      "gloss": "кад"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "завапише"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљеви"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеу"
+    },
+    {
+      "surface": "על",
+      "gloss": "због"
+    },
+    {
+      "surface": "אדות",
+      "gloss": "[због]"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Мидјана"
+    }
+  ],
+  "timestamp": "2026-09-05T11:07:42.068803519Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 4:13",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "И очистиће ⟨את⟩ жртвеник, и простру над њега пурпурну одору.",
+  "tokens": [
+    {
+      "surface": "ודשנו",
+      "gloss": "и очистиће"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жртвеник"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "жртвеник"
+    },
+    {
+      "surface": "ופרשו",
+      "gloss": "и простру"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "над њега"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "оду"
+    },
+    {
+      "surface": "ארגמן",
+      "gloss": "пурпурну"
+    }
+  ],
+  "timestamp": "2026-09-05T10:29:13.633805941Z",
+  "model": "glm-5.3"
+}

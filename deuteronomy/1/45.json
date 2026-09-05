@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 1:45",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "И вратисте се и плакасте пред Јахвеом, али не чу Јахве глас ваш, нити приклони ухо к вама.",
+  "tokens": [
+    {
+      "surface": "ותשבו",
+      "gloss": "И вратисте се"
+    },
+    {
+      "surface": "ותבכו",
+      "gloss": "и плакасте"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеом"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "али не"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "чу"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "בקלכם",
+      "gloss": "глас ваш"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "нити"
+    },
+    {
+      "surface": "האזין",
+      "gloss": "приклони ухо"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "к вама"
+    }
+  ],
+  "timestamp": "2026-09-05T10:43:04.224227567Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 27:24",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 27,
+  "translation": "Јоав, син Церујин, поче да броји али не доврши, и би због тога гнев на Израиљ, и не уђе број у запис дââва данâ цара Давида.",
+  "tokens": [
+    {
+      "surface": "יואב",
+      "gloss": "Јоав"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Церује"
+    },
+    {
+      "surface": "החל",
+      "gloss": "поче"
+    },
+    {
+      "surface": "למנות",
+      "gloss": "да броји"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "а не"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "доврши"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и би"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "због тога"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "гнев"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "уђе"
+    },
+    {
+      "surface": "המספר",
+      "gloss": "број"
+    },
+    {
+      "surface": "במספר",
+      "gloss": "у запис"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "дââва"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "данâ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "цара"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давида"
+    }
+  ],
+  "timestamp": "2026-09-05T14:43:45.201752025Z",
+  "model": "glm-5.3"
+}

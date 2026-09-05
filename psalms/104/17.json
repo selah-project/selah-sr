@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 104:17",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 104,
+  "translation": "где птице се гнезде; рода у чемпресима дом свој.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "где"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тамо"
+    },
+    {
+      "surface": "צפרים",
+      "gloss": "птице"
+    },
+    {
+      "surface": "יקננו",
+      "gloss": "се гнезде"
+    },
+    {
+      "surface": "חסידה",
+      "gloss": "рода"
+    },
+    {
+      "surface": "ברושים",
+      "gloss": "у чемпресима"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "дом свој"
+    }
+  ],
+  "timestamp": "2026-09-05T13:36:43.574270639Z",
+  "model": "glm-5.3"
+}

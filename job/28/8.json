@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 28:8",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "Не изгазише је синови охолости, не прође њоме лав.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "הדריכהו",
+      "gloss": "изгазише је"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "שחץ",
+      "gloss": "охолости"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "прође"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "њоме"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "лав"
+    }
+  ],
+  "timestamp": "2026-09-05T14:01:47.307666718Z",
+  "model": "glm-5.3"
+}

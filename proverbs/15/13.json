@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 15:13",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 15,
+  "translation": "Срце радосно чини добрим лице, а у жалости срца дух ⟨је⟩ покошен.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "срце"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "радосно"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "чини добрим"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "лице"
+    },
+    {
+      "surface": "ובעצבת",
+      "gloss": "а у жалости"
+    },
+    {
+      "surface": "לב",
+      "gloss": "срца"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "дух"
+    },
+    {
+      "surface": "נכאה",
+      "gloss": "покошен"
+    }
+  ],
+  "timestamp": "2026-09-05T13:49:28.301711838Z",
+  "model": "glm-5.3"
+}

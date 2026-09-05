@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 13:21",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "Грешнике гони зло, а праведницима узвраћа добро ⟨је⟩.",
+  "tokens": [
+    {
+      "surface": "חטאים",
+      "gloss": "Грешнике"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "гони"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зло"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "праведнике"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "праведницима"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "узвраћа"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    }
+  ],
+  "timestamp": "2026-09-05T13:48:44.570392760Z",
+  "model": "glm-5.3"
+}

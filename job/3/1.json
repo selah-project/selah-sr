@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 3:1",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "После тога отвори Ијов ⟨את⟩ уста своја и прокле ⟨את⟩ дан свој.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "После"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тога"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "отвори"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ијов"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "уста своја"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "уста своја"
+    },
+    {
+      "surface": "ויקלל",
+      "gloss": "и прокле"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дан свој"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "дан свој"
+    }
+  ],
+  "timestamp": "2026-09-05T13:54:50.451736999Z",
+  "model": "glm-5.3"
+}

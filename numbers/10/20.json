@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 10:20",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "И над војском племена синова Гадових ⟨бејаше⟩ Ељасаф син Деуелов.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "и над"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "војском"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "племена"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синова"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гадових"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "Ељасаф"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "Деуелов"
+    }
+  ],
+  "timestamp": "2026-09-05T10:31:38.481733751Z",
+  "model": "glm-5.3"
+}

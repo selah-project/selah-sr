@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 7:9",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "А синовима Кехата не даде ⟨коли⟩, јер служба светиње ⟨је⟩ на њима: на рамену носе.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "а синовима"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Кехата"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "даде"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "служба"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "светиње"
+    },
+    {
+      "surface": "עלהם",
+      "gloss": "на њима"
+    },
+    {
+      "surface": "בכתף",
+      "gloss": "на рамену"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "носе"
+    }
+  ],
+  "timestamp": "2026-09-05T10:30:37.739661933Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 46:3",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 46,
+  "translation": "Наместите штит и синдже за штит, и приступите на бој.",
+  "tokens": [
+    {
+      "surface": "ערכו",
+      "gloss": "наместите"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "штит"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "и синдже за штит"
+    },
+    {
+      "surface": "וגשו",
+      "gloss": "и приступите"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "на бој"
+    }
+  ],
+  "timestamp": "2026-09-05T17:31:32.733700985Z",
+  "model": "glm-5.3"
+}

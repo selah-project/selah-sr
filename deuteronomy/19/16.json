@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 19:16",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 19,
+  "translation": "Кад устане сведок насилни против човека да сведочи ⟨против њега⟩ о одступању,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Кад"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "устане"
+    },
+    {
+      "surface": "עד",
+      "gloss": "сведок"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "насилни"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "против човека"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "да сведочи"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨против њега⟩"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "о одступању"
+    }
+  ],
+  "timestamp": "2026-09-05T16:57:55.759342349Z",
+  "model": "glm-5.3"
+}

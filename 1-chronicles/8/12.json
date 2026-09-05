@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 8:12",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "А синови Елпалови: Евр и Мишам и Шемед — он сагради ⟨את⟩ Оно и ⟨את⟩ Лод и његове кћери.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "А синови"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Елпалови"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Евр"
+    },
+    {
+      "surface": "ומשעם",
+      "gloss": "и Мишам"
+    },
+    {
+      "surface": "ושמד",
+      "gloss": "и Шемед"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "сагради"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Оно"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "Оно"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Лод"
+    },
+    {
+      "surface": "לד",
+      "gloss": "Лод"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "и његове кћери"
+    }
+  ],
+  "timestamp": "2026-09-05T14:36:05.978201053Z",
+  "model": "glm-5.3"
+}

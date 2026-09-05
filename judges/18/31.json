@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "judges 18:31",
+  "book": "judges",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "И поставише себи ⟨את⟩ идол Микин, који начини, све дане докле беше дом Елохимов у Шилу.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "и поставише"
+    },
+    {
+      "surface": "להם",
+      "gloss": "себи"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "идол"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "идол"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Микин"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "начини"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дане"
+    },
+    {
+      "surface": "היות",
+      "gloss": "докле беше"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елохимов"
+    },
+    {
+      "surface": "בשלה",
+      "gloss": "у Шилу"
+    }
+  ],
+  "timestamp": "2026-09-05T16:59:56.958342822Z",
+  "model": "glm-5.3"
+}

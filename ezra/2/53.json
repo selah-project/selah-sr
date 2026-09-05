@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "ezra 2:53",
+  "book": "ezra",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Синови Баркоса, синови Сисере, синови Тамаха.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синови"
+    },
+    {
+      "surface": "ברקוס",
+      "gloss": "Баркоса"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Сисере"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "Тамаха"
+    }
+  ],
+  "timestamp": "2026-09-05T14:25:06.690018586Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 34:4",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 34,
+  "translation": "Али чуј реч Јахвеову, Цидкијо (Седекијо), цару Јудејин: овако рече Јахве за тебе: нећеш умрети од мача.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Али"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "чуј"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "реч"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеову"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Цидкијо"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цару"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јудејин"
+    },
+    {
+      "surface": "כה",
+      "gloss": "овако"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "за тебе"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "умрети"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "од мача"
+    }
+  ],
+  "timestamp": "2026-09-05T12:34:07.579829463Z",
+  "model": "glm-5.3"
+}

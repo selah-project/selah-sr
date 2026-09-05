@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Доста вам је обилажити ⟨את⟩ ⟨тај⟩ овај гору; окрените себи ка северу.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "доста"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам је"
+    },
+    {
+      "surface": "סב",
+      "gloss": "обилажити"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "гору ову"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "гору"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ову"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "окрените"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "себи"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "ка северу"
+    }
+  ],
+  "timestamp": "2026-09-05T10:43:36.655228961Z",
+  "model": "glm-5.3"
+}

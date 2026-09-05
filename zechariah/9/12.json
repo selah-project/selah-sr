@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zechariah 9:12",
+  "book": "zechariah",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "Вратите се у тврђаву, заробљеници наде; чак данас јављам ⟨да⟩ дупло вратићу теби.",
+  "tokens": [
+    {
+      "surface": "שובו",
+      "gloss": "вратите се"
+    },
+    {
+      "surface": "לבצרון",
+      "gloss": "у тврђаву"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "заробљеници"
+    },
+    {
+      "surface": "התקוה",
+      "gloss": "наде"
+    },
+    {
+      "surface": "גם",
+      "gloss": "чак"
+    },
+    {
+      "surface": "היום",
+      "gloss": "данас"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "јављам"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "дупло"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "вратићу"
+    },
+    {
+      "surface": "לך",
+      "gloss": "теби"
+    }
+  ],
+  "timestamp": "2026-09-05T16:42:22.519351737Z",
+  "model": "glm-5.3"
+}

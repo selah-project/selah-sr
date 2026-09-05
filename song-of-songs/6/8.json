@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 6:8",
+  "book": "song-of-songs",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "Шездесет их је краљица, и осамдесет наложница, и девица без броја.",
+  "tokens": [
+    {
+      "surface": "ששים",
+      "gloss": "шездесет"
+    },
+    {
+      "surface": "המה",
+      "gloss": "их"
+    },
+    {
+      "surface": "מלכות",
+      "gloss": "краљица"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "и осамдесет"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "наложница"
+    },
+    {
+      "surface": "ועלמות",
+      "gloss": "и девица"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "броја"
+    }
+  ],
+  "timestamp": "2026-09-05T14:06:47.069513831Z",
+  "model": "glm-5.3"
+}

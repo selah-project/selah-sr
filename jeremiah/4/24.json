@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 4:24",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "Видех горе, и ето — дрхту, и сва брда се поколебаше.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "видех"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "горе"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и ето"
+    },
+    {
+      "surface": "רעשים",
+      "gloss": "дрхту"
+    },
+    {
+      "surface": "вכל",
+      "gloss": "и сва"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "брда"
+    },
+    {
+      "surface": "התקלקלו",
+      "gloss": "се поколебаше"
+    }
+  ],
+  "timestamp": "2026-09-05T17:04:41.931396722Z",
+  "model": "glm-5.3"
+}

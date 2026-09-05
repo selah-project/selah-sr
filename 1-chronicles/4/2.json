@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 4:2",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "И Реаја, син Шовалов, роди ⟨את⟩ Јахата; и Јахат роди ⟨את⟩ Ахумаја и ⟨את⟩ Лахада. Ово су породице Цореате.",
+  "tokens": [
+    {
+      "surface": "וראיה",
+      "gloss": "И Реаја"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "Шовалов"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јахата"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Јахат"
+    },
+    {
+      "surface": "ויחת",
+      "gloss": "и Јахат"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ахумаја"
+    },
+    {
+      "surface": "אחומי",
+      "gloss": "Ахумај"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Лахада"
+    },
+    {
+      "surface": "להד",
+      "gloss": "Лахад"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ово"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "породице"
+    },
+    {
+      "surface": "הצרעתי",
+      "gloss": "Цореате"
+    }
+  ],
+  "timestamp": "2026-09-05T14:35:26.499119538Z",
+  "model": "glm-5.3"
+}

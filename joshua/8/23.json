@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 8:23",
+  "book": "joshua",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "А ⟨את⟩ краља Гајског ухватише живог, и доведоше га к Јехошуи.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "А ⟨את⟩",
+      "marks": "краља Гајског"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "краља"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Гајског"
+    },
+    {
+      "surface": "תפשו",
+      "gloss": "ухватише"
+    },
+    {
+      "surface": "חי",
+      "gloss": "живог"
+    },
+    {
+      "surface": "ויקרבו",
+      "gloss": "и доведоше"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ га",
+      "marks": "га"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Јехошуи"
+    }
+  ],
+  "timestamp": "2026-09-05T11:00:05.332152957Z",
+  "model": "glm-5.3"
+}

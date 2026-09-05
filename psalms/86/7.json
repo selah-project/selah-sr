@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 86:7",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 86,
+  "translation": "У дан невоље своје призваћу те, јер ћеш ми ⟨одговорити⟩.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "У дан"
+    },
+    {
+      "surface": "צרתי",
+      "gloss": "невоље своје"
+    },
+    {
+      "surface": "אקראך",
+      "gloss": "призваћу те"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "⟨одговорити⟩ ми"
+    }
+  ],
+  "timestamp": "2026-09-05T13:34:00.882106539Z",
+  "model": "glm-5.3"
+}

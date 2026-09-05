@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 2:22",
+  "book": "2-kings",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "И исцелише се воде до дана овога, по речи Елише коју изрече.",
+  "tokens": [
+    {
+      "surface": "וירפו",
+      "gloss": "и исцелише се"
+    },
+    {
+      "surface": "המים",
+      "gloss": "воде"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "היום",
+      "gloss": "дана"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овога"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "по речи"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Елише"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "коју"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "изрече"
+    }
+  ],
+  "timestamp": "2026-09-05T15:29:28.292303603Z",
+  "model": "glm-5.3"
+}

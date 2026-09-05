@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jonah 1:15",
+  "book": "jonah",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "И подигоше ⟨את⟩ Јону те га бацише у море, и преста море од своје буре.",
+  "tokens": [
+    {
+      "surface": "וישאו",
+      "gloss": "и подигоше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јону"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Јону"
+    },
+    {
+      "surface": "ויטלהו",
+      "gloss": "те га бацише"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "הים",
+      "gloss": "море"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "и преста"
+    },
+    {
+      "surface": "הים",
+      "gloss": "море"
+    },
+    {
+      "surface": "מזעפו",
+      "gloss": "од своје буре"
+    }
+  ],
+  "timestamp": "2026-09-05T15:50:32.123116897Z",
+  "model": "glm-5.3"
+}

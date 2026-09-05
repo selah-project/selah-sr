@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 22:27",
+  "book": "2-samuel",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "Са чистим ти си чист, а са искривљеним ти си преврт.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "са"
+    },
+    {
+      "surface": "נבר",
+      "gloss": "чистим"
+    },
+    {
+      "surface": "תתבר",
+      "gloss": "ти си чист"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "а са"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "искривљеним"
+    },
+    {
+      "surface": "תתפל",
+      "gloss": "ти си преврт"
+    }
+  ],
+  "timestamp": "2026-09-05T16:37:33.336649853Z",
+  "model": "glm-5.3"
+}

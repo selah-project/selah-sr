@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 8:10",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "И наталожише ⟨את⟩ њих у хрпе, хрпе, те смрде земља.",
+  "tokens": [
+    {
+      "surface": "ויצברו",
+      "gloss": "И наталожише"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "њих (хрпе жаба)"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "у хрпе"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "хрпе"
+    },
+    {
+      "surface": "ותבאש",
+      "gloss": "те смрде"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земља"
+    }
+  ],
+  "timestamp": "2026-09-05T10:01:50.735323429Z",
+  "model": "glm-5.3"
+}

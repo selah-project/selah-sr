@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 12:2",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "Овај месец вама ⟨је⟩ глава месеци; први он вама за месеце године.",
+  "tokens": [
+    {
+      "surface": "החדש",
+      "gloss": "Овај месец"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овај"
+    },
+    {
+      "surface": "лכם",
+      "gloss": "вама"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "глава"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "месеци"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "први"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вама"
+    },
+    {
+      "surface": "לחדשי",
+      "gloss": "за месеце"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "године"
+    }
+  ],
+  "timestamp": "2026-09-05T10:03:17.872696791Z",
+  "model": "glm-5.3"
+}

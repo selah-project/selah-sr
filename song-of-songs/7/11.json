@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 7:11",
+  "book": "song-of-songs",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Ја сам за драгога свога, а чежња је његова к мени.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ја"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "за драгога свога"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "а к мени"
+    },
+    {
+      "surface": "תשוקתו",
+      "gloss": "чежња је његова"
+    }
+  ],
+  "timestamp": "2026-09-05T14:07:42.396106332Z",
+  "model": "glm-5.3"
+}

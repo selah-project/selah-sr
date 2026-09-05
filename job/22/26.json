@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 22:26",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "Јер тада на Шадајева уживаћеш, и подизаћеш к Елоаху лице своје.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "אז",
+      "gloss": "тада"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Шадај"
+    },
+    {
+      "surface": "תתענג",
+      "gloss": "уживаћеш"
+    },
+    {
+      "surface": "ותשא",
+      "gloss": "и подизаћеш"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Елоах"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "лице своје"
+    }
+  ],
+  "timestamp": "2026-09-05T14:00:40.316477106Z",
+  "model": "glm-5.3"
+}

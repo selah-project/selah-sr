@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "ezra 2:38",
+  "book": "ezra",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Синови Пашхура: хиљаду двеста четрдесет и седам.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синови"
+    },
+    {
+      "surface": "פשחור",
+      "gloss": "Пашхура"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "хиљаду"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "двеста"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "четрдесет"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "и седам"
+    }
+  ],
+  "timestamp": "2026-09-05T14:23:53.394781432Z",
+  "model": "glm-5.3"
+}

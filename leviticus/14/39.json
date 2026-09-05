@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "leviticus 14:39",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "и врати се свештеник седмог дана, и види, и ево — прошири се рана у зидовима куће.",
+  "tokens": [
+    {
+      "surface": "ושב",
+      "gloss": "и врати се"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "свештеник"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "седмог дана"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": ""
+    },
+    {
+      "surface": "וראה",
+      "gloss": "и види"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и ево"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "прошири се"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "рана"
+    },
+    {
+      "surface": "בקירת",
+      "gloss": "у зидовима"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "куће"
+    }
+  ],
+  "timestamp": "2026-09-05T10:20:19.291871770Z",
+  "model": "glm-5.3"
+}

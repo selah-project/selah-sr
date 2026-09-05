@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 20:4",
+  "book": "1-samuel",
+  "lang": "sr",
+  "chapter": 20,
+  "translation": "И рече Јонатан Давиду: „Шта каже душа твоја, и учинићу ти.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Јонатан"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Давиду"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давиду"
+    },
+    {
+      "surface": "מה",
+      "gloss": "шта"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "каже"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "душа твоја"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "и учинићу"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    }
+  ],
+  "timestamp": "2026-09-05T11:22:55.517916218Z",
+  "model": "glm-5.3"
+}

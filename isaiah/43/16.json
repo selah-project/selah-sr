@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 43:16",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 43,
+  "translation": "Тако рече Јахве, који даје у мору пут, и у водама силним стазу —",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "тако"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "који даје"
+    },
+    {
+      "surface": "בים",
+      "gloss": "у мору"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "пут"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "и у водама"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "силним"
+    },
+    {
+      "surface": "נתיבה",
+      "gloss": "стазу"
+    }
+  ],
+  "timestamp": "2026-09-05T12:13:26.182403390Z",
+  "model": "glm-5.3"
+}

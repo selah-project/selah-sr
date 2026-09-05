@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 6:30",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "Не презиру лопова када краде да наполни душу своју, јер гладује.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "יבוזו",
+      "gloss": "презиру"
+    },
+    {
+      "surface": "לגנב",
+      "gloss": "лопова"
+    },
+    {
+      "surface": "כי",
+      "gloss": "када"
+    },
+    {
+      "surface": "יגנוב",
+      "gloss": "краде"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "да наполни"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "душу своју"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "ירעב",
+      "gloss": "гладује"
+    }
+  ],
+  "timestamp": "2026-09-05T16:00:37.688706476Z",
+  "model": "glm-5.3"
+}

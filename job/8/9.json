@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 8:9",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "Јер смо ⟨од⟩ јуче и не знамо, јер је сенка дана наших на земљи.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "תמול",
+      "gloss": "јуче"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "смо"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "знамо"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "צל",
+      "gloss": "сенка"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "дана наших"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "на"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земљи"
+    }
+  ],
+  "timestamp": "2026-09-05T13:55:58.336405006Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 147:3",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 147,
+  "translation": "Који исцељује сломљена срца и повија ране њихове.",
+  "tokens": [
+    {
+      "surface": "הרפא",
+      "gloss": "Који исцељује"
+    },
+    {
+      "surface": "לשבורי",
+      "gloss": "сломљена"
+    },
+    {
+      "surface": "לב",
+      "gloss": "срца"
+    },
+    {
+      "surface": "ומחבש",
+      "gloss": "и повија"
+    },
+    {
+      "surface": "לעצבותם",
+      "gloss": "ране њихове"
+    }
+  ],
+  "timestamp": "2026-09-05T13:45:09.504781240Z",
+  "model": "glm-5.3"
+}

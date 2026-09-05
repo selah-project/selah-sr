@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 39:22",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 39,
+  "translation": "И знаће дом Израиљев да сам ја Јахве, Елохим њихов, од тога дана и даље.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "И знаће"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљев"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "Елохим њихов"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "היום",
+      "gloss": "дана"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тога"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "и даље"
+    }
+  ],
+  "timestamp": "2026-09-05T12:56:28.185448734Z",
+  "model": "glm-5.3"
+}

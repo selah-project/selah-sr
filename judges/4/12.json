@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 4:12",
+  "book": "judges",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "И јавише Сисери да се попео Барак, син Авиноамов, на гору Тавор.",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "И јавише"
+    },
+    {
+      "surface": "לסיסרא",
+      "gloss": "Сисери"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "попео се"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Барак"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אבינעם",
+      "gloss": "Авиноамов"
+    },
+    {
+      "surface": "הר",
+      "gloss": "на гору"
+    },
+    {
+      "surface": "תבור",
+      "gloss": "Тавор"
+    }
+  ],
+  "timestamp": "2026-09-05T15:18:28.022593439Z",
+  "model": "glm-5.3"
+}

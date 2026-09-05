@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "daniel 6:22",
+  "book": "daniel",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "Тада Данијел проговори с краљем: Краљу, живео ⟨ти⟩ довека!",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "Тада"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Данијел"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "краљем"
+    },
+    {
+      "surface": "מלל",
+      "gloss": "проговори"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "Краљу"
+    },
+    {
+      "surface": "לעלמין",
+      "gloss": "довека"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "живео"
+    }
+  ],
+  "timestamp": "2026-09-05T16:09:10.313858823Z",
+  "model": "glm-5.3"
+}

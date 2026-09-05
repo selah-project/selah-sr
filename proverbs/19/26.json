@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 19:26",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 19,
+  "translation": "Пљачка оца и тера мајку у бекство ⟨то је⟩ син што срамоти и понижава.",
+  "tokens": [
+    {
+      "surface": "משדד",
+      "gloss": "пљачка"
+    },
+    {
+      "surface": "אב",
+      "gloss": "оца"
+    },
+    {
+      "surface": "יבריח",
+      "gloss": "тера у бекство"
+    },
+    {
+      "surface": "אם",
+      "gloss": "мајку"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "што срамоти"
+    },
+    {
+      "surface": "ומחפיר",
+      "gloss": "и понижава"
+    }
+  ],
+  "timestamp": "2026-09-05T13:51:05.488055857Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 4:3",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "Јер бијах син оцу својему, нежан и јединац пред матером својом.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "бијах"
+    },
+    {
+      "surface": "לאבי",
+      "gloss": "оцу својему"
+    },
+    {
+      "surface": "רך",
+      "gloss": "нежан"
+    },
+    {
+      "surface": "ויחיד",
+      "gloss": "и јединац"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "матером својом"
+    }
+  ],
+  "timestamp": "2026-09-05T13:46:25.816871500Z",
+  "model": "glm-5.3"
+}

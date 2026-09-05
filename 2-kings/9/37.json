@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-kings 9:37",
+  "book": "2-kings",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "и биће леш Изевели као ђубре на лицу поља у делу Јизреела, да не кажу: ово ⟨је⟩ Изевел.",
+  "tokens": [
+    {
+      "surface": "והית",
+      "gloss": "и биће"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "леш"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Изевели"
+    },
+    {
+      "surface": "כדמן",
+      "gloss": "као ђубре"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицу"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "поља"
+    },
+    {
+      "surface": "בחלק",
+      "gloss": "у делу"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Јизреела"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "да"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "кажу"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ово"
+    },
+    {
+      "surface": "איזבל",
+      "gloss": "Изевел"
+    }
+  ],
+  "timestamp": "2026-09-05T11:52:43.691867012Z",
+  "model": "glm-5.3"
+}

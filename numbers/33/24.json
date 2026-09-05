@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 33:24",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 33,
+  "translation": "И кренуше с горе Шафер и улогорише у Харади.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "И кренуше"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "с горе"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "Шафер"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "и улогорише"
+    },
+    {
+      "surface": "בחרדה",
+      "gloss": "у Харади"
+    }
+  ],
+  "timestamp": "2026-09-05T10:42:04.780633936Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "2-samuel 13:39",
+  "book": "2-samuel",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "И преста Давид краљ да излази к Авшалому, јер се утеши због Амнона, јер ⟨бејаше⟩ умро.",
+  "tokens": [
+    {
+      "surface": "ותכל",
+      "gloss": "И преста"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "краљ"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "да излази"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Авшалому"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "נחם",
+      "gloss": "се утеши"
+    },
+    {
+      "surface": "על",
+      "gloss": "због"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Амнона"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "מת",
+      "gloss": "умро"
+    }
+  ],
+  "timestamp": "2026-09-05T11:31:01.182420400Z",
+  "model": "glm-5.3"
+}

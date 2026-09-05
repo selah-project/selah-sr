@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 3:12",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "А ако ⟨је⟩ принос његов коза, нека је принесе пред Јахвеом.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "а ако"
+    },
+    {
+      "surface": "עז",
+      "gloss": "коза"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "принос његов"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "нека је принесе"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеом"
+    }
+  ],
+  "timestamp": "2026-09-05T10:15:36.762340028Z",
+  "model": "glm-5.3"
+}

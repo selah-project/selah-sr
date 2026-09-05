@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 29:21",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 29,
+  "translation": "Мени су слушали и чекали, и ућутали за савет мој.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "Мени"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "слушали"
+    },
+    {
+      "surface": "ויחלו",
+      "gloss": "и чекали"
+    },
+    {
+      "surface": "וידמו",
+      "gloss": "и ућутали"
+    },
+    {
+      "surface": "למו",
+      "gloss": "за"
+    },
+    {
+      "surface": "עצתי",
+      "gloss": "савет мој"
+    }
+  ],
+  "timestamp": "2026-09-05T14:02:09.098933941Z",
+  "model": "glm-5.3"
+}

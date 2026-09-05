@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 3:6",
+  "book": "amos",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Ако се затруби рог у граду, а народ да не затрепти? Ако будет зло у граду, а Јахве да није учинио?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ако"
+    },
+    {
+      "surface": "יתקע",
+      "gloss": "затруби"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "рог"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "у граду"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "а народ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יחרדו",
+      "gloss": "затрепти"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Ако"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "будет"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зло"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "у граду"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "а Јахве"
+    },
+    {
+      "surface": "לא",
+      "gloss": "није"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "учинио"
+    }
+  ],
+  "timestamp": "2026-09-05T15:49:01.201577015Z",
+  "model": "glm-5.3"
+}

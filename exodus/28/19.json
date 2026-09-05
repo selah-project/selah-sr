@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 28:19",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "А ред трећи: јацинт, ахат и аметист.",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "А ред"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "трећи"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "јацинт"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "ахат"
+    },
+    {
+      "surface": "ואחלמה",
+      "gloss": "и аметист"
+    }
+  ],
+  "timestamp": "2026-09-05T10:09:43.623307556Z",
+  "model": "glm-5.3"
+}

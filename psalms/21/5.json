@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 21:5",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "Живот иска од тебе, даде си му ⟨то⟩ — дужину данâ, вековно и довека.",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "Живот"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "иска"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "од тебе"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "даде си"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "дужину"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "данâ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "вековно"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и довека"
+    }
+  ],
+  "timestamp": "2026-09-05T13:20:08.441519563Z",
+  "model": "glm-5.3"
+}

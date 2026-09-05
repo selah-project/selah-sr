@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 8:27",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "и Јарешјаху, и Елијаху, и Зихри, синови Јерохамови.",
+  "tokens": [
+    {
+      "surface": "ויערשיה",
+      "gloss": "и Јарешјаху"
+    },
+    {
+      "surface": "ואליה",
+      "gloss": "и Елијаху"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "и Зихри"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "Јерохамови"
+    }
+  ],
+  "timestamp": "2026-09-05T14:36:12.916169694Z",
+  "model": "glm-5.3"
+}

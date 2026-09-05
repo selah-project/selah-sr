@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 29:24",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 29,
+  "translation": "А Шемаји Нехеламцу рећи ⟨ћеш⟩ говорећи:",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "А"
+    },
+    {
+      "surface": "שמעיהו",
+      "gloss": "Шемаји"
+    },
+    {
+      "surface": "הנחלמי",
+      "gloss": "Нехеламцу"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "рећи"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорећи"
+    }
+  ],
+  "timestamp": "2026-09-05T16:48:33.880802952Z",
+  "model": "glm-5.3"
+}

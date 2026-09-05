@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 27:20",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 27,
+  "translation": "Проклет био ко лежи с женом свога оца, јер открио је скит свога оца; и рећи ће сав народ: Амен.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Проклет"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "лежи"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "женом"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "свога оца"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "открио је"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "скит"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "свога оца"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "и рећи ће"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сав"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Амен"
+    }
+  ],
+  "timestamp": "2026-09-05T10:53:45.262800992Z",
+  "model": "glm-5.3"
+}

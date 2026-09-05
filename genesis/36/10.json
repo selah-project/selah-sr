@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 36:10",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 36,
+  "translation": "Ово су имена синова Исавових: Елифаз, син Аде, жене Исавове; Реуел, син Васмате, жене Исавове.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ово"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "имена"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синова"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Исавових"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Елифаз"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Аде"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "жене"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Исавове"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Реуел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Васмате"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "жене"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Исавове"
+    }
+  ],
+  "timestamp": "2026-09-05T15:00:53.965676661Z",
+  "model": "glm-5.3"
+}

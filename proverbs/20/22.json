@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 20:22",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 20,
+  "translation": "Не говори: узвратићу зло; чекај Јахвеа, и он ће те избавити.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "говори"
+    },
+    {
+      "surface": "אשלמה",
+      "gloss": "узвратићу"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зло"
+    },
+    {
+      "surface": "קוה",
+      "gloss": "чекај"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "וישע",
+      "gloss": "и он ће избавити"
+    },
+    {
+      "surface": "לך",
+      "gloss": "те"
+    }
+  ],
+  "timestamp": "2026-09-05T16:00:43.265226615Z",
+  "model": "glm-5.3"
+}

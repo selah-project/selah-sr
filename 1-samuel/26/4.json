@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 26:4",
+  "book": "1-samuel",
+  "lang": "sr",
+  "chapter": 26,
+  "translation": "И посла Давид (шпијуне) извиднике, и сазна да је Шаул заиста дошао.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "и посла"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "извиднике"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "и сазна"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "בא",
+      "gloss": "је дошао"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "נכון",
+      "gloss": "заиста"
+    }
+  ],
+  "timestamp": "2026-09-05T17:53:04.110512968Z",
+  "model": "glm-5.3"
+}

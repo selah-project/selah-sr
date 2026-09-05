@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 10:34",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "А облак Јахвеов беше над њима дању кад год кретаху из логора.",
+  "tokens": [
+    {
+      "surface": "וענן",
+      "gloss": "А облак"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеов"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "над њима"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "дању"
+    },
+    {
+      "surface": "בנסעם",
+      "gloss": "кад кретаху"
+    },
+    {
+      "surface": "מן",
+      "gloss": "из"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "логора"
+    }
+  ],
+  "timestamp": "2026-09-05T10:31:34.837127655Z",
+  "model": "glm-5.3"
+}

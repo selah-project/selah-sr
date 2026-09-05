@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 9:13",
+  "book": "1-kings",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "И рече: шта су ови градови што си дао мени, брате мој? И назва их земљом Кавул до дана овога.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "מה",
+      "gloss": "шта"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "градови"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ови"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "си дао"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мени"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "брате мој"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "и назва"
+    },
+    {
+      "surface": "להם",
+      "gloss": "их"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земљом"
+    },
+    {
+      "surface": "כבול",
+      "gloss": "Кавул"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "היום",
+      "gloss": "дана"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овога"
+    }
+  ],
+  "timestamp": "2026-09-05T11:43:37.161528272Z",
+  "model": "glm-5.3"
+}

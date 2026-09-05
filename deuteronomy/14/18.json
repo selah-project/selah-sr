@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 14:18",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "и рода, и чапља према врсти својој, и пупавац и нетопир.",
+  "tokens": [
+    {
+      "surface": "והחסידה",
+      "gloss": "и рода"
+    },
+    {
+      "surface": "והאנפה",
+      "gloss": "и чапља"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "према врсти својој"
+    },
+    {
+      "surface": "והדוכיפת",
+      "gloss": "и пупавац"
+    },
+    {
+      "surface": "והעטלף",
+      "gloss": "и нетопир"
+    }
+  ],
+  "timestamp": "2026-09-05T16:58:22.584876836Z",
+  "model": "glm-5.3"
+}

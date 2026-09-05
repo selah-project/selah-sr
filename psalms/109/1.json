@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 109:1",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 109,
+  "translation": "Управитељу. Давидов псалам. Елохиме хвале моје, не ћути.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Управитељу"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидов"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "псалам"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохиме"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "хвале моје"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "ћути"
+    }
+  ],
+  "timestamp": "2026-09-05T13:39:10.490416637Z",
+  "model": "glm-5.3"
+}

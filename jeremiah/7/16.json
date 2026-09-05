@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 7:16",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "А ти не моли за народ овај, и не подижі за њих вапај и молитву, и не заступај се преда мном, јер не чујем ⟨את⟩ тебе.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "А ти"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תתפלל",
+      "gloss": "моли"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "за"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овај"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "подижі"
+    },
+    {
+      "surface": "בעדם",
+      "gloss": "за њих"
+    },
+    {
+      "surface": "רנה",
+      "gloss": "вапај"
+    },
+    {
+      "surface": "ותפלה",
+      "gloss": "и молитву"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תפגע",
+      "gloss": "заступај се"
+    },
+    {
+      "surface": "בי",
+      "gloss": "преда мном"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "אינני",
+      "gloss": "не"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "чујем"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ тебе"
+    }
+  ],
+  "timestamp": "2026-09-05T12:23:10.696203574Z",
+  "model": "glm-5.3"
+}

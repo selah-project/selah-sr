@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 14:5",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "Сведок верни не лаже, а издише лажи — сведок лажни.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "сведок"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "верни"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יכזב",
+      "gloss": "лаже"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "а издише"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "лажи"
+    },
+    {
+      "surface": "עד",
+      "gloss": "сведок"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "лажни"
+    }
+  ],
+  "timestamp": "2026-09-05T13:49:06.029227875Z",
+  "model": "glm-5.3"
+}

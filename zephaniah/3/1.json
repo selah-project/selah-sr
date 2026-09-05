@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 3:1",
+  "book": "zephaniah",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Тешко њој буновној и оскрнављеној, граду тлачитељском!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Тешко"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "буновној"
+    },
+    {
+      "surface": "ונגאלה",
+      "gloss": "и оскрнављеној"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "граду"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "тлачитељском"
+    }
+  ],
+  "timestamp": "2026-09-05T13:11:49.757143809Z",
+  "model": "glm-5.3"
+}

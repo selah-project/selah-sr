@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 5:7",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Очевци наши согрешише — них нема, ми њихове кривице носисмо.",
+  "tokens": [
+    {
+      "surface": "אבתינו",
+      "gloss": "Очевци наши"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "согрешише"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "них нема"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ми"
+    },
+    {
+      "surface": "עונתיהם",
+      "gloss": "њихове кривице"
+    },
+    {
+      "surface": "סבלנו",
+      "gloss": "носисмо"
+    }
+  ],
+  "timestamp": "2026-09-05T16:07:57.602325896Z",
+  "model": "glm-5.3"
+}

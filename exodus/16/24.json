@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 16:24",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 16,
+  "translation": "И оставише ⟨את⟩ га до јутра, као што заповеди Моше, и не смрде, ни црва не би у њему.",
+  "tokens": [
+    {
+      "surface": "ויניחו",
+      "gloss": "И оставише"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "га (мана)"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "јутра"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "као што"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповеди"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "смрде"
+    },
+    {
+      "surface": "ורמה",
+      "gloss": "ни црва"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "би"
+    },
+    {
+      "surface": "בו",
+      "gloss": "у њему"
+    }
+  ],
+  "timestamp": "2026-09-05T10:05:21.293394898Z",
+  "model": "glm-5.3"
+}

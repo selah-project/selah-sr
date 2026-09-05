@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 6:24",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "Да те чувају од жене зле, од глаткости језика туђинке.",
+  "tokens": [
+    {
+      "surface": "לשמרך",
+      "gloss": "да те чувају"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "од жене"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зле"
+    },
+    {
+      "surface": "מחלקת",
+      "gloss": "од глаткости"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "језика"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "туђинке"
+    }
+  ],
+  "timestamp": "2026-09-05T13:47:05.221155920Z",
+  "model": "glm-5.3"
+}

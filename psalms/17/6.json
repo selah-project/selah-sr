@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 17:6",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 17,
+  "translation": "Ја зовах те, јер ћеш ме одговорити, Еле; прињи ухо своје к мени, чуј реч моју.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ја"
+    },
+    {
+      "surface": "קראתיך",
+      "gloss": "зовах те"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "одговорићеш ме"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Еле"
+    },
+    {
+      "surface": "הט",
+      "gloss": "прињи"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ухо своје"
+    },
+    {
+      "surface": "לי",
+      "gloss": "к мени"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "чуј"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "реч моју"
+    }
+  ],
+  "timestamp": "2026-09-05T13:18:30.787792319Z",
+  "model": "glm-5.3"
+}

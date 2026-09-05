@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 42:5",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 42,
+  "translation": "„Слушањем ува чух те, а сада око моје виде те.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "слушањем"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ува"
+    },
+    {
+      "surface": "שמעתיך",
+      "gloss": "чух те"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "а сада"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "око моје"
+    },
+    {
+      "surface": "ראתך",
+      "gloss": "виде те"
+    }
+  ],
+  "timestamp": "2026-09-05T14:07:18.261188669Z",
+  "model": "glm-5.3"
+}

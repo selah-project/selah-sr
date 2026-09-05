@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 19:24",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 19,
+  "translation": "Сакри лењивац руку своју у чинију; чак ни до уста својих неће је вратити.",
+  "tokens": [
+    {
+      "surface": "טמן",
+      "gloss": "Сакри"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "лењивац"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "руку своју"
+    },
+    {
+      "surface": "בצלחת",
+      "gloss": "у чинију"
+    },
+    {
+      "surface": "גם",
+      "gloss": "чак"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "уста својих"
+    },
+    {
+      "surface": "לא",
+      "gloss": "неће"
+    },
+    {
+      "surface": "ישיבנה",
+      "gloss": "је вратити"
+    }
+  ],
+  "timestamp": "2026-09-05T13:50:26.870492112Z",
+  "model": "glm-5.3"
+}

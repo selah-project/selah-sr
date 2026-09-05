@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 33:19",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 33,
+  "translation": "Народе к гори зову; тамо приносе жртве правде; јер обиље мора сисаће и скровишта скривена у песку.",
+  "tokens": [
+    {
+      "surface": "עמים",
+      "gloss": "Народе"
+    },
+    {
+      "surface": "הר",
+      "gloss": "к гори"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "зову"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тамо"
+    },
+    {
+      "surface": "יזבחו",
+      "gloss": "приносе жртве"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "жртве"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "правде"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "שפע",
+      "gloss": "обиље"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "мора"
+    },
+    {
+      "surface": "יינקו",
+      "gloss": "сисаће"
+    },
+    {
+      "surface": "ושפוני",
+      "gloss": "и скровишта"
+    },
+    {
+      "surface": "טמוני",
+      "gloss": "скривена"
+    },
+    {
+      "surface": "חול",
+      "gloss": "у песку"
+    }
+  ],
+  "timestamp": "2026-09-05T10:56:01.409427904Z",
+  "model": "glm-5.3"
+}

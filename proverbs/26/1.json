@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 26:1",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 26,
+  "translation": "Као снег лети и као киша у жетви, тако не приличи лудом част.",
+  "tokens": [
+    {
+      "surface": "כשלג",
+      "gloss": "као снег"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "лети"
+    },
+    {
+      "surface": "וכמטר",
+      "gloss": "и као киша"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "у жетви"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тако"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "приличи"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "лудом"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "част"
+    }
+  ],
+  "timestamp": "2026-09-05T13:52:38.841876072Z",
+  "model": "glm-5.3"
+}

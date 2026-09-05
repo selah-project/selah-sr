@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 24:20",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "прелом за прелом, око за око, зуб за зуб; како нанесе ману човеку, тако нека се нанесе њему.",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "прелом"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "за"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "прелом"
+    },
+    {
+      "surface": "עין",
+      "gloss": "око"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "за"
+    },
+    {
+      "surface": "עין",
+      "gloss": "око"
+    },
+    {
+      "surface": "שן",
+      "gloss": "зуб"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "за"
+    },
+    {
+      "surface": "שן",
+      "gloss": "зуб"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "како"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "нанесе"
+    },
+    {
+      "surface": "מום",
+      "gloss": "ману"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "човеку"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тако"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "нека се нанесе"
+    },
+    {
+      "surface": "בו",
+      "gloss": "њему"
+    }
+  ],
+  "timestamp": "2026-09-05T10:25:18.633458451Z",
+  "model": "glm-5.3"
+}

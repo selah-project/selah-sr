@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 3:19",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "У зноју лица свог јешћеш хлеб, док се не вратиш у земљу, јер из ње си узет; јер прах си, и у прах ћеш се вратити.",
+  "tokens": [
+    {
+      "surface": "בזעת",
+      "gloss": "У зноју"
+    },
+    {
+      "surface": "אפיך",
+      "gloss": "лица свог"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "јешћеш"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хлеб"
+    },
+    {
+      "surface": "עד",
+      "gloss": "док"
+    },
+    {
+      "surface": "שובך",
+      "gloss": "не вратиш се"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "земљу"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "из ње"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "си узет"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "прах"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "си"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и у"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "прах"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ћеш се вратити"
+    }
+  ],
+  "timestamp": "2026-09-05T09:39:58.822019491Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Не греши превише и не буди безумен; зашто да умреш не у своје време?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "греши"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "превише"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "буди"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "безумен"
+    },
+    {
+      "surface": "למה",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "да умреш"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "не у"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "своје време"
+    }
+  ],
+  "timestamp": "2026-09-05T16:08:06.302791257Z",
+  "model": "glm-5.3"
+}

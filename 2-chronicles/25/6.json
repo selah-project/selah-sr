@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 25:6",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 25,
+  "translation": "И најми из Израиља сто хиљада јунака силних за сто кикара сребра.",
+  "tokens": [
+    {
+      "surface": "וישכר",
+      "gloss": "И најми"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "из Израиља"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "хиљада"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "јунака"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "силних"
+    },
+    {
+      "surface": "במאה",
+      "gloss": "за сто"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "кикара"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "сребра"
+    }
+  ],
+  "timestamp": "2026-09-05T14:53:10.146775610Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 34:21",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 34,
+  "translation": "Чува ⟨он⟩ све кости његове; једна од њих не би сломљена.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "чува"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "עצמותיו",
+      "gloss": "кости његове"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "једна"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "од њих"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "би сломљена"
+    }
+  ],
+  "timestamp": "2026-09-05T13:21:32.522023129Z",
+  "model": "glm-5.3"
+}

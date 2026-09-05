@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 20:9",
+  "book": "judges",
+  "lang": "sr",
+  "chapter": 20,
+  "translation": "И сад, ово ⟨је⟩ ствар коју ћемо учинити Гивеји: на њу жребом.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "И сад"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ово"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ствар"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "коју"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "учи́нићемо"
+    },
+    {
+      "surface": "לגבעה",
+      "gloss": "Гивеји"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "на њу"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "жребом"
+    }
+  ],
+  "timestamp": "2026-09-05T15:20:12.868989227Z",
+  "model": "glm-5.3"
+}

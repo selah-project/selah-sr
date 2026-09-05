@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 2:1",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "И бише довршени небеса и земља и све војске њихове.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "бише довршени"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небеса"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "и земља"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и све"
+    },
+    {
+      "surface": "צבאם",
+      "gloss": "војске њихове"
+    }
+  ],
+  "timestamp": "2026-09-05T14:58:29.126455754Z",
+  "model": "glm-5.3"
+}

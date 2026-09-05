@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 29:8",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 29,
+  "translation": "Људи подсмеха распирују град, а мудри одвраћају гнев.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "људи"
+    },
+    {
+      "surface": "לצון",
+      "gloss": "подсмеха"
+    },
+    {
+      "surface": "יפיחу",
+      "gloss": "распирују"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "град"
+    },
+    {
+      "surface": "וחכמים",
+      "gloss": "а мудри"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "одвраћају"
+    },
+    {
+      "surface": "אף",
+      "gloss": "гнев"
+    }
+  ],
+  "timestamp": "2026-09-05T13:53:20.509933196Z",
+  "model": "glm-5.3"
+}

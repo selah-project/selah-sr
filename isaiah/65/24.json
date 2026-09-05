@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 65:24",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 65,
+  "translation": "И биће: пре него што позову, ја ћу одговорити; још док говоре, ја ћу чути.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "и биће"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "пре него што"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "позову"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "а ја"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "одговорићу"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "још"
+    },
+    {
+      "surface": "הם",
+      "gloss": "они"
+    },
+    {
+      "surface": "מדברים",
+      "gloss": "говоре"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "а ја"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "чућу"
+    }
+  ],
+  "timestamp": "2026-09-05T12:20:05.542091454Z",
+  "model": "glm-5.3"
+}

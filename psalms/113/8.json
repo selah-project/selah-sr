@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 113:8",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 113,
+  "translation": "да га поседи с велможама, с велможама народа свог.",
+  "tokens": [
+    {
+      "surface": "להושיבי",
+      "gloss": "да поседи"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "велможама"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "נדיבי",
+      "gloss": "велможама"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "народа свог"
+    }
+  ],
+  "timestamp": "2026-09-05T13:38:32.012050200Z",
+  "model": "glm-5.3"
+}

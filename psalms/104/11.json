@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 104:11",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 104,
+  "translation": "Напајају сваку звер поља; дивљи магарци ломе жеђ своју.",
+  "tokens": [
+    {
+      "surface": "ישקו",
+      "gloss": "Напајају"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сву"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "звер"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "поља"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "ломе"
+    },
+    {
+      "surface": "פראים",
+      "gloss": "дивљи магарци"
+    },
+    {
+      "surface": "צמאם",
+      "gloss": "жеђ своју"
+    }
+  ],
+  "timestamp": "2026-09-05T13:36:17.122171336Z",
+  "model": "glm-5.3"
+}

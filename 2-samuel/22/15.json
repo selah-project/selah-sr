@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 22:15",
+  "book": "2-samuel",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "И посла стреле и разјури их; муња и узбуни их.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "и посла"
+    },
+    {
+      "surface": "חצים",
+      "gloss": "стреле"
+    },
+    {
+      "surface": "ויפיצם",
+      "gloss": "и разјури их"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "муња"
+    },
+    {
+      "surface": "ויהמם",
+      "gloss": "и узбуни их"
+    }
+  ],
+  "timestamp": "2026-09-05T15:26:50.032472669Z",
+  "model": "glm-5.3"
+}

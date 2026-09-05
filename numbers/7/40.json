@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 7:40",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "јарач коза један за греховну жртву —",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "јарач"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "коза"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "један"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "за греховну жртву"
+    }
+  ],
+  "timestamp": "2026-09-05T16:56:23.814413622Z",
+  "model": "glm-5.3"
+}

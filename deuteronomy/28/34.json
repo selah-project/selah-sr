@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 28:34",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "И бићеш помаман од вида очију својих који видиш.",
+  "tokens": [
+    {
+      "surface": "והיית",
+      "gloss": "и бићеш"
+    },
+    {
+      "surface": "משגע",
+      "gloss": "помаман"
+    },
+    {
+      "surface": "ממראה",
+      "gloss": "од вида"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "очију својих"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "видиш"
+    }
+  ],
+  "timestamp": "2026-09-05T10:54:19.198246492Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 15:2",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 15,
+  "translation": "Језик мудрих улепшава знање, а уста лудака изливају лудост.",
+  "tokens": [
+    {
+      "surface": "לשון",
+      "gloss": "језик"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "мудрих"
+    },
+    {
+      "surface": "תיטיב",
+      "gloss": "улепшава"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "знање"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "а уста"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "лудака"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "изливају"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "лудост"
+    }
+  ],
+  "timestamp": "2026-09-05T13:49:58.935780214Z",
+  "model": "glm-5.3"
+}

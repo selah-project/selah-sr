@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 20:23",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 20,
+  "translation": "И не ходите у уредбама народа којега ја шаљем од лица вашега, јер ⟨את⟩ све ово чињаху, и омрзну ми ⟨од⟩ њих.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "И не"
+    },
+    {
+      "surface": "תלכו",
+      "gloss": "ходите"
+    },
+    {
+      "surface": "בחקת",
+      "gloss": "у уредбама"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "народ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "којега"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "משלח",
+      "gloss": "шаљем"
+    },
+    {
+      "surface": "מפניכם",
+      "gloss": "од лица вашега"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "све ово"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ово"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "чињаху"
+    },
+    {
+      "surface": "ואקץ",
+      "gloss": "и омрзну ми"
+    },
+    {
+      "surface": "בם",
+      "gloss": "⟨од⟩ њих"
+    }
+  ],
+  "timestamp": "2026-09-05T16:56:23.590199270Z",
+  "model": "glm-5.3"
+}

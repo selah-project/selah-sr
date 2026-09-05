@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "nehemiah 7:59",
+  "book": "nehemiah",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Синови Шефатје, синови Хатила, синови Похерет-Цевајим, синови Амона.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синови"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "Шефатје"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "חטיל",
+      "gloss": "Хатила"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "פכרת",
+      "gloss": "Похерет"
+    },
+    {
+      "surface": "הצביים",
+      "gloss": "Цевајим"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Амона"
+    }
+  ],
+  "timestamp": "2026-09-05T14:31:04.527061015Z",
+  "model": "glm-5.3"
+}

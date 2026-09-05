@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 17:26",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 17,
+  "translation": "И учини Моше као што заповеди Јахве ⟨את⟩ њега, тако учини.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "И учини"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "као што"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповеди"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ њега",
+      "marks": "Моше"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тако"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "учини"
+    }
+  ],
+  "timestamp": "2026-09-05T10:35:37.794738195Z",
+  "model": "glm-5.3"
+}

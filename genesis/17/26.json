@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 17:26",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 17,
+  "translation": "У сами тај дан би обрезан Аврахам (Аврам) и Јишмаел, син његов.",
+  "tokens": [
+    {
+      "surface": "בעצם",
+      "gloss": "у сами"
+    },
+    {
+      "surface": "היום",
+      "gloss": "дан"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "тај"
+    },
+    {
+      "surface": "נמול",
+      "gloss": "би обрезан"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Аврахам"
+    },
+    {
+      "surface": "וישמעאל",
+      "gloss": "и Јишмаел"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син његов"
+    }
+  ],
+  "timestamp": "2026-09-05T16:54:31.047786576Z",
+  "model": "glm-5.3"
+}

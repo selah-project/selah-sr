@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 8:28",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "И отежа Паро ⟨את⟩ срце своје и овог пута, и не пусти ⟨את⟩ народ.",
+  "tokens": [
+    {
+      "surface": "ויכבד",
+      "gloss": "И отежа"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паро"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "срце своје"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "срце своје"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "путом"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "овим"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "пусти"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "народ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    }
+  ],
+  "timestamp": "2026-09-05T10:02:15.605727328Z",
+  "model": "glm-5.3"
+}

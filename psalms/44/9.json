@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 44:9",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 44,
+  "translation": "У Елохима хвалисмо се сав дан, и име твоје довека славићемо. Села.",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "У Елохима"
+    },
+    {
+      "surface": "הללנו",
+      "gloss": "хвалисмо се"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сав"
+    },
+    {
+      "surface": "היום",
+      "gloss": "дан"
+    },
+    {
+      "surface": "ושמך",
+      "gloss": "и име твоје"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "довека"
+    },
+    {
+      "surface": "נודה",
+      "gloss": "славићемо"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Села"
+    }
+  ],
+  "timestamp": "2026-09-05T13:25:48.706491072Z",
+  "model": "glm-5.3"
+}

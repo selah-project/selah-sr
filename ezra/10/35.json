@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezra 10:35",
+  "book": "ezra",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "Бенаја, Бедија, Келухај.",
+  "tokens": [
+    {
+      "surface": "בניה",
+      "gloss": "Бенаја"
+    },
+    {
+      "surface": "בדיה",
+      "gloss": "Бедија"
+    },
+    {
+      "surface": "כלהי",
+      "gloss": "Келухај"
+    }
+  ],
+  "timestamp": "2026-09-05T14:27:04.655053969Z",
+  "model": "glm-5.3"
+}

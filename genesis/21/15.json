@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "И потроши се вода из мешице, и баци ⟨את⟩ дете под један од жбунова.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "и потроши се"
+    },
+    {
+      "surface": "המים",
+      "gloss": "вода"
+    },
+    {
+      "surface": "מן",
+      "gloss": "из"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "мешице"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "и баци"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дете"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "дете"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "један"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "од жбунова"
+    }
+  ],
+  "timestamp": "2026-09-05T09:45:43.256222650Z",
+  "model": "glm-5.3"
+}

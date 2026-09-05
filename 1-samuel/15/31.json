@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 15:31",
+  "book": "1-samuel",
+  "lang": "sr",
+  "chapter": 15,
+  "translation": "И врати се Шемуел за Шаулом, и поклони се Шаул Јахвеу.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "И врати се"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шемуел"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "за"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаулом"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "и поклони се"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Јахвеу"
+    }
+  ],
+  "timestamp": "2026-09-05T11:20:12.926452676Z",
+  "model": "glm-5.3"
+}

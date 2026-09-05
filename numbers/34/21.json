@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 34:21",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 34,
+  "translation": "За племе Бинјаминово — Елидад, син Кислонов.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "за племе"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Бинјаминово"
+    },
+    {
+      "surface": "אלידד",
+      "gloss": "Елидад"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "כסלון",
+      "gloss": "Кислонов"
+    }
+  ],
+  "timestamp": "2026-09-05T10:42:18.076449126Z",
+  "model": "glm-5.3"
+}

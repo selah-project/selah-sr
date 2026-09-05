@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 23:15",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "И рече Балаку: Стани тако уз своју жртву паљеницу, а ја ћу поћи у сусрет тако.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Балаку"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Балак"
+    },
+    {
+      "surface": "התיצב",
+      "gloss": "стани"
+    },
+    {
+      "surface": "כה",
+      "gloss": "тако"
+    },
+    {
+      "surface": "על",
+      "gloss": "уз"
+    },
+    {
+      "surface": "עלתך",
+      "gloss": "своју жртву паљеницу"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "а ја"
+    },
+    {
+      "surface": "אקרה",
+      "gloss": "ћу поћи у сусрет"
+    },
+    {
+      "surface": "כה",
+      "gloss": "тако"
+    }
+  ],
+  "timestamp": "2026-09-05T10:38:11.888026432Z",
+  "model": "glm-5.3"
+}

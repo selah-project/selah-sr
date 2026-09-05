@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 40:20",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 40,
+  "translation": "Јер плодове планине узносе њему, и све звери пољске играју тамо.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "בול",
+      "gloss": "плодове"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "планине"
+    },
+    {
+      "surface": "ישאו",
+      "gloss": "узносе"
+    },
+    {
+      "surface": "לו",
+      "gloss": "њему"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и све"
+    },
+    {
+      "surface": "חית",
+      "gloss": "звери"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "пољске"
+    },
+    {
+      "surface": "ישחקו",
+      "gloss": "играју"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тамо"
+    }
+  ],
+  "timestamp": "2026-09-05T16:06:41.489681524Z",
+  "model": "glm-5.3"
+}

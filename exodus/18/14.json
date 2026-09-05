@@ -1,0 +1,130 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 18:14",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "И виде зет Мошеов ⟨את⟩ све што он чини народу, па рече: „Шта је ова ствар што ти чиниш народу? Зашто седиш сам, а сав народ стоји пред тобом од јутра до вечера?“",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "И виде"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "зет"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошеов"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "све"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "чини"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "народу"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "па рече"
+    },
+    {
+      "surface": "מה",
+      "gloss": "Шта"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ствар"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ова"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "чиниш"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "народу"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Зашто"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "седиш"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "сам"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "а сав"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "стоји"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "пред тобом"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "јутра"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "вечера"
+    }
+  ],
+  "timestamp": "2026-09-05T10:05:52.134872868Z",
+  "model": "glm-5.3"
+}

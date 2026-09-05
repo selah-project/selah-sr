@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 28:4",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "Остављачи Торе хвале злискога, а чуваоци Торе сукобљавају се с њима.",
+  "tokens": [
+    {
+      "surface": "עזבי",
+      "gloss": "Остављачи"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Торе"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "хвале"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "злискога"
+    },
+    {
+      "surface": "ושמרי",
+      "gloss": "а чуваоци"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Торе"
+    },
+    {
+      "surface": "יתגרו",
+      "gloss": "сукобљавају се"
+    },
+    {
+      "surface": "בם",
+      "gloss": "с њима"
+    }
+  ],
+  "timestamp": "2026-09-05T13:53:41.421913152Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 33:3",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 33,
+  "translation": "Зови ме, и ја ћу те одговорити, и јавићу ти велика и недокучива ствари којих не знаш.",
+  "tokens": [
+    {
+      "surface": "קרא",
+      "gloss": "Зови"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мене"
+    },
+    {
+      "surface": "ואענך",
+      "gloss": "и одговорићу те"
+    },
+    {
+      "surface": "ואגידה",
+      "gloss": "и јавићу"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "велика"
+    },
+    {
+      "surface": "ובצרות",
+      "gloss": "и недокучива"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "знаш"
+    }
+  ],
+  "timestamp": "2026-09-05T12:33:32.500908705Z",
+  "model": "glm-5.3"
+}

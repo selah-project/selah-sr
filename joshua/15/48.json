@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "joshua 15:48",
+  "book": "joshua",
+  "lang": "sr",
+  "chapter": 15,
+  "translation": "и у гори: Шамир, и Јатир, и Сохо;",
+  "tokens": [
+    {
+      "surface": "ובהר",
+      "gloss": "и у гори"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "Шамир"
+    },
+    {
+      "surface": "ויתיר",
+      "gloss": "и Јатир"
+    },
+    {
+      "surface": "ושוכה",
+      "gloss": "и Сохо"
+    }
+  ],
+  "timestamp": "2026-09-05T11:02:33.367496454Z",
+  "model": "glm-5.3"
+}

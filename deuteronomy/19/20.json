@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 19:20",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 19,
+  "translation": "И преостали чују и побоје се, и не додају више да чине тако зло дело у средини својој.",
+  "tokens": [
+    {
+      "surface": "והנשארים",
+      "gloss": "и преостали"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "чују"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "и побоје се"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יספו",
+      "gloss": "додају"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "да чине"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "више"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "тако дело"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "зло"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ово"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "у средини својој"
+    }
+  ],
+  "timestamp": "2026-09-05T10:50:44.602520114Z",
+  "model": "glm-5.3"
+}

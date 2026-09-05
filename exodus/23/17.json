@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 23:17",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "Три пута у години појавиће се сви твоји мушки пред лицем Адонаја Јахвеа.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "Три"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "пута"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "у години"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "појавиће се"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сви"
+    },
+    {
+      "surface": "זכורך",
+      "gloss": "твоји мушки"
+    },
+    {
+      "surface": "אל",
+      "gloss": "пред"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицем"
+    },
+    {
+      "surface": "האדן",
+      "gloss": "Адонаја"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    }
+  ],
+  "timestamp": "2026-09-05T10:07:40.941807198Z",
+  "model": "glm-5.3"
+}

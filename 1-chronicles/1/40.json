@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 1:40",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "Синови Шовала: Алјан и Манахат и Евал, Шефи и Онам; а синови Цивонови: Аја и Ана.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синови"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "Шовала"
+    },
+    {
+      "surface": "עלין",
+      "gloss": "Алјан"
+    },
+    {
+      "surface": "ומנחת",
+      "gloss": "и Манахат"
+    },
+    {
+      "surface": "ועיבל",
+      "gloss": "и Евал"
+    },
+    {
+      "surface": "שפי",
+      "gloss": "Шефи"
+    },
+    {
+      "surface": "ואונם",
+      "gloss": "и Онам"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "а синови"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "Цивонови"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Аја"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "и Ана"
+    }
+  ],
+  "timestamp": "2026-09-05T14:33:24.506417194Z",
+  "model": "glm-5.3"
+}

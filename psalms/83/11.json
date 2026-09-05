@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 83:11",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 83,
+  "translation": "Разорише се у Ен-Дору (Ен-дор), посташе ђубре за земљу.",
+  "tokens": [
+    {
+      "surface": "נשמדו",
+      "gloss": "разорише се"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "у Ен-"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "Дору (Ен-дор)"
+    },
+    {
+      "surface": "היו",
+      "gloss": "посташе"
+    },
+    {
+      "surface": "דמן",
+      "gloss": "ђубре"
+    },
+    {
+      "surface": "לאדמה",
+      "gloss": "за земљу"
+    }
+  ],
+  "timestamp": "2026-09-05T15:56:40.878377986Z",
+  "model": "glm-5.3"
+}

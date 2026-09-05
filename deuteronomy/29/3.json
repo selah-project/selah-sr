@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 29:3",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 29,
+  "translation": "а Јахве не даде вам срце да знате, ни очи да видите, ни уши да чујете, до дана овога.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "а не"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "даде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "לב",
+      "gloss": "срце"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "да знате"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "ни очи"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "да видите"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "ни уши"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "да чујете"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "היום",
+      "gloss": "дана"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овога"
+    }
+  ],
+  "timestamp": "2026-09-05T10:55:05.088427154Z",
+  "model": "glm-5.3"
+}

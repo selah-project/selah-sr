@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 119:68",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 119,
+  "translation": "Добар си ти и добро чиниш; научи ме уредбама својим.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "добар"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "си ти"
+    },
+    {
+      "surface": "ומטיב",
+      "gloss": "и добро чиниш"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "научи ме"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "уредбама својим"
+    }
+  ],
+  "timestamp": "2026-09-05T13:40:19.824955804Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 6:18",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "срце што кове намере зле, ноге живорне да истрче ка злу,",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "срце"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "што кове"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "намере"
+    },
+    {
+      "surface": "און",
+      "gloss": "зле"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "ноге"
+    },
+    {
+      "surface": "ממהרות",
+      "gloss": "живорне"
+    },
+    {
+      "surface": "לרוץ",
+      "gloss": "да истрче"
+    },
+    {
+      "surface": "לרעה",
+      "gloss": "ка злу"
+    }
+  ],
+  "timestamp": "2026-09-05T13:47:05.357597630Z",
+  "model": "glm-5.3"
+}

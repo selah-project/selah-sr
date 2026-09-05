@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 24:22",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "За Ицахарце: Шеломот; за синове Шеломота: Јахат.",
+  "tokens": [
+    {
+      "surface": "ליצהרי",
+      "gloss": "За Ицахарце"
+    },
+    {
+      "surface": "שלמות",
+      "gloss": "Шеломот"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "за синове"
+    },
+    {
+      "surface": "שלמות",
+      "gloss": "Шеломота"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Јахат"
+    }
+  ],
+  "timestamp": "2026-09-05T14:41:41.725254980Z",
+  "model": "glm-5.3"
+}

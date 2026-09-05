@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 22:5",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "Но ако не послушате ⟨את⟩ речи ових — мноме се заклех, ниц Јахве — да ће за пустош бити дом овај.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Но ако"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "послушате"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "речи"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "речи"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ових"
+    },
+    {
+      "surface": "בי",
+      "gloss": "мноме"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "се заклех"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ниц"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "לחרבה",
+      "gloss": "за пустош"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "биће"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овај"
+    }
+  ],
+  "timestamp": "2026-09-05T12:27:41.277461234Z",
+  "model": "glm-5.3"
+}

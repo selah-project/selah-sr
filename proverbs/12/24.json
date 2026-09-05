@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 12:24",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "Рука вредних влада, а немарност бива под ⟨данак⟩.",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "рука"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "вредних"
+    },
+    {
+      "surface": "תמשול",
+      "gloss": "влада"
+    },
+    {
+      "surface": "ורמיה",
+      "gloss": "а немарност"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "бива"
+    },
+    {
+      "surface": "למס",
+      "gloss": "под данак"
+    }
+  ],
+  "timestamp": "2026-09-05T16:00:24.503742071Z",
+  "model": "glm-5.3"
+}

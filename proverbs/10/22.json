@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 10:22",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "Благослов Јахвеа — ⟨он⟩ обогаћује, и не додаје му тугу ⟨са собом⟩.",
+  "tokens": [
+    {
+      "surface": "ברכת",
+      "gloss": "Благослов"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨он⟩"
+    },
+    {
+      "surface": "תעשיר",
+      "gloss": "обогаћује"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "додаје"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "тугу"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "⟨са собом⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T13:48:18.233608117Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 15:20",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 15,
+  "translation": "Син мудар обрадује оца, а глупан човек презире матер своју.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Син"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мудар"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "обрадује"
+    },
+    {
+      "surface": "אב",
+      "gloss": "оца"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "а глупан"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човек"
+    },
+    {
+      "surface": "בוזה",
+      "gloss": "презире"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "матер своју"
+    }
+  ],
+  "timestamp": "2026-09-05T13:49:53.770120123Z",
+  "model": "glm-5.3"
+}

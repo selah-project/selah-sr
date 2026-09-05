@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 8:7",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "Јер истину изговара непце моје, а безакоње ⟨је⟩ одвратност усана мојих.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "истину"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "изговара"
+    },
+    {
+      "surface": "חכי",
+      "gloss": "непце моје"
+    },
+    {
+      "surface": "ותועבת",
+      "gloss": "одвратност"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "усана мојих"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "безакоње"
+    }
+  ],
+  "timestamp": "2026-09-05T13:47:28.030435472Z",
+  "model": "glm-5.3"
+}

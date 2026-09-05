@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 10:7",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "И говорише му, говорећи: ако будеш добар овом народу и угодиш им, и говориш им речи добре, биће ти слуге све дане.",
+  "tokens": [
+    {
+      "surface": "וידברו",
+      "gloss": "И говорише"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "му"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорећи"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "будеш"
+    },
+    {
+      "surface": "לטוב",
+      "gloss": "добар"
+    },
+    {
+      "surface": "להעם",
+      "gloss": "народу"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овом"
+    },
+    {
+      "surface": "ורציתם",
+      "gloss": "и угодиш"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "и говориш"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "речи"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "добре"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "биће"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "слуге"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "дане"
+    }
+  ],
+  "timestamp": "2026-09-05T14:48:20.066849490Z",
+  "model": "glm-5.3"
+}

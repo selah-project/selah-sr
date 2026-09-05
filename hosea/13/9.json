@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 13:9",
+  "book": "hosea",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "Упропасти те, Израиљу, јер ⟨је⟩ у мени помоћ твоја.",
+  "tokens": [
+    {
+      "surface": "שחתך",
+      "gloss": "Упропасти те"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљу"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "בי",
+      "gloss": "у мени"
+    },
+    {
+      "surface": "בעזרך",
+      "gloss": "помоћ твоја"
+    }
+  ],
+  "timestamp": "2026-09-05T13:02:11.517493768Z",
+  "model": "glm-5.3"
+}

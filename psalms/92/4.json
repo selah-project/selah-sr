@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 92,
+  "translation": "На десятерожичној и на навелу, на хигајон с кинором.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "На"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "десятерожичној"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "и на"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "навелу"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "на"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "хигајон"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "с кинором"
+    }
+  ],
+  "timestamp": "2026-09-05T17:10:05.530915358Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 26:23",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 26,
+  "translation": "и две даске начини за углове шатра на обе закрајке.",
+  "tokens": [
+    {
+      "surface": "ושני",
+      "gloss": "и две"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "даске"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "начини"
+    },
+    {
+      "surface": "למקצעת",
+      "gloss": "за углове"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "шатра"
+    },
+    {
+      "surface": "בירכתים",
+      "gloss": "на ⟨обе⟩ закрајке"
+    }
+  ],
+  "timestamp": "2026-09-05T10:08:40.772265413Z",
+  "model": "glm-5.3"
+}

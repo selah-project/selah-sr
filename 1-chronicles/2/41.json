@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 2:41",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "И Шалум роди ⟨את⟩ Јекамју, и Јекамја роди ⟨את⟩ Елишаму.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "И Шалум"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јекамју"
+    },
+    {
+      "surface": "יקמיה",
+      "gloss": "Јекамју"
+    },
+    {
+      "surface": "ויקמיה",
+      "gloss": "и Јекамја"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Елишаму"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Елишаму"
+    }
+  ],
+  "timestamp": "2026-09-05T14:33:25.125921558Z",
+  "model": "glm-5.3"
+}

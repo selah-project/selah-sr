@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 35:22",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 35,
+  "translation": "Виде си, Јахве, не ћути; Адонај, не удаљуј се од мене.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "Виде си"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "ћути"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "удаљуј се"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "од мене"
+    }
+  ],
+  "timestamp": "2026-09-05T13:21:52.429590075Z",
+  "model": "glm-5.3"
+}

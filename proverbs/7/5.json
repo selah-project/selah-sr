@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 7:5",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "да те чува од жене туђе, од натјерке чије речи изгладише ⟨глатке су⟩.",
+  "tokens": [
+    {
+      "surface": "לשמרך",
+      "gloss": "да те чува"
+    },
+    {
+      "surface": "מאשה",
+      "gloss": "од жене"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "туђе"
+    },
+    {
+      "surface": "מנכריה",
+      "gloss": "од натјерке"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "речи њене"
+    },
+    {
+      "surface": "החליקה",
+      "gloss": "изгладише"
+    }
+  ],
+  "timestamp": "2026-09-05T13:47:32.637084083Z",
+  "model": "glm-5.3"
+}

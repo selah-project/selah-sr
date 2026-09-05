@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "lamentations 3:46",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Отворише против нас уста своја сви непријатељи наши.",
+  "tokens": [
+    {
+      "surface": "פצו",
+      "gloss": "отворише"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "против нас"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "уста своја"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сви"
+    },
+    {
+      "surface": "איבינו",
+      "gloss": "непријатељи наши"
+    }
+  ],
+  "timestamp": "2026-09-05T14:09:06.765582512Z",
+  "model": "glm-5.3"
+}

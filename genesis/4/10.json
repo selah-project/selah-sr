@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "И рече: шта учини? Глас крви брата твога вапије к мени од земље.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "מה",
+      "gloss": "шта"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "учини"
+    },
+    {
+      "surface": "קול",
+      "gloss": "глас"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "крви"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "брата твог"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "вапије"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "к мени"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "земље"
+    }
+  ],
+  "timestamp": "2026-09-05T09:39:07.812517273Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 14:7",
+  "book": "zechariah",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "И биће дан један — он ⟨је⟩ познат Јахвеу; не дан, ни ноћ; и биће у време вечера — биће светлост.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "и биће"
+    },
+    {
+      "surface": "יום",
+      "gloss": "дан"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "један"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "познат"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Јахвеу"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יום",
+      "gloss": "дан"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ни"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ноћ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "и биће"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "у време"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "вечера"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "биће"
+    },
+    {
+      "surface": "אור",
+      "gloss": "светлост"
+    }
+  ],
+  "timestamp": "2026-09-05T15:53:10.241123764Z",
+  "model": "glm-5.3"
+}

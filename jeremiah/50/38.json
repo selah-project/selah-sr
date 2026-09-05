@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "jeremiah 50:38",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 50,
+  "translation": "Суша на воде њене и осушиће се; јер земља идола ⟨је⟩ она, и од ужасâ лудују.",
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "Суша"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "מימיה",
+      "gloss": "воде њене"
+    },
+    {
+      "surface": "ויבשו",
+      "gloss": "и осушиће се"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земља"
+    },
+    {
+      "surface": "פסלים",
+      "gloss": "идола"
+    },
+    {
+      "surface": "היא",
+      "gloss": "она"
+    },
+    {
+      "surface": "ובאימים",
+      "gloss": "и од ужасâ"
+    },
+    {
+      "surface": "יתהללו",
+      "gloss": "лудују"
+    }
+  ],
+  "timestamp": "2026-09-05T12:40:06.550758080Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 15:22",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 15,
+  "translation": "Не верује да ће се вратити из таме, и одређен ⟨је⟩ он за мач.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "יאמין",
+      "gloss": "верује"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "вратити се"
+    },
+    {
+      "surface": "מני",
+      "gloss": "из"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "таме"
+    },
+    {
+      "surface": "וצפו",
+      "gloss": "и одређен"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "за"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "мач"
+    }
+  ],
+  "timestamp": "2026-09-05T16:03:14.975065643Z",
+  "model": "glm-5.3"
+}

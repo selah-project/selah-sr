@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 26,
+  "translation": "Не седех с људима лажним, и с прикривенима нећу долазити.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "седех"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "људима"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "лажним"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "и с"
+    },
+    {
+      "surface": "נעלמים",
+      "gloss": "прикривенима"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "долазим"
+    }
+  ],
+  "timestamp": "2026-09-05T13:21:13.609712176Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 8:11",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "А од Хушима роди ⟨את⟩ Авитува и ⟨את⟩ Елпала.",
+  "tokens": [
+    {
+      "surface": "ומחשים",
+      "gloss": "А од Хушима"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Авитува"
+    },
+    {
+      "surface": "אביטוב",
+      "gloss": "Авитува"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Елпала"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Елпала"
+    }
+  ],
+  "timestamp": "2026-09-05T14:36:05.978066737Z",
+  "model": "glm-5.3"
+}

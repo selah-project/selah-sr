@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 37:24",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 37,
+  "translation": "Зато га се боје људи; не види ⟨он⟩ ниједног мудрога срца.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "зато"
+    },
+    {
+      "surface": "יראוהו",
+      "gloss": "боје га се"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "људи"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "види"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ниједног"
+    },
+    {
+      "surface": "חכמי",
+      "gloss": "мудрих"
+    },
+    {
+      "surface": "לב",
+      "gloss": "срца"
+    }
+  ],
+  "timestamp": "2026-09-05T14:04:47.699079265Z",
+  "model": "glm-5.3"
+}

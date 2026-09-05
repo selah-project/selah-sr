@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 8:1",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "А Венијамин роди ⟨את⟩ Белу, прворођеног свог; Ашбел други, и Ахрах трећи.",
+  "tokens": [
+    {
+      "surface": "ובנימן",
+      "gloss": "А Венијамин"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Белу"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Белу"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "прворођеног свог"
+    },
+    {
+      "surface": "אשבל",
+      "gloss": "Ашбел"
+    },
+    {
+      "surface": "השני",
+      "gloss": "други"
+    },
+    {
+      "surface": "ואחרח",
+      "gloss": "и Ахрах"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "трећи"
+    }
+  ],
+  "timestamp": "2026-09-05T16:15:30.012138473Z",
+  "model": "glm-5.3"
+}

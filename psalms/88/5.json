@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 88:5",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 88,
+  "translation": "Набројан сам са силазницима у јаму, постадох као човек без снаге.",
+  "tokens": [
+    {
+      "surface": "נחשבתי",
+      "gloss": "набројан сам"
+    },
+    {
+      "surface": "עם",
+      "gloss": "са"
+    },
+    {
+      "surface": "יורדי",
+      "gloss": "силазницима"
+    },
+    {
+      "surface": "בור",
+      "gloss": "у јаму"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "постадох"
+    },
+    {
+      "surface": "כגבר",
+      "gloss": "као човек"
+    },
+    {
+      "surface": "אין",
+      "gloss": "без"
+    },
+    {
+      "surface": "איל",
+      "gloss": "снаге"
+    }
+  ],
+  "timestamp": "2026-09-05T15:57:42.721373637Z",
+  "model": "glm-5.3"
+}

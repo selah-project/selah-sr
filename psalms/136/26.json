@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 136:26",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 136,
+  "translation": "Захвалите Елу небеса, јер у век је хесед ⟨његов⟩.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "захвалите"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "Елу"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небеса"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "у век"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "хесед ⟨његов⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T13:43:06.120485464Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 3:3",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Зачиста се против мене обрну, обрће руку Своју ⟨против мене⟩ васколики дан.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Зачиста"
+    },
+    {
+      "surface": "בי",
+      "gloss": "против мене"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "обрну"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "обрће"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "руку Своју"
+    },
+    {
+      "surface": "כל",
+      "gloss": "васколики"
+    },
+    {
+      "surface": "היום",
+      "gloss": "дан"
+    }
+  ],
+  "timestamp": "2026-09-05T14:09:29.363685107Z",
+  "model": "glm-5.3"
+}

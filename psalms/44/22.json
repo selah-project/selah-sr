@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 44:22",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 44,
+  "translation": "Зар ⟨неће⟩ Елохим ово испитати? Јер он зна тајне срца.",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "зар"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "испитати"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ово"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "зна"
+    },
+    {
+      "surface": "תעלמות",
+      "gloss": "тајне"
+    },
+    {
+      "surface": "לב",
+      "gloss": "срца"
+    }
+  ],
+  "timestamp": "2026-09-05T13:25:51.473677446Z",
+  "model": "glm-5.3"
+}

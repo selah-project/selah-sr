@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 8:1",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "И рече Јахве мени: узми себи плочу велику и напиши на њој пером човечјим: Махер-шалал-хаш-баз.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мени"
+    },
+    {
+      "surface": "קח",
+      "gloss": "узми"
+    },
+    {
+      "surface": "לך",
+      "gloss": "себи"
+    },
+    {
+      "surface": "גליון",
+      "gloss": "плочу"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "велику"
+    },
+    {
+      "surface": "וכתב",
+      "gloss": "и напиши"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "на њој"
+    },
+    {
+      "surface": "בחרט",
+      "gloss": "пером"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "човечјим"
+    },
+    {
+      "surface": "למהר",
+      "gloss": "Махер"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "-шалал"
+    },
+    {
+      "surface": "חש",
+      "gloss": "-хаш"
+    },
+    {
+      "surface": "בז",
+      "gloss": "-баз"
+    }
+  ],
+  "timestamp": "2026-09-05T12:03:08.331033432Z",
+  "model": "glm-5.3"
+}

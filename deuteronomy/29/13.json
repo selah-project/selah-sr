@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 29:13",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 29,
+  "translation": "Не ⟨са⟩ вама самим склапам ја ⟨את⟩ завет овај и ⟨את⟩ клетву ову:",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩",
+      "marks": "са вама"
+    },
+    {
+      "surface": "לבדכם",
+      "gloss": "самим"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ја"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "склапам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "завет"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "завет"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "овај"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "клетву"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "клетву"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ову"
+    }
+  ],
+  "timestamp": "2026-09-05T10:54:30.470846559Z",
+  "model": "glm-5.3"
+}

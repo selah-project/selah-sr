@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 109:4",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 109,
+  "translation": "Узеврат за љубав моју тужите ме — а ја ⟨сам⟩ молитва.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "Узеврат за"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "љубав моју"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "тужите ме"
+    },
+    {
+      "surface": "ו אני",
+      "gloss": "а ја"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "молитва"
+    }
+  ],
+  "timestamp": "2026-09-05T13:39:10.490945659Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 27:2",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 27,
+  "translation": "И рече: „ево, остарио сам, не знам дан смрти своје.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ево"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨молим те⟩"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "остарио сам"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "знам"
+    },
+    {
+      "surface": "יום",
+      "gloss": "дан"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "смрти моје"
+    }
+  ],
+  "timestamp": "2026-09-05T09:47:37.537881791Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 32:6",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 32,
+  "translation": "И рече Јирмејаху (Јеремија): би ⟨се⟩ реч Јахвеова мени, говорећи:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Јирмејаху (Јеремија)"
+    },
+    {
+      "surface": "היה",
+      "gloss": "би се"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "реч"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеова"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мени"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорећи"
+    }
+  ],
+  "timestamp": "2026-09-05T12:33:49.484999766Z",
+  "model": "glm-5.3"
+}

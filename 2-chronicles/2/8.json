@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 2:8",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "и да ми припреми дрва у изобиљу, јер дом који ја зидам велик је и до чуда.",
+  "tokens": [
+    {
+      "surface": "ולהכין",
+      "gloss": "и да припреми"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "дрва"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "у изобиљу"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "בונה",
+      "gloss": "зидам"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "велик"
+    },
+    {
+      "surface": "והפלא",
+      "gloss": "и ⟨до чуда⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T14:46:30.611325303Z",
+  "model": "glm-5.3"
+}

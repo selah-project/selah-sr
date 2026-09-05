@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 83,
+  "translation": "Елохиме, не буде ти тишине, не ћути и не мируј, Еле.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Елохиме"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "тишине"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "ћути"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "мируј"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Еле"
+    }
+  ],
+  "timestamp": "2026-09-05T15:56:45.283228795Z",
+  "model": "glm-5.3"
+}

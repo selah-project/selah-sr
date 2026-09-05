@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 25:8",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 25,
+  "translation": "Зато овако рече Јахве Цеваот: јер што не послушасте ⟨את⟩ речи моје —",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "зато"
+    },
+    {
+      "surface": "כה",
+      "gloss": "овако"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "יען",
+      "gloss": "јер"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שמעתם",
+      "gloss": "послушасте"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "речи моје"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "речи моје"
+    }
+  ],
+  "timestamp": "2026-09-05T12:29:29.798410764Z",
+  "model": "glm-5.3"
+}

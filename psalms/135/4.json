@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 135:4",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 135,
+  "translation": "јер Јакова изабра себи Јах, Израила за власни шум свој.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Јакова"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "изабра"
+    },
+    {
+      "surface": "לו",
+      "gloss": "себи"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Јах"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израила"
+    },
+    {
+      "surface": "לסגלתו",
+      "gloss": "за власни шум свој"
+    }
+  ],
+  "timestamp": "2026-09-05T13:42:28.913677596Z",
+  "model": "glm-5.3"
+}

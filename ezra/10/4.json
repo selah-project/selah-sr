@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 10:4",
+  "book": "ezra",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "Устани, јер ⟨је⟩ на теби ствар, а ми смо с тобом: крепи се и учини!",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "Устани"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "на теби"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ствар"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "а ми"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "с тобом"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "крепи се"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "и учини"
+    }
+  ],
+  "timestamp": "2026-09-05T14:27:47.539653953Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 4:6",
+  "book": "song-of-songs",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "Док дан не осване и сенке не побегну, отићи ћу ⟨себи⟩ на гору мирисне смоле и на брежуљак тамјана.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "док"
+    },
+    {
+      "surface": "שיפוח",
+      "gloss": "не осване"
+    },
+    {
+      "surface": "היום",
+      "gloss": "дан"
+    },
+    {
+      "surface": "ונסו",
+      "gloss": "и не побегну"
+    },
+    {
+      "surface": "הצללים",
+      "gloss": "сенке"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "отићи ћу"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨себи⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "הר",
+      "gloss": "гору"
+    },
+    {
+      "surface": "המור",
+      "gloss": "мирисне смоле"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "גבעת",
+      "gloss": "брежуљак"
+    },
+    {
+      "surface": "הלבונה",
+      "gloss": "тамјана"
+    }
+  ],
+  "timestamp": "2026-09-05T14:07:11.578592819Z",
+  "model": "glm-5.3"
+}

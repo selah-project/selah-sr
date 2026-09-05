@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "ezra 2:47",
+  "book": "ezra",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "синови Гидела, синови Гахара, синови Реаје.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "Гидела"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "גחר",
+      "gloss": "Гахара"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "ראיה",
+      "gloss": "Реаје"
+    }
+  ],
+  "timestamp": "2026-09-05T14:25:03.832787082Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 2:7",
+  "book": "ezra",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Синови Еламови: хиљаду двесто педесет и четири.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синови"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Еламови"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "хиљаду"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "двесто"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "педесет"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "и четири"
+    }
+  ],
+  "timestamp": "2026-09-05T14:23:31.993841473Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 21:22",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "Зар Ела да учи ⟨човек⟩ знање, а ⟨он⟩ суди високима?",
+  "tokens": [
+    {
+      "surface": "הלאל",
+      "gloss": "Зар Ела"
+    },
+    {
+      "surface": "ילמד",
+      "gloss": "да учи"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "знање"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "а ⟨он⟩"
+    },
+    {
+      "surface": "רמим",
+      "gloss": "високима"
+    },
+    {
+      "surface": "ישפוט",
+      "gloss": "суди"
+    }
+  ],
+  "timestamp": "2026-09-05T13:59:57.763863673Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zephaniah 1:15",
+  "book": "zephaniah",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "Дан гнева ⟨је⟩ дан онај: дан тесноте и невоље, дан пустоши и разарања, дан таме и мрака, дан облака и сумрака.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "дан"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "гнева"
+    },
+    {
+      "surface": "היום",
+      "gloss": "дан"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "онај"
+    },
+    {
+      "surface": "יום",
+      "gloss": "дан"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "тесноте"
+    },
+    {
+      "surface": "ומצוקה",
+      "gloss": "и невоље"
+    },
+    {
+      "surface": "יום",
+      "gloss": "дан"
+    },
+    {
+      "surface": "שאה",
+      "gloss": "пустоши"
+    },
+    {
+      "surface": "ומשואה",
+      "gloss": "и разарања"
+    },
+    {
+      "surface": "יום",
+      "gloss": "дан"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "таме"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "и мрака"
+    },
+    {
+      "surface": "יום",
+      "gloss": "дан"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "облака"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "и сумрака"
+    }
+  ],
+  "timestamp": "2026-09-05T15:50:05.083147907Z",
+  "model": "glm-5.3"
+}

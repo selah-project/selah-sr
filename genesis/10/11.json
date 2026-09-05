@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "Из те земље изађе Ашур (Асирија), и сазида ⟨את⟩ Ниневу и ⟨את⟩ Реховот-Ир и ⟨את⟩ Келах.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "из"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земље"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "те"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "изађе"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашур"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "и сазида"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ниневу"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "Ниневу"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Реховот-Ир"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "Реховот"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Ир"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Келах"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "Келах"
+    }
+  ],
+  "timestamp": "2026-09-05T14:58:37.594397585Z",
+  "model": "glm-5.3"
+}

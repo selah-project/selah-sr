@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 25:35",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 25,
+  "translation": "и гугла под два кана из ње, и гугла под два кана из ње, и гугла под два кана из ње, за шест канова ⟨они⟩ што излазе из меноре.",
+  "tokens": [
+    {
+      "surface": "וכפתר",
+      "gloss": "и гугла"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "שני",
+      "gloss": "два"
+    },
+    {
+      "surface": "הקנים",
+      "gloss": "кана"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "из ње"
+    },
+    {
+      "surface": "וכפתר",
+      "gloss": "и гугла"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "שני",
+      "gloss": "два"
+    },
+    {
+      "surface": "הקנים",
+      "gloss": "кана"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "из ње"
+    },
+    {
+      "surface": "וכפתר",
+      "gloss": "и гугла"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "שני",
+      "gloss": "два"
+    },
+    {
+      "surface": "הקנים",
+      "gloss": "кана"
+    },
+    {
+      "surface": "мמנה",
+      "gloss": "из ње",
+      "surface_alt": "ממנה"
+    },
+    {
+      "surface": "לששת",
+      "gloss": "за шест"
+    },
+    {
+      "surface": "הקנים",
+      "gloss": "канова"
+    },
+    {
+      "surface": "היצאים",
+      "gloss": "што излазе"
+    },
+    {
+      "surface": "מן",
+      "gloss": "из"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "меноре"
+    }
+  ],
+  "timestamp": "2026-09-05T10:09:05.663409076Z",
+  "model": "glm-5.3"
+}

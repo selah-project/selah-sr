@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 9:8",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "И рече Елохим Ноаху (Нои) и синовима његовим с ⟨את⟩ њим, говорећи:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ноаху (Нои)"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и ⟨с⟩"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "синовима његовим"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "с ⟨את⟩ њим"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорећи"
+    }
+  ],
+  "timestamp": "2026-09-05T09:40:29.468563513Z",
+  "model": "glm-5.3"
+}

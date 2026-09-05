@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 39:36",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 39,
+  "translation": "⟨את⟩ сто, ⟨את⟩ све судове његове, и ⟨את⟩ хлеб лица.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сто"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "сто"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "све судове његове"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "судове његове"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "хлеб лица"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хлеб"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "лица"
+    }
+  ],
+  "timestamp": "2026-09-05T10:15:11.358859139Z",
+  "model": "glm-5.3"
+}

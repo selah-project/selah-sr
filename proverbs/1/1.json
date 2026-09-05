@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 1:1",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "Изреке Шломоа (Соломуна), сина Давидовог, краља Израиљевог —",
+  "tokens": [
+    {
+      "surface": "משלי",
+      "gloss": "Изреке"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шломоа (Соломун)"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давида"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "краљ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиља"
+    }
+  ],
+  "timestamp": "2026-09-05T13:45:24.566426449Z",
+  "model": "glm-5.3"
+}

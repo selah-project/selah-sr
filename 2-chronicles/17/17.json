@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 17:17",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 17,
+  "translation": "А од Бињамина: јунак силе Елијада (Елидa), и с њим наоружани луком и штитом двеста хиљада.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "а од"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Бињамина"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "јунак"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "силе"
+    },
+    {
+      "surface": "אלידע",
+      "gloss": "Елијада"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "и с њим"
+    },
+    {
+      "surface": "נשקי",
+      "gloss": "наоружани"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "луком"
+    },
+    {
+      "surface": "ומגן",
+      "gloss": "и штитом"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "двеста"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "хиљада"
+    }
+  ],
+  "timestamp": "2026-09-05T14:48:46.511498713Z",
+  "model": "glm-5.3"
+}

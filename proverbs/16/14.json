@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 16:14",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 16,
+  "translation": "Јарост краља ⟨јесу⟩ гласници смрти, а човек мудар помириће је.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "јарост"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "краља"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "гласници"
+    },
+    {
+      "surface": "מות",
+      "gloss": "смрти"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "а човек"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мудар"
+    },
+    {
+      "surface": "יכפרנה",
+      "gloss": "помириће је"
+    }
+  ],
+  "timestamp": "2026-09-05T13:49:43.484130813Z",
+  "model": "glm-5.3"
+}

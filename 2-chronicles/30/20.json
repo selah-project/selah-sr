@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 30:20",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 30,
+  "translation": "И послуша Јахве Хизкијаху, и излечи ⟨את⟩ народ.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "И послуша"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Хизкијаху"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "и излечи"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "народ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    }
+  ],
+  "timestamp": "2026-09-05T14:55:28.722914880Z",
+  "model": "glm-5.3"
+}

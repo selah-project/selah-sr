@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 50:12",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 50,
+  "translation": "И учинише синови његови њему тако као што им заповеди.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "и учинише"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "синови његови"
+    },
+    {
+      "surface": "לו",
+      "gloss": "њему"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тако"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "као што"
+    },
+    {
+      "surface": "צום",
+      "gloss": "заповеди"
+    }
+  ],
+  "timestamp": "2026-09-05T09:58:57.696853385Z",
+  "model": "glm-5.3"
+}

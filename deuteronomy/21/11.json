@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 21:11",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "и видиш међу робљем жену лепе појаве, и заљубиш се у њу, и узмеш је себи за жену,",
+  "tokens": [
+    {
+      "surface": "וראית",
+      "gloss": "и видиш"
+    },
+    {
+      "surface": "בשביה",
+      "gloss": "међу робљем"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "жену"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "лепе"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "појаве"
+    },
+    {
+      "surface": "וחשקת",
+      "gloss": "и заљубиш се"
+    },
+    {
+      "surface": "בה",
+      "gloss": "у њу"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "и узмеш"
+    },
+    {
+      "surface": "לך",
+      "gloss": "себи"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "за жену"
+    }
+  ],
+  "timestamp": "2026-09-05T10:50:48.278159213Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 1:20",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "И рекох вам: дошли сте до горе аморске, коју Јахве Елохим наш даје нама.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "и рекох"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "дошли сте"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "הר",
+      "gloss": "горе"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "аморске"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "коју"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Елохим наш"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "даје"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "нама"
+    }
+  ],
+  "timestamp": "2026-09-05T10:43:54.253652749Z",
+  "model": "glm-5.3"
+}

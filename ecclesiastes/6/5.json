@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "Још, сунце није видео ни знао ⟨шта⟩; више мира има овај од онога.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Још"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "сунце"
+    },
+    {
+      "surface": "לא",
+      "gloss": "није"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "видео"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ни"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "знао"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "мира"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "овај"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "од онога"
+    }
+  ],
+  "timestamp": "2026-09-05T14:13:17.268827193Z",
+  "model": "glm-5.3"
+}

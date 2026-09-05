@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 6:22",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "А синови Узиила ⟨бејаху⟩ Мишаел и Елцафан и Ситри.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "А синови"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "Узиила"
+    },
+    {
+      "surface": "מישאל",
+      "gloss": "Мишаел"
+    },
+    {
+      "surface": "ואלצפן",
+      "gloss": "и Елцафан"
+    },
+    {
+      "surface": "וסתרי",
+      "gloss": "и Ситри"
+    }
+  ],
+  "timestamp": "2026-09-05T10:00:14.811465968Z",
+  "model": "glm-5.3"
+}

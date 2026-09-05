@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 31:5",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 31,
+  "translation": "Ако ходих са таштином, и пожури нога моја на превару —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "ходих"
+    },
+    {
+      "surface": "עם",
+      "gloss": "са"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "таштином"
+    },
+    {
+      "surface": "ותחש",
+      "gloss": "и пожури"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "превару"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "нога моја"
+    }
+  ],
+  "timestamp": "2026-09-05T14:02:14.157691743Z",
+  "model": "glm-5.3"
+}

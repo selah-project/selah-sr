@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 23:21",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "И радова се сав народ земље, и град би миран; а ⟨את⟩ Атаљаху (Аталија) убише мачем.",
+  "tokens": [
+    {
+      "surface": "וישמחו",
+      "gloss": "и радова се"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сав"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земље"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "и град"
+    },
+    {
+      "surface": "שקטה",
+      "gloss": "би миран"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "Атаљаху"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Атаљаху"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "убише"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "мачем"
+    }
+  ],
+  "timestamp": "2026-09-05T14:50:29.889581989Z",
+  "model": "glm-5.3"
+}

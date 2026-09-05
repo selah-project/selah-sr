@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 95:8",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 95,
+  "translation": "Не очврсните срца своја као у Мериви, као у дан Масе у пустињи.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "очврсните"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "срца своја"
+    },
+    {
+      "surface": "כמריבה",
+      "gloss": "као у Мериви"
+    },
+    {
+      "surface": "кיום",
+      "gloss": "као у дан"
+    },
+    {
+      "surface": "מסה",
+      "gloss": "Масе"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "у пустињи"
+    }
+  ],
+  "timestamp": "2026-09-05T15:57:44.442485419Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 26:9",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 26,
+  "translation": "Не сакупљај ⟨са⟩ грешницима душу моју, ни са људима крви живот мој.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "сакупљај"
+    },
+    {
+      "surface": "עם",
+      "gloss": "са"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "грешницима"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душу моју"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ни са"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "људима"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "крви"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "живот мој"
+    }
+  ],
+  "timestamp": "2026-09-05T13:20:25.255544048Z",
+  "model": "glm-5.3"
+}

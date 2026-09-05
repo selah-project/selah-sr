@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 14:15",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "Прост верује свакој речи, а лукав схвата свој корак.",
+  "tokens": [
+    {
+      "surface": "п הפתי",
+      "gloss": "прост"
+    },
+    {
+      "surface": "יאמין",
+      "gloss": "верује"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "свакој"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "речи"
+    },
+    {
+      "surface": "וערום",
+      "gloss": "а лукав"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "схвата"
+    },
+    {
+      "surface": "לאשרו",
+      "gloss": "свој корак"
+    }
+  ],
+  "timestamp": "2026-09-05T13:48:59.797239421Z",
+  "model": "glm-5.3"
+}

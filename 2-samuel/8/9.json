@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 8:9",
+  "book": "2-samuel",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "И чу Тои, краљ Хамата, да удари Давид ⟨את⟩ ⟨целу⟩ војску Хададезерову.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "И чу"
+    },
+    {
+      "surface": "תעי",
+      "gloss": "Тои"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "краљ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Хамата"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "удари"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨целу⟩ војску Хададезерову"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сву"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "војску"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Хададезера"
+    }
+  ],
+  "timestamp": "2026-09-05T11:29:39.455384461Z",
+  "model": "glm-5.3"
+}

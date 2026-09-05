@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 33:22",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 33,
+  "translation": "И за Дана рече: Дан ⟨је⟩ младић лава, скочећи из Башана.",
+  "tokens": [
+    {
+      "surface": "ולדן",
+      "gloss": "и за Дана"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Дан"
+    },
+    {
+      "surface": "גור",
+      "gloss": "младић"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "лава"
+    },
+    {
+      "surface": "יזנק",
+      "gloss": "скочећи"
+    },
+    {
+      "surface": "מן",
+      "gloss": "из"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Башана"
+    }
+  ],
+  "timestamp": "2026-09-05T15:16:41.684606487Z",
+  "model": "glm-5.3"
+}

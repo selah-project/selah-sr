@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 15:19",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 15,
+  "translation": "И рата не бејаше до године тридесет пете владавине Асине.",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "и рата"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "бејаше"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "године"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "тридесет"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "и пете"
+    },
+    {
+      "surface": "лמלכות",
+      "gloss": "владавине"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Асине"
+    }
+  ],
+  "timestamp": "2026-09-05T14:48:44.798388874Z",
+  "model": "glm-5.3"
+}

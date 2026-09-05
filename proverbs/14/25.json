@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 14:25",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "Спасава душе сведок истине, а који издахњује лажи ⟨то јесте⟩ превара.",
+  "tokens": [
+    {
+      "surface": "מציל",
+      "gloss": "спасава"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "душе"
+    },
+    {
+      "surface": "עד",
+      "gloss": "сведок"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "истине"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "а који издахњује"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "лажи"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "превара"
+    }
+  ],
+  "timestamp": "2026-09-05T13:49:25.564609770Z",
+  "model": "glm-5.3"
+}

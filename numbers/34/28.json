@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 34:28",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 34,
+  "translation": "и за племе синâ Нефталија кнез Педаел, син Амиудов.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "и за племе"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синâ"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Нефталија"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "кнез"
+    },
+    {
+      "surface": "פדהאל",
+      "gloss": "Педаел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "Амиудов"
+    }
+  ],
+  "timestamp": "2026-09-05T10:42:16.528732932Z",
+  "model": "glm-5.3"
+}

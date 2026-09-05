@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 6:16",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "Шест ⟨таквих⟩ ствари мрзи Јахве, и седам гадости су души његовој.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "шест"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "⟨таквих⟩"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "мрзи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "и седам"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "гадости"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "души његовој"
+    }
+  ],
+  "timestamp": "2026-09-05T13:47:11.362233803Z",
+  "model": "glm-5.3"
+}

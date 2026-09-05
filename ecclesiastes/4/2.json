@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "И хвалих ја ⟨את⟩ мртве што већ умреше више од живих који су још ⟨живи⟩ до сада.",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "и хвалих"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "мртве"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "мртве"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "што већ"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "умреше"
+    },
+    {
+      "surface": "מן",
+      "gloss": "више од"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "живих"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "המה",
+      "gloss": "они"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "живи"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "до сада"
+    }
+  ],
+  "timestamp": "2026-09-05T14:12:09.206149399Z",
+  "model": "glm-5.3"
+}

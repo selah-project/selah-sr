@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 25:1",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 25,
+  "translation": "Давидово. К теби, Јахве, душу своју дижем.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Давидово"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "к теби"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душу моју"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "дижем"
+    }
+  ],
+  "timestamp": "2026-09-05T13:20:44.783535626Z",
+  "model": "glm-5.3"
+}

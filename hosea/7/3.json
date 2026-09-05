@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 7:3",
+  "book": "hosea",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Злом својим веселе цара, а лажима својим кнезове.",
+  "tokens": [
+    {
+      "surface": "ברעתם",
+      "gloss": "злом својим"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "веселе"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цара"
+    },
+    {
+      "surface": "ובכחשיהם",
+      "gloss": "а лажима својим"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "кнезове"
+    }
+  ],
+  "timestamp": "2026-09-05T13:01:37.819977204Z",
+  "model": "glm-5.3"
+}

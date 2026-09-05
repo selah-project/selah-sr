@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 7:8",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "И рече Јахве Мошеу и Арону ⟨говорећи⟩:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨немо⟩"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошеу"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и ⟨немо⟩"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Арону"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨говорећи⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T15:02:57.247066094Z",
+  "model": "glm-5.3"
+}

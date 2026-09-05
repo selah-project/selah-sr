@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 33:25",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 33,
+  "translation": "И кренуше из Хараде, и подигоше логор у Махелоту.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "И кренуше"
+    },
+    {
+      "surface": "מחרדה",
+      "gloss": "из Хараде"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "и подигоше логор"
+    },
+    {
+      "surface": "במקהלת",
+      "gloss": "у Махелота"
+    }
+  ],
+  "timestamp": "2026-09-05T10:42:05.379361351Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 8:18",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "Утехa ми ⟨је⟩ против туге; нада мном срце моје изнемогло.",
+  "tokens": [
+    {
+      "surface": "מבליגיתי",
+      "gloss": "утеха моја"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "против"
+    },
+    {
+      "surface": "יגון",
+      "gloss": "туге"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "нада мном"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "срце моје"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "изнемогло"
+    }
+  ],
+  "timestamp": "2026-09-05T12:24:43.576280180Z",
+  "model": "glm-5.3"
+}

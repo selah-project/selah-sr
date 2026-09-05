@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 2:10",
+  "book": "esther",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Не објави Естер ⟨את⟩ народ свој ни ⟨את⟩ род свој, јер Мордехај заповеди њој да не објави.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "објави"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Естер"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "народ свој"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "народ свој"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "род свој"
+    },
+    {
+      "surface": "מולדתה",
+      "gloss": "род свој"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Мордехај"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповеди"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "њој"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "да"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "објави"
+    }
+  ],
+  "timestamp": "2026-09-05T16:49:55.017272527Z",
+  "model": "glm-5.3"
+}

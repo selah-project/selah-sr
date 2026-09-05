@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 32:34",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 32,
+  "translation": "И саградише синови Гада ⟨את⟩ Дивон и ⟨את⟩ Атарот и ⟨את⟩ Ароер.",
+  "tokens": [
+    {
+      "surface": "ויבנו",
+      "gloss": "И саградише"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гада"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Дивон"
+    },
+    {
+      "surface": "דיבן",
+      "gloss": "Дивон"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Атарот"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "Атарот"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Ароер"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "Ароер"
+    }
+  ],
+  "timestamp": "2026-09-05T15:11:23.910021876Z",
+  "model": "glm-5.3"
+}

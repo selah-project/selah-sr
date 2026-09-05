@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "deuteronomy 28:44",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "Он ће ти позајмљивати, а ти нећеш њему; он ће бити глава, а ти реп.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "ילוך",
+      "gloss": "позајмљивати ће"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "а ти"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תלונו",
+      "gloss": "њему"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "биће"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "глава"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "а ти"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "бићеш"
+    },
+    {
+      "surface": "לזנב",
+      "gloss": "реп"
+    }
+  ],
+  "timestamp": "2026-09-05T10:53:58.563819697Z",
+  "model": "glm-5.3"
+}

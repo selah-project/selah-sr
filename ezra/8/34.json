@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "ezra 8:34",
+  "book": "ezra",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "Бројем и тежином за све; и написа се сав терет у време оно.",
+  "tokens": [
+    {
+      "surface": "במספר",
+      "gloss": "бројем"
+    },
+    {
+      "surface": "במשקל",
+      "gloss": "тежином"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "за све"
+    },
+    {
+      "surface": "ויכתב",
+      "gloss": "и написа се"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сав"
+    },
+    {
+      "surface": "המשקל",
+      "gloss": "терет"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "у време"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "оно"
+    }
+  ],
+  "timestamp": "2026-09-05T14:28:08.701394759Z",
+  "model": "glm-5.3"
+}

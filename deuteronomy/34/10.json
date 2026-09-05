@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 34:10",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 34,
+  "translation": "И не уста више пророка у Израиљу као Моше, кога је Јахве знао лицем у лице:",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "И не"
+    },
+    {
+      "surface": "קם",
+      "gloss": "уста"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "пророка"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "више"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "у Израиљу"
+    },
+    {
+      "surface": "כמשה",
+      "gloss": "као Моше"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кога"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "је знао"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "лицем"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "лице"
+    }
+  ],
+  "timestamp": "2026-09-05T10:57:26.493023363Z",
+  "model": "glm-5.3"
+}

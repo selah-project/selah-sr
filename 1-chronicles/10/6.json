@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 10:6",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "И умре Шаул и тројица синова његових, и сав дом његов заједно умре.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "и умре"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "и тројица"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "синова његових"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и сав"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "дом његов"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "заједно"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "умре"
+    }
+  ],
+  "timestamp": "2026-09-05T14:38:28.304416611Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 49:16",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 49,
+  "translation": "Дан ће судити народ свој, као један од племена Израиљевих.",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "Дан"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "ће судити"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "народ свој"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "као један"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "од племена"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљевих"
+    }
+  ],
+  "timestamp": "2026-09-05T09:58:27.254630111Z",
+  "model": "glm-5.3"
+}

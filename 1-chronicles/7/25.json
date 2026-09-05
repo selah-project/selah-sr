@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 7:25",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "и Рефах син његов, и Решеф, и Телах син његов, и Тахан син његов;",
+  "tokens": [
+    {
+      "surface": "ורפח",
+      "gloss": "и Рефах"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син његов"
+    },
+    {
+      "surface": "ורשף",
+      "gloss": "и Решеф"
+    },
+    {
+      "surface": "ותלח",
+      "gloss": "и Телах"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син његов"
+    },
+    {
+      "surface": "ותחן",
+      "gloss": "и Тахан"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син његов"
+    }
+  ],
+  "timestamp": "2026-09-05T14:36:32.587487652Z",
+  "model": "glm-5.3"
+}

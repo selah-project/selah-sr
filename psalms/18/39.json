@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 18:39",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "Страшивам их, и не могу да устану, падају под ноге моје.",
+  "tokens": [
+    {
+      "surface": "אמחצם",
+      "gloss": "страшивам их"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יכלו",
+      "gloss": "могу"
+    },
+    {
+      "surface": "קום",
+      "gloss": "да устану"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "падају"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ноге моје"
+    }
+  ],
+  "timestamp": "2026-09-05T13:19:05.321657565Z",
+  "model": "glm-5.3"
+}

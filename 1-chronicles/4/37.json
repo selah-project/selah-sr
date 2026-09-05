@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 4:37",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "и Зиза (Зиза), син Шифијев, син Алонов, син Једајин, син Шимријев, син Шемајин.",
+  "tokens": [
+    {
+      "surface": "וזיזא",
+      "gloss": "и Зиза"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "שפעי",
+      "gloss": "Шифи"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אלון",
+      "gloss": "Алон"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "ידיה",
+      "gloss": "Једаја"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "Шимри"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Шемаја"
+    }
+  ],
+  "timestamp": "2026-09-05T14:35:06.324793302Z",
+  "model": "glm-5.3"
+}

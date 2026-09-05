@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 81,
+  "translation": "Управнику, према гититском ⟨начину⟩, Асафу.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Управнику"
+    },
+    {
+      "surface": "על",
+      "gloss": "према"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "гититском"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "Асафу"
+    }
+  ],
+  "timestamp": "2026-09-05T13:33:02.861670996Z",
+  "model": "glm-5.3"
+}

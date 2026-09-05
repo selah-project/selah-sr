@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 38:27",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 38,
+  "translation": "И би у време рађања њеног — и ено, близанци у утроби њеној.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И би"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "у време"
+    },
+    {
+      "surface": "לדתה",
+      "gloss": "рађања њеног"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и ено"
+    },
+    {
+      "surface": "תאומים",
+      "gloss": "близанци"
+    },
+    {
+      "surface": "בבטנה",
+      "gloss": "у утроби њеној"
+    }
+  ],
+  "timestamp": "2026-09-05T16:32:35.619651603Z",
+  "model": "glm-5.3"
+}

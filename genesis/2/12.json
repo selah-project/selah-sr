@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "И злато те земље ⟨је⟩ добро; онде ⟨је⟩ бдолије и камен шохам.",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "И злато"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "те земље"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "те"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "שם",
+      "gloss": "онде"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "бдолије"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "и камен"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "шохам"
+    }
+  ],
+  "timestamp": "2026-09-05T14:58:18.583626357Z",
+  "model": "glm-5.3"
+}

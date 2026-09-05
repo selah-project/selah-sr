@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 148,
+  "translation": "Планине и сва побрђа, дрвеће родно и сви кедрови,",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "планине"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и сва"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "побрђа"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "дрвеће"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "родно"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и сви"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "кедрови"
+    }
+  ],
+  "timestamp": "2026-09-05T13:44:34.838668383Z",
+  "model": "glm-5.3"
+}

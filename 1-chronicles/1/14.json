@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 1:14",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "и ⟨את⟩ Јевусеја, и ⟨את⟩ Амореја, и ⟨את⟩ Гиргашеја;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Јевусеја"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "Јевусеја"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Амореја"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "Амореја"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Гиргашеја"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "Гиргашеја"
+    }
+  ],
+  "timestamp": "2026-09-05T14:33:37.560621909Z",
+  "model": "glm-5.3"
+}

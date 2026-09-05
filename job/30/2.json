@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 30:2",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 30,
+  "translation": "И снага руку њихових — чему мени? На њима пропаде зрелост.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "כח",
+      "gloss": "снага"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "руку њихових"
+    },
+    {
+      "surface": "למה",
+      "gloss": "чему"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мени"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "на њима"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "пропаде"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "зрелост"
+    }
+  ],
+  "timestamp": "2026-09-05T17:19:13.550075717Z",
+  "model": "glm-5.3"
+}

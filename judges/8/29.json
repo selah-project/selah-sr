@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "judges 8:29",
+  "book": "judges",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "И отиде Јерубал, син Јоашов, и живе у дому своме.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "и отиде"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "Јерубал"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Јоашов"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "и живе"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "у дому своме"
+    }
+  ],
+  "timestamp": "2026-09-05T11:09:22.449860551Z",
+  "model": "glm-5.3"
+}

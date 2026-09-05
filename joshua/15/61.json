@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "joshua 15:61",
+  "book": "joshua",
+  "lang": "sr",
+  "chapter": 15,
+  "translation": "У пустињи: Беит ха-Арава, Мидин и Скаха.",
+  "tokens": [
+    {
+      "surface": "במדבר",
+      "gloss": "у пустињи"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Беит"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "ха-Арава"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Мидин"
+    },
+    {
+      "surface": "וסככה",
+      "gloss": "и Скаха"
+    }
+  ],
+  "timestamp": "2026-09-05T16:36:24.939169117Z",
+  "model": "glm-5.3"
+}

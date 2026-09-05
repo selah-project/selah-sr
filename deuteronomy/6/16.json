@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "Не искушавајте Јахвеа, Елохима свога, као што сте искушавали ⟨га⟩ у Маси.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "искушавајте"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јахвеа"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Елохима свога"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "као што"
+    },
+    {
+      "surface": "נסיתם",
+      "gloss": "сте искушавали"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "у Маси"
+    }
+  ],
+  "timestamp": "2026-09-05T10:45:11.624838314Z",
+  "model": "glm-5.3"
+}

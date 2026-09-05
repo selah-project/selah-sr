@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 101:1",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 101,
+  "translation": "Давидов мизмор. Хесед и суд певаћу; теби, Јахве, свираћу.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "Давидов"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мизмор"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "хесед"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "и суд"
+    },
+    {
+      "surface": "אשירה",
+      "gloss": "певаћу"
+    },
+    {
+      "surface": "לך",
+      "gloss": "теби"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "свираћу"
+    }
+  ],
+  "timestamp": "2026-09-05T15:57:55.468343474Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 10:6",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "постављен ⟨је⟩ безумник на висинама многим, а богати у понизији седе.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "постављен"
+    },
+    {
+      "surface": "הסכל",
+      "gloss": "безумник"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "на висинама"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "многим"
+    },
+    {
+      "surface": "ועשירים",
+      "gloss": "а богати"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "у понизији"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "седе"
+    }
+  ],
+  "timestamp": "2026-09-05T14:12:25.762690546Z",
+  "model": "glm-5.3"
+}

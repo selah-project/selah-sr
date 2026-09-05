@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 19:32",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 19,
+  "translation": "Пред седом устај, и лице старца поштуј, и бој се Елохима својега: ја ⟨сам⟩ Јахве.",
+  "tokens": [
+    {
+      "surface": "מפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "седом"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "устај"
+    },
+    {
+      "surface": "והדרת",
+      "gloss": "и поштуј"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лице"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "старца"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "и бој се"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "Елохима својега"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-09-05T10:23:47.878854475Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 1:2",
+  "book": "judges",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "И рече Јахве: Јуда нека уде; ето, дадох ⟨את⟩ земљу у руку његову.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јуда"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "нека уде"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ето"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "дадох"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "земљу"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земљу"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "у руку његову"
+    }
+  ],
+  "timestamp": "2026-09-05T11:06:07.113596127Z",
+  "model": "glm-5.3"
+}

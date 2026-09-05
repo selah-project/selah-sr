@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 28:3",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "Али рече ми Елохим: „Не саградиш дом имену Моме, јер човек ратова си ти и крв си проливао.",
+  "tokens": [
+    {
+      "surface": "והאלהים",
+      "gloss": "Али Елохим"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "саградиш"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "имену Моме"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "מלחמות",
+      "gloss": "ратова"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "си ти"
+    },
+    {
+      "surface": "ודמים",
+      "gloss": "и крв"
+    },
+    {
+      "surface": "שפכת",
+      "gloss": "си проливао"
+    }
+  ],
+  "timestamp": "2026-09-05T14:44:30.871226059Z",
+  "model": "glm-5.3"
+}

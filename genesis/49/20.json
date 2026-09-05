@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 49:20",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 49,
+  "translation": "Од Ашера дебет хлеб његов, и он даје посластице краљевске.",
+  "tokens": [
+    {
+      "surface": "מאשר",
+      "gloss": "Од Ашера"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "дебет"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "хлеб његов"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "и он"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "даје"
+    },
+    {
+      "surface": "מעדני",
+      "gloss": "посластице"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "краљевске"
+    }
+  ],
+  "timestamp": "2026-09-05T09:58:44.592111369Z",
+  "model": "glm-5.3"
+}

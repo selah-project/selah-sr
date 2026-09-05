@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 11:28",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "Ира (Ира), син Икешов, Текоитa (Текоитa), Авиезер (Авиезер) Анатотита (Анатотита).",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "Ира"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "Икешов"
+    },
+    {
+      "surface": "התקועי",
+      "gloss": "Текоитa"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "Авиезер"
+    },
+    {
+      "surface": "הענתותי",
+      "gloss": "Анатотитa"
+    }
+  ],
+  "timestamp": "2026-09-05T14:37:23.165116164Z",
+  "model": "glm-5.3"
+}

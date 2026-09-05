@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 27:9",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 27,
+  "translation": "Уље и тамјан веселе срце, и слаткост пријатеља његова ⟨од⟩ савета душе.",
+  "tokens": [
+    {
+      "surface": "שמן",
+      "gloss": "уље"
+    },
+    {
+      "surface": "וקטרת",
+      "gloss": "и тамјан"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "веселе"
+    },
+    {
+      "surface": "לב",
+      "gloss": "срце"
+    },
+    {
+      "surface": "ומתק",
+      "gloss": "и слаткост"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "пријатеља његова"
+    },
+    {
+      "surface": "מעצת",
+      "gloss": "⟨од⟩ савета"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "душе"
+    }
+  ],
+  "timestamp": "2026-09-05T13:52:54.671218275Z",
+  "model": "glm-5.3"
+}

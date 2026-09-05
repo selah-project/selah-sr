@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 113:6",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 113,
+  "translation": "који се смирава да гледа на небесима и на земљи.",
+  "tokens": [
+    {
+      "surface": "המשפילי",
+      "gloss": "смирава се"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "да гледа"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "на небесима"
+    },
+    {
+      "surface": "ובארץ",
+      "gloss": "и на земљи"
+    }
+  ],
+  "timestamp": "2026-09-05T13:38:32.011806504Z",
+  "model": "glm-5.3"
+}

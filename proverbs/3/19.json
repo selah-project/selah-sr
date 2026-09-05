@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 3:19",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Јахве је мудрошћу утемељио земљу, разуме је учврстио небеса.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "мудрошћу"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "утемељио"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земљу"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "учврстио"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "небеса"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "разуме"
+    }
+  ],
+  "timestamp": "2026-09-05T13:46:15.916176781Z",
+  "model": "glm-5.3"
+}

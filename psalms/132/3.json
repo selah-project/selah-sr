@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 132,
+  "translation": "Нећу ући у шатор дома свога, нећу се попети на постељу одра свога —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Нећу"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "ући"
+    },
+    {
+      "surface": "вאהל",
+      "gloss": "у шатор"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "дома свога"
+    },
+    {
+      "surface": "אם",
+      "gloss": "нећу"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "се попети"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "постељу"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "одра свога"
+    }
+  ],
+  "timestamp": "2026-09-05T13:42:04.131872581Z",
+  "model": "glm-5.3"
+}

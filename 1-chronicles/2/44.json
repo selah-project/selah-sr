@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 2:44",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "И Шема роди ⟨את⟩ Рахама, оца Јоркеаму; и Рекем роди ⟨את⟩ Шамаја.",
+  "tokens": [
+    {
+      "surface": "ושמע",
+      "gloss": "И Шема"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Рахама"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "Рахама"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "оца"
+    },
+    {
+      "surface": "ירקעם",
+      "gloss": "Јоркеаму"
+    },
+    {
+      "surface": "ורקם",
+      "gloss": "и Рекем"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Шамаја"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Шамаја"
+    }
+  ],
+  "timestamp": "2026-09-05T14:33:25.126504153Z",
+  "model": "glm-5.3"
+}

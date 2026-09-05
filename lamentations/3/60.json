@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "lamentations 3:60",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Видео си сву освету њихову, све смисле њихове против мене.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "Видео си"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сву"
+    },
+    {
+      "surface": "נקמתם",
+      "gloss": "освету њихову"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "смисле њихове"
+    },
+    {
+      "surface": "לי",
+      "gloss": "против мене"
+    }
+  ],
+  "timestamp": "2026-09-05T14:09:26.082037468Z",
+  "model": "glm-5.3"
+}

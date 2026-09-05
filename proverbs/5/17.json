@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 5:17",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Нека буду теби самоме, и ⟨да нема⟩ туђинима ⟨את⟩ (с тобом).",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "Нека буду"
+    },
+    {
+      "surface": "לך",
+      "gloss": "теби"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "самоме"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и ⟨да нема⟩"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "туђинима"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ (с тобом)",
+      "marks": "туђинима"
+    }
+  ],
+  "timestamp": "2026-09-05T13:46:26.108409622Z",
+  "model": "glm-5.3"
+}

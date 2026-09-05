@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 6:37",
+  "book": "1-kings",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "У четвртој години би основан дом Јахвеов, у месецу Зиву.",
+  "tokens": [
+    {
+      "surface": "בשנה",
+      "gloss": "У години"
+    },
+    {
+      "surface": "הרביעית",
+      "gloss": "четвртој"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "би основан"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеов"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "у месецу"
+    },
+    {
+      "surface": "זו",
+      "gloss": "Зиву"
+    }
+  ],
+  "timestamp": "2026-09-05T11:40:18.829231311Z",
+  "model": "glm-5.3"
+}

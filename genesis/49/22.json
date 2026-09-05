@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 49:22",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 49,
+  "translation": "Син плодоносан ⟨је⟩ Јосеф (Јосиф), син плодоносан над извором; кћери стичу над зидом.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "плодоносан"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Јосеф"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "плодоносан"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "над"
+    },
+    {
+      "surface": "עין",
+      "gloss": "извором"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "кћери"
+    },
+    {
+      "surface": "צעדה",
+      "gloss": "стичу"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "над"
+    },
+    {
+      "surface": "שור",
+      "gloss": "зидом"
+    }
+  ],
+  "timestamp": "2026-09-05T09:58:41.128220517Z",
+  "model": "glm-5.3"
+}

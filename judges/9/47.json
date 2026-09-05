@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "judges 9:47",
+  "book": "judges",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "И јавише Авимелеху да су се скупили сви господари куле Шекемске.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "И јавише"
+    },
+    {
+      "surface": "לאבימלך",
+      "gloss": "Авимелеху"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "התקבצו",
+      "gloss": "скупили су се"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сви"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "господари"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "куле"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Шекемске"
+    }
+  ],
+  "timestamp": "2026-09-05T11:10:16.391024536Z",
+  "model": "glm-5.3"
+}

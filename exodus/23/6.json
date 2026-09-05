@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 23:6",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "Не погну правду сиромаха свога у парници његовој.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "погну"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "правду"
+    },
+    {
+      "surface": "אבינך",
+      "gloss": "сиромаха свога"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "у парници његовој"
+    }
+  ],
+  "timestamp": "2026-09-05T10:07:18.806027063Z",
+  "model": "glm-5.3"
+}

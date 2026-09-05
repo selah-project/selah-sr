@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 9:18",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "И бише синови Нохови, који изађоше из ковчега, Шем, Хам и Јафет; а Хам, ⟨он⟩ ⟨је⟩ отац Кенаана.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "и бише"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Нохови"
+    },
+    {
+      "surface": "היצאים",
+      "gloss": "који изађоше"
+    },
+    {
+      "surface": "מן",
+      "gloss": "из"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ковчега"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Шем"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "и Хам"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "и Јафет"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "а Хам"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨он⟩"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "⟨је⟩ отац"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Кенаана"
+    }
+  ],
+  "timestamp": "2026-09-05T09:40:25.833238565Z",
+  "model": "glm-5.3"
+}

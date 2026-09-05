@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 3:18",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "И трње и чичак нека ти ника, и јешћеш ⟨את⟩ траву пољску.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "И трње"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "и чичак"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "ника"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "и јешћеш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "траву пољску"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "траву"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "пољску"
+    }
+  ],
+  "timestamp": "2026-09-05T09:39:58.821706227Z",
+  "model": "glm-5.3"
+}

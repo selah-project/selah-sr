@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 24:18",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "А ко удари душу стоке, надокнадиће је: душа за душу.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "А ко удари"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "душу"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "стоке"
+    },
+    {
+      "surface": "ישלמנה",
+      "gloss": "надокнадиће је"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "душа"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "за"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "душу"
+    }
+  ],
+  "timestamp": "2026-09-05T10:25:18.633192054Z",
+  "model": "glm-5.3"
+}

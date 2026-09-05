@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-samuel 18:28",
+  "book": "1-samuel",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "И виде Шаул и зна да је Јахве с Давидом, и да Михал, кћер Шаулова, љуби њега.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "И виде"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "и зна"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давидом"
+    },
+    {
+      "surface": "ומיכל",
+      "gloss": "и Михал"
+    },
+    {
+      "surface": "בת",
+      "gloss": "кћер"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаулова"
+    },
+    {
+      "surface": "אהבתהו",
+      "gloss": "љуби њега"
+    }
+  ],
+  "timestamp": "2026-09-05T11:22:09.776583902Z",
+  "model": "glm-5.3"
+}

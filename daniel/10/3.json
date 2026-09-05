@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 10:3",
+  "book": "daniel",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "Хлеб жељени не једох, ни месо ни вино не уђе у уста моја, ни уљем се не помазах, до испуњења три недеље данâ.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "Хлеб"
+    },
+    {
+      "surface": "חמדות",
+      "gloss": "жељени"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "једох"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "ни месо"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "ни вино"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "בא",
+      "gloss": "уђе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "פי",
+      "gloss": "уста моја"
+    },
+    {
+      "surface": "וסוך",
+      "gloss": "ни уљем"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "סכתי",
+      "gloss": "помазах се"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "мלאת",
+      "gloss": "испуњења"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "три"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "недеље"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "данâ"
+    }
+  ],
+  "timestamp": "2026-09-05T14:21:58.947850117Z",
+  "model": "glm-5.3"
+}

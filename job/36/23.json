@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 36:23",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 36,
+  "translation": "Ко му одреди пут његов? И ко рече: неправедно учини?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ко"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "одреди"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "му"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "пут његов"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "и ко"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "учини"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "неправедно"
+    }
+  ],
+  "timestamp": "2026-09-05T14:03:32.512377075Z",
+  "model": "glm-5.3"
+}

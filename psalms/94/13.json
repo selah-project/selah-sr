@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 94:13",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 94,
+  "translation": "да му да покој од данâ зла, док се ископа јама за безбожником.",
+  "tokens": [
+    {
+      "surface": "להשקיט",
+      "gloss": "да утиша"
+    },
+    {
+      "surface": "לו",
+      "gloss": "њему"
+    },
+    {
+      "surface": "מימי",
+      "gloss": "од данâ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зла"
+    },
+    {
+      "surface": "עד",
+      "gloss": "док"
+    },
+    {
+      "surface": "יכרה",
+      "gloss": "ископа"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "за безбожником"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "јаму"
+    }
+  ],
+  "timestamp": "2026-09-05T13:35:43.482012478Z",
+  "model": "glm-5.3"
+}

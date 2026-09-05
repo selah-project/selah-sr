@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 22:8",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "Сви што ме виде ругају ми се; испружују усну, машу главом:",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "сви"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "што ме виде"
+    },
+    {
+      "surface": "ילעגו",
+      "gloss": "ругају ми се"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "יפטירו",
+      "gloss": "испружују"
+    },
+    {
+      "surface": "בשפה",
+      "gloss": "усну"
+    },
+    {
+      "surface": "יניעו",
+      "gloss": "машу"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "главом"
+    }
+  ],
+  "timestamp": "2026-09-05T13:19:08.474643920Z",
+  "model": "glm-5.3"
+}

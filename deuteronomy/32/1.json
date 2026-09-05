@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 32:1",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 32,
+  "translation": "Прислушајте, небеса, и говорићу, и нека чује земља ријечи… ријечи уста мојих.",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "прислушајте"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небеса"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "и говорићу"
+    },
+    {
+      "surface": "ותשמע",
+      "gloss": "и нека чује"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земља"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ријечи"
+    },
+    {
+      "surface": "פי",
+      "gloss": "уста мојих"
+    }
+  ],
+  "timestamp": "2026-09-05T10:56:18.414858451Z",
+  "model": "glm-5.3"
+}

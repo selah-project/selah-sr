@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 50:5",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 50,
+  "translation": "Адонај Јахве отвори ми ухо, а ја се не побуних, уназад не отступих.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "отвори"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ухо"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "а ја"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "מריתי",
+      "gloss": "побуних"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "уназад"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נסוגתי",
+      "gloss": "отступих"
+    }
+  ],
+  "timestamp": "2026-09-05T12:17:06.134614150Z",
+  "model": "glm-5.3"
+}

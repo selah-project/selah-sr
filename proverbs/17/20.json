@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 17:20",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 17,
+  "translation": "Изопачен срцем неће наћи добро, и изврнут у језику свом пашће у зло.",
+  "tokens": [
+    {
+      "surface": "עקש",
+      "gloss": "Изопачен"
+    },
+    {
+      "surface": "лב",
+      "gloss": "срцем"
+    },
+    {
+      "surface": "לא",
+      "gloss": "неће"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "наћи"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "и изврнут"
+    },
+    {
+      "surface": "בלשונו",
+      "gloss": "у језику свом"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "пашће"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "у зло"
+    }
+  ],
+  "timestamp": "2026-09-05T13:50:08.163904136Z",
+  "model": "glm-5.3"
+}

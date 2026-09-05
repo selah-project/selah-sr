@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 18:12",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "И Авшај, син Црујин, порази ⟨את⟩ Едома у долини сланој — осамнаест хиљада.",
+  "tokens": [
+    {
+      "surface": "ואבשי",
+      "gloss": "И Авшај"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Црујин"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "порази"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Едома"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Едома"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "у долини"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "сланој"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "осам"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "наест"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "хиљада"
+    }
+  ],
+  "timestamp": "2026-09-05T14:40:56.668374570Z",
+  "model": "glm-5.3"
+}

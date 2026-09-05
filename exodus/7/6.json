@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 7:6",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "И учини Моше и Ахарон како заповеди Јахве ⟨את⟩ њих — тако учинише.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "и учини"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "и Ахарон"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "како"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповеди"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "њих"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тако"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "учинише"
+    }
+  ],
+  "timestamp": "2026-09-05T17:15:45.456698318Z",
+  "model": "glm-5.3"
+}

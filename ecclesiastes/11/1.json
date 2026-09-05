@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "Пошаљи свој хлеб на лице вода, јер ћеш после многих дана наћи га.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "Пошаљи"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "свој хлеб"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лице"
+    },
+    {
+      "surface": "המים",
+      "gloss": "вода"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "после многих"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "дана"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "наћи ћеш га"
+    }
+  ],
+  "timestamp": "2026-09-05T14:13:25.867518841Z",
+  "model": "glm-5.3"
+}

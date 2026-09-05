@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 16:31",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 16,
+  "translation": "Шабат шабатон ⟨јесте⟩ вама, и понизићете ⟨את⟩ душе своје — наредба вечна.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "Шабат"
+    },
+    {
+      "surface": "שבתון",
+      "gloss": "шабатон"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨јесте⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вама"
+    },
+    {
+      "surface": "ועניתם",
+      "gloss": "и понизићете"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "душе своје"
+    },
+    {
+      "surface": "נפשתיכם",
+      "gloss": "душе своје"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "наредба"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "вечна"
+    }
+  ],
+  "timestamp": "2026-09-05T10:23:06.024285687Z",
+  "model": "glm-5.3"
+}

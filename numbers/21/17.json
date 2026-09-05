@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 21:17",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "Тада запева Израил ⟨את⟩ песму ову: Изворе, узвиси се! Певајте му!",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Тада"
+    },
+    {
+      "surface": "ישיר",
+      "gloss": "запева"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "песму"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "песму"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ову"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "узвиси се"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Изворе"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "певајте"
+    },
+    {
+      "surface": "לה",
+      "gloss": "му"
+    }
+  ],
+  "timestamp": "2026-09-05T10:36:13.680730009Z",
+  "model": "glm-5.3"
+}

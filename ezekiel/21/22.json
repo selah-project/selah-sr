@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 21:22",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "И чак и ја ударих длан свој о длан свој, и утолићу гнев свој; ја Јахве говорих.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "и чак"
+    },
+    {
+      "surface": "אני",
+      "gloss": "и ја"
+    },
+    {
+      "surface": "אכה",
+      "gloss": "ударих"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "длан свој"
+    },
+    {
+      "surface": "אל",
+      "gloss": "о"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "длан свој"
+    },
+    {
+      "surface": "והנחתי",
+      "gloss": "и утолићу"
+    },
+    {
+      "surface": "חמתי",
+      "gloss": "гнев свој"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "говорих"
+    }
+  ],
+  "timestamp": "2026-09-05T12:48:06.301191844Z",
+  "model": "glm-5.3"
+}

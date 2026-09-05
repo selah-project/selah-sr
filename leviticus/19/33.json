@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 19:33",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 19,
+  "translation": "И ако се усели ⟨את⟩ ⟨с⟩ тобом гост у вашој земљи, не тлачите ⟨את⟩ њега.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "и ако"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "се усели"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ⟨с⟩ тобом"
+    },
+    {
+      "surface": "גר",
+      "gloss": "гост"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "у вашој земљи"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "тлачите"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "њега"
+    }
+  ],
+  "timestamp": "2026-09-05T10:24:24.754486053Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 28:21",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "Разликовати лица није добро, и за парче хлеба преступи човек.",
+  "tokens": [
+    {
+      "surface": "הכר",
+      "gloss": "Разликовати"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "лица"
+    },
+    {
+      "surface": "לא",
+      "gloss": "није"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и за"
+    },
+    {
+      "surface": "פת",
+      "gloss": "парче"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хлеба"
+    },
+    {
+      "surface": "יפשע",
+      "gloss": "преступи"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "човек"
+    }
+  ],
+  "timestamp": "2026-09-05T16:02:48.338997790Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 7:4",
+  "book": "ezra",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "син Зерахје, син Узија, син Букија.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "Зерахје"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "Узија"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "Букија"
+    }
+  ],
+  "timestamp": "2026-09-05T14:26:27.773405221Z",
+  "model": "glm-5.3"
+}

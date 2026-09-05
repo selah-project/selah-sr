@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "nehemiah 3:24",
+  "book": "nehemiah",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "После њега утврди Бинуј, син Хенададов, меру другу, од куће Азаријине до угиба и до угла.",
+  "tokens": [
+    {
+      "surface": "אחריו",
+      "gloss": "после њега"
+    },
+    {
+      "surface": "החזיק",
+      "gloss": "утврди"
+    },
+    {
+      "surface": "בנוי",
+      "gloss": "Бинуј"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "חנדד",
+      "gloss": "Хенададов"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "мера"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "друга"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "од куће"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Азаријине"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "המקצוע",
+      "gloss": "угиба"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и до"
+    },
+    {
+      "surface": "הפנה",
+      "gloss": "угла"
+    }
+  ],
+  "timestamp": "2026-09-05T14:28:55.379013437Z",
+  "model": "glm-5.3"
+}

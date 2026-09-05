@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 13:7",
+  "book": "hosea",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "И постадох им као шахал ⟨лав⟩, као немар ⟨леопард⟩ на путу вребам.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "и постадох"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "кמо",
+      "gloss": "као"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "шахал ⟨лав⟩"
+    },
+    {
+      "surface": "כנמר",
+      "gloss": "као немар ⟨леопард⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "путу"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "вребам"
+    }
+  ],
+  "timestamp": "2026-09-05T13:02:48.468094805Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "jeremiah 51:54",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 51,
+  "translation": "Глас вапаја ⟨се чује⟩ из Вавилона, и лом велики из земље калдејске.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "глас"
+    },
+    {
+      "surface": "זעקה",
+      "gloss": "вапаја"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "из Вавилона"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "и лом"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "велики"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "из земље"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "калдејске"
+    }
+  ],
+  "timestamp": "2026-09-05T16:49:19.982786208Z",
+  "model": "glm-5.3"
+}

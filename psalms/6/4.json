@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "и душа моја је веома преплашена — а ти, Јахве, докле?",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "и душа моја"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "преплашена ⟨је⟩"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "веома"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "а ти"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "עד",
+      "gloss": "докле"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "докле"
+    }
+  ],
+  "timestamp": "2026-09-05T17:08:41.235735943Z",
+  "model": "glm-5.3"
+}

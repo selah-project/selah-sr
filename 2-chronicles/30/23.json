@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-chronicles 30:23",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 30,
+  "translation": "И посаветова се сав скуп да учине друге седам дана; и учинише седам дана радости.",
+  "tokens": [
+    {
+      "surface": "ויועצו",
+      "gloss": "И посаветова се"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сав"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "скуп"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "да учине"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "седам"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дана"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "других"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "и учинише"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "седам"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дана"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "радости"
+    }
+  ],
+  "timestamp": "2026-09-05T14:55:42.894141612Z",
+  "model": "glm-5.3"
+}

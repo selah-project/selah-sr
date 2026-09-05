@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "genesis 31:45",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 31,
+  "translation": "И узе Јааков камен и подиже га ⟨за⟩ спомен-стуб.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "И узе"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Јааков"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "камен"
+    },
+    {
+      "surface": "וירימה",
+      "gloss": "и подиже га"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "спомен-стуб"
+    }
+  ],
+  "timestamp": "2026-09-05T09:50:48.439272072Z",
+  "model": "glm-5.3"
+}

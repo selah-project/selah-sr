@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 6:5",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "Зар риче дивљи магарац над травом? Или мучи во над својом храном?",
+  "tokens": [
+    {
+      "surface": "הינהק",
+      "gloss": "Зар риче"
+    },
+    {
+      "surface": "פרא",
+      "gloss": "дивљи магарац"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "над"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "травом"
+    },
+    {
+      "surface": "אם",
+      "gloss": "или"
+    },
+    {
+      "surface": "יגעה",
+      "gloss": "мучи"
+    },
+    {
+      "surface": "שור",
+      "gloss": "во"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "בלילו",
+      "gloss": "својом храном"
+    }
+  ],
+  "timestamp": "2026-09-05T13:56:27.759649591Z",
+  "model": "glm-5.3"
+}

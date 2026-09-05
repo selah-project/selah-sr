@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 86:15",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 86,
+  "translation": "А ти, Адонај, Ел милостив и благ, спор на гнев и богат хеседом и верношћу.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "а ти"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "רחום",
+      "gloss": "милостив"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "и благ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "спор"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "на гнев"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "и богат"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "хеседом"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "и верношћу"
+    }
+  ],
+  "timestamp": "2026-09-05T13:33:46.460131287Z",
+  "model": "glm-5.3"
+}

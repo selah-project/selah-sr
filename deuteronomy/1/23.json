@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 1:23",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "И би добар ⟨пред⟩ очима мојим ⟨та⟩ реч, па узех од вас дванаест људи, по један човек за свако племе.",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "И би добар"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "очима мојим"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "реч"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "па узех"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "од вас"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "два"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "наест"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "људи"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "по један"
+    },
+    {
+      "surface": "לשבט",
+      "gloss": "за свако племе"
+    }
+  ],
+  "timestamp": "2026-09-05T10:43:26.962954856Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 9:21",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "И пи ⟨од⟩ вина, и опи се, и откри се усред шатора свога.",
+  "tokens": [
+    {
+      "surface": "וישת",
+      "gloss": "и пи"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "היין",
+      "gloss": "вина"
+    },
+    {
+      "surface": "וישכר",
+      "gloss": "и опи се"
+    },
+    {
+      "surface": "ויתגל",
+      "gloss": "и откри се"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "усред"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "шатора свога"
+    }
+  ],
+  "timestamp": "2026-09-05T09:40:22.885009977Z",
+  "model": "glm-5.3"
+}

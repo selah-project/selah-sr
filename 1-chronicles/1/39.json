@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 1:39",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "И синови Лотанови: Хори и Хомам; и сестра Лотанова ⟨је⟩ Тимна.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "И синови"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "Лотанови"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "Хори"
+    },
+    {
+      "surface": "והומם",
+      "gloss": "и Хомам"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "и сестра"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "Лотанова"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "Тимна"
+    }
+  ],
+  "timestamp": "2026-09-05T14:33:24.506274287Z",
+  "model": "glm-5.3"
+}

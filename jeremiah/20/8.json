@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 20:8",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 20,
+  "translation": "Јер чим говорим, вичем, насиље и пљачку зовем; јер реч Јахвеова била је мени за срамоту и за ругање сав дан.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "чим"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "говорим"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "вичем"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "насиље"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "и пљачку"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "зовем"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "היה",
+      "gloss": "била је"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "реч"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеова"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мени"
+    },
+    {
+      "surface": "לחרפה",
+      "gloss": "за срамоту"
+    },
+    {
+      "surface": "ולקלס",
+      "gloss": "и за ругање"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сав"
+    },
+    {
+      "surface": "היום",
+      "gloss": "дан"
+    }
+  ],
+  "timestamp": "2026-09-05T12:28:47.746083815Z",
+  "model": "glm-5.3"
+}

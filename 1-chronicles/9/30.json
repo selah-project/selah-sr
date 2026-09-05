@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 9:30",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "А од синова свештеника мешачи смеше за мирисе.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "а од"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синова"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "свештеника"
+    },
+    {
+      "surface": "רקחי",
+      "gloss": "мешачи"
+    },
+    {
+      "surface": "המרקחת",
+      "gloss": "смеше"
+    },
+    {
+      "surface": "לבשמים",
+      "gloss": "за мирисе"
+    }
+  ],
+  "timestamp": "2026-09-05T14:37:50.279653917Z",
+  "model": "glm-5.3"
+}

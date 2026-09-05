@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 135:15",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 135,
+  "translation": "идоли народâ ⟨су⟩ сребро и злато, дело руку човекових.",
+  "tokens": [
+    {
+      "surface": "עצבי",
+      "gloss": "идоли"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "народâ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "сребро"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "и злато"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "дело"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "руку"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човекових"
+    }
+  ],
+  "timestamp": "2026-09-05T13:42:42.402992347Z",
+  "model": "glm-5.3"
+}

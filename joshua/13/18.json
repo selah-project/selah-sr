@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 13:18",
+  "book": "joshua",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "и Јацу и Кедемот и Мефат",
+  "tokens": [
+    {
+      "surface": "ויהצה",
+      "gloss": "и Јацу"
+    },
+    {
+      "surface": "וקדמת",
+      "gloss": "и Кедемот"
+    },
+    {
+      "surface": "ומפעת",
+      "gloss": "и Мефат"
+    }
+  ],
+  "timestamp": "2026-09-05T11:01:07.540028381Z",
+  "model": "glm-5.3"
+}

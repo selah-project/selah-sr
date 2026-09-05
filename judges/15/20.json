@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 15:20",
+  "book": "judges",
+  "lang": "sr",
+  "chapter": 15,
+  "translation": "И судаше ⟨את⟩ Израиљ у дане Плиштима двадесет година.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "И судаше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Израиљ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљ"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "у дане"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Плиштима"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двадесет"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "година"
+    }
+  ],
+  "timestamp": "2026-09-05T11:12:04.419127529Z",
+  "model": "glm-5.3"
+}

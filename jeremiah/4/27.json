@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 4:27",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "Јер овако рече Јахве: пустош биће сва земља, а краја нећу учинити.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "כה",
+      "gloss": "овако"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "пустош"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "биће"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сва"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земља"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "а краја"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нећу"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "учиним"
+    }
+  ],
+  "timestamp": "2026-09-05T12:22:15.787741776Z",
+  "model": "glm-5.3"
+}

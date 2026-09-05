@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 27:9",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 27,
+  "translation": "Шести — за шести месец — Ира син Икеша Текојац, и на његовој чети двадесет и четири хиљаде.",
+  "tokens": [
+    {
+      "surface": "הששי",
+      "gloss": "Шести"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "за месец"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "шести"
+    },
+    {
+      "surface": "עירא",
+      "gloss": "Ира"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "Икеша"
+    },
+    {
+      "surface": "התקועי",
+      "gloss": "Текојац"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "מחלקתו",
+      "gloss": "његовој чети"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двадесет"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "и четири"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "хиљаде"
+    }
+  ],
+  "timestamp": "2026-09-05T14:43:25.203802807Z",
+  "model": "glm-5.3"
+}

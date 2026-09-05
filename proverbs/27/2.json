@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 27:2",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 27,
+  "translation": "Нека те хвали туђин, а не уста твоја; странац, а не усне твоје.",
+  "tokens": [
+    {
+      "surface": "יהללך",
+      "gloss": "нека те хвали"
+    },
+    {
+      "surface": "זר",
+      "gloss": "туђин"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "а не"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "уста твоја"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "странац"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "а не"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "усне твоје"
+    }
+  ],
+  "timestamp": "2026-09-05T13:53:11.542637898Z",
+  "model": "glm-5.3"
+}

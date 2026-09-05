@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joel 4:1",
+  "book": "joel",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "Јер ево, у те дане и у то време, када вратим ⟨את⟩ ропство Јуде и Јерушалајма,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ево"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "у дане"
+    },
+    {
+      "surface": "ההמה",
+      "gloss": "те"
+    },
+    {
+      "surface": "ובעת",
+      "gloss": "и у време"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "то"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "када"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "вратим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ропство"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "ропство"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јуде"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "и Јерушалајма"
+    }
+  ],
+  "timestamp": "2026-09-05T17:31:45.838141933Z",
+  "model": "glm-5.3"
+}

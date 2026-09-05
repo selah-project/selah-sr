@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 30:10",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 30,
+  "translation": "И роди Зилпа, слушкиња Леина, Јаакову сина.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "и роди"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Зилпа"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "слушкиња"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Леина"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Јаакову"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    }
+  ],
+  "timestamp": "2026-09-05T09:48:10.508467472Z",
+  "model": "glm-5.3"
+}

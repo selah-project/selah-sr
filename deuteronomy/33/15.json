@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 33:15",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 33,
+  "translation": "и од врхова планина истока, и од драгоцености узвишења вечних,",
+  "tokens": [
+    {
+      "surface": "ומראש",
+      "gloss": "и од врхова"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "планина"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "истока"
+    },
+    {
+      "surface": "וממגד",
+      "gloss": "и од драгоцености"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "узвишења"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "вечних"
+    }
+  ],
+  "timestamp": "2026-09-05T10:55:37.953965333Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 65,
+  "translation": "Управнику хора. Мизмор Давида (Давидов), песма.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Управнику хора"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мизмор"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давида"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "песма"
+    }
+  ],
+  "timestamp": "2026-09-05T13:29:13.476243546Z",
+  "model": "glm-5.3"
+}

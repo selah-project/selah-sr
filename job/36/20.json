@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 36:20",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 36,
+  "translation": "Не чезни за ноћи, да народи узиђу ⟨на⟩ њихово место.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תשאף",
+      "gloss": "чезни"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ноћ"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "узиђу"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "народи"
+    },
+    {
+      "surface": "תחתם",
+      "gloss": "на њихово место"
+    }
+  ],
+  "timestamp": "2026-09-05T14:03:52.084486525Z",
+  "model": "glm-5.3"
+}

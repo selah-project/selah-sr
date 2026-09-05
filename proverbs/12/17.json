@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 12:17",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "Ко избацује верност казује правду, а сведок лажи ⟨избацује⟩ превару.",
+  "tokens": [
+    {
+      "surface": "יפיח",
+      "gloss": "избацује"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "верност"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "казује"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "правду"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "а сведок"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "лажи"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "превару"
+    }
+  ],
+  "timestamp": "2026-09-05T16:00:23.340765154Z",
+  "model": "glm-5.3"
+}

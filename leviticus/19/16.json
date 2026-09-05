@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 19:16",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 19,
+  "translation": "Не ходи као клеветник међу народом својим; не стај на крви ближњега свога: ја сам Јахве.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ходиш"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "као клеветник"
+    },
+    {
+      "surface": "בעמיך",
+      "gloss": "међу народом својим"
+    },
+    {
+      "surface": "лא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "стај"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "דם",
+      "gloss": "крви"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "ближњега свога"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-09-05T10:24:30.883153364Z",
+  "model": "glm-5.3"
+}

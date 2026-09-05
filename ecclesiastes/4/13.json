@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 4:13",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "Бољи ⟨је⟩ сиромашан и мудар младић од старога и лудога краља, који не зна више да прими опомену.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Бољи"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "младић"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "сиромашан"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "и мудар"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "од краља"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "старога"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "и лудога"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "зна"
+    },
+    {
+      "surface": "להזהר",
+      "gloss": "да прими опомену"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "више"
+    }
+  ],
+  "timestamp": "2026-09-05T14:11:36.122314950Z",
+  "model": "glm-5.3"
+}

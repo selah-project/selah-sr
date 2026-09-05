@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 12:24",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "И чуваште ⟨את⟩ реч ову за наредбу себи и синовима својим довека.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "И чуваште"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "реч ову"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "реч"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ову"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "за наредбу"
+    },
+    {
+      "surface": "לך",
+      "gloss": "себи"
+    },
+    {
+      "surface": "ולבניך",
+      "gloss": "и синовима својим"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "века"
+    }
+  ],
+  "timestamp": "2026-09-05T10:03:41.931761141Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 37:19",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 37,
+  "translation": "И рекаше човек брату своме: Ено га, господар снова тај долази.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "И рекаше"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "אל",
+      "gloss": "према"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "брату своме"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ено"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "господар"
+    },
+    {
+      "surface": "החלמות",
+      "gloss": "снова"
+    },
+    {
+      "surface": "הלזה",
+      "gloss": "тај"
+    },
+    {
+      "surface": "בא",
+      "gloss": "долази"
+    }
+  ],
+  "timestamp": "2026-09-05T09:53:19.417292196Z",
+  "model": "glm-5.3"
+}

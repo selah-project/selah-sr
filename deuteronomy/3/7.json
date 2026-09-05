@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 3:7",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "А сву стоку и плен градова опљачкасмо за себе.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "а сву"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "стоку"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "и плен"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "градова"
+    },
+    {
+      "surface": "בזונו",
+      "gloss": "опљачкасмо"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "за себе"
+    }
+  ],
+  "timestamp": "2026-09-05T10:43:51.267704958Z",
+  "model": "glm-5.3"
+}

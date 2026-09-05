@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 7:12",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Али рече Ахаз: нећу молити, нити ћу искушавати ⟨את⟩ Јахвеа.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "Али рече"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ахаз"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אשאל",
+      "gloss": "ћу молити"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "нити"
+    },
+    {
+      "surface": "אנסה",
+      "gloss": "ћу искушавати"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јахвеа"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    }
+  ],
+  "timestamp": "2026-09-05T12:02:06.013004353Z",
+  "model": "glm-5.3"
+}

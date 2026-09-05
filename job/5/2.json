@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 5:2",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Јер гнев убија лудога, а завист умртвљује наивног.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "לאויל",
+      "gloss": "лудога"
+    },
+    {
+      "surface": "יהרג",
+      "gloss": "убија"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "гнев"
+    },
+    {
+      "surface": "ופתה",
+      "gloss": "а наивног"
+    },
+    {
+      "surface": "תמית",
+      "gloss": "умртвљује"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "завист"
+    }
+  ],
+  "timestamp": "2026-09-05T13:56:55.413143867Z",
+  "model": "glm-5.3"
+}

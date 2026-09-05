@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 20:4",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 20,
+  "translation": "А Авимелех не приступи њој, и рече: Адонај, зар ћеш и праведан народ погубити?",
+  "tokens": [
+    {
+      "surface": "ואבימלך",
+      "gloss": "а Авимелех"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "приступи"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "њој"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "зар народ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "праведан"
+    },
+    {
+      "surface": "תהרג",
+      "gloss": "ћеш погубити"
+    }
+  ],
+  "timestamp": "2026-09-05T14:59:13.968674425Z",
+  "model": "glm-5.3"
+}

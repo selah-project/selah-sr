@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 28:19",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "И назва ⟨את⟩ име места оног Бет Ел (дом Ела), а међутим Луз беше име града у прво време.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "и назва"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "име"
+    },
+    {
+      "surface": "שם",
+      "gloss": "име"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "места"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "оног"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "ואולם",
+      "gloss": "а међутим"
+    },
+    {
+      "surface": "לוז",
+      "gloss": "Луз"
+    },
+    {
+      "surface": "שם",
+      "gloss": "име"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "града"
+    },
+    {
+      "surface": "לראשנה",
+      "gloss": "у прво време"
+    }
+  ],
+  "timestamp": "2026-09-05T09:49:25.551639243Z",
+  "model": "glm-5.3"
+}

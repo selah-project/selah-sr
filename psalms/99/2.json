@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 99:2",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 99,
+  "translation": "Јахве ⟨је⟩ велик у Циону, и узвишен ⟨је⟩ он над свим народима.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "у Циону"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "велик"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "и узвишен"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "כל",
+      "gloss": "свим"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "народима"
+    }
+  ],
+  "timestamp": "2026-09-05T13:36:31.290164183Z",
+  "model": "glm-5.3"
+}

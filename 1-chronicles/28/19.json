@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 28:19",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "„Све ⟨је⟩ у писму од руке Јахвеове; на мене ⟨он⟩ ме научи све послове узорка.“",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "све"
+    },
+    {
+      "surface": "בכתב",
+      "gloss": "у писму"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "од руке"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеове"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "на мене"
+    },
+    {
+      "surface": "השכיל",
+      "gloss": "научи"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "מלאכות",
+      "gloss": "послове"
+    },
+    {
+      "surface": "התבנית",
+      "gloss": "узорка"
+    }
+  ],
+  "timestamp": "2026-09-05T14:44:18.313193558Z",
+  "model": "glm-5.3"
+}

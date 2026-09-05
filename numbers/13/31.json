@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 13:31",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "А људи што се попеше с њим рекоше: не можемо да се попнемо на тај народ, јер је јачи од нас.",
+  "tokens": [
+    {
+      "surface": "והאנשים",
+      "gloss": "А људи"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "עלו",
+      "gloss": "попеше се"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "с њим"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "рекоше"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נוכל",
+      "gloss": "можемо"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "да се попнемо"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "העם",
+      "gloss": "тај народ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "јачи"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "је"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "од нас"
+    }
+  ],
+  "timestamp": "2026-09-05T10:34:22.064275544Z",
+  "model": "glm-5.3"
+}

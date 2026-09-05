@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 1:10",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "Сада мудрост и знање дај мени, и изаћи ћу пред народ овај и ући, јер ко ће судити ⟨את⟩ народ твој овај велики?",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "Сада"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мудрост"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "и знање"
+    },
+    {
+      "surface": "תן",
+      "gloss": "дај"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мени"
+    },
+    {
+      "surface": "ואצאה",
+      "gloss": "и изаћи ћу"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овај"
+    },
+    {
+      "surface": "ואבואה",
+      "gloss": "и ући"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ко"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "ће судити"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "народ твој овај"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "народ твој"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овај"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "велики"
+    }
+  ],
+  "timestamp": "2026-09-05T14:44:19.958574440Z",
+  "model": "glm-5.3"
+}

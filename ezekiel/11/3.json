@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 11:3",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "који говоре: није ⟨време⟩ близу — градите куће; она ⟨је⟩ лонац, а ми смо месо.",
+  "tokens": [
+    {
+      "surface": "האמרים",
+      "gloss": "који говоре"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "בקרוב",
+      "gloss": "близу"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "градите"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "куће"
+    },
+    {
+      "surface": "היא",
+      "gloss": "она"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "лонац"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "а ми"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "месо"
+    }
+  ],
+  "timestamp": "2026-09-05T12:45:29.973017410Z",
+  "model": "glm-5.3"
+}

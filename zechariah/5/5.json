@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 5:5",
+  "book": "zechariah",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "И изађе анђео који говораше са мном, и рече ми: Подигни, молим, очи своје и види шта ово излази.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "И изађе"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "анђео"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "који говораше"
+    },
+    {
+      "surface": "בי",
+      "gloss": "са мном"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "שא",
+      "gloss": "подигни"
+    },
+    {
+      "surface": "נא",
+      "gloss": "молим"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "очи своје"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "и види"
+    },
+    {
+      "surface": "מה",
+      "gloss": "шта"
+    },
+    {
+      "surface": "היוצאת",
+      "gloss": "излази"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ово"
+    }
+  ],
+  "timestamp": "2026-09-05T13:13:11.305451893Z",
+  "model": "glm-5.3"
+}

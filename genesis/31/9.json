@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 31:9",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 31,
+  "translation": "И тако Елохим отимаче ⟨את⟩ стоку оца вашега и даде њу мени.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "отимаче"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "стоку"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "стоку"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "оца вашега"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "и даде"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мени"
+    }
+  ],
+  "timestamp": "2026-09-05T09:50:26.615513829Z",
+  "model": "glm-5.3"
+}

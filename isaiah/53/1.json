@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 53:1",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 53,
+  "translation": "Ко поверова нашеме слушању? И мишица Јахвеова над ким се откри?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ко"
+    },
+    {
+      "surface": "האמין",
+      "gloss": "поверова"
+    },
+    {
+      "surface": "לשמעתנו",
+      "gloss": "нашеме слушању"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "и мишица"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ким"
+    },
+    {
+      "surface": "נגלתה",
+      "gloss": "откри се"
+    }
+  ],
+  "timestamp": "2026-09-05T12:16:37.223151093Z",
+  "model": "glm-5.3"
+}

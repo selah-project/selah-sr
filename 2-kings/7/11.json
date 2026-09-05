@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 7:11",
+  "book": "2-kings",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "И зваше вратари, и јавише дому цара унутра.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "И зваше"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "вратари"
+    },
+    {
+      "surface": "ויגידו",
+      "gloss": "и јавише"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дому"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "цара"
+    },
+    {
+      "surface": "פנימה",
+      "gloss": "унутра"
+    }
+  ],
+  "timestamp": "2026-09-05T15:30:44.203340445Z",
+  "model": "glm-5.3"
+}

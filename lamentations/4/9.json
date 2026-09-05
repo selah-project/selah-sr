@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 4:9",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "Бољи беху побијени мачем од погинулих од глади, јер они истичу, избодени, без родова поља.",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "Бољи"
+    },
+    {
+      "surface": "היו",
+      "gloss": "беху"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "побијени"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "мачем"
+    },
+    {
+      "surface": "מחללי",
+      "gloss": "од погинулих"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "од глади"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "јер они"
+    },
+    {
+      "surface": "יזובו",
+      "gloss": "истичу"
+    },
+    {
+      "surface": "מדקרים",
+      "gloss": "избодени"
+    },
+    {
+      "surface": "מתנובת",
+      "gloss": "без родова"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "поља"
+    }
+  ],
+  "timestamp": "2026-09-05T14:09:39.801856943Z",
+  "model": "glm-5.3"
+}

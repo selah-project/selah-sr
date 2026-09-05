@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 36:12",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 36,
+  "translation": "А ако не слушају, копљем ће проћи, и издахнуће без знања.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "а ако"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "слушају"
+    },
+    {
+      "surface": "בשלח",
+      "gloss": "копљем"
+    },
+    {
+      "surface": "יעברו",
+      "gloss": "проћи ће"
+    },
+    {
+      "surface": "ויגועו",
+      "gloss": "и издахнуће"
+    },
+    {
+      "surface": "כבלי",
+      "gloss": "без"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "знања"
+    }
+  ],
+  "timestamp": "2026-09-05T14:03:35.421202099Z",
+  "model": "glm-5.3"
+}

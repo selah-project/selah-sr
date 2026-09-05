@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "genesis 24:66",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "И исприча слуга Ицхаку ⟨את⟩ све ствари које учини.",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "и исприча"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "слуга"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "Ицхаку"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "све ствари"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ствари"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "које"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "учини"
+    }
+  ],
+  "timestamp": "2026-09-05T09:47:04.685337542Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 9:6",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "И љубав њихова, и мржња њихова, и завист њихова давно већ неста ⟨се⟩, и нема им ⟨више⟩ дела довека у свему што се чини под сунцем.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "И"
+    },
+    {
+      "surface": "אהבתם",
+      "gloss": "љубав њихова"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "שנאתם",
+      "gloss": "мржња њихова"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "קנאתם",
+      "gloss": "завист њихова"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "давно"
+    },
+    {
+      "surface": "אבדה",
+      "gloss": "неста"
+    },
+    {
+      "surface": "וחלק",
+      "gloss": "и дела"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "⟨више⟩"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "довека"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "у свему"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "се чини"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "сунцем"
+    }
+  ],
+  "timestamp": "2026-09-05T17:19:01.931937712Z",
+  "model": "glm-5.3"
+}

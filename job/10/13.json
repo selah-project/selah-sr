@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 10:13",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "А ово си сакрио у срцу свом: знам да је ово ⟨код⟩ тебе.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "А ово"
+    },
+    {
+      "surface": "צפנת",
+      "gloss": "сакрио си"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "у срцу свом"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "знам"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ово"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "⟨код⟩ тебе"
+    }
+  ],
+  "timestamp": "2026-09-05T13:57:39.094631702Z",
+  "model": "glm-5.3"
+}

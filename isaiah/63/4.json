@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 63:4",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 63,
+  "translation": "Јер дан освете у срцу мојему ⟨бише⟩, и година откупљења мојега дође.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "יום",
+      "gloss": "дан"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "освете"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "у срцу мојему"
+    },
+    {
+      "surface": "ושנת",
+      "gloss": "и година"
+    },
+    {
+      "surface": "גאולי",
+      "gloss": "откупљења мојега"
+    },
+    {
+      "surface": "באה",
+      "gloss": "дође"
+    }
+  ],
+  "timestamp": "2026-09-05T12:18:08.160917793Z",
+  "model": "glm-5.3"
+}

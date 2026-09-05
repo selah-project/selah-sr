@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "haggai 2:11",
+  "book": "haggai",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Тако рече Јахве Цеваот: питај, молим, ⟨את⟩ свештенике ⟨за⟩ Тору, говорећи:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "тако"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "питај"
+    },
+    {
+      "surface": "נא",
+      "gloss": "молим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "свештенике"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "свештенике"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Тору"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорећи"
+    }
+  ],
+  "timestamp": "2026-09-05T17:09:26.777380866Z",
+  "model": "glm-5.3"
+}

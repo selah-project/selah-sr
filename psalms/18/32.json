@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 18:32",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "Јер ко ⟨је⟩ Елоах осим Јахвеа, и ко ⟨је⟩ стена осим Елохима нашег?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ко"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Елоах"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "осим"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "и ко"
+    },
+    {
+      "surface": "צור",
+      "gloss": "стена"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "осим"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Елохим наш"
+    }
+  ],
+  "timestamp": "2026-09-05T16:49:45.008633561Z",
+  "model": "glm-5.3"
+}

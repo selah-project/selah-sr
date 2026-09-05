@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 50:1",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 50,
+  "translation": "И паде Јосеф (Јосиф) на лице оца својега, и плака над њим, и пољуби га.",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "и паде"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Јосеф"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лице"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "оца својега"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "и плака"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "над њим"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "и пољуби"
+    },
+    {
+      "surface": "לו",
+      "gloss": "га"
+    }
+  ],
+  "timestamp": "2026-09-05T15:02:12.433101999Z",
+  "model": "glm-5.3"
+}

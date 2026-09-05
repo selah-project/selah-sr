@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 22:6",
+  "book": "2-samuel",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "Ужа Шеола опколише ме, замке смрти искупаше ме.",
+  "tokens": [
+    {
+      "surface": "חבלי",
+      "gloss": "Ужа"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шеола"
+    },
+    {
+      "surface": "סבני",
+      "gloss": "опколише ме"
+    },
+    {
+      "surface": "קדמני",
+      "gloss": "искупаше ме"
+    },
+    {
+      "surface": "מקשי",
+      "gloss": "замке"
+    },
+    {
+      "surface": "מות",
+      "gloss": "смрти"
+    }
+  ],
+  "timestamp": "2026-09-05T16:38:14.249173709Z",
+  "model": "glm-5.3"
+}

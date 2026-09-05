@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 24:17",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "И ако човек удари било коју душу људску, смрћу нека буде убијен.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "И човек"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ако"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "удари"
+    },
+    {
+      "surface": "כל",
+      "gloss": "било коју"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "душу"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "људску"
+    },
+    {
+      "surface": "מות",
+      "gloss": "смрћу"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "нека буде убијен"
+    }
+  ],
+  "timestamp": "2026-09-05T10:25:18.632942491Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 52:1",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 52,
+  "translation": "Управнику хора. Поука (машкил) Давидова,",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Управнику хора"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "Поука (машкил)"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидова"
+    }
+  ],
+  "timestamp": "2026-09-05T16:43:33.104773488Z",
+  "model": "glm-5.3"
+}

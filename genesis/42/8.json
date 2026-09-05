@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 42:8",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 42,
+  "translation": "И позна Јосеф ⟨את⟩ браћу своју, а они не познаше њега.",
+  "tokens": [
+    {
+      "surface": "ויכר",
+      "gloss": "и позна"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Јосеф"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "браћу своју"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "браћу своју"
+    },
+    {
+      "surface": "והם",
+      "gloss": "а они"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "הכרהו",
+      "gloss": "познаше њега"
+    }
+  ],
+  "timestamp": "2026-09-05T15:01:10.595611116Z",
+  "model": "glm-5.3"
+}

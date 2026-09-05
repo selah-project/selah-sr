@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 19:5",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 19,
+  "translation": "И кад закољете мирну жртву Јахвеу, да будете примљени закољте је.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "И кад"
+    },
+    {
+      "surface": "תזבחו",
+      "gloss": "закољете"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "жртву"
+    },
+    {
+      "surface": "שלמים",
+      "gloss": "мирну"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Јахвеу"
+    },
+    {
+      "surface": "לרצנכם",
+      "gloss": "да будете примљени"
+    },
+    {
+      "surface": "תזבחהו",
+      "gloss": "закољте је"
+    }
+  ],
+  "timestamp": "2026-09-05T10:22:48.208371372Z",
+  "model": "glm-5.3"
+}

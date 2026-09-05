@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 30:9",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 30,
+  "translation": "Јер то ⟨је⟩ народ одметнички, синови лажљиви, синови што не хоће да слушају Тору Јахвеа.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "одметнички"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "то"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "синови"
+    },
+    {
+      "surface": "כחשים",
+      "gloss": "лажљиви"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "синови"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אבו",
+      "gloss": "хоће"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "да слушају"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Тору"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    }
+  ],
+  "timestamp": "2026-09-05T12:09:28.130190567Z",
+  "model": "glm-5.3"
+}

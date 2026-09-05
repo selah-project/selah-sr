@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 34:27",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 34,
+  "translation": "и за племе синâ Ашера кнез Ахихуд, син Шеломиев.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "и за племе"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синâ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Ашера"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "кнез"
+    },
+    {
+      "surface": "אחיהוד",
+      "gloss": "Ахихуд"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "שלמי",
+      "gloss": "Шеломиев"
+    }
+  ],
+  "timestamp": "2026-09-05T10:42:16.528605531Z",
+  "model": "glm-5.3"
+}

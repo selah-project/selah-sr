@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "job 21:31",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "Ко ће на његово лице јавити његов пут? А он учини — ко ће му вратити?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ко"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ће јавити"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "његово лице"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "његов пут"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "а он"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "учини"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ко"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ће вратити"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    }
+  ],
+  "timestamp": "2026-09-05T14:00:31.104394038Z",
+  "model": "glm-5.3"
+}

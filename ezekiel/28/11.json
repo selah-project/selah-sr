@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 28:11",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "И би слово Јахвеово к мени ⟨говорећи⟩:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И би"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеово"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "к мени"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨говорећи⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T15:47:11.134328654Z",
+  "model": "glm-5.3"
+}

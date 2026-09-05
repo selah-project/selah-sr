@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 31:26",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 31,
+  "translation": "На то се пробудих и видех, и сан ми ⟨бејаше⟩ слатак.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "На"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "то"
+    },
+    {
+      "surface": "הקיצתי",
+      "gloss": "се пробудих"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "и видех"
+    },
+    {
+      "surface": "ושנתי",
+      "gloss": "и сан"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "слатак"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    }
+  ],
+  "timestamp": "2026-09-05T12:31:28.073835202Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 34:6",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 34,
+  "translation": "А међа западна: и биће вам велико море и ⟨његова⟩ међа; ово ће вам бити међа западна.",
+  "tokens": [
+    {
+      "surface": "וגבול",
+      "gloss": "а међа"
+    },
+    {
+      "surface": "ים",
+      "gloss": "западна"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "и биће"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "הים",
+      "gloss": "море"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "велико"
+    },
+    {
+      "surface": "וגבול",
+      "gloss": "и међа"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ово"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ће бити"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "међа"
+    },
+    {
+      "surface": "ים",
+      "gloss": "западна"
+    }
+  ],
+  "timestamp": "2026-09-05T16:57:11.479625264Z",
+  "model": "glm-5.3"
+}

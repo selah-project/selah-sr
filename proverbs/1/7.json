@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 1:7",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "Страх Јахвеов ⟨је⟩ почетак знања; мудрост и поуку глупаци презиру.",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "страх"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеов"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "почетак"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "знања"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мудрост"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "и поуку"
+    },
+    {
+      "surface": "אוילים",
+      "gloss": "глупаци"
+    },
+    {
+      "surface": "בזו",
+      "gloss": "презиру"
+    }
+  ],
+  "timestamp": "2026-09-05T13:45:21.519489044Z",
+  "model": "glm-5.3"
+}

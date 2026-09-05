@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 107:7",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 107,
+  "translation": "И поведе их путем правим да иду к граду насељеном.",
+  "tokens": [
+    {
+      "surface": "וידריכם",
+      "gloss": "и поведе их"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "путем"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "правим"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "да иду"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "граду"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "насељеном ⟨за становање⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T13:38:00.377910848Z",
+  "model": "glm-5.3"
+}

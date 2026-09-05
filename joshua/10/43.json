@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "joshua 10:43",
+  "book": "joshua",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "И врати се Јехошуа и сав Израиљ с њим у логор, у Гилгал.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "И врати се"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Јехошуа"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и сав"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "с њим"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "логор"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "у Гилгал"
+    }
+  ],
+  "timestamp": "2026-09-05T11:01:07.006396667Z",
+  "model": "glm-5.3"
+}

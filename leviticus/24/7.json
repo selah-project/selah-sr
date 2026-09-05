@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 24:7",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "И ставићеш на ред тамјана чистог, и биће ⟨за⟩ хлеб за спомен, принос огњени Јахвеу.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "и ставићеш"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "ред"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "тамјан"
+    },
+    {
+      "surface": "זכה",
+      "gloss": "чист"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "и биће"
+    },
+    {
+      "surface": "ללחם",
+      "gloss": "хлебу"
+    },
+    {
+      "surface": "לאזכרה",
+      "gloss": "за спомен"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "принос огњени"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Јахвеу"
+    }
+  ],
+  "timestamp": "2026-09-05T10:25:29.424305405Z",
+  "model": "glm-5.3"
+}

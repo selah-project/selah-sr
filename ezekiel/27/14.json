@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 27:14",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 27,
+  "translation": "Из куће Тогарме коње и јахаче и мазге дадоше за робу твоју.",
+  "tokens": [
+    {
+      "surface": "מבית",
+      "gloss": "из куће"
+    },
+    {
+      "surface": "תוגרמה",
+      "gloss": "Тогарме"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "коње"
+    },
+    {
+      "surface": "ופרשים",
+      "gloss": "и јахаче"
+    },
+    {
+      "surface": "ופרדים",
+      "gloss": "и мазге"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "дадоше"
+    },
+    {
+      "surface": "עזבוניך",
+      "gloss": "за робу твоју"
+    }
+  ],
+  "timestamp": "2026-09-05T17:07:30.296742682Z",
+  "model": "glm-5.3"
+}

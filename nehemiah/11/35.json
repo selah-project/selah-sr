@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "nehemiah 11:35",
+  "book": "nehemiah",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "Лод и Оно, Ге харашим (долина занатлија).",
+  "tokens": [
+    {
+      "surface": "לד",
+      "gloss": "Лод"
+    },
+    {
+      "surface": "ואונו",
+      "gloss": "и Оно"
+    },
+    {
+      "surface": "גי",
+      "gloss": "долина"
+    },
+    {
+      "surface": "החרשים",
+      "gloss": "харашима (занатлија)"
+    }
+  ],
+  "timestamp": "2026-09-05T14:32:29.360364296Z",
+  "model": "glm-5.3"
+}

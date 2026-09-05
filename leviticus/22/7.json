@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 22:7",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "и зађе сунце, и он се очисти — и после тога нека једе од светиња, јер ⟨је⟩ храна његова то",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "и зађе"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "сунце"
+    },
+    {
+      "surface": "וטהר",
+      "gloss": "и очисти се"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "и после"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "нека једе"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "светиња"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "храна његова"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "то"
+    }
+  ],
+  "timestamp": "2026-09-05T10:23:21.607053611Z",
+  "model": "glm-5.3"
+}

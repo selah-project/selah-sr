@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 46:15",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 46,
+  "translation": "И учине ⟨את⟩ јагње и ⟨את⟩ прилог и ⟨את⟩ уље, ујутро, ујутро, целомоћ сталну.",
+  "tokens": [
+    {
+      "surface": "ועשו",
+      "gloss": "и учине"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "јагње"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "јагње"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "прилог"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "прилог"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "уље"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "уље"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ујутро"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ујутро"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "целомоћ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "сталну"
+    }
+  ],
+  "timestamp": "2026-09-05T12:58:47.178386608Z",
+  "model": "glm-5.3"
+}

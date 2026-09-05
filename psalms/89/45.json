@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "psalms 89:45",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 89,
+  "translation": "Укину сјај његов, и престо његов на земљу обори.",
+  "tokens": [
+    {
+      "surface": "השבת",
+      "gloss": "укину"
+    },
+    {
+      "surface": "מטהרו",
+      "gloss": "сјај његов"
+    },
+    {
+      "surface": "וכסאו",
+      "gloss": "и престо његов"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "на земљу"
+    },
+    {
+      "surface": "מגרתה",
+      "gloss": "обори"
+    }
+  ],
+  "timestamp": "2026-09-05T13:34:25.547807338Z",
+  "model": "glm-5.3"
+}

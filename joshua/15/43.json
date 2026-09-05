@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "joshua 15:43",
+  "book": "joshua",
+  "lang": "sr",
+  "chapter": 15,
+  "translation": "и Ифтах, и Ашна, и Нецив;",
+  "tokens": [
+    {
+      "surface": "ויפתח",
+      "gloss": "и Ифтах"
+    },
+    {
+      "surface": "ואשנה",
+      "gloss": "и Ашна"
+    },
+    {
+      "surface": "ונציב",
+      "gloss": "и Нецив"
+    }
+  ],
+  "timestamp": "2026-09-05T11:02:28.772060778Z",
+  "model": "glm-5.3"
+}

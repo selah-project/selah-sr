@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 38:3",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 38,
+  "translation": "И заче, и роди сина, и назва ⟨את⟩ име његово Ер.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "И заче"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "и роди"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "и назва"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "име његово"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "име његово"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ер"
+    }
+  ],
+  "timestamp": "2026-09-05T09:54:13.134514765Z",
+  "model": "glm-5.3"
+}

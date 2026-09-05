@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-kings 4:33",
+  "book": "2-kings",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "И уђе, и затвори врата за њих двојицу, и помоли се Јахвеу.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "и уђе"
+    },
+    {
+      "surface": "ויסגר",
+      "gloss": "и затвори"
+    },
+    {
+      "surface": "הדלת",
+      "gloss": "врата"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "за"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "њих двојицу"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "и помоли се"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеу"
+    }
+  ],
+  "timestamp": "2026-09-05T11:51:21.452479518Z",
+  "model": "glm-5.3"
+}

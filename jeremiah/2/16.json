@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 2:16",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "И синови Нофа (Мемфиса) и Тахпанеса пасу теме твоје.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "И"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "נף",
+      "gloss": "Нофа (Мемфиса)"
+    },
+    {
+      "surface": "ותחפנס",
+      "gloss": "и Тахпанеса"
+    },
+    {
+      "surface": "ירעוך",
+      "gloss": "пасу тебе"
+    },
+    {
+      "surface": "קדקד",
+      "gloss": "теме"
+    }
+  ],
+  "timestamp": "2026-09-05T12:19:49.432625893Z",
+  "model": "glm-5.3"
+}

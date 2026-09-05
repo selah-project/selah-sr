@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 24:16",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "Петахији деветнаести, Јехезкелу двадесети.",
+  "tokens": [
+    {
+      "surface": "לפתחיה",
+      "gloss": "Петахији"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "девет"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "наести"
+    },
+    {
+      "surface": "ליחזקאל",
+      "gloss": "Јехезкелу"
+    },
+    {
+      "surface": "העשרים",
+      "gloss": "двадесети"
+    }
+  ],
+  "timestamp": "2026-09-05T14:41:51.635739015Z",
+  "model": "glm-5.3"
+}

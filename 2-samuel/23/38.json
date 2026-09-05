@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-samuel 23:38",
+  "book": "2-samuel",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "Ира (Ира) Јатријац, Гарев (Гарев) Јатријац.",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "Ира (Ира)"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "Јатријац"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "Гарев (Гарев)"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "Јатријац"
+    }
+  ],
+  "timestamp": "2026-09-05T15:26:48.281648895Z",
+  "model": "glm-5.3"
+}

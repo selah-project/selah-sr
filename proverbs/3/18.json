@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 3:18",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Дрво живота ⟨је⟩ она онима што је држе, а ко је подупире — блажен ⟨је⟩.",
+  "tokens": [
+    {
+      "surface": "עץ",
+      "gloss": "дрво"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "живота"
+    },
+    {
+      "surface": "היא",
+      "gloss": "она"
+    },
+    {
+      "surface": "למחזיקים",
+      "gloss": "онима што држе"
+    },
+    {
+      "surface": "בה",
+      "gloss": "је"
+    },
+    {
+      "surface": "ותמכיה",
+      "gloss": "а ко је подупире"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "блажен"
+    }
+  ],
+  "timestamp": "2026-09-05T13:46:15.916039322Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 55:18",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 55,
+  "translation": "Вече и јутро и подне размишљаћу и уздисаћу, и он чу мој глас.",
+  "tokens": [
+    {
+      "surface": "ערב",
+      "gloss": "Вече"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "и јутро"
+    },
+    {
+      "surface": "וצהרים",
+      "gloss": "и подне"
+    },
+    {
+      "surface": "אשיחה",
+      "gloss": "размишљаћу"
+    },
+    {
+      "surface": "ואהמה",
+      "gloss": "и уздисаћу"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "и чу"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "мој глас"
+    }
+  ],
+  "timestamp": "2026-09-05T13:27:45.040290855Z",
+  "model": "glm-5.3"
+}

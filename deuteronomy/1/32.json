@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 1:32",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "И у ствари овој не веровасте Јахвеу, Елохиму вашем.",
+  "tokens": [
+    {
+      "surface": "ובדבר",
+      "gloss": "и у ствари"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овој"
+    },
+    {
+      "surface": "אינכם",
+      "gloss": "не (ви)"
+    },
+    {
+      "surface": "מאמינים",
+      "gloss": "веровасте"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Јахвеу"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Елохиму вашем"
+    }
+  ],
+  "timestamp": "2026-09-05T10:43:56.678554776Z",
+  "model": "glm-5.3"
+}

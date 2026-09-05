@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 94:12",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 94,
+  "translation": "Благо мужу кога ти караш, Јах, и из Торе твоје учиш га,",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Благо"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "мужу"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "кого"
+    },
+    {
+      "surface": "תיסרנו",
+      "gloss": "ти караш"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Јах"
+    },
+    {
+      "surface": "ומתורתך",
+      "gloss": "и из Торе твоје"
+    },
+    {
+      "surface": "תלמדנו",
+      "gloss": "учиш га"
+    }
+  ],
+  "timestamp": "2026-09-05T13:35:01.307370604Z",
+  "model": "glm-5.3"
+}

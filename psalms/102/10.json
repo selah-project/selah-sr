@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 102:10",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 102,
+  "translation": "Јер пепео као хлеб једох, и пиће своје са сузама смешах.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "пепео"
+    },
+    {
+      "surface": "כלחם",
+      "gloss": "као хлеб"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "једох"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "и пиће своје"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "са сузама"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "смешах"
+    }
+  ],
+  "timestamp": "2026-09-05T15:57:50.807214138Z",
+  "model": "glm-5.3"
+}

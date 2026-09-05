@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 1:5",
+  "book": "zechariah",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "Очеви ваши — где су они? И пророци, зар ⟨ће⟩ вечно живети?",
+  "tokens": [
+    {
+      "surface": "אבותיכם",
+      "gloss": "Очеви ваши"
+    },
+    {
+      "surface": "איה",
+      "gloss": "где су"
+    },
+    {
+      "surface": "הם",
+      "gloss": "они"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "и пророци"
+    },
+    {
+      "surface": "הלעולם",
+      "gloss": "зар вечно"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "живети"
+    }
+  ],
+  "timestamp": "2026-09-05T13:12:08.984745211Z",
+  "model": "glm-5.3"
+}

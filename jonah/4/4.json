@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 4:4",
+  "book": "jonah",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "И рече Јахве: „Ха ли добро гори ⟨то⟩ ти?”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ההיטב",
+      "gloss": "Ха ли добро"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "гори"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    }
+  ],
+  "timestamp": "2026-09-05T15:49:44.925782988Z",
+  "model": "glm-5.3"
+}

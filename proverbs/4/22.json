@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 4:22",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "Јер живот су ⟨они⟩ који их нађу, и сваком телу његовом лек.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "живот"
+    },
+    {
+      "surface": "הם",
+      "gloss": "су ⟨они⟩"
+    },
+    {
+      "surface": "למצאיהם",
+      "gloss": "који их нађу"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "и сваком"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "телу његовом"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "лек"
+    }
+  ],
+  "timestamp": "2026-09-05T13:45:56.772428958Z",
+  "model": "glm-5.3"
+}

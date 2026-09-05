@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 38:5",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 38,
+  "translation": "Парас, Куш и Пут ⟨את⟩ њих — сви они ⟨са⟩ штитом и ⟨са⟩ шлемом.",
+  "tokens": [
+    {
+      "surface": "פרס",
+      "gloss": "Парас"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Куш"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "и Пут"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ њих",
+      "marks": "са њима"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "сви они"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "штит"
+    },
+    {
+      "surface": "וכובע",
+      "gloss": "и шлем"
+    }
+  ],
+  "timestamp": "2026-09-05T15:48:12.256386971Z",
+  "model": "glm-5.3"
+}

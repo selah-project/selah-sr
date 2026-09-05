@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 12:9",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "Ко у свему овоме не зна да руку Јахвеову ово учинила?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ко"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "зна"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "у свему"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "овоме"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "יד",
+      "gloss": "руку"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеову"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "учинила"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ово"
+    }
+  ],
+  "timestamp": "2026-09-05T13:57:14.115170927Z",
+  "model": "glm-5.3"
+}

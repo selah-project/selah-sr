@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 13:7",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "Зато ће све руке клонути и срце сваког смртника растопити се.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "зато (на то)"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "руке"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "клонути"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "срце"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "сваког смртника"
+    },
+    {
+      "surface": "ימס",
+      "gloss": "растопити се"
+    }
+  ],
+  "timestamp": "2026-09-05T12:03:42.362861893Z",
+  "model": "glm-5.3"
+}

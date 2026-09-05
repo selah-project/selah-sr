@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 23:3",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "а сиромаха не уздижи у парници његовој.",
+  "tokens": [
+    {
+      "surface": "ודל",
+      "gloss": "а сиромаха"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "уздижи"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "у парници његовој"
+    }
+  ],
+  "timestamp": "2026-09-05T15:03:58.407393439Z",
+  "model": "glm-5.3"
+}

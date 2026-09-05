@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 9:8",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "и Јибнија син Јерохама, и Ела син Узија, син Микрија, и Мешулам син Шефатје, син Реуела, син Јибније.",
+  "tokens": [
+    {
+      "surface": "ויבניה",
+      "gloss": "и Јибнија"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "Јерохама"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "и Ела"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "Узија"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "מכרי",
+      "gloss": "Микрија"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "и Мешулам"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "Шефатје"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Реуела"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "יבניה",
+      "gloss": "Јибније"
+    }
+  ],
+  "timestamp": "2026-09-05T14:37:36.737441926Z",
+  "model": "glm-5.3"
+}

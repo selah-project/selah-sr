@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 28:12",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "А мудрост — откуда се налази, и где је то место разума?",
+  "tokens": [
+    {
+      "surface": "והחכמה",
+      "gloss": "а мудрост"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "откуда"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "се налази"
+    },
+    {
+      "surface": "ואי",
+      "gloss": "и где"
+    },
+    {
+      "surface": "זה",
+      "gloss": "то"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "место"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "разума"
+    }
+  ],
+  "timestamp": "2026-09-05T14:01:21.452795636Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "и ⟨את⟩ дају, и ⟨את⟩ соко ⟨по врсти својој⟩.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "дају"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "дају"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "соко"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "соко"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "по врсти својој"
+    }
+  ],
+  "timestamp": "2026-09-05T15:06:43.342615670Z",
+  "model": "glm-5.3"
+}

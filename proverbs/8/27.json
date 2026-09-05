@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 8:27",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "Кад утврђиваше небеса, онде бејах ја; кад объчинаяше круг над лицем бездана,",
+  "tokens": [
+    {
+      "surface": "בהכינו",
+      "gloss": "Кад утврђиваше"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "небеса"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ондеке"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "בחוקו",
+      "gloss": "кад объчнаяше"
+    },
+    {
+      "surface": "חוג",
+      "gloss": "круг"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицем"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "бездана"
+    }
+  ],
+  "timestamp": "2026-09-05T17:11:38.794063995Z",
+  "model": "glm-5.3"
+}

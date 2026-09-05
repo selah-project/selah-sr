@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 39:10",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 39,
+  "translation": "И напунише њ ⟨את⟩ четири реда камења: ред одема, питда и варекет — ⟨то је⟩ ред први.",
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "и напунише"
+    },
+    {
+      "surface": "בו",
+      "gloss": "њ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "четири"
+    },
+    {
+      "surface": "טורי",
+      "gloss": "реда"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "камења"
+    },
+    {
+      "surface": "טור",
+      "gloss": "ред"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "одем"
+    },
+    {
+      "surface": "פטדה",
+      "gloss": "питда"
+    },
+    {
+      "surface": "וברקת",
+      "gloss": "и варекет"
+    },
+    {
+      "surface": "הטור",
+      "gloss": "ред"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "први"
+    }
+  ],
+  "timestamp": "2026-09-05T10:14:10.164251748Z",
+  "model": "glm-5.3"
+}

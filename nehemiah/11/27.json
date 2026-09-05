@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "nehemiah 11:27",
+  "book": "nehemiah",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "и у Хацар-Шуалу, и у Беер-Шеви и у кћерима њезиним.",
+  "tokens": [
+    {
+      "surface": "ובחצר",
+      "gloss": "и у Хацар-"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "Шуалу"
+    },
+    {
+      "surface": "ובבאר",
+      "gloss": "и у Беер-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Шеви"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "и у кћерима њезиним"
+    }
+  ],
+  "timestamp": "2026-09-05T14:32:03.309125729Z",
+  "model": "glm-5.3"
+}

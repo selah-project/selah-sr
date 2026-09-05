@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "ezekiel 23:46",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "Јер овако рече Адонај Јахве: Дови на њих збор, и дај их ⟨את⟩ на трепет и на плен.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "כה",
+      "gloss": "овако"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "Дови"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "на њих"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "збор"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "и дај"
+    },
+    {
+      "surface": "אתהן",
+      "gloss": "⟨את⟩",
+      "marks": "њих"
+    },
+    {
+      "surface": "לזעוה",
+      "gloss": "на трепет"
+    },
+    {
+      "surface": "ולבז",
+      "gloss": "и на плен"
+    }
+  ],
+  "timestamp": "2026-09-05T15:45:35.192902257Z",
+  "model": "glm-5.3"
+}

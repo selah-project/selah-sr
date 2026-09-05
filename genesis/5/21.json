@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 5:21",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "И поживе Ханох (Енох) шездесет и пет година, и роди ⟨את⟩ Метушелаха.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "И поживе"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Ханох"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "пет"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "и шездесет"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "година"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "и роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Метушелаха"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "Метушелаха"
+    }
+  ],
+  "timestamp": "2026-09-05T09:41:01.148713555Z",
+  "model": "glm-5.3"
+}

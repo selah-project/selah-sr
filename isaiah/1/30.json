@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 1:30",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "Јер ћете бити као храст чији лист овену, и као башта којој воде нема.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "ћете бити"
+    },
+    {
+      "surface": "כאלה",
+      "gloss": "као храст"
+    },
+    {
+      "surface": "נבלת",
+      "gloss": "овену"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "лист"
+    },
+    {
+      "surface": "וכגנה",
+      "gloss": "и као башта"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "којој"
+    },
+    {
+      "surface": "מים",
+      "gloss": "воде"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨њој⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T17:02:30.730618956Z",
+  "model": "glm-5.3"
+}

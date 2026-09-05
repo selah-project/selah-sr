@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 73:17",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 73,
+  "translation": "Док не дођох у светилишта Ела — тада схватих ⟨њихов⟩ свршетак.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Док не"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "дођох"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "светилишта"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ела"
+    },
+    {
+      "surface": "אבינה",
+      "gloss": "схватих"
+    },
+    {
+      "surface": "לאחריתם",
+      "gloss": "⟨њихов⟩ свршетак"
+    }
+  ],
+  "timestamp": "2026-09-05T13:30:54.273691569Z",
+  "model": "glm-5.3"
+}

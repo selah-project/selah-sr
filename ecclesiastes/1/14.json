@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "Видех ⟨את⟩ сва дела што се учинише под сунцем, и ено — све ⟨је⟩ суета и гоњење ветра.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Видех"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сва дела"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сва"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "дела"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "што се учинише"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "сунцем"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и ено"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "све"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "суета"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "и гоњење"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ветра"
+    }
+  ],
+  "timestamp": "2026-09-05T14:11:27.300962363Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 3:24",
+  "book": "2-samuel",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "И дође Јоав код краља и рече: шта учини? ево, дође Авнер к теби — зашто га отпусти, па он одиде и отиша?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "и дође"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Јоав"
+    },
+    {
+      "surface": "אל",
+      "gloss": "код"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "краља"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "מה",
+      "gloss": "шта"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "учини"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ево"
+    },
+    {
+      "surface": "בא",
+      "gloss": "дође"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Авнер"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "к теби"
+    },
+    {
+      "surface": "למה",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨то⟩"
+    },
+    {
+      "surface": "שלחתו",
+      "gloss": "отпусти га"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "и одиде"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "отиша"
+    }
+  ],
+  "timestamp": "2026-09-05T15:24:19.720987482Z",
+  "model": "glm-5.3"
+}

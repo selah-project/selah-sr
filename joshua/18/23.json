@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 18:23",
+  "book": "joshua",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "и хаавим, и хапара, и офра:",
+  "tokens": [
+    {
+      "surface": "והעוים",
+      "gloss": "и хаавим"
+    },
+    {
+      "surface": "והפרה",
+      "gloss": "и хапара"
+    },
+    {
+      "surface": "ועפרה",
+      "gloss": "и офра"
+    }
+  ],
+  "timestamp": "2026-09-05T11:02:44.797844934Z",
+  "model": "glm-5.3"
+}

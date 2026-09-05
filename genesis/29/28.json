@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 29:28",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 29,
+  "translation": "И учини Јааков тако, и испуни седмицу ову; и даде му ⟨את⟩ Рахелу, кћер своју, њему ⟨за⟩ жену.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "И учини"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Јааков"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тако"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "и испуни"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "седмицу"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ову"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "и даде"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Рахелу"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Рахелу"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "кћер своју"
+    },
+    {
+      "surface": "לו",
+      "gloss": "њему"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "⟨за⟩ жену"
+    }
+  ],
+  "timestamp": "2026-09-05T09:48:53.794015107Z",
+  "model": "glm-5.3"
+}

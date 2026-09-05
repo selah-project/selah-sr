@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 5:12",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Кнезови су им руком обешени, лицима старачким ⟨се⟩ није указивала част.",
+  "tokens": [
+    {
+      "surface": "שרים",
+      "gloss": "кнезови"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "им руком"
+    },
+    {
+      "surface": "נתלоу",
+      "gloss": "обешени"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицима"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "старачким"
+    },
+    {
+      "surface": "לא",
+      "gloss": "није"
+    },
+    {
+      "surface": "נהדרו",
+      "gloss": "указивала част"
+    }
+  ],
+  "timestamp": "2026-09-05T14:10:49.640736457Z",
+  "model": "glm-5.3"
+}

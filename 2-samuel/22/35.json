@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-samuel 22:35",
+  "book": "2-samuel",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "Који учи руке моје за бој, и лук од бакра савише руке моје.",
+  "tokens": [
+    {
+      "surface": "מלמד",
+      "gloss": "учи"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "руке моје"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "за бој"
+    },
+    {
+      "surface": "ונחת",
+      "gloss": "и сави"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "лук"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "од бакра"
+    },
+    {
+      "surface": "זרעתי",
+      "gloss": "руке моје"
+    }
+  ],
+  "timestamp": "2026-09-05T11:36:57.954119602Z",
+  "model": "glm-5.3"
+}

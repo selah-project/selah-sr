@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 1:6",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "Иде ⟨ветар⟩ према југу, и кружи према северу; кружећи, кружећи иде ветар, и на кругове своје враћа се ветар.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "иде"
+    },
+    {
+      "surface": "אל",
+      "gloss": "према"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "југу"
+    },
+    {
+      "surface": "וסובב",
+      "gloss": "и кружи"
+    },
+    {
+      "surface": "אל",
+      "gloss": "према"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "северу"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "кружећи"
+    },
+    {
+      "surface": "סבב",
+      "gloss": "кружећи"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "иде"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ветар"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "סביבתיו",
+      "gloss": "кругове своје"
+    },
+    {
+      "surface": "שב",
+      "gloss": "враћа се"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ветар"
+    }
+  ],
+  "timestamp": "2026-09-05T17:12:33.120779012Z",
+  "model": "glm-5.3"
+}

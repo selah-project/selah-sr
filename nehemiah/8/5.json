@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 8:5",
+  "book": "nehemiah",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "И отвори Езра књигу пред очима свега народа, јер беше изнад свега народа; и кад је отвори, стаде сав народ.",
+  "tokens": [
+    {
+      "surface": "ויפתח",
+      "gloss": "и отвори"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "Езра"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "књигу"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "пред очима"
+    },
+    {
+      "surface": "כל",
+      "gloss": "свега"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народa"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "изнад"
+    },
+    {
+      "surface": "כל",
+      "gloss": "свега"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народa"
+    },
+    {
+      "surface": "היה",
+      "gloss": "беше"
+    },
+    {
+      "surface": "וכפתחו",
+      "gloss": "и кад отвори"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "стаде"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сав"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    }
+  ],
+  "timestamp": "2026-09-05T14:31:47.581394680Z",
+  "model": "glm-5.3"
+}

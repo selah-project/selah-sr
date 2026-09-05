@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 23:1",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "Нећеш подизати глас лажан; не стављај руку своју с зликом да будеш сведок насилан.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "нећеш"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "подизати"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "глас"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "лажан"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשת",
+      "gloss": "стављај"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "руку своју"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "зликом"
+    },
+    {
+      "surface": "להית",
+      "gloss": "да будеш"
+    },
+    {
+      "surface": "עד",
+      "gloss": "сведок"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "насилан"
+    }
+  ],
+  "timestamp": "2026-09-05T15:04:15.808238278Z",
+  "model": "glm-5.3"
+}

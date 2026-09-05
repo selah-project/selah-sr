@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 14:42",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "И узеће друго камење, и ставиће уместо оног камења, и други прах узеће, и облепиће ⟨את⟩ кућу.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "и узеће"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "камење"
+    },
+    {
+      "surface": "אחרות",
+      "gloss": "друго"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "и ставиће"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "уместо"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "оног камења"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "и прах"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "други"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "узеће"
+    },
+    {
+      "surface": "וטח",
+      "gloss": "и облепиће"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кућу"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "кућу"
+    }
+  ],
+  "timestamp": "2026-09-05T15:07:31.532025985Z",
+  "model": "glm-5.3"
+}

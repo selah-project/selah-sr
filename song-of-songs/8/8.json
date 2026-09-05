@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 8:8",
+  "book": "song-of-songs",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "Сестра је нама мала, и груди нема; шта ћемо учинити за сестру нашу у дан кад се о њој говори?",
+  "tokens": [
+    {
+      "surface": "אחות",
+      "gloss": "сестра"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "нама"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "мала"
+    },
+    {
+      "surface": "ושדים",
+      "gloss": "и груди"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "לה",
+      "gloss": "она"
+    },
+    {
+      "surface": "מה",
+      "gloss": "шта"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ћемо учинити"
+    },
+    {
+      "surface": "לאחתנו",
+      "gloss": "за сестру нашу"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "у дан"
+    },
+    {
+      "surface": "שידבר",
+      "gloss": "се говори"
+    },
+    {
+      "surface": "בה",
+      "gloss": "о њој"
+    }
+  ],
+  "timestamp": "2026-09-05T17:12:56.986679216Z",
+  "model": "glm-5.3"
+}

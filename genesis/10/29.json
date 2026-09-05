@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 10:29",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "и ⟨את⟩ Офира, и ⟨את⟩ Хавиле, и ⟨את⟩ Јовава; сви ови ⟨су⟩ синови Јоктанови.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Офира"
+    },
+    {
+      "surface": "אופר",
+      "gloss": "Офира"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Хавиле"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "Хавиле"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Јовава"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Јовава"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сви"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ови"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "Јоктанови"
+    }
+  ],
+  "timestamp": "2026-09-05T09:41:57.198853202Z",
+  "model": "glm-5.3"
+}

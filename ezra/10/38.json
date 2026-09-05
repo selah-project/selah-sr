@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "ezra 10:38",
+  "book": "ezra",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "и Вани, и Винy, Шимеј,",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "и Вани"
+    },
+    {
+      "surface": "ובנוי",
+      "gloss": "и Бинуја"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Шимеј"
+    }
+  ],
+  "timestamp": "2026-09-05T14:27:04.144861847Z",
+  "model": "glm-5.3"
+}

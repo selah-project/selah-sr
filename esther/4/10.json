@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "esther 4:10",
+  "book": "esther",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "И рече Естер Хатаху и заповеди ⟨му⟩ према Мордехају:",
+  "tokens": [
+    {
+      "surface": "וותאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Естер"
+    },
+    {
+      "surface": "להתך",
+      "gloss": "Хатаху"
+    },
+    {
+      "surface": "ותצוהו",
+      "gloss": "и заповеди ⟨му⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "према"
+    },
+    {
+      "surface": "мרדכי",
+      "gloss": "Мордехају"
+    }
+  ],
+  "timestamp": "2026-09-05T14:14:26.273182335Z",
+  "model": "glm-5.3"
+}

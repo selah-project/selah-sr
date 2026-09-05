@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 7:7",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Овако рече Адонај Јахве: неће се то десити, нити ће бити.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Овако"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "стаће"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "нити"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "биће"
+    }
+  ],
+  "timestamp": "2026-09-05T12:02:24.230581403Z",
+  "model": "glm-5.3"
+}

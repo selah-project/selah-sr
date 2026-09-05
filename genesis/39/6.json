@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 39:6",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 39,
+  "translation": "И остави све што имаше у руци Јосефовој, и не знаше ⟨את⟩ ништа осим хлеба који он једе. И би Јосеф лепа стаса и лепа изгледа.",
+  "tokens": [
+    {
+      "surface": "ויעזב",
+      "gloss": "и остави"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "לו",
+      "gloss": "он"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "у руци"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Јосефовој"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "знаше"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ништа"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "ништа"
+    },
+    {
+      "surface": "כי",
+      "gloss": "само"
+    },
+    {
+      "surface": "אם",
+      "gloss": "осим"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "хлеба"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "једе"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и би"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Јосеф"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "лепа"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "стаса"
+    },
+    {
+      "surface": "ויפה",
+      "gloss": "и лепа"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "изгледа"
+    }
+  ],
+  "timestamp": "2026-09-05T09:54:38.362482404Z",
+  "model": "glm-5.3"
+}

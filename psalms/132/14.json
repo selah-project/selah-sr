@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 132:14",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 132,
+  "translation": "Ово ⟨је⟩ почивалиште моје довека: овде ћу седети, јер је пожелех.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Ово"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "почивалиште моје"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "до"
+    },
+    {
+      "surface": "עד",
+      "gloss": "века"
+    },
+    {
+      "surface": "פה",
+      "gloss": "овде"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "ћу седети"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "אותיה",
+      "gloss": "је пожелех"
+    }
+  ],
+  "timestamp": "2026-09-05T13:42:00.903270974Z",
+  "model": "glm-5.3"
+}

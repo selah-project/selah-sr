@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 17:9",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 17,
+  "translation": "И дођеш к свештеницима Левитима и к судији који буде у оним данима, и питаш, и они ти јаве ⟨את⟩ реч пресуде.",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "И дођеш"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "свештеницима"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Левитима"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и к"
+    },
+    {
+      "surface": "השפט",
+      "gloss": "судији"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "буде"
+    },
+    {
+      "surface": "בימים",
+      "gloss": "у данима"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "оним"
+    },
+    {
+      "surface": "ודרשת",
+      "gloss": "и питаш"
+    },
+    {
+      "surface": "והגידו",
+      "gloss": "и јаве"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "реч пресуде"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "реч"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "пресуде"
+    }
+  ],
+  "timestamp": "2026-09-05T10:51:28.351640049Z",
+  "model": "glm-5.3"
+}

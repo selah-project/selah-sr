@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "hosea 2:22",
+  "book": "hosea",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "И заручићу те себи у верности, и знаћеш ⟨את⟩ Јахвеа.",
+  "tokens": [
+    {
+      "surface": "וארשתיך",
+      "gloss": "и заручићу те"
+    },
+    {
+      "surface": "לי",
+      "gloss": "себи"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "у верности"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "и знаћеш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јахвеа"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    }
+  ],
+  "timestamp": "2026-09-05T13:00:19.424657347Z",
+  "model": "glm-5.3"
+}

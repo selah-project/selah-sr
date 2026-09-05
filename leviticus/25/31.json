@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 25:31",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 25,
+  "translation": "А куће насеља која немају зидину унаоколо, на поље земље рачунаће се; откуп биће њему, и у Јовел изићи.",
+  "tokens": [
+    {
+      "surface": "ובתי",
+      "gloss": "А куће"
+    },
+    {
+      "surface": "החצרים",
+      "gloss": "насеља"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "која"
+    },
+    {
+      "surface": "אין",
+      "gloss": "немају"
+    },
+    {
+      "surface": "להם",
+      "gloss": ""
+    },
+    {
+      "surface": "חמה",
+      "gloss": "зидину"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "унаоколо"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "поље"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земље"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "рачунаће се"
+    },
+    {
+      "surface": "גאלה",
+      "gloss": "откуп"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "биће"
+    },
+    {
+      "surface": "לו",
+      "gloss": "њему"
+    },
+    {
+      "surface": "וביבל",
+      "gloss": "и у Јовел"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "изићи"
+    }
+  ],
+  "timestamp": "2026-09-05T10:25:56.463533521Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 37:2",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 37,
+  "translation": "Јер као трава брзо ће ⟨бити⟩ покошени, и као зелена трава увенуће.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "као трава"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "брзо"
+    },
+    {
+      "surface": "ימלו",
+      "gloss": "покошени"
+    },
+    {
+      "surface": "וכירק",
+      "gloss": "и као зелена"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "трава"
+    },
+    {
+      "surface": "יבולון",
+      "gloss": "увенуће"
+    }
+  ],
+  "timestamp": "2026-09-05T13:22:48.745481071Z",
+  "model": "glm-5.3"
+}

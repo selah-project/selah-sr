@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 28:21",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "и вратим се у миру у дом оца својега, и буде ли Јахве мени ⟨за⟩ Елохима —",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "и вратим се"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "у миру"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "оца својега"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "и буде ли"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мени"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "⟨за⟩ Елохима"
+    }
+  ],
+  "timestamp": "2026-09-05T09:48:05.514684642Z",
+  "model": "glm-5.3"
+}

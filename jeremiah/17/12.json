@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 17:12",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 17,
+  "translation": "Престо славе, високо ⟨од⟩ почетка, место светилишта нашег.",
+  "tokens": [
+    {
+      "surface": "כסא",
+      "gloss": "престо"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "славе"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "високо"
+    },
+    {
+      "surface": "מראשון",
+      "gloss": "⟨од⟩ почетка"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "место"
+    },
+    {
+      "surface": "מקדשנו",
+      "gloss": "светилишта нашег"
+    }
+  ],
+  "timestamp": "2026-09-05T15:38:52.225662099Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 31:12",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 31,
+  "translation": "Чини му добро, а не зло, све дане живота свог.",
+  "tokens": [
+    {
+      "surface": "גמלתהו",
+      "gloss": "чини му"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "а не"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зло"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дане"
+    },
+    {
+      "surface": "חייה",
+      "gloss": "живота свог"
+    }
+  ],
+  "timestamp": "2026-09-05T13:54:24.004759256Z",
+  "model": "glm-5.3"
+}

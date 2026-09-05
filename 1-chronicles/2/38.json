@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 2:38",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "И Овед роди ⟨את⟩ Јехуа, и Јеху роди ⟨את⟩ Азарију.",
+  "tokens": [
+    {
+      "surface": "ועובד",
+      "gloss": "и Овед"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Јехуа"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "Јеху"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "и Јеху"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Азарију"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Азарија"
+    }
+  ],
+  "timestamp": "2026-09-05T14:33:41.887334118Z",
+  "model": "glm-5.3"
+}

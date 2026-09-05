@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 50:10",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 50,
+  "translation": "Јер моја је свака звер шуме, и стока на брдима хиљада.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "לי",
+      "gloss": "моја ⟨је⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "свака"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "звер"
+    },
+    {
+      "surface": "יער",
+      "gloss": "шуме"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "стока"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "на брдима"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "хиљада"
+    }
+  ],
+  "timestamp": "2026-09-05T13:26:10.114582505Z",
+  "model": "glm-5.3"
+}

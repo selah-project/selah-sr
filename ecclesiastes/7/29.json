@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ecclesiastes 7:29",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Само ⟨ево⟩: ово нађох — да Елохим начини ⟨את⟩ човека правога, а они потражише смислене сплетке многе.",
+  "tokens": [
+    {
+      "surface": "לבד",
+      "gloss": "само"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "⟨ево⟩"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ово"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "нађох"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "да"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "начини"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "човека"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "човека"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "правога"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "а они"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "потражише"
+    },
+    {
+      "surface": "חשבנות",
+      "gloss": "смислене сплетке"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "многе"
+    }
+  ],
+  "timestamp": "2026-09-05T14:12:01.313857995Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 4:10",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "И дају ⟨את⟩ њега и ⟨את⟩ све судове његове у покривач од коже тахаша, и ставе га на носач.",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "И дају"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "њега"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "судове његове"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "судове његове"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "покривач"
+    },
+    {
+      "surface": "עור",
+      "gloss": "од коже"
+    },
+    {
+      "surface": "תחש",
+      "gloss": "тахаша"
+    },
+    {
+      "surface": "ונתנו",
+      "gloss": "и ставе"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "המוט",
+      "gloss": "носач"
+    }
+  ],
+  "timestamp": "2026-09-05T10:29:03.248280571Z",
+  "model": "glm-5.3"
+}

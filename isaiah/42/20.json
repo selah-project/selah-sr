@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 42:20",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 42,
+  "translation": "Виде многе ствари, али не чуваш; отворених ушију, али не чује.",
+  "tokens": [
+    {
+      "surface": "ראית",
+      "gloss": "виде"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "многе ствари"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "али не"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "чуваш"
+    },
+    {
+      "surface": "פקוח",
+      "gloss": "отвореност"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "ушију"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "али не"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "чује"
+    }
+  ],
+  "timestamp": "2026-09-05T15:36:15.797929635Z",
+  "model": "glm-5.3"
+}

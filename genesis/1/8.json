@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "И назва Елохим свод небеса; и би вече, и би јутро — дан други.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "и назва"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "свод"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "небеса"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и би"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "вече"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и би"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "јутро"
+    },
+    {
+      "surface": "יום",
+      "gloss": "дан"
+    },
+    {
+      "surface": "שני",
+      "gloss": "други"
+    }
+  ],
+  "timestamp": "2026-09-05T09:39:36.445036549Z",
+  "model": "glm-5.3"
+}

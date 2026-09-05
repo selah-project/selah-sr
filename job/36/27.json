@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "job 36:27",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 36,
+  "translation": "Јер умањује ⟨он⟩ капи воде, цеђе кишу у пару ⟨његову⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "יגרע",
+      "gloss": "умањује"
+    },
+    {
+      "surface": "נטפי",
+      "gloss": "капи"
+    },
+    {
+      "surface": "מים",
+      "gloss": "воде"
+    },
+    {
+      "surface": "יזקו",
+      "gloss": "цеђе"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "кишу"
+    },
+    {
+      "surface": "לאדו",
+      "gloss": "у пару ⟨његову⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T16:05:53.645364787Z",
+  "model": "glm-5.3"
+}

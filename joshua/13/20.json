@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 13:20",
+  "book": "joshua",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "и Бет-Пеор и падине ха-Писге и Бет-ха-Јешимот",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "и Бет"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Пеор"
+    },
+    {
+      "surface": "ואשדות",
+      "gloss": "и падине"
+    },
+    {
+      "surface": "הפסגה",
+      "gloss": "ха-Писге"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "и Бет"
+    },
+    {
+      "surface": "הישמות",
+      "gloss": "ха-Јешимот"
+    }
+  ],
+  "timestamp": "2026-09-05T11:01:07.540278014Z",
+  "model": "glm-5.3"
+}

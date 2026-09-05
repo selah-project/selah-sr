@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 17:12",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 17,
+  "translation": "Он ће мени саградити дом, и утврдићу ⟨את⟩ престо његов до века.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "саградиће"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мени"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "и утврдићу"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "престо његов"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "престо његов"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "века"
+    }
+  ],
+  "timestamp": "2026-09-05T14:41:02.726664216Z",
+  "model": "glm-5.3"
+}

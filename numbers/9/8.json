@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 9:8",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "И рече им Моше: „Станите, да чујем шта ће заповести Јахве за вас.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "станите"
+    },
+    {
+      "surface": "ואשמעה",
+      "gloss": "да чујем"
+    },
+    {
+      "surface": "מה",
+      "gloss": "шта"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "ће заповести"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "за вас"
+    }
+  ],
+  "timestamp": "2026-09-05T10:32:19.423251480Z",
+  "model": "glm-5.3"
+}

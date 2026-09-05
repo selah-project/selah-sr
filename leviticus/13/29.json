@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 13:29",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "А ако човек или жена буде имао на себи рану на глави или на бради,",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "жена"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ако"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "буде"
+    },
+    {
+      "surface": "בו",
+      "gloss": "на њему"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "рану"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "на глави"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "на бради"
+    }
+  ],
+  "timestamp": "2026-09-05T10:21:21.637828389Z",
+  "model": "glm-5.3"
+}

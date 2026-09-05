@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 24:19",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "И ако човек нанесе ману ближњем своме, како је учинио, тако нека буде учињено њему.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "И човек"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ако"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "нанесе"
+    },
+    {
+      "surface": "מום",
+      "gloss": "ману"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "ближњем своме"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "како"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "је учинио"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тако"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "нека буде учињено"
+    },
+    {
+      "surface": "לו",
+      "gloss": "њему"
+    }
+  ],
+  "timestamp": "2026-09-05T10:25:18.633313239Z",
+  "model": "glm-5.3"
+}

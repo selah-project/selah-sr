@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 29:26",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 29,
+  "translation": "Многи траже лице владара, а од Јахвеа ⟨долази⟩ право сваког човека.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "многи"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "траже"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лице"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "владара"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "а од Јахвеа"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "право"
+    },
+    {
+      "surface": "איש",
+      "gloss": "своког човека"
+    }
+  ],
+  "timestamp": "2026-09-05T16:44:42.857776441Z",
+  "model": "glm-5.3"
+}

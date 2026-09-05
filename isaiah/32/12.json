@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 32:12",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 32,
+  "translation": "О прса тугују, о поља жељена, о лозу родну.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "о"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "прса"
+    },
+    {
+      "surface": "ספדים",
+      "gloss": "тугују"
+    },
+    {
+      "surface": "על",
+      "gloss": "о"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "поља"
+    },
+    {
+      "surface": "חמד",
+      "gloss": "жељена"
+    },
+    {
+      "surface": "על",
+      "gloss": "о"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "лозу"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "родну"
+    }
+  ],
+  "timestamp": "2026-09-05T12:08:58.582477497Z",
+  "model": "glm-5.3"
+}

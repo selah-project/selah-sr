@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 23:20",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "Синови Узиела: Миха глава, и Ишија други.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синови"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "Узиела"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Миха"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "глава"
+    },
+    {
+      "surface": "וישיה",
+      "gloss": "и Ишија"
+    },
+    {
+      "surface": "השני",
+      "gloss": "други"
+    }
+  ],
+  "timestamp": "2026-09-05T16:15:15.923623638Z",
+  "model": "glm-5.3"
+}

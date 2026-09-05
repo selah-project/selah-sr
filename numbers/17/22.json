@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 17:22",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 17,
+  "translation": "И положи Моше ⟨את⟩ штапове пред Јахвеом, у шатору сведочанства.",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "И положи"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "штапове"
+    },
+    {
+      "surface": "המטת",
+      "gloss": "штапове"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеом"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "у шатору"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "сведочанства"
+    }
+  ],
+  "timestamp": "2026-09-05T10:34:40.809759587Z",
+  "model": "glm-5.3"
+}

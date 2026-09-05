@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 47:7",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 47,
+  "translation": "Како да се смири, кад Јахве заповеди њој ⟨и⟩ на Ашкелон и на обалу морску — тамо ју је одредио?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "Како"
+    },
+    {
+      "surface": "תשקטי",
+      "gloss": "да се смири"
+    },
+    {
+      "surface": "ויהווה",
+      "gloss": "и Јахве"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповеди"
+    },
+    {
+      "surface": "לה",
+      "gloss": "њој"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "Ашкелон"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "חוף",
+      "gloss": "обалу"
+    },
+    {
+      "surface": "הים",
+      "gloss": "морску"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тамо"
+    },
+    {
+      "surface": "יעדה",
+      "gloss": "ју је одредио"
+    }
+  ],
+  "timestamp": "2026-09-05T12:36:34.539087886Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 27:31",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 27,
+  "translation": "И над овцама — Јазиз Хагрит. Сви ови беху старешине имања које припадаше краљу Давиду.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "и над"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "овцама"
+    },
+    {
+      "surface": "יזיז",
+      "gloss": "Јазиз"
+    },
+    {
+      "surface": "ההגרי",
+      "gloss": "Хагрит"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сви"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ови"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "старешине"
+    },
+    {
+      "surface": "הרכוש",
+      "gloss": "имања"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "које"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "краљу"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давиду"
+    }
+  ],
+  "timestamp": "2026-09-05T14:43:36.967325169Z",
+  "model": "glm-5.3"
+}

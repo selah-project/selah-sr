@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 46:1",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 46,
+  "translation": "Управнику хору, синовима Кораха, на аламот ⟨поју⟩, песма.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Управнику хору"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "синовима"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Кораха"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "аламот"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "песма"
+    }
+  ],
+  "timestamp": "2026-09-05T13:26:16.096372694Z",
+  "model": "glm-5.3"
+}

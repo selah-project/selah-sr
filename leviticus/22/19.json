@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 22:19",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "да буде за пријем ваш: без мане, мужјак, из говеда, из оваца и из коза.",
+  "tokens": [
+    {
+      "surface": "לרצנכם",
+      "gloss": "за пријем ваш"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "без мане"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "мужјак"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "из говеда"
+    },
+    {
+      "surface": "בכשבים",
+      "gloss": "из оваца"
+    },
+    {
+      "surface": "ובעזים",
+      "gloss": "и из коза"
+    }
+  ],
+  "timestamp": "2026-09-05T10:23:34.427286656Z",
+  "model": "glm-5.3"
+}

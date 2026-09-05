@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 14:3",
+  "book": "zechariah",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "И изаћи ће Јахве и бориће се против тих народа, као што се борио у дан боја.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "И изаћи ће"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ונלחם",
+      "gloss": "и бориће се"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "против народа"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "тех"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "као у дан"
+    },
+    {
+      "surface": "הלחמו",
+      "gloss": "што се борио"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "у дан"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "боја"
+    }
+  ],
+  "timestamp": "2026-09-05T13:15:43.526736750Z",
+  "model": "glm-5.3"
+}

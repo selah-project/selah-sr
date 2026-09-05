@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "deuteronomy 28:40",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "Маслине ћеш имати у свим својим границама, а уљем се нећеш помазати, јер ће ти маслине опасти.",
+  "tokens": [
+    {
+      "surface": "זיתים",
+      "gloss": "маслине"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "имаћеш"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "у свим"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "својим границама"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "а уљем"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תסוך",
+      "gloss": "помазати се"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "ישל",
+      "gloss": "опасти"
+    },
+    {
+      "surface": "זיתך",
+      "gloss": "маслине твоје"
+    }
+  ],
+  "timestamp": "2026-09-05T15:14:51.011002627Z",
+  "model": "glm-5.3"
+}

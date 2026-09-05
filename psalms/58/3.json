@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 58:3",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 58,
+  "translation": "Но, у срцу безакоње чините, у земљи насиље руку ваших одмеравате.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Но"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "у срцу"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "безакоње"
+    },
+    {
+      "surface": "תפעלון",
+      "gloss": "чините"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "у земљи"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "насиље"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "руку ваших"
+    },
+    {
+      "surface": "תפלסון",
+      "gloss": "одмеравате"
+    }
+  ],
+  "timestamp": "2026-09-05T13:28:07.416401502Z",
+  "model": "glm-5.3"
+}

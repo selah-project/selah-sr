@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 145:15",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 145,
+  "translation": "Очи свих к теби чекају, и ти дајеш им ⟨את⟩ храну њихову у време њено.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Очи"
+    },
+    {
+      "surface": "כל",
+      "gloss": "свих"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "к теби"
+    },
+    {
+      "surface": "ישברו",
+      "gloss": "чекају"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "и ти"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "дајеш"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "храну њихову"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "храну њихову"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "у време њено"
+    }
+  ],
+  "timestamp": "2026-09-05T13:44:53.120234774Z",
+  "model": "glm-5.3"
+}

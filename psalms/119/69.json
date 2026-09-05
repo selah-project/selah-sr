@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 69,
+  "ref": "psalms 119:69",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 119,
+  "translation": "Налепише на мене лаж надмени ⟨а⟩ ја целим срцем чувам наредбе твоје.",
+  "tokens": [
+    {
+      "surface": "טפלו",
+      "gloss": "Налепише"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "на мене"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "лаж"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "надмени"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "целим"
+    },
+    {
+      "surface": "לב",
+      "gloss": "срцем"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "чувам"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "наредбе твоје"
+    }
+  ],
+  "timestamp": "2026-09-05T17:18:47.489462238Z",
+  "model": "glm-5.3"
+}

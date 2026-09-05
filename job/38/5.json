@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 38:5",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 38,
+  "translation": "Ко постави мере њезине — јер ти знаш? Или ко разапе над њом конопац?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ко"
+    },
+    {
+      "surface": "שם",
+      "gloss": "постави"
+    },
+    {
+      "surface": "ממדיה",
+      "gloss": "мере њезине"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "ти знаш"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ко"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "разапе"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "над њом"
+    },
+    {
+      "surface": "קו",
+      "gloss": "конопац"
+    }
+  ],
+  "timestamp": "2026-09-05T14:05:02.235405513Z",
+  "model": "glm-5.3"
+}

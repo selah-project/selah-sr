@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 21:8",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "Јер краљ узда се у Јахвеа, и у хесед Елиона — неће ⟨се⟩ поколебати.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "краљ"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "узда се"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "у Јахвеа"
+    },
+    {
+      "surface": "ובחסד",
+      "gloss": "и у хесед"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Елиона"
+    },
+    {
+      "surface": "בל",
+      "gloss": "не"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "колебати"
+    }
+  ],
+  "timestamp": "2026-09-05T13:20:08.442057944Z",
+  "model": "glm-5.3"
+}

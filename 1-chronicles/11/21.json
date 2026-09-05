@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 11:21",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "Од три над два ⟨је⟩ почашћен, и би ⟨им⟩ за вођу; а до три првих није дошао.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "Од"
+    },
+    {
+      "surface": "השלושה",
+      "gloss": "три"
+    },
+    {
+      "surface": "בשנים",
+      "gloss": "над-два"
+    },
+    {
+      "surface": "נכבד",
+      "gloss": "почашћен"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и-би"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "לשר",
+      "gloss": "за-вођу"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "а-до"
+    },
+    {
+      "surface": "השלושה",
+      "gloss": "три"
+    },
+    {
+      "surface": "לא",
+      "gloss": "није"
+    },
+    {
+      "surface": "בא",
+      "gloss": "дошао"
+    }
+  ],
+  "timestamp": "2026-09-05T14:38:46.807976387Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 3:28",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Не говори ближњем своме: „Иди и врати се, и сутра ћу дати“ — а имаш ⟨את⟩ то са собом.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "говори"
+    },
+    {
+      "surface": "לרעיך",
+      "gloss": "ближњем своме"
+    },
+    {
+      "surface": "לך",
+      "gloss": "иди"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "и врати се"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "и сутра"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ћу дати"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "а имаш"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ са собом",
+      "marks": "са собом"
+    }
+  ],
+  "timestamp": "2026-09-05T13:46:17.779074637Z",
+  "model": "glm-5.3"
+}

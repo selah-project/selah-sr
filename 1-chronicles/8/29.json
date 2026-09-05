@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 8:29",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "А у Гивону настанише се отац Гивонов, а име жене његове ⟨бејаше⟩ Мааха.",
+  "tokens": [
+    {
+      "surface": "ובגבעון",
+      "gloss": "а у Гивону"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "настанише се"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "отац"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Гивонов"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "а име"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "жене његове"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Мааха"
+    }
+  ],
+  "timestamp": "2026-09-05T14:36:37.708926496Z",
+  "model": "glm-5.3"
+}

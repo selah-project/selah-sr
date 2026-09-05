@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 77:6",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 77,
+  "translation": "Сагледах дане од давнина, године векова.",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "Сагледах"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дане"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "од давнина"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "године"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "векова"
+    }
+  ],
+  "timestamp": "2026-09-05T13:31:02.380862944Z",
+  "model": "glm-5.3"
+}

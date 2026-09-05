@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "hosea 4:17",
+  "book": "hosea",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "Спојен ⟨с⟩ идолима ⟨је⟩ Ефрајим — пусти га!",
+  "tokens": [
+    {
+      "surface": "חבור",
+      "gloss": "спојен"
+    },
+    {
+      "surface": "עצבים",
+      "gloss": "с идолима"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Ефрајим"
+    },
+    {
+      "surface": "הנח",
+      "gloss": "пусти"
+    },
+    {
+      "surface": "לו",
+      "gloss": "га"
+    }
+  ],
+  "timestamp": "2026-09-05T13:00:13.247484613Z",
+  "model": "glm-5.3"
+}

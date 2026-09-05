@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 7:15",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Сада очи моје стоје отворене и уши моје пажљиве за молитву на месту овоме.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "сада"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "очи моје"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "стоје"
+    },
+    {
+      "surface": "פתחות",
+      "gloss": "отворене"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "и уши моје"
+    },
+    {
+      "surface": "קשבות",
+      "gloss": "пажљиве"
+    },
+    {
+      "surface": "לתפלת",
+      "gloss": "за молитву"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "на месту"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овоме"
+    }
+  ],
+  "timestamp": "2026-09-05T14:48:01.154252490Z",
+  "model": "glm-5.3"
+}

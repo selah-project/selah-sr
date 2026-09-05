@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 3:14",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Постао ⟨сам⟩ подсмех свему народу своме, песма њихова сав дан.",
+  "tokens": [
+    {
+      "surface": "הייתי",
+      "gloss": "Постао сам"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "подсмех"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "свему"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "народу своме"
+    },
+    {
+      "surface": "נגינתם",
+      "gloss": "песма њихова"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сав"
+    },
+    {
+      "surface": "היום",
+      "gloss": "дан"
+    }
+  ],
+  "timestamp": "2026-09-05T14:09:16.512516009Z",
+  "model": "glm-5.3"
+}

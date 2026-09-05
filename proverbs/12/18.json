@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 12:18",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "Има ко брује као ударце мача, а језик мудрих ⟨је⟩ исцељење.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "има"
+    },
+    {
+      "surface": "בוטה",
+      "gloss": "ко брује"
+    },
+    {
+      "surface": "כמדקרות",
+      "gloss": "као ударце"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "мача"
+    },
+    {
+      "surface": "ולשון",
+      "gloss": "а језик"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "мудрих"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "исцељење"
+    }
+  ],
+  "timestamp": "2026-09-05T16:00:23.341075204Z",
+  "model": "glm-5.3"
+}

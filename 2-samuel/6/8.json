@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 6:8",
+  "book": "2-samuel",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "И расрди се Давид што прорачи Јахве пробој на Узу, и назва то место Перец Узa, до дана овог.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "И расрди се"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "על",
+      "gloss": "што"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨што⟩"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "прорачи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "пробој"
+    },
+    {
+      "surface": "בעזה",
+      "gloss": "на Узу"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "и назва"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "то место"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "⟨то⟩"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Перец"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Уза"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "היום",
+      "gloss": "дана"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овог"
+    }
+  ],
+  "timestamp": "2026-09-05T11:29:59.599303078Z",
+  "model": "glm-5.3"
+}

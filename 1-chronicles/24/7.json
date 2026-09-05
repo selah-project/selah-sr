@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 24:7",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "И изађе жребиј први Јехојариву, Једаји други.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "и изађе"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "жребиј"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "први"
+    },
+    {
+      "surface": "ליהויריב",
+      "gloss": "Јехојариву"
+    },
+    {
+      "surface": "לידעיה",
+      "gloss": "Једаји"
+    },
+    {
+      "surface": "השני",
+      "gloss": "други"
+    }
+  ],
+  "timestamp": "2026-09-05T14:42:14.312700371Z",
+  "model": "glm-5.3"
+}

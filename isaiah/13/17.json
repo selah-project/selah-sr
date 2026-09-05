@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 13:17",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "Ево ме, подижем на њих ⟨את⟩ Мадајце, који сребра не цене и злата не желе.",
+  "tokens": [
+    {
+      "surface": "הנני",
+      "gloss": "Ево ме"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "подижем"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "на њих"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мадајце"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "Мадајце"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "сребра"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "цене"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "и злата"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יחפצו",
+      "gloss": "желе"
+    },
+    {
+      "surface": "בו",
+      "gloss": "у њега"
+    }
+  ],
+  "timestamp": "2026-09-05T12:04:19.704675095Z",
+  "model": "glm-5.3"
+}

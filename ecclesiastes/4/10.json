@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 4:10",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "Јер ако падну, један ће подићи ⟨את⟩ друга свог; а ако падне један сам, нема другог да га подигне.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "падну"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "један"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "ће подићи"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "друга свог"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "друга свог"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "а ако"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "један"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "падне"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "שני",
+      "gloss": "другог"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "да га подигне"
+    }
+  ],
+  "timestamp": "2026-09-05T14:11:13.439850492Z",
+  "model": "glm-5.3"
+}

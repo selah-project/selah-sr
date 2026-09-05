@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 119:67",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 119,
+  "translation": "Пре него што бих понижен, ја лутах; а сада реч твоју чувам.",
+  "tokens": [
+    {
+      "surface": "טרם",
+      "gloss": "пре него што"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "бих понижен"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "שגג",
+      "gloss": "лутах"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "а сада"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "реч твоју"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "чувам"
+    }
+  ],
+  "timestamp": "2026-09-05T13:40:19.824793689Z",
+  "model": "glm-5.3"
+}

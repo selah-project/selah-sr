@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 14:1",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "И учини Аса (Аса) добро и право у очима Јахвеа, Елохима свога.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "И учини"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Аса (Аса)"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "ו הישר",
+      "gloss": "и право"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "у очима"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Елохима свога"
+    }
+  ],
+  "timestamp": "2026-09-05T14:49:12.572931071Z",
+  "model": "glm-5.3"
+}

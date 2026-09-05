@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 36:21",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 36,
+  "translation": "и Дишон, и Ецер и Дишан; ово су кнезови Хорита, синови Сеира, у земљи Едому.",
+  "tokens": [
+    {
+      "surface": "ודשון",
+      "gloss": "и Дишон"
+    },
+    {
+      "surface": "ואצר",
+      "gloss": "и Ецер"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "и Дишан"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ово"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "кнезови"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "Хорита"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Сеира"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "у земљи"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Едому"
+    }
+  ],
+  "timestamp": "2026-09-05T09:52:12.793526314Z",
+  "model": "glm-5.3"
+}

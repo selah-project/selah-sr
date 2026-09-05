@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 27:16",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 27,
+  "translation": "И коже јарића козјих обуче на руке његове и на гладак врат његов.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "И ⟨את⟩",
+      "marks": "коже јарића"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "коже"
+    },
+    {
+      "surface": "גדיי",
+      "gloss": "јарића"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "козјих"
+    },
+    {
+      "surface": "הלבישה",
+      "gloss": "обуче"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "руке његове"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "гладак"
+    },
+    {
+      "surface": "צואריו",
+      "gloss": "врат његов"
+    }
+  ],
+  "timestamp": "2026-09-05T09:48:52.083630004Z",
+  "model": "glm-5.3"
+}

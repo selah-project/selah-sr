@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 3:3",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "а од плода дрвета које је усред врта рече Елохим: не једите ⟨од њега⟩, нити дирајте у њ, да не умрете.",
+  "tokens": [
+    {
+      "surface": "ומפרי",
+      "gloss": "а од плода"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "дрвета"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "које"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "усред"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "врта"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "једите"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "од њега"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "нити"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "дирајте"
+    },
+    {
+      "surface": "בו",
+      "gloss": "у њ"
+    },
+    {
+      "surface": "פן",
+      "gloss": "да не"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "умрете"
+    }
+  ],
+  "timestamp": "2026-09-05T16:54:12.102878002Z",
+  "model": "glm-5.3"
+}

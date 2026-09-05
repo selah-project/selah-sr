@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 7:2",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Боље ⟨је⟩ ићи у дом жалости него ићи у дом гозбе, јер то ⟨је⟩ крај сваког човека, и живи даје ⟨то⟩ на срце своје.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "боље ⟨је⟩"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ићи"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "жалости"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "него ићи"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "гозбе"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "јер"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "то ⟨је⟩"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "крај"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сваког"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "човека"
+    },
+    {
+      "surface": "והחי",
+      "gloss": "и живи"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "даје"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "срце своје"
+    }
+  ],
+  "timestamp": "2026-09-05T14:13:02.661814972Z",
+  "model": "glm-5.3"
+}

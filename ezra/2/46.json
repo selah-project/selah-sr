@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "ezra 2:46",
+  "book": "ezra",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "синови Хагава, синови Шамлаја, синови Ханана.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "חגב",
+      "gloss": "Хагава"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "שמלי",
+      "gloss": "Шамлаја"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "Ханана"
+    }
+  ],
+  "timestamp": "2026-09-05T14:25:03.832651928Z",
+  "model": "glm-5.3"
+}

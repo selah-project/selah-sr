@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 36:28",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 36,
+  "translation": "Ово су синови Дишанови: Уц и Аран.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Ово"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "דישן",
+      "gloss": "Дишанови"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "Уц"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "и Аран"
+    }
+  ],
+  "timestamp": "2026-09-05T09:52:36.738081508Z",
+  "model": "glm-5.3"
+}

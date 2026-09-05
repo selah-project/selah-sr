@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 13:14",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "Тора мудраца — извор живота, да се одвратимо од замки смрти.",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "Тора"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мудраца"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "извор"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "живота"
+    },
+    {
+      "surface": "לסור",
+      "gloss": "да се одвратимо"
+    },
+    {
+      "surface": "ממקשי",
+      "gloss": "од замки"
+    },
+    {
+      "surface": "מות",
+      "gloss": "смрти"
+    }
+  ],
+  "timestamp": "2026-09-05T13:48:48.731297793Z",
+  "model": "glm-5.3"
+}

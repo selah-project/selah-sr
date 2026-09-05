@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 32:33",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 32,
+  "translation": "Отровњача је њихово вино, и жуч питона немилосрдна.",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "отров"
+    },
+    {
+      "surface": "תנינם",
+      "gloss": "отровњача"
+    },
+    {
+      "surface": "יינם",
+      "gloss": "њихово вино"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "и жуч"
+    },
+    {
+      "surface": "פתנים",
+      "gloss": "питона"
+    },
+    {
+      "surface": "אכזר",
+      "gloss": "немилосрдна"
+    }
+  ],
+  "timestamp": "2026-09-05T15:15:27.955490508Z",
+  "model": "glm-5.3"
+}

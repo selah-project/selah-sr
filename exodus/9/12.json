@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 9:12",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "И учврсти Јахве ⟨את⟩ срце Пароа, те не послуша њих — као што бејаше рекао Јахве Мошену.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "учврсти"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "срце"
+    },
+    {
+      "surface": "לב",
+      "gloss": "срце"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Пароа"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "послуша"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "њих"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "као што"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "бејаше рекао"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Мошену"
+    },
+    {
+      "surface": "משה",
+      "gloss": "(Мојсију)"
+    }
+  ],
+  "timestamp": "2026-09-05T15:03:44.973205699Z",
+  "model": "glm-5.3"
+}

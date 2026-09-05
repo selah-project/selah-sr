@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 32:10",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 32,
+  "translation": "Овако рече Санхериб, цар Ашура: на шта се ви уздате, те седите у опсади у Јерушалајиму?",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Овако"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "Санхериб"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашура"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "מה",
+      "gloss": "шта"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ви"
+    },
+    {
+      "surface": "בטחים",
+      "gloss": "уздате се"
+    },
+    {
+      "surface": "וישבים",
+      "gloss": "и седите"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "у опсади"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "у Јерушалајиму"
+    }
+  ],
+  "timestamp": "2026-09-05T14:56:04.608941986Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 50:3",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 50,
+  "translation": "Облачем небеса мраком и врећом их покривам.",
+  "tokens": [
+    {
+      "surface": "אלביש",
+      "gloss": "облачем"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "небеса"
+    },
+    {
+      "surface": "קדרות",
+      "gloss": "мраком"
+    },
+    {
+      "surface": "ושק",
+      "gloss": "и врећом"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "покривам"
+    },
+    {
+      "surface": "כסותם",
+      "gloss": "покривачем њиховим"
+    }
+  ],
+  "timestamp": "2026-09-05T12:17:18.976018478Z",
+  "model": "glm-5.3"
+}

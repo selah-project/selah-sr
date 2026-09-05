@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 55:19",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 55,
+  "translation": "Искупи у миру душу моју од онога што ми ⟨је⟩ близу, јер множином беху са мном.",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "Искупи"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "у миру"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душу моју"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "од близине"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мене"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "ברבים",
+      "gloss": "у множини"
+    },
+    {
+      "surface": "היו",
+      "gloss": "беху"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "са мном"
+    }
+  ],
+  "timestamp": "2026-09-05T13:27:45.040416301Z",
+  "model": "glm-5.3"
+}

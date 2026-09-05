@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 24:21",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "А ко ударѝ звер, надокнадиће је; а ко ударѝ човека, биће убијен.",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "а ко ударѝ"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "звер"
+    },
+    {
+      "surface": "ישלמנה",
+      "gloss": "надокнадиће је"
+    },
+    {
+      "surface": "ומכה",
+      "gloss": "а ко ударѝ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човека"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "биће убијен"
+    }
+  ],
+  "timestamp": "2026-09-05T10:25:46.727204151Z",
+  "model": "glm-5.3"
+}

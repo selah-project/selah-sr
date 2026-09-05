@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 5:16",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Такође све дане своје у тми једе, и то уз много јада, и болести своје, и гнева.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Такође"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "дане своје"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "у тми"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "једе"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "и уз јад"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "много"
+    },
+    {
+      "surface": "וחליו",
+      "gloss": "и болест своју"
+    },
+    {
+      "surface": "וקצף",
+      "gloss": "и гнев"
+    }
+  ],
+  "timestamp": "2026-09-05T16:08:17.464233281Z",
+  "model": "glm-5.3"
+}

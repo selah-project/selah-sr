@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 7:11",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "И ово ⟨је⟩ Тора жртве шеламим коју ко принесе Јахвеу:",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "И ово"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Тора"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "жртве"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "шеламим"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "коју"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "принесе"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Јахвеу"
+    }
+  ],
+  "timestamp": "2026-09-05T10:16:45.518046324Z",
+  "model": "glm-5.3"
+}

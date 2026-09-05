@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "lamentations 5:17",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Због овога болује срце наше, због овога потамнеле су очи наше.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "због"
+    },
+    {
+      "surface": "זה",
+      "gloss": "овога"
+    },
+    {
+      "surface": "היה",
+      "gloss": "постаде"
+    },
+    {
+      "surface": "דוה",
+      "gloss": "болује"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "срце наше"
+    },
+    {
+      "surface": "על",
+      "gloss": "због"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "овога"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "потамнеле су"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "очи наше"
+    }
+  ],
+  "timestamp": "2026-09-05T14:10:50.561144308Z",
+  "model": "glm-5.3"
+}

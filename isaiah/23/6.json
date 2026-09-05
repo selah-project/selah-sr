@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 23:6",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "Пређите у Таршиш, завијте, становници острва!",
+  "tokens": [
+    {
+      "surface": "עברו",
+      "gloss": "пређите"
+    },
+    {
+      "surface": "תרשישה",
+      "gloss": "у Таршиш"
+    },
+    {
+      "surface": "הילילу",
+      "gloss": "завијте"
+    },
+    {
+      "surface": "יושבי",
+      "gloss": "становници"
+    },
+    {
+      "surface": "אי",
+      "gloss": "острва"
+    }
+  ],
+  "timestamp": "2026-09-05T12:07:53.055185705Z",
+  "model": "glm-5.3"
+}

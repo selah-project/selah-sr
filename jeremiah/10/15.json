@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 10:15",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "Таштина ⟨су⟩ они, дело заблуде; у време посете њихове изгинуће.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "таштина"
+    },
+    {
+      "surface": "המה",
+      "gloss": "они"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "дело"
+    },
+    {
+      "surface": "תעתעים",
+      "gloss": "заблуде"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "у време"
+    },
+    {
+      "surface": "פקדתם",
+      "gloss": "посете њихове"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "изгинуће"
+    }
+  ],
+  "timestamp": "2026-09-05T12:24:14.327960254Z",
+  "model": "glm-5.3"
+}

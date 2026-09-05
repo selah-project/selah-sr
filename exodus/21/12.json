@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 21:12",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "Ко човека удари те умре — смрћу нека умре.",
+  "tokens": [
+    {
+      "surface": "מכה",
+      "gloss": "ко удари"
+    },
+    {
+      "surface": "אישׁ",
+      "gloss": "човека"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "те умре"
+    },
+    {
+      "surface": "מות",
+      "gloss": "смрћу"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "нека умре"
+    }
+  ],
+  "timestamp": "2026-09-05T10:07:17.501432416Z",
+  "model": "glm-5.3"
+}

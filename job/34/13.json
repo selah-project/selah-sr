@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 34:13",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 34,
+  "translation": "Ко одреди над њим земљу? и ко постави васељену, сву њу?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Ко"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "одреди"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "над њим"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "земљу"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "и ко"
+    },
+    {
+      "surface": "שם",
+      "gloss": "постави"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "васељену"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "сву њу"
+    }
+  ],
+  "timestamp": "2026-09-05T14:03:54.619304171Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 34,
+  "translation": "Клони се зла и чини добро; тражи мир и гони га.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "Клони се"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "зла"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "и чини"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "тражи"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мир"
+    },
+    {
+      "surface": "ורדפהו",
+      "gloss": "и гони га"
+    }
+  ],
+  "timestamp": "2026-09-05T13:21:57.937491401Z",
+  "model": "glm-5.3"
+}

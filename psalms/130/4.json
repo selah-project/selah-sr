@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 130,
+  "translation": "Јер је ⟨у тебе⟩ опроштење, да би се ⟪тебе⟫ бояо… да би се ти бояо.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "у тебе"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "опроштење"
+    },
+    {
+      "surface": "למען",
+      "gloss": "да би"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "се бояо"
+    }
+  ],
+  "timestamp": "2026-09-05T15:59:00.148756510Z",
+  "model": "glm-5.3"
+}

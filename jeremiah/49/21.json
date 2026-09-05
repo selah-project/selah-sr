@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 49:21",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 49,
+  "translation": "Од звука пада њиховог затресла се земља — вапај, на мору Суф чује се глас њен.",
+  "tokens": [
+    {
+      "surface": "מקול",
+      "gloss": "Од звука"
+    },
+    {
+      "surface": "נפלם",
+      "gloss": "пада њиховог"
+    },
+    {
+      "surface": "רעשה",
+      "gloss": "затресла се"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земља"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "вапај"
+    },
+    {
+      "surface": "בים",
+      "gloss": "на мору"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Суф"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "чује се"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "глас њен"
+    }
+  ],
+  "timestamp": "2026-09-05T12:39:26.798640517Z",
+  "model": "glm-5.3"
+}

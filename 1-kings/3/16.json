@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 3:16",
+  "book": "1-kings",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Тада дођоше две жене блуднице краљу и стадоше пред њим.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "тада"
+    },
+    {
+      "surface": "תבאנה",
+      "gloss": "дођоше"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "две"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "жене"
+    },
+    {
+      "surface": "זנות",
+      "gloss": "блуднице"
+    },
+    {
+      "surface": "אל",
+      "gloss": "краљу"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "краљу"
+    },
+    {
+      "surface": "ותעמדנה",
+      "gloss": "и стадоше"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "пред њим"
+    }
+  ],
+  "timestamp": "2026-09-05T11:39:02.989578692Z",
+  "model": "glm-5.3"
+}

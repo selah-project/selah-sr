@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 5:4",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Воду своју за сребро пили смо, дрва наша по цени долазе.",
+  "tokens": [
+    {
+      "surface": "מימינו",
+      "gloss": "Воду своју"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "за сребро"
+    },
+    {
+      "surface": "שתינו",
+      "gloss": "пили смо"
+    },
+    {
+      "surface": "עצינו",
+      "gloss": "дрва наша"
+    },
+    {
+      "surface": "במחיר",
+      "gloss": "по цени"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "долазе"
+    }
+  ],
+  "timestamp": "2026-09-05T14:10:53.359945814Z",
+  "model": "glm-5.3"
+}

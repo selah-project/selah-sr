@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 9:13",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "⟨את⟩ лук свој дадох у облак, и биће за знак завеза између мене и земље.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "лук свој"
+    },
+    {
+      "surface": "קשתי",
+      "gloss": "лук свој"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "дадох"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "у облак"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "и биће"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "за знак"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "завеза"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "између мене"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "и између"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земље"
+    }
+  ],
+  "timestamp": "2026-09-05T09:40:49.094841736Z",
+  "model": "glm-5.3"
+}

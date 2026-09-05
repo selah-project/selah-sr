@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 4:13",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "Чврсто држи васпиту, не попуштај, чувај је, јер она ⟨је⟩ живот твој.",
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "чврсто држи"
+    },
+    {
+      "surface": "במוסר",
+      "gloss": "васпиту"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תרף",
+      "gloss": "попуштај"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "чувај је"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "היא",
+      "gloss": "она"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "живот твој"
+    }
+  ],
+  "timestamp": "2026-09-05T13:46:15.451639246Z",
+  "model": "glm-5.3"
+}

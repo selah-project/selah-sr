@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 44:26",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 44,
+  "translation": "И после очишћења његовог, седам дана нека му изброје.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "и после"
+    },
+    {
+      "surface": "טהרתו",
+      "gloss": "очишћења његовог"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "седам"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дана"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "избројиће"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    }
+  ],
+  "timestamp": "2026-09-05T15:48:30.861327585Z",
+  "model": "glm-5.3"
+}

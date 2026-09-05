@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 30:2",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 30,
+  "translation": "Сине човечји, прорекуј и реци: тако рече Адонај Јахве: ридајте, јао ⟨за⟩ дан!",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Сине"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човечји"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "прорекуј"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "и реци"
+    },
+    {
+      "surface": "כה",
+      "gloss": "тако"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "הילילу",
+      "gloss": "ридајте"
+    },
+    {
+      "surface": "הה",
+      "gloss": "јао"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "⟨за⟩ дан"
+    }
+  ],
+  "timestamp": "2026-09-05T12:52:25.983097633Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 9:22",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "Једно је ⟨то⟩; због тога рекох: непорнога и зликовца он истребљује.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "једно"
+    },
+    {
+      "surface": "היא",
+      "gloss": "је"
+    },
+    {
+      "surface": "על",
+      "gloss": "због"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тога"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "рекох"
+    },
+    {
+      "surface": "תם",
+      "gloss": "непорнога"
+    },
+    {
+      "surface": "ורשע",
+      "gloss": "и зликовца"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "מכלה",
+      "gloss": "истребљује"
+    }
+  ],
+  "timestamp": "2026-09-05T13:57:21.794097792Z",
+  "model": "glm-5.3"
+}

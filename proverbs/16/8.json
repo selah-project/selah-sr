@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 16:8",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 16,
+  "translation": "Боље мало с праведношћу него много приноса без права.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "боље"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "мало"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "с праведношћу"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "него много"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "приноса"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "без"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "права"
+    }
+  ],
+  "timestamp": "2026-09-05T13:49:45.145329307Z",
+  "model": "glm-5.3"
+}

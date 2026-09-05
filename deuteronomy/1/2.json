@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "једанаест дана ⟨пута⟩ од Хорева, путем горе Сеира, до Кадеш Барнее.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "једанаест"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "יום",
+      "gloss": "дана"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "од Хорева"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "путем"
+    },
+    {
+      "surface": "הר",
+      "gloss": "горе"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Сеира"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Кадеш"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Барнее"
+    }
+  ],
+  "timestamp": "2026-09-05T10:44:08.304974163Z",
+  "model": "glm-5.3"
+}

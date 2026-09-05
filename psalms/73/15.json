@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 73:15",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 73,
+  "translation": "Ако рекох: казаћу тако, ето, поколењу синова Твојих издао бих.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "рекох"
+    },
+    {
+      "surface": "אספרה",
+      "gloss": "казаћу"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "тако"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ето"
+    },
+    {
+      "surface": "דור",
+      "gloss": "поколењу"
+    },
+    {
+      "surface": "בניך",
+      "gloss": "синова Твојих"
+    },
+    {
+      "surface": "בגדתי",
+      "gloss": "издао бих"
+    }
+  ],
+  "timestamp": "2026-09-05T13:31:01.758450029Z",
+  "model": "glm-5.3"
+}

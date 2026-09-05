@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 11:7",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "И ⟨את⟩ свињу, јер копито раздваја ⟨он⟩ и расцепљено има копито, а жвакање не избацује — нечист је он вама.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "свињу"
+    },
+    {
+      "surface": "החזיר",
+      "gloss": "свињу"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "раздваја"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "копито"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨он⟩"
+    },
+    {
+      "surface": "ושסע",
+      "gloss": "и расцепљено"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "има расцеп"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "копито"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "а ⟨он⟩"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "жвакање"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יגר",
+      "gloss": "избацује"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "нечист"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "је он"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вама"
+    }
+  ],
+  "timestamp": "2026-09-05T10:18:47.892711481Z",
+  "model": "glm-5.3"
+}

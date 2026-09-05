@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 12:26",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "Праведник испитује свог друга, а пут злих заводи их.",
+  "tokens": [
+    {
+      "surface": "יתר",
+      "gloss": "испитује"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "свој друга"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "праведник"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "а пут"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "злих"
+    },
+    {
+      "surface": "תתעם",
+      "gloss": "заводи их"
+    }
+  ],
+  "timestamp": "2026-09-05T13:48:45.727678203Z",
+  "model": "glm-5.3"
+}

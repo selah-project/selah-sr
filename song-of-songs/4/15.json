@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 4:15",
+  "book": "song-of-songs",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "Извор вртова, бунар воде живе, и потоци који теку ⟨из⟩ Ливана.",
+  "tokens": [
+    {
+      "surface": "מעין",
+      "gloss": "извор"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "вртова"
+    },
+    {
+      "surface": "באר",
+      "gloss": "бунар"
+    },
+    {
+      "surface": "מים",
+      "gloss": "воде"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "живе"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "и потоци који теку"
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨из⟩"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Ливана"
+    }
+  ],
+  "timestamp": "2026-09-05T16:06:36.072763176Z",
+  "model": "glm-5.3"
+}

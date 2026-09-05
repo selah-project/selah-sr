@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 73:10",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 73,
+  "translation": "Зато народ Његов свраћа овамо, и воде пуноће исцеде се ⟨њима⟩.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Зато"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "свраћа"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "народ Његов"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "овамо"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "и воде"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "пуноће"
+    },
+    {
+      "surface": "ימצו",
+      "gloss": "исцеде се"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨њима⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T13:30:58.975768900Z",
+  "model": "glm-5.3"
+}

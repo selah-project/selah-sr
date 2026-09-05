@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 24:23",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "И ово ⟨је⟩ за мудраце: познавати лица у суђењу — није добро.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "И"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ово"
+    },
+    {
+      "surface": "לחכמים",
+      "gloss": "за мудраце"
+    },
+    {
+      "surface": "הכר",
+      "gloss": "познавати"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "лица"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "у суђењу"
+    },
+    {
+      "surface": "בל",
+      "gloss": "није"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    }
+  ],
+  "timestamp": "2026-09-05T16:49:50.368526933Z",
+  "model": "glm-5.3"
+}

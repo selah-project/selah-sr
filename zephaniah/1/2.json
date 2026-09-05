@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zephaniah 1:2",
+  "book": "zephaniah",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "Дочепраћу дочепрати све с лица земље, изјава Јахвеа.",
+  "tokens": [
+    {
+      "surface": "אסף",
+      "gloss": "Дочепраћу"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "дочепрати"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "с"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лица"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "земље"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "изјава"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    }
+  ],
+  "timestamp": "2026-09-05T16:41:55.836219953Z",
+  "model": "glm-5.3"
+}

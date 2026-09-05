@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 12:16",
+  "book": "nehemiah",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "за Ида Зехарија, за Гинетона Мешулам;",
+  "tokens": [
+    {
+      "surface": "לעדיא",
+      "gloss": "за Ида"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "Зехарија"
+    },
+    {
+      "surface": "לגנתון",
+      "gloss": "за Гинетона"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "Мешулам"
+    }
+  ],
+  "timestamp": "2026-09-05T14:32:18.648075937Z",
+  "model": "glm-5.3"
+}

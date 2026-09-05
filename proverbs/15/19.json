@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 15:19",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 15,
+  "translation": "Пут лењивца као ограда од трња, а стаза правих ⟨је⟩ насута.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "Пут"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "лењивца"
+    },
+    {
+      "surface": "כמשכת",
+      "gloss": "као ограда"
+    },
+    {
+      "surface": "חדק",
+      "gloss": "од трња"
+    },
+    {
+      "surface": "וארח",
+      "gloss": "а стаза"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "правих"
+    },
+    {
+      "surface": "סלулה",
+      "gloss": "насута"
+    }
+  ],
+  "timestamp": "2026-09-05T13:49:53.769918265Z",
+  "model": "glm-5.3"
+}

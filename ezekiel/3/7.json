@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 3:7",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "А дом Израиљев неће хтети да слуша тебе, јер нису вољни да слушају мене; јер сав дом Израиљев тврдога је чела и тврда срца — они.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "А дом"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљев"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יאבו",
+      "gloss": "хоће"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "слушати"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "тебе"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "нису"
+    },
+    {
+      "surface": "אבים",
+      "gloss": "вољни"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "да слушају"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мене"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сав"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљев"
+    },
+    {
+      "surface": "חזקי",
+      "gloss": "тврдога"
+    },
+    {
+      "surface": "מצח",
+      "gloss": "чела"
+    },
+    {
+      "surface": "וקשי",
+      "gloss": "и тврда"
+    },
+    {
+      "surface": "לב",
+      "gloss": "срца"
+    },
+    {
+      "surface": "המה",
+      "gloss": "они"
+    }
+  ],
+  "timestamp": "2026-09-05T12:43:41.345332883Z",
+  "model": "glm-5.3"
+}

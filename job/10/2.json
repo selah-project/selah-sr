@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 10:2",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "Рећи ћу Елоаху: не осуђуј ме; објави ми на шта ме кривиш.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "рећи ћу"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨коме⟩"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Елоаху"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תרשיעני",
+      "gloss": "осуђуј ме"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "објави ми"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "מה",
+      "gloss": "шта"
+    },
+    {
+      "surface": "תריבני",
+      "gloss": "кривиш ме"
+    }
+  ],
+  "timestamp": "2026-09-05T13:58:07.219373316Z",
+  "model": "glm-5.3"
+}

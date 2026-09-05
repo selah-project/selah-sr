@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-kings 4:11",
+  "book": "2-kings",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "И би један дан, те дође онамо, и скрену у ⟨ту⟩ горњу собу, и леже онамо.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И би"
+    },
+    {
+      "surface": "היום",
+      "gloss": "један дан"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "те дође"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "онамо"
+    },
+    {
+      "surface": "ויסר",
+      "gloss": "и скрену"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "העליה",
+      "gloss": "горњу собу"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "и леже"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "онамо"
+    }
+  ],
+  "timestamp": "2026-09-05T11:51:06.990957910Z",
+  "model": "glm-5.3"
+}

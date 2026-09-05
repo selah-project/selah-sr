@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "deuteronomy 4:41",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "Тада издвоји Моше (Мојсије) три града с оне стране Јардена, према изласку сунца.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Тада"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "издвоји"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "три"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "града"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "с оне стране"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Јардена"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "према истоку"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "сунца"
+    }
+  ],
+  "timestamp": "2026-09-05T15:13:00.678809148Z",
+  "model": "glm-5.3"
+}

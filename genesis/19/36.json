@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 19:36",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 19,
+  "translation": "И затрудне обе кћери Лотове од оца свога.",
+  "tokens": [
+    {
+      "surface": "ותהרין",
+      "gloss": "И затрудне"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "обе"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "кћери"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Лотове"
+    },
+    {
+      "surface": "מאביהן",
+      "gloss": "од оца свога"
+    }
+  ],
+  "timestamp": "2026-09-05T09:46:07.121172804Z",
+  "model": "glm-5.3"
+}

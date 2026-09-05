@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 42:2",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 42,
+  "translation": "И рече: ево, чух да има жита у Мицрајиму; сиђите онамо и купите нам отуда, па да живимо и не изгинемо.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ево"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "чух"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "יש",
+      "gloss": "има"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "жита"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "у Мицрајиму"
+    },
+    {
+      "surface": "רדו",
+      "gloss": "сиђите"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "онамо"
+    },
+    {
+      "surface": "ושברו",
+      "gloss": "и купите"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "нам"
+    },
+    {
+      "surface": "משם",
+      "gloss": "отуда"
+    },
+    {
+      "surface": "ונחיה",
+      "gloss": "па да живимо"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "изгинемо"
+    }
+  ],
+  "timestamp": "2026-09-05T15:01:09.674264196Z",
+  "model": "glm-5.3"
+}

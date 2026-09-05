@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 2:13",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "И видех ја да ⟨има⟩ предност мудрост над лудошћу, као ⟨предност⟩ светлости над тамом.",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "и видех"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "שיש",
+      "gloss": "да ⟨има⟩"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "предност"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "мудрост"
+    },
+    {
+      "surface": "מן",
+      "gloss": "над"
+    },
+    {
+      "surface": "הסכלות",
+      "gloss": "лудошћу"
+    },
+    {
+      "surface": "כיתרון",
+      "gloss": "као ⟨предност⟩"
+    },
+    {
+      "surface": "האור",
+      "gloss": "светлости"
+    },
+    {
+      "surface": "מן",
+      "gloss": "над"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "тамом"
+    }
+  ],
+  "timestamp": "2026-09-05T16:08:43.433958080Z",
+  "model": "glm-5.3"
+}

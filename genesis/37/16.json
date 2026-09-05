@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 37:16",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 37,
+  "translation": "А он рече: ⟨את⟩ браћу своју тражим. Кажи ми, молим те, где они чувају стадо.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "А рече"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "браћу своју"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "браћу своју"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ја"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "тражим"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "Кажи"
+    },
+    {
+      "surface": "נא",
+      "gloss": "молим те"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "где"
+    },
+    {
+      "surface": "הם",
+      "gloss": "они"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "чувају стадо"
+    }
+  ],
+  "timestamp": "2026-09-05T09:52:56.449527113Z",
+  "model": "glm-5.3"
+}

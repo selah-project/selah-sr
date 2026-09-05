@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 32:45",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 32,
+  "translation": "И заврши Моше (Мојсије) да говори ⟨את⟩ све ове речи свему Израилю.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "И заврши"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "да говори"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "све"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ове речи"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ове"
+    },
+    {
+      "surface": "אל",
+      "gloss": "свему"
+    },
+    {
+      "surface": "כל",
+      "gloss": "свему"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израилю"
+    }
+  ],
+  "timestamp": "2026-09-05T10:55:33.400814031Z",
+  "model": "glm-5.3"
+}

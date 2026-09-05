@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 23:3",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "Душу моју враћа, води ме стазама правде ради имена својега.",
+  "tokens": [
+    {
+      "surface": "נפשי",
+      "gloss": "душу моју"
+    },
+    {
+      "surface": "ישובב",
+      "gloss": "враћа"
+    },
+    {
+      "surface": "ינחני",
+      "gloss": "води ме"
+    },
+    {
+      "surface": "במעגלי",
+      "gloss": "стазама"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "правде"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ради"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "имена својега"
+    }
+  ],
+  "timestamp": "2026-09-05T13:20:05.864452748Z",
+  "model": "glm-5.3"
+}

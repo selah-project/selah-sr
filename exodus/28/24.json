@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 28:24",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "И прицепи ⟨את⟩ две плетенице од злата на две табе, на крајеве хошена.",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "И стави"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "две плетенице"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "две"
+    },
+    {
+      "surface": "עבתת",
+      "gloss": "плетенице"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "од злата"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "две"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "табе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "крајеве"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "хошена"
+    }
+  ],
+  "timestamp": "2026-09-05T15:04:04.616278530Z",
+  "model": "glm-5.3"
+}

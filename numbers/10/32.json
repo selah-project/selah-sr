@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 10:32",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "И биће: ако пођеш с нама, и биће — оно добро које учини Јахве нама, учинићемо и теби.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "И биће"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ако"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "пођеш"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "с нама"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "и биће"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "оно"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "које"
+    },
+    {
+      "surface": "ייטיב",
+      "gloss": "учини"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "нама"
+    },
+    {
+      "surface": "והטבנו",
+      "gloss": "учинићемо добро"
+    },
+    {
+      "surface": "לך",
+      "gloss": "теби"
+    }
+  ],
+  "timestamp": "2026-09-05T10:32:09.333607002Z",
+  "model": "glm-5.3"
+}

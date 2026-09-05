@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 43:19",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 43,
+  "translation": "И приступише човеку над домом Јосефовим, и говорише с њим на вратима куће,",
+  "tokens": [
+    {
+      "surface": "ויגשו",
+      "gloss": "и приступише"
+    },
+    {
+      "surface": "אל",
+      "gloss": "човеку"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "човеку"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "בית",
+      "gloss": "домом"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Јосефовим"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "и говорише"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "с њим"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "на вратима"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "куће"
+    }
+  ],
+  "timestamp": "2026-09-05T09:55:54.135936600Z",
+  "model": "glm-5.3"
+}

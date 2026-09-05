@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 7:9",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "У сумрак, у вече дана, у мрак ноћи и таму.",
+  "tokens": [
+    {
+      "surface": "בנשף",
+      "gloss": "У сумрак"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "у вече"
+    },
+    {
+      "surface": "יום",
+      "gloss": "дана"
+    },
+    {
+      "surface": "באישון",
+      "gloss": "у мраку"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ноћи"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "и таму"
+    }
+  ],
+  "timestamp": "2026-09-05T13:47:14.876230117Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 22:16",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "Суди ⟨את⟩ суд сиромаха и убога — тада беше добро; није ли то спознати ⟨את⟩ мене? — изјава Јахвеина.",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "Суди"
+    },
+    {
+      "surface": "דין",
+      "gloss": "суд"
+    },
+    {
+      "surface": "עני",
+      "gloss": "сиромаха"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "и убога"
+    },
+    {
+      "surface": "אז",
+      "gloss": "тада"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "није ли"
+    },
+    {
+      "surface": "היא",
+      "gloss": "то"
+    },
+    {
+      "surface": "הדעת",
+      "gloss": "спознати"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "мене"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "изјава"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеина"
+    }
+  ],
+  "timestamp": "2026-09-05T12:28:07.564799267Z",
+  "model": "glm-5.3"
+}

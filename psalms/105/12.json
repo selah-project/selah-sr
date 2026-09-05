@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 105:12",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 105,
+  "translation": "док беху људи ⟨у⟩ броју, малобројни, и туђини у њој.",
+  "tokens": [
+    {
+      "surface": "בהיותם",
+      "gloss": "док беху"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "људи"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "броју"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "малобројни"
+    },
+    {
+      "surface": "וגרים",
+      "gloss": "и туђини"
+    },
+    {
+      "surface": "בה",
+      "gloss": "у њој"
+    }
+  ],
+  "timestamp": "2026-09-05T13:37:29.226859133Z",
+  "model": "glm-5.3"
+}

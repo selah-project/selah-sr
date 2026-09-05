@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 3:1",
+  "book": "jonah",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "И би реч Јахвеова к Јони други пут ⟨говорећи⟩:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И би"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "реч"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеова"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Јони"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "други пут"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨говорећи⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T13:07:30.331789110Z",
+  "model": "glm-5.3"
+}

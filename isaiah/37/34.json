@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "isaiah 37:34",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 37,
+  "translation": "Путем којим је дошао, њим ће се вратити, и у овај град неће ући — извод Јахвеов.",
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "Путем"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "којим"
+    },
+    {
+      "surface": "בא",
+      "gloss": "дошао"
+    },
+    {
+      "surface": "בה",
+      "gloss": "њим"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "вратиће се"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и у"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "град"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "овај"
+    },
+    {
+      "surface": "לא",
+      "gloss": "неће"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ући"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "извод"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеов"
+    }
+  ],
+  "timestamp": "2026-09-05T12:11:38.061416267Z",
+  "model": "glm-5.3"
+}

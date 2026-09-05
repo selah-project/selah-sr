@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 20:7",
+  "book": "1-samuel",
+  "lang": "sr",
+  "chapter": 20,
+  "translation": "Ако тако рече: „Добро, мир слузи твоме“ — а ако се разгневи, знај да је зло одсудило од њега.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ако"
+    },
+    {
+      "surface": "כה",
+      "gloss": "тако"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Добро"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мир"
+    },
+    {
+      "surface": "לעבדך",
+      "gloss": "слузи твоме"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "а ако"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "разгневи"
+    },
+    {
+      "surface": "יחרה",
+      "gloss": "разгневи"
+    },
+    {
+      "surface": "לו",
+      "gloss": "њему"
+    },
+    {
+      "surface": "דע",
+      "gloss": "знај"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "כלתה",
+      "gloss": "одсудило је"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "зло"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "од њега"
+    }
+  ],
+  "timestamp": "2026-09-05T11:23:19.739294466Z",
+  "model": "glm-5.3"
+}

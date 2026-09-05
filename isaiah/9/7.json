@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 9:7",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "Реч посла Адонај у Јаакова, и паде у Израиљу.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Реч"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "посла"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "ביעקב",
+      "gloss": "у Јаакова"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "и паде"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "у Израиљу"
+    }
+  ],
+  "timestamp": "2026-09-05T12:04:48.068447662Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 3:21",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Ко зна ⟨да ли⟩ дух синова човечјих иде навише, а дух звери силази наниже, на земљу?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ко"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "зна"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "дух"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синова"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "човечјих"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "иде навише"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨она⟩"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "навише"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "а дух"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "звери"
+    },
+    {
+      "surface": "הירדת",
+      "gloss": "силази"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨она⟩"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "наниже"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "на земљу"
+    }
+  ],
+  "timestamp": "2026-09-05T16:08:47.364006504Z",
+  "model": "glm-5.3"
+}

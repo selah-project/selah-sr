@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 2:2",
+  "book": "nehemiah",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "И рече ми цар: „Зашто су ти лица зла, а ти ниси болестан? Није ово друго до жалост срца.“ И побојах се врло веома.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "Зашто"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "су ти лица"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "зла"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "а ти"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "ниси"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "болестан"
+    },
+    {
+      "surface": "אין",
+      "gloss": "Није"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ово"
+    },
+    {
+      "surface": "כי",
+      "gloss": "до"
+    },
+    {
+      "surface": "אם",
+      "gloss": "друго"
+    },
+    {
+      "surface": "רע",
+      "gloss": "жалост"
+    },
+    {
+      "surface": "לב",
+      "gloss": "срца"
+    },
+    {
+      "surface": "ואירא",
+      "gloss": "И побојах се"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "врло"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "веома"
+    }
+  ],
+  "timestamp": "2026-09-05T14:28:34.320969696Z",
+  "model": "glm-5.3"
+}

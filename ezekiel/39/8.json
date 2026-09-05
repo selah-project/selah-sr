@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 39:8",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 39,
+  "translation": "Ено, долази и збиће се, рече Адонај Јахве; то ⟨је⟩ дан о коме изговорих.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ено"
+    },
+    {
+      "surface": "באה",
+      "gloss": "долази"
+    },
+    {
+      "surface": "ונהיתה",
+      "gloss": "и збиће се"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "рече"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "то"
+    },
+    {
+      "surface": "היום",
+      "gloss": "дан"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "о коме"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "изговорих"
+    }
+  ],
+  "timestamp": "2026-09-05T12:55:39.819143876Z",
+  "model": "glm-5.3"
+}

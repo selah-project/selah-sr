@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 3:12",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "А човек рече: Жена коју си ми дао ⟨да буде⟩ са мном — она ми даде од дрвета, и једох.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "човек"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "жена"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "коју"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "си дао"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "са мном"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "она"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "даде"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "дрвета"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "и једох"
+    }
+  ],
+  "timestamp": "2026-09-05T09:38:57.679701916Z",
+  "model": "glm-5.3"
+}

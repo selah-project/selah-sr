@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 34:2",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 34,
+  "translation": "И би спреман за јутро, и попни се ујутру на гору Синај, и стој мени тамо на врху горе.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "и би"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "спреман"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "за јутро"
+    },
+    {
+      "surface": "ועלית",
+      "gloss": "и попни се"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ујутру"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "הר",
+      "gloss": "гору"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Синај"
+    },
+    {
+      "surface": "ונצבת",
+      "gloss": "и стој"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мени"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тамо"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "врху"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "горе"
+    }
+  ],
+  "timestamp": "2026-09-05T15:05:17.692122187Z",
+  "model": "glm-5.3"
+}

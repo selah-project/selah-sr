@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 33:28",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 33,
+  "translation": "И кренуше из Тараха, и подигоше логор у Митки.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "И кренуше"
+    },
+    {
+      "surface": "מתרח",
+      "gloss": "из Тараха"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "и подигоше логор"
+    },
+    {
+      "surface": "במתקה",
+      "gloss": "у Митку"
+    }
+  ],
+  "timestamp": "2026-09-05T10:42:05.379748793Z",
+  "model": "glm-5.3"
+}

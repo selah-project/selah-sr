@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 29:1",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 29,
+  "translation": "Човек који ⟨при⟩ прекоре тврди врат, изненада би сломљен и нема лека.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "прекоре"
+    },
+    {
+      "surface": "מקשה",
+      "gloss": "тврди"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "врат"
+    },
+    {
+      "surface": "פתע",
+      "gloss": "изненада"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "би сломљен"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и нема"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "лека"
+    }
+  ],
+  "timestamp": "2026-09-05T13:52:51.872418672Z",
+  "model": "glm-5.3"
+}

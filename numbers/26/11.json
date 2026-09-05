@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 26:11",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 26,
+  "translation": "А синови Корахови не умреше.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "а синови"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Корахови"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "умреше"
+    }
+  ],
+  "timestamp": "2026-09-05T10:38:36.870137224Z",
+  "model": "glm-5.3"
+}

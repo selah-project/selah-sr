@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 17:1",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 17,
+  "translation": "Боља је суха залогај и мир ⟨с њом⟩, него кућа пуна жртава ⟨са⟩ свађом.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "боља је"
+    },
+    {
+      "surface": "פת",
+      "gloss": "залогај"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "суха"
+    },
+    {
+      "surface": "ושלוה",
+      "gloss": "и мир"
+    },
+    {
+      "surface": "בה",
+      "gloss": "⟨с њом⟩"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "него кућа"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "пуна"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "жртава"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "свађом"
+    }
+  ],
+  "timestamp": "2026-09-05T13:50:08.375198803Z",
+  "model": "glm-5.3"
+}

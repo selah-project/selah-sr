@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 51,
+  "translation": "Долазећи к њему Натан пророк, пошто ⟨је⟩ дође к Бат-Шеви.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "Долазећи"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "к њему"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Натан"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "пророк"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "пошто"
+    },
+    {
+      "surface": "בא",
+      "gloss": "дође"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Бат-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Шеви"
+    }
+  ],
+  "timestamp": "2026-09-05T13:27:21.114250584Z",
+  "model": "glm-5.3"
+}

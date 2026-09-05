@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 24:24",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "Синови Узиеља: Микха; за синове Микхе: Шамур.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синови"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "Узиеља"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Микха"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "за синове"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Микхе"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "Шамур"
+    }
+  ],
+  "timestamp": "2026-09-05T14:41:41.725548757Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 13:15",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "Чујте и прилажите ухо, не дичите се, јер Јахве проговори.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "чујте"
+    },
+    {
+      "surface": "והאזינу",
+      "gloss": "и прилажите ухо"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תגבהו",
+      "gloss": "дичите се"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "проговори"
+    }
+  ],
+  "timestamp": "2026-09-05T12:26:16.623788531Z",
+  "model": "glm-5.3"
+}

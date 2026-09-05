@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 78:3",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 78,
+  "translation": "Што чусмо и спознадасмо, и очеви наши казаше нам.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "чусмо"
+    },
+    {
+      "surface": "ונדעם",
+      "gloss": "и спознадасмо"
+    },
+    {
+      "surface": "ואבותינו",
+      "gloss": "и очеви наши"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "казаше"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "нам"
+    }
+  ],
+  "timestamp": "2026-09-05T15:57:04.116208997Z",
+  "model": "glm-5.3"
+}

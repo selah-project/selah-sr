@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 2:4",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "А дом који ја градим велик ⟨је⟩, јер велик је Елохим наш изнад свих богова.",
+  "tokens": [
+    {
+      "surface": "והבית",
+      "gloss": "а дом"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "בונה",
+      "gloss": "градим"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "велик"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "велик"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Елохим наш"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "изнад свих"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "богова"
+    }
+  ],
+  "timestamp": "2026-09-05T14:46:31.409310744Z",
+  "model": "glm-5.3"
+}

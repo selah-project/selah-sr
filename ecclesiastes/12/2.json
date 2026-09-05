@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 12:2",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "док се не помраче сунце и светлост и месец и звезде, и врате се облаци после дождја.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "док"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨да⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תחשך",
+      "gloss": "помраче"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "сунце"
+    },
+    {
+      "surface": "והאור",
+      "gloss": "и светлост"
+    },
+    {
+      "surface": "והירח",
+      "gloss": "и месец"
+    },
+    {
+      "surface": "והכוכבים",
+      "gloss": "и звезде"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "и врате се"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "облаци"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "после"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "дождја"
+    }
+  ],
+  "timestamp": "2026-09-05T14:14:43.227069876Z",
+  "model": "glm-5.3"
+}

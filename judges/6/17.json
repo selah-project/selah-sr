@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 6:17",
+  "book": "judges",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "И рече му: ако сам ⟨нашао⟩ милост у очима твојим, и учини мени знак ⟨да⟩ ти што говориш са мном.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "му"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "נא",
+      "gloss": "молим"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "насах"
+    },
+    {
+      "surface": "חן",
+      "gloss": "милост"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "у очима твојим"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "учини"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мени"
+    },
+    {
+      "surface": "אות",
+      "gloss": "знак"
+    },
+    {
+      "surface": "שאתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "говориш"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "са мном"
+    }
+  ],
+  "timestamp": "2026-09-05T11:08:28.173233490Z",
+  "model": "glm-5.3"
+}

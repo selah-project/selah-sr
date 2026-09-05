@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 19:20",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 19,
+  "translation": "И сиђе Јахве на гору Синај, на врх горе; и зова Јахве Мошеа на врх горе, и попе се Моше.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "И сиђе"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הר",
+      "gloss": "гору"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Синај"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "врх"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "горе"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "и зова"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "Мошеа"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "врх"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "горе"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "и попе се"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    }
+  ],
+  "timestamp": "2026-09-05T15:04:30.432181092Z",
+  "model": "glm-5.3"
+}

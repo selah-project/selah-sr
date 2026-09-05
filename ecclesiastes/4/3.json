@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 4:3",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "И бољи од оба њих ⟨јесте⟩ ⟨את⟩ онај који до сада није био, који није видео ⟨את⟩ зло дело које се чини под сунцем.",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "и бољи"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "од оба њих"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "онај који до сада није био"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "до сада"
+    },
+    {
+      "surface": "לא",
+      "gloss": "није"
+    },
+    {
+      "surface": "היה",
+      "gloss": "био"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "לא",
+      "gloss": "није"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "видео"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "зло дело"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "дело"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "зло"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "које"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "се чини"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "сунцем"
+    }
+  ],
+  "timestamp": "2026-09-05T14:12:09.206318429Z",
+  "model": "glm-5.3"
+}

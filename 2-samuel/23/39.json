@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "2-samuel 23:39",
+  "book": "2-samuel",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "Урија (Урија) Хетејац — свега тридесет и седам.",
+  "tokens": [
+    {
+      "surface": "אוריה",
+      "gloss": "Урија (Урија)"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "Хетејац"
+    },
+    {
+      "surface": "כל",
+      "gloss": "свега"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "тридесет"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "и седам"
+    }
+  ],
+  "timestamp": "2026-09-05T15:26:48.281939668Z",
+  "model": "glm-5.3"
+}

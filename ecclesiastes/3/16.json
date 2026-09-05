@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 3:16",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "И још видех под сунцем: на месту суда — тамо безакоње, и на месту правде — тамо безакоње.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "И још"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "видех"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "сунцем"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "на месту"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "суда"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "тамо"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "безакоње"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "и на месту"
+    },
+    {
+      "surface": "הצדק",
+      "gloss": "правде"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "тамо"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "безакоње"
+    }
+  ],
+  "timestamp": "2026-09-05T14:11:28.272690760Z",
+  "model": "glm-5.3"
+}

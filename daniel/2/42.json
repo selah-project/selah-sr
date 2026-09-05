@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "daniel 2:42",
+  "book": "daniel",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "И прсти ногу — део гвожђе, а део глина: део тог царства биће чврст, а део његов ломљив.",
+  "tokens": [
+    {
+      "surface": "ואצבעת",
+      "gloss": "И прсти"
+    },
+    {
+      "surface": "רגליא",
+      "gloss": "ногу"
+    },
+    {
+      "surface": "מנהון",
+      "gloss": "део"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "гвожђе"
+    },
+    {
+      "surface": "ומנהון",
+      "gloss": "а део"
+    },
+    {
+      "surface": "חסף",
+      "gloss": "глина"
+    },
+    {
+      "surface": "מן",
+      "gloss": "део"
+    },
+    {
+      "surface": "קצת",
+      "gloss": "царства"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "царства"
+    },
+    {
+      "surface": "תהוה",
+      "gloss": "биће"
+    },
+    {
+      "surface": "תקיפה",
+      "gloss": "чврст"
+    },
+    {
+      "surface": "ומנה",
+      "gloss": "а део"
+    },
+    {
+      "surface": "תהוה",
+      "gloss": "биће"
+    },
+    {
+      "surface": "תבירה",
+      "gloss": "ломљив"
+    }
+  ],
+  "timestamp": "2026-09-05T14:19:46.369511464Z",
+  "model": "glm-5.3"
+}

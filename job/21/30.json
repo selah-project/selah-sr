@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 21:30",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "да се зли чува ⟨за⟩ дан невоље, да се на дан гнева поведу.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "за дан"
+    },
+    {
+      "surface": "איד",
+      "gloss": "невоље"
+    },
+    {
+      "surface": "יחשך",
+      "gloss": "чува се"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зли"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "на дан"
+    },
+    {
+      "surface": "עברות",
+      "gloss": "гнева"
+    },
+    {
+      "surface": "יובלו",
+      "gloss": "поведу"
+    }
+  ],
+  "timestamp": "2026-09-05T14:00:31.104235904Z",
+  "model": "glm-5.3"
+}

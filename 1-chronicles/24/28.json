@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 24:28",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "Махлију ⟨припаше⟩ Елазар, и не беше му синова.",
+  "tokens": [
+    {
+      "surface": "למחלי",
+      "gloss": "Махлију"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Елазар"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "היה",
+      "gloss": "беше"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "синова"
+    }
+  ],
+  "timestamp": "2026-09-05T14:41:40.976116533Z",
+  "model": "glm-5.3"
+}

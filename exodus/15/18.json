@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 15:18",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 15,
+  "translation": "Јахве царује довека и заувек.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "царује"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "довека"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и заувек"
+    }
+  ],
+  "timestamp": "2026-09-05T15:03:55.013556979Z",
+  "model": "glm-5.3"
+}

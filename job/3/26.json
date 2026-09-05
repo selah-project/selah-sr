@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 3:26",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Не бех у миру, ни се смирих, ни починух — а дође немир.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שלותי",
+      "gloss": "бех у миру"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ни"
+    },
+    {
+      "surface": "שקטתי",
+      "gloss": "се смирих"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ни"
+    },
+    {
+      "surface": "נחתי",
+      "gloss": "починух"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "а дође"
+    },
+    {
+      "surface": "רגז",
+      "gloss": "немир"
+    }
+  ],
+  "timestamp": "2026-09-05T13:54:21.144325254Z",
+  "model": "glm-5.3"
+}

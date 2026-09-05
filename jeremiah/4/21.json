@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 4:21",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "Докле ћу видети заставу, докле ћу шути ⟨да⟩ чујем глас рога?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "докле"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "докле"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "ћу видети"
+    },
+    {
+      "surface": "נס",
+      "gloss": "заставу",
+      "marks": "застава"
+    },
+    {
+      "surface": "אשמעה",
+      "gloss": "ћу чујем"
+    },
+    {
+      "surface": "קול",
+      "gloss": "глас"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "рога"
+    }
+  ],
+  "timestamp": "2026-09-05T17:42:46.838656720Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 1:19",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "Тако ⟨су⟩ путеви свакога тражиоца добити ⟨את⟩: живот поседника њених узима.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Тако"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "путеви"
+    },
+    {
+      "surface": "כל",
+      "gloss": "свакога"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "тражиоца добити"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "добити"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "живот"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "живот"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "поседника њених"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "узима"
+    }
+  ],
+  "timestamp": "2026-09-05T13:45:28.683192189Z",
+  "model": "glm-5.3"
+}

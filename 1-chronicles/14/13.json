@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 14:13",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "И додаше још једном Плиштијци, и разлише се по долини.",
+  "tokens": [
+    {
+      "surface": "ויסיפו",
+      "gloss": "И додаше"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "још једном"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "Плиштијци"
+    },
+    {
+      "surface": "ויפשטו",
+      "gloss": "и разлише се"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "по долини"
+    }
+  ],
+  "timestamp": "2026-09-05T14:39:10.473041395Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 2:18",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "А идоли ће сасвим нестати.",
+  "tokens": [
+    {
+      "surface": "והאלילים",
+      "gloss": "а идоли"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "сасвим"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "нестати"
+    }
+  ],
+  "timestamp": "2026-09-05T12:00:25.168722722Z",
+  "model": "glm-5.3"
+}

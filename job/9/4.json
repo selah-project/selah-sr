@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 9:4",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "Мудар срцем и силан снагом — ко му се осилио и проштао?",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "Мудар"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "срцем"
+    },
+    {
+      "surface": "ואמיץ",
+      "gloss": "и силан"
+    },
+    {
+      "surface": "כח",
+      "gloss": "снагом"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ко"
+    },
+    {
+      "surface": "הקשה",
+      "gloss": "му се осилио"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "⟨му⟩"
+    },
+    {
+      "surface": "וישלם",
+      "gloss": "и проштао"
+    }
+  ],
+  "timestamp": "2026-09-05T13:56:52.240614452Z",
+  "model": "glm-5.3"
+}

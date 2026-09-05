@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 17:16",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 17,
+  "translation": "Зашто ово — цена у руци безумника да купи мудрост, а срца нема?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ово"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "цена"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "у руци"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "безумника"
+    },
+    {
+      "surface": "לקנות",
+      "gloss": "да купи"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мудрост"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "а срце"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    }
+  ],
+  "timestamp": "2026-09-05T16:00:49.954337472Z",
+  "model": "glm-5.3"
+}

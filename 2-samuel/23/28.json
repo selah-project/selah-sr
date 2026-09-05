@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-samuel 23:28",
+  "book": "2-samuel",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "Цалмон Ахохски, Махарај Нетофатски,",
+  "tokens": [
+    {
+      "surface": "צלמון",
+      "gloss": "Цалмон"
+    },
+    {
+      "surface": "האחחי",
+      "gloss": "Ахохски"
+    },
+    {
+      "surface": "מהרי",
+      "gloss": "Махарај"
+    },
+    {
+      "surface": "הנטפתי",
+      "gloss": "Нетофатски"
+    }
+  ],
+  "timestamp": "2026-09-05T11:37:07.881525242Z",
+  "model": "glm-5.3"
+}

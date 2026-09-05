@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 7:3",
+  "book": "ezra",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "син Амарје, син Азарје, син Мерајота.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Амарје"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Азарје"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "Мерајота"
+    }
+  ],
+  "timestamp": "2026-09-05T14:26:27.773289415Z",
+  "model": "glm-5.3"
+}

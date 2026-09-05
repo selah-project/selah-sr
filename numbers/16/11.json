@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 16:11",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 16,
+  "translation": "Зато ти и сав твој збор, скупљени против Јахвеа — а Арон, шта је он, да ропћете против њега?",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Зато"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и сав"
+    },
+    {
+      "surface": "עדתך",
+      "gloss": "твој збор"
+    },
+    {
+      "surface": "הנעדים",
+      "gloss": "скупљени"
+    },
+    {
+      "surface": "על",
+      "gloss": "против"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "и Арон"
+    },
+    {
+      "surface": "מה",
+      "gloss": "шта"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "תלונו",
+      "gloss": "ропћете"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "против њега"
+    }
+  ],
+  "timestamp": "2026-09-05T10:35:19.364686338Z",
+  "model": "glm-5.3"
+}

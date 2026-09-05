@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 34:23",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 34,
+  "translation": "Јер не поставља на човека више ⟨другог пута⟩ да иде к Елу на суд.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човека"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "поставља"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "више"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "да иде"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Елу"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "на суд"
+    }
+  ],
+  "timestamp": "2026-09-05T14:03:28.161054514Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "jeremiah 48:47",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 48,
+  "translation": "И вратићу сужањство Моава у последње дане, рече Јахве. Досад ⟨је⟩ суд Моава.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "и вратићу"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "сужањство"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моава"
+    },
+    {
+      "surface": "באחרית",
+      "gloss": "у последње"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "дане"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "עד",
+      "gloss": "досад"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "⟨досад⟩"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "суд"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моава"
+    }
+  ],
+  "timestamp": "2026-09-05T17:05:36.256357655Z",
+  "model": "glm-5.3"
+}

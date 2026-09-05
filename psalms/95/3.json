@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 95:3",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 95,
+  "translation": "Јер Ел велики ⟨је⟩ Јахве, и краљ велики над свим боговима.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "велики"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "и краљ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "велики"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "כל",
+      "gloss": "свим"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "боговима"
+    }
+  ],
+  "timestamp": "2026-09-05T13:35:31.788937277Z",
+  "model": "glm-5.3"
+}

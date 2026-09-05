@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 24:4",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "И би после тога, би на срцу Јоашу да обнови ⟨את⟩ дом Јахвеов.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И би"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "после"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тога"
+    },
+    {
+      "surface": "היה",
+      "gloss": "би"
+    },
+    {
+      "surface": "עם",
+      "gloss": "на"
+    },
+    {
+      "surface": "лב",
+      "gloss": "срцу"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Јоашу"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "да обнови"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дом"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеов"
+    }
+  ],
+  "timestamp": "2026-09-05T14:51:45.069231690Z",
+  "model": "glm-5.3"
+}

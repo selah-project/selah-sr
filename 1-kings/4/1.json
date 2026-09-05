@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 4:1",
+  "book": "1-kings",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "И би Шломо (Соломун) краљ над целим Израелом.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И би"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "краљ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шломо (Соломун)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "краљ"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целим"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израелом"
+    }
+  ],
+  "timestamp": "2026-09-05T11:39:28.841418362Z",
+  "model": "glm-5.3"
+}

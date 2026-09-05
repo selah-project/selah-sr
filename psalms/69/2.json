@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 69,
+  "translation": "Спаси ме, Елохиме, јер воде дођоше до душe ⟨мене⟩.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "Спаси ме"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохиме"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "באו",
+      "gloss": "дођоше"
+    },
+    {
+      "surface": "מים",
+      "gloss": "воде"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "душе"
+    }
+  ],
+  "timestamp": "2026-09-05T15:56:07.346819137Z",
+  "model": "glm-5.3"
+}

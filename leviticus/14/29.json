@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 14:29",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "А остатак уља што је на длану свештеника ставиће на главу онога који се чисти, да га окаје пред Јахвеом.",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "А остатак"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "уља"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "כף",
+      "gloss": "длану"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "свештеника"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ставиће"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "главу"
+    },
+    {
+      "surface": "המטהר",
+      "gloss": "онога који се чисти"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "да окаје"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "га"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеом"
+    }
+  ],
+  "timestamp": "2026-09-05T10:20:41.905629278Z",
+  "model": "glm-5.3"
+}

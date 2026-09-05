@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 14:5",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "Јер и кошута у пољу роди па остави ⟨младунче⟩, јер није било траве.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "кошута"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "у пољу"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "роди"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "па остави"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "היה",
+      "gloss": "било"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "траве"
+    }
+  ],
+  "timestamp": "2026-09-05T12:25:40.090480580Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ecclesiastes 7:22",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Јер многопут и срце твоје зна да си и ти друге проклињао.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "путева"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "многих"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "зна"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "срце твоје"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "да"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "את",
+      "gloss": "ти"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "проклињао"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "друге"
+    }
+  ],
+  "timestamp": "2026-09-05T14:12:29.203998853Z",
+  "model": "glm-5.3"
+}

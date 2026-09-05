@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 82:8",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 82,
+  "translation": "Устани, Елохиме, суди ⟨את⟩ земљи, јер ћеш ти наследити све народе.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Устани"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохиме"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "суди"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земљу"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "תנחל",
+      "gloss": "ћеш наследити"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "све"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "народе"
+    }
+  ],
+  "timestamp": "2026-09-05T13:32:58.502276703Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 94:18",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 94,
+  "translation": "Кад рекох: клиза нога моја — хесед твој, Јахве, придржа ме.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "кад"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "рекох"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "клиза"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "нога моја"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "хесед твој"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "יסעדני",
+      "gloss": "придржа ме"
+    }
+  ],
+  "timestamp": "2026-09-05T13:35:01.565599797Z",
+  "model": "glm-5.3"
+}

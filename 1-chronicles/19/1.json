@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 19:1",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 19,
+  "translation": "И би после тога, па умре Нахаш, цар синâ Амонових, и зацари се син његов место њега.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И би"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "после"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тога"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "и умре"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Нахаш"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синâ"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Амонових"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "и зацари се"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син његов"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "место њега"
+    }
+  ],
+  "timestamp": "2026-09-05T14:40:38.558775230Z",
+  "model": "glm-5.3"
+}

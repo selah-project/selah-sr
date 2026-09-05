@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 8:15",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "И проговори Елохим Ноаху (Ное), говорећи:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "И проговори"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ка"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ноаху"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорећи"
+    }
+  ],
+  "timestamp": "2026-09-05T16:54:22.162638015Z",
+  "model": "glm-5.3"
+}

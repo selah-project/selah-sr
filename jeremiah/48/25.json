@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 48:25",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 48,
+  "translation": "Одсечен је рог Моава, и рука му ⟨је⟩ сломљена, изрека Јахвеова.",
+  "tokens": [
+    {
+      "surface": "נגדעה",
+      "gloss": "одсечен је"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "рог"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моава"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "и рука његова"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "сломљена"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "изрека"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеова"
+    }
+  ],
+  "timestamp": "2026-09-05T12:39:03.651446335Z",
+  "model": "glm-5.3"
+}

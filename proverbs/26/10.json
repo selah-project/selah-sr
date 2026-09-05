@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 26:10",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 26,
+  "translation": "Велики ⟨је⟩ Обликовалац свега: плаћа безумнику и плаћа преступце.",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "Велики"
+    },
+    {
+      "surface": "מחולל",
+      "gloss": "Обликовалац"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "и плаћа"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "безумнику"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "и плаћа"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "преступницима"
+    }
+  ],
+  "timestamp": "2026-09-05T16:44:58.881636528Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joel 1:1",
+  "book": "joel",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "Реч Јахвеова која би Јоелу (Јоилу), сину Петуеловом.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Реч"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеова"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "која"
+    },
+    {
+      "surface": "היה",
+      "gloss": "би"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Јоелу"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "⟨Јоел⟩"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сину"
+    },
+    {
+      "surface": "פתואל",
+      "gloss": "Петуеловом"
+    }
+  ],
+  "timestamp": "2026-09-05T13:03:10.619131502Z",
+  "model": "glm-5.3"
+}

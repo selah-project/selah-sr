@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 22:28",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "Ако човек нађе девојку девицу која није заручена, па је ухвати и легне с њом, и буду виђени:",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ако"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "нађе"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "נער",
+      "gloss": "девојку"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "девицу"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "која"
+    },
+    {
+      "surface": "לא",
+      "gloss": "није"
+    },
+    {
+      "surface": "ארשה",
+      "gloss": "заручена"
+    },
+    {
+      "surface": "ותפשה",
+      "gloss": "па је ухвати"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "и легне"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "с њом"
+    },
+    {
+      "surface": "ונמצאו",
+      "gloss": "и буду виђени"
+    }
+  ],
+  "timestamp": "2026-09-05T10:52:42.522417277Z",
+  "model": "glm-5.3"
+}

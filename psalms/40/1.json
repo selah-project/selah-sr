@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 40,
+  "translation": "Управнику, Давиду — псалам.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Управнику"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давиду"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "псалам"
+    }
+  ],
+  "timestamp": "2026-09-05T13:25:23.215469548Z",
+  "model": "glm-5.3"
+}

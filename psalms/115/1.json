@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 115:1",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 115,
+  "translation": "Не нама, Јахве, не нама, него имену твојем дај славу, по хеседу твојем, по истини твојој.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "нама"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "нама"
+    },
+    {
+      "surface": "כי",
+      "gloss": "него"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "имену твојем"
+    },
+    {
+      "surface": "תן",
+      "gloss": "дај"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "славу"
+    },
+    {
+      "surface": "על",
+      "gloss": "по"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "хеседу твојем"
+    },
+    {
+      "surface": "על",
+      "gloss": "по"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "истини твојој"
+    }
+  ],
+  "timestamp": "2026-09-05T15:58:25.250323052Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 1:6",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "Јахве, Елохим наш, говори к нама на Хореву, говорећи: Доста ⟨је⟩ вам седети на гори овој:",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Елохим наш"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говори"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "к нама"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "на Хореву"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорећи"
+    },
+    {
+      "surface": "רב",
+      "gloss": "доста"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "седети"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "на гори"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овој"
+    }
+  ],
+  "timestamp": "2026-09-05T10:44:13.799205710Z",
+  "model": "glm-5.3"
+}

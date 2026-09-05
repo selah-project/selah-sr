@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 11:26",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "Гле, ја стављам пред вас данас благослов и клетву.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "гле"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ја"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "стављам"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "пред вас"
+    },
+    {
+      "surface": "היום",
+      "gloss": "данас"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "благослов"
+    },
+    {
+      "surface": "וקללה",
+      "gloss": "и клетву"
+    }
+  ],
+  "timestamp": "2026-09-05T15:14:20.159147588Z",
+  "model": "glm-5.3"
+}

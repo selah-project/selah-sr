@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 27:35",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 27,
+  "translation": "А он рече: дође брат твој са преваром и узе благослов твој.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "а он рече"
+    },
+    {
+      "surface": "בא",
+      "gloss": "дође"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "брат твој"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "са преваром"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "и узе"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "благослов твој"
+    }
+  ],
+  "timestamp": "2026-09-05T09:49:18.549256701Z",
+  "model": "glm-5.3"
+}

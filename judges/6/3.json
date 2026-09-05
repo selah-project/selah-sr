@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "judges 6:3",
+  "book": "judges",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "И би, кад посеје Израиљ, узиђе Мидјан и Амалек и синови истока, и узиђоше на њ.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "и би"
+    },
+    {
+      "surface": "אם",
+      "gloss": "кад"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "посеје"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљ"
+    },
+    {
+      "surface": "ועלה",
+      "gloss": "узиђе"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Мидјан"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "и Амалек"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "и синови"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "истока"
+    },
+    {
+      "surface": "ועלו",
+      "gloss": "и узиђоше"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "на њ"
+    }
+  ],
+  "timestamp": "2026-09-05T11:08:14.923239188Z",
+  "model": "glm-5.3"
+}

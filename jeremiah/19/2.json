@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 19:2",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 19,
+  "translation": "и изађи у долину сина Хинома, која је на улазу капије Харсут, и прогласи тамо ⟨את⟩ речи које ћу ти говорити.",
+  "tokens": [
+    {
+      "surface": "ויצאת",
+      "gloss": "и изађи"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "долину"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "Хинома"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "која"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "на улазу"
+    },
+    {
+      "surface": "שער",
+      "gloss": "капије"
+    },
+    {
+      "surface": "החרסות",
+      "gloss": "Харсут"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "и прогласи"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тамо"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "речи"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "речи"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "које"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ћу говорити"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ти"
+    }
+  ],
+  "timestamp": "2026-09-05T17:18:07.042669907Z",
+  "model": "glm-5.3"
+}

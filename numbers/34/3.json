@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 34:3",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 34,
+  "translation": "И биће вам крај јужни од пустиње Цин, уз руб Едома; и биће вам међа јужна од краја мора сланог према истоку.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "и биће"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "крај"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "јужни"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "од пустиње"
+    },
+    {
+      "surface": "צן",
+      "gloss": "Цин"
+    },
+    {
+      "surface": "על",
+      "gloss": "уз"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "руб"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Едома"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "и биће"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "међа"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "јужна"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "од краја"
+    },
+    {
+      "surface": "ים",
+      "gloss": "мора"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "сланог"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "према истоку"
+    }
+  ],
+  "timestamp": "2026-09-05T16:57:18.403181724Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 13:18",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "И ако буде на телу, на кожи његовој, чир, па оздрави:",
+  "tokens": [
+    {
+      "surface": "ובשר",
+      "gloss": "и на телу"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ако"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "буде"
+    },
+    {
+      "surface": "בו",
+      "gloss": "на њему"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "на кожи његовој"
+    },
+    {
+      "surface": "שחין",
+      "gloss": "чир"
+    },
+    {
+      "surface": "ונרפא",
+      "gloss": "и оздрави"
+    }
+  ],
+  "timestamp": "2026-09-05T10:21:08.644685674Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-samuel 20:26",
+  "book": "1-samuel",
+  "lang": "sr",
+  "chapter": 20,
+  "translation": "И не рече Шаул ништа у дан онај, јер помисли: случајност је то; није чист он, пошто није чист.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "ништа"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "у дан"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "онај"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "помисли"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "случајност"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "јесте то"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "није"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "чист"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "כי",
+      "gloss": "пошто"
+    },
+    {
+      "surface": "לא",
+      "gloss": "није"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "чист"
+    }
+  ],
+  "timestamp": "2026-09-05T11:23:11.015303955Z",
+  "model": "glm-5.3"
+}

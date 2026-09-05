@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 2:14",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Зар је роб Израел? Зар је доморођени ⟨роб⟩ у дому? Зашто поста ⟨он⟩ плен?",
+  "tokens": [
+    {
+      "surface": "העבד",
+      "gloss": "Зар роб"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израел"
+    },
+    {
+      "surface": "אם",
+      "gloss": "зар"
+    },
+    {
+      "surface": "יליד",
+      "gloss": "доморођени"
+    },
+    {
+      "surface": "בית",
+      "gloss": "у дому"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "היה",
+      "gloss": "поста"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "плен"
+    }
+  ],
+  "timestamp": "2026-09-05T12:19:49.432366133Z",
+  "model": "glm-5.3"
+}

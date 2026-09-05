@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 17:4",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 17,
+  "translation": "Ја — ево, завет мој ⟨је⟩ са ⟨את⟩ тобом, и бићеш отац мноштва народа.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ја"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ево"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "завет мој"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ са тобом",
+      "marks": "са тобом"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "и бићеш"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "отац"
+    },
+    {
+      "surface": "המון",
+      "gloss": "мноштва"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "народа"
+    }
+  ],
+  "timestamp": "2026-09-05T09:44:18.682435644Z",
+  "model": "glm-5.3"
+}

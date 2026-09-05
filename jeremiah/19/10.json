@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 19:10",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 19,
+  "translation": "И разбићеш бочицу пред очима људи који иду ⟨את⟩ с тобом.",
+  "tokens": [
+    {
+      "surface": "ושברת",
+      "gloss": "И разбићеш"
+    },
+    {
+      "surface": "הבקבק",
+      "gloss": "бочицу"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "пред очима"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "људи"
+    },
+    {
+      "surface": "ההלכים",
+      "gloss": "који иду"
+    },
+    {
+      "surface": "אותך",
+      "gloss": "⟨את⟩ с тобом"
+    }
+  ],
+  "timestamp": "2026-09-05T12:27:59.302604475Z",
+  "model": "glm-5.3"
+}

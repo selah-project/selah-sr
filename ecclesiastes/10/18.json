@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 10:18",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "Кроз лењост проваљује кров, а кроз клонулост руку кућа прокишњава.",
+  "tokens": [
+    {
+      "surface": "בעצלתים",
+      "gloss": "кроз лењост"
+    },
+    {
+      "surface": "ימך",
+      "gloss": "проваљује"
+    },
+    {
+      "surface": "המקרה",
+      "gloss": "кров"
+    },
+    {
+      "surface": "ובשפלות",
+      "gloss": "а кроз клонулост"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "руку"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "прокишњава"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "кућа"
+    }
+  ],
+  "timestamp": "2026-09-05T16:08:08.321568490Z",
+  "model": "glm-5.3"
+}

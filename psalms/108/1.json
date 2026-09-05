@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 108:1",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 108,
+  "translation": "Песма, псалам Давидов (Давида).",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Песма"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "псалам"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давидов (Давида)"
+    }
+  ],
+  "timestamp": "2026-09-05T13:38:32.166268781Z",
+  "model": "glm-5.3"
+}

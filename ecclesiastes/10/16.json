@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 10:16",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "Јошта теби, земљо, кад цар твој ⟨је⟩ дете, и кнезови твоји ујутро једу!",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "Јошта"
+    },
+    {
+      "surface": "לך",
+      "gloss": "теби"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земљо"
+    },
+    {
+      "surface": "שמלכך",
+      "gloss": "цар твој"
+    },
+    {
+      "surface": "נער",
+      "gloss": "дете"
+    },
+    {
+      "surface": "ושריך",
+      "gloss": "и кнезови твоји"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ујутро"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "једу"
+    }
+  ],
+  "timestamp": "2026-09-05T16:08:31.978197340Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 12:8",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "Не чините⟨те⟩ по свему што ми чинимо овде данас, свако ⟨што је⟩ право у очима његовим.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "чините"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "по свему"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ми"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "чинимо"
+    },
+    {
+      "surface": "פה",
+      "gloss": "овде"
+    },
+    {
+      "surface": "היום",
+      "gloss": "данас"
+    },
+    {
+      "surface": "איש",
+      "gloss": "свако"
+    },
+    {
+      "surface": "כל",
+      "gloss": ""
+    },
+    {
+      "surface": "הישר",
+      "gloss": "право"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "у очима његовим"
+    }
+  ],
+  "timestamp": "2026-09-05T15:13:19.890070663Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 75:7",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 75,
+  "translation": "Јер није са истока ни са запада, ни из пустиње ⟨долази⟩ уздизање.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "није"
+    },
+    {
+      "surface": "ממוצא",
+      "gloss": "са истока"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "ни са запада"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "нито"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "из пустиње"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "уздизање"
+    }
+  ],
+  "timestamp": "2026-09-05T15:56:41.119693375Z",
+  "model": "glm-5.3"
+}

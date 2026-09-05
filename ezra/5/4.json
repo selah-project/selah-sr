@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 5:4",
+  "book": "ezra",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Тада тако рекосмо им: ко су ⟨они⟩, имена људи који ову грађевину зидају?",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "Тада"
+    },
+    {
+      "surface": "כנמא",
+      "gloss": "тако"
+    },
+    {
+      "surface": "אמרנא",
+      "gloss": "рекосмо"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ко"
+    },
+    {
+      "surface": "אנון",
+      "gloss": "⟨они⟩"
+    },
+    {
+      "surface": "שמהת",
+      "gloss": "имена"
+    },
+    {
+      "surface": "גבריא",
+      "gloss": "људи"
+    },
+    {
+      "surface": "די",
+      "gloss": "који"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "ову"
+    },
+    {
+      "surface": "בנינא",
+      "gloss": "грађевину"
+    },
+    {
+      "surface": "בנין",
+      "gloss": "зидају"
+    }
+  ],
+  "timestamp": "2026-09-05T16:10:35.899711108Z",
+  "model": "glm-5.3"
+}

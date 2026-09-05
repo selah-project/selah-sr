@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 71,
+  "ref": "psalms 119:71",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 119,
+  "translation": "Добро мени ⟨је⟩ што бих понижен, да научим наредбе твоје.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мени"
+    },
+    {
+      "surface": "כי",
+      "gloss": "што"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "бих понижен"
+    },
+    {
+      "surface": "למען",
+      "gloss": "да"
+    },
+    {
+      "surface": "אלמד",
+      "gloss": "научим"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "наредбе твоје"
+    }
+  ],
+  "timestamp": "2026-09-05T13:40:57.994506411Z",
+  "model": "glm-5.3"
+}

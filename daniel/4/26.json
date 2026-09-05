@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "daniel 4:26",
+  "book": "daniel",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "На крају дванаест месеци ⟨он⟩ шеташе по палати царства Вавилонског.",
+  "tokens": [
+    {
+      "surface": "לקצת",
+      "gloss": "На крају"
+    },
+    {
+      "surface": "ירחין",
+      "gloss": "месеци"
+    },
+    {
+      "surface": "תרי",
+      "gloss": "два"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "наест"
+    },
+    {
+      "surface": "על",
+      "gloss": "по"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "палати"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "царства"
+    },
+    {
+      "surface": "די",
+      "gloss": "Вавилонског"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "⟨Вавилона⟩"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "шеташе"
+    },
+    {
+      "surface": "הוה",
+      "gloss": "⟨беше⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T17:12:38.611737569Z",
+  "model": "glm-5.3"
+}

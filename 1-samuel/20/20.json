@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 20:20",
+  "book": "1-samuel",
+  "lang": "sr",
+  "chapter": 20,
+  "translation": "А ја ћу три стреле у страну испалити, шаљући ⟨себи⟩ ка мети.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "а ја"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "три"
+    },
+    {
+      "surface": "החצים",
+      "gloss": "стреле"
+    },
+    {
+      "surface": "צדה",
+      "gloss": "у страну"
+    },
+    {
+      "surface": "אורה",
+      "gloss": "испалити"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "шаљући"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨себи⟩"
+    },
+    {
+      "surface": "למטרה",
+      "gloss": "ка мети"
+    }
+  ],
+  "timestamp": "2026-09-05T11:23:03.937483061Z",
+  "model": "glm-5.3"
+}

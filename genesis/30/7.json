@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 30:7",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 30,
+  "translation": "И заче опет и роди Билха, слушкиња Рахелова, другог сина Јаакову.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "И заче"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "опет"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "и роди"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Билха"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "слушкиња"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Рахелова"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "שני",
+      "gloss": "други"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Јаакову"
+    }
+  ],
+  "timestamp": "2026-09-05T09:49:04.102369540Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 33:12",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 33,
+  "translation": "И рече: „Кренимо и идимо, и ја ћу ићи пред тобом.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "נסעה",
+      "gloss": "Кренимо"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "и идимо"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "и ја ћу ићи"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "пред тобом"
+    }
+  ],
+  "timestamp": "2026-09-05T09:50:33.998039409Z",
+  "model": "glm-5.3"
+}

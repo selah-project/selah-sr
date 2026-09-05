@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 3:3",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "И рече Моше: Склонићу се, молим, па да видим ⟨את⟩ виђење велико ово: зашто жбун не изгара?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "Склонићу се"
+    },
+    {
+      "surface": "נא",
+      "gloss": "молим"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "па да видим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "виђење"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "виђење"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "велико"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ово"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "изгара"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "жбун"
+    }
+  ],
+  "timestamp": "2026-09-05T09:59:41.313094317Z",
+  "model": "glm-5.3"
+}

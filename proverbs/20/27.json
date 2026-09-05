@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 20:27",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 20,
+  "translation": "Сијалица Јахвеа ⟨је⟩ дах човека, испитује све одаје утробе.",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "Сијалица"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "дах"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човека"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "испитује"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "одаје"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "утробе"
+    }
+  ],
+  "timestamp": "2026-09-05T16:01:19.275493640Z",
+  "model": "glm-5.3"
+}

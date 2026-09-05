@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 8:13",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "И добро неће бити безбожнику, и неће продужити дане као сенку — који се не боји испред Елохима.",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "и добро"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "биће"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "безбожнику"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "продужиће"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дане"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "као сенку"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "није"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "се боји"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "испред"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохима"
+    }
+  ],
+  "timestamp": "2026-09-05T16:08:26.578817740Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 28:7",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "Чувар Торе ⟨је⟩ син разборит, а друг расипника срамоти оца својега.",
+  "tokens": [
+    {
+      "surface": "נוצר",
+      "gloss": "чувар"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Торе"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "разборит"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "а друг"
+    },
+    {
+      "surface": "זוללים",
+      "gloss": "расипника"
+    },
+    {
+      "surface": "יכלים",
+      "gloss": "срамоти"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "оца својега"
+    }
+  ],
+  "timestamp": "2026-09-05T13:53:29.389416914Z",
+  "model": "glm-5.3"
+}

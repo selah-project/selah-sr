@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "joshua 3:11",
+  "book": "joshua",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Ето, ковчег завета господара целе земље прелази пред вама у Јарден.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ето"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ковчег"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "завета"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "господара"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целе"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земље"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "прелази"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "пред вама"
+    },
+    {
+      "surface": "בירדן",
+      "gloss": "у Јарден"
+    }
+  ],
+  "timestamp": "2026-09-05T10:57:45.838492552Z",
+  "model": "glm-5.3"
+}

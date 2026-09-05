@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "psalms 78:66",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 78,
+  "translation": "И удари непријатеље своје уза леђа, срамоту вечну даде им.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "и удари"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "непријатеље своје"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "уза леђа"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "срамоту"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "вечну"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "даде"
+    },
+    {
+      "surface": "למו",
+      "gloss": "им"
+    }
+  ],
+  "timestamp": "2026-09-05T13:32:16.893808525Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 24:1",
+  "book": "1-samuel",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "И попе се Давид (отац) оданде и настани се у утврђењима Ен Геди.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "и попе се"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "משם",
+      "gloss": "оданде"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "и настани се"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "у утврђењима"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Ен"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Геди"
+    }
+  ],
+  "timestamp": "2026-09-05T16:48:22.902292245Z",
+  "model": "glm-5.3"
+}

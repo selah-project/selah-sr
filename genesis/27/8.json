@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 27:8",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 27,
+  "translation": "А сада, сине мој, послушај глас мој ⟨у⟩ ономе што ти ја заповедам ⟨את⟩ ⟨те⟩.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "А сада"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сине мој"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "послушај"
+    },
+    {
+      "surface": "בקולי",
+      "gloss": "глас мој"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "⟨у⟩ ономе што"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "заповедам"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "те"
+    }
+  ],
+  "timestamp": "2026-09-05T14:59:57.980568968Z",
+  "model": "glm-5.3"
+}

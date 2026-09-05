@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 19:19",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 19,
+  "translation": "Суров у гневу својем носи казну; јер ако га избавиш, опет ћеш додати.",
+  "tokens": [
+    {
+      "surface": "גרל",
+      "gloss": "Суров"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "у гневу"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "носи"
+    },
+    {
+      "surface": "ענש",
+      "gloss": "казну"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "избавиш"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "опет"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "додати"
+    }
+  ],
+  "timestamp": "2026-09-05T13:51:09.723272143Z",
+  "model": "glm-5.3"
+}

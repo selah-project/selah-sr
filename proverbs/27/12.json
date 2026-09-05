@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 27:12",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 27,
+  "translation": "Осторожан види зло и сакрије се, а наивни прођу и бише кажњени.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "осторожан"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "види"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зло"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "сакрије се"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "наивни"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "прођу"
+    },
+    {
+      "surface": "נענשו",
+      "gloss": "бише кажњени"
+    }
+  ],
+  "timestamp": "2026-09-05T13:52:54.671751348Z",
+  "model": "glm-5.3"
+}

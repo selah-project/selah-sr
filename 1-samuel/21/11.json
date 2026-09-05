@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 21:11",
+  "book": "1-samuel",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "И уста Давид и побеже у дан онај од лица Шаулова, и дође к Акишу, краљу Гата.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "и уста"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "и побеже"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "у дан"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "онај"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "од лица"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаулова"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "и дође"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Акишу"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "краљу"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Гата"
+    }
+  ],
+  "timestamp": "2026-09-05T11:24:26.782520305Z",
+  "model": "glm-5.3"
+}

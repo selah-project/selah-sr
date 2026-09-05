@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 9:6",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "Оставите ⟨о⟩ простоте и живите, и ходите путем разумевања.",
+  "tokens": [
+    {
+      "surface": "עזבו",
+      "gloss": "оставите"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "простота"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "и живите"
+    },
+    {
+      "surface": "ואשרו",
+      "gloss": "и ходите"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "путем"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "разумевања"
+    }
+  ],
+  "timestamp": "2026-09-05T13:47:56.299584393Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 23:21",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "Синови Мерарија: Махли и Муши; синови Махлија: Елазар и Киш.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синови"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Мерарија"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "Махли"
+    },
+    {
+      "surface": "ומושי",
+      "gloss": "и Муши"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "Махлија"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Елазар"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "и Киш"
+    }
+  ],
+  "timestamp": "2026-09-05T14:42:16.107265674Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 49:27",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 49,
+  "translation": "И запалићу огањ на зиду Дамаска, и прогутаће тврђаве Вен-Хадада.",
+  "tokens": [
+    {
+      "surface": "והצתי",
+      "gloss": "И запалићу"
+    },
+    {
+      "surface": "אש",
+      "gloss": "огањ"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "на зиду"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "Дамаска"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "и прогутаће"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "тврђаве"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Вен"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Хадада"
+    }
+  ],
+  "timestamp": "2026-09-05T12:39:51.941341584Z",
+  "model": "glm-5.3"
+}

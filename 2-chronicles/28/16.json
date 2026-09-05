@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 28:16",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "У то време посла цар Ахаз (Ахаз) краљевима Ашура (Асирије) да му помогне.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "У време"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "то"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "посла"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ахаз"
+    },
+    {
+      "surface": "על",
+      "gloss": "ка"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "краљевима"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашура"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "да помогне"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    }
+  ],
+  "timestamp": "2026-09-05T14:53:16.244718557Z",
+  "model": "glm-5.3"
+}

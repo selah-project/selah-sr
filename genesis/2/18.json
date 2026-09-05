@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 2:18",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "И рече Јахве Елохим: није добро бити човеку самог; учинићу му помоћ наспрам њега.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "היות",
+      "gloss": "бити"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "човеку"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "самог"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "учинићу"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "помоћ"
+    },
+    {
+      "surface": "כנגדו",
+      "gloss": "наспрам њега"
+    }
+  ],
+  "timestamp": "2026-09-05T09:39:33.125041043Z",
+  "model": "glm-5.3"
+}

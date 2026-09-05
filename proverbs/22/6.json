@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 22:6",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "Поучи дете на уста пута његова; јер и кад остари, неће скренути с њега.",
+  "tokens": [
+    {
+      "surface": "חנך",
+      "gloss": "Поучи"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "дете"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "פי",
+      "gloss": "уста"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "пута његова"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер кад"
+    },
+    {
+      "surface": "יזקין",
+      "gloss": "остари"
+    },
+    {
+      "surface": "לא",
+      "gloss": "неће"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "скренути"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "с њега"
+    }
+  ],
+  "timestamp": "2026-09-05T13:51:25.668658313Z",
+  "model": "glm-5.3"
+}

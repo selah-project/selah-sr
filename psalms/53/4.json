@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 53,
+  "translation": "Сви одступише, заједно се покварише; нема који чини добро, нема чак ни једног.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "сви"
+    },
+    {
+      "surface": "סג",
+      "gloss": "одступише"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "заједно"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "се покварише"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "чи"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "גם",
+      "gloss": "чак"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ни једног"
+    }
+  ],
+  "timestamp": "2026-09-05T13:27:47.590592507Z",
+  "model": "glm-5.3"
+}

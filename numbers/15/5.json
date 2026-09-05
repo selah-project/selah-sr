@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 15:5",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 15,
+  "translation": "И вино за налив, четвртину хина, начини уз палјеницу или за жртву, за једно јагње.",
+  "tokens": [
+    {
+      "surface": "ויין",
+      "gloss": "и вино"
+    },
+    {
+      "surface": "לנסך",
+      "gloss": "за налив"
+    },
+    {
+      "surface": "רביעית",
+      "gloss": "четвртину"
+    },
+    {
+      "surface": "ההין",
+      "gloss": "хина"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "начини"
+    },
+    {
+      "surface": "על",
+      "gloss": "уз"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "палјеницу"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "за жртву"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "за јагње"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "једно"
+    }
+  ],
+  "timestamp": "2026-09-05T10:34:47.204475044Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 6:29",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "Тако ⟨је⟩ онај који улази к жени друга свог; неће бити поштеђен сваки који је дотакне.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Тако"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "онај који улази"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "жени"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "друга свог"
+    },
+    {
+      "surface": "לא",
+      "gloss": "неће"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "бити поштеђен"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сваки"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "који дотакне"
+    },
+    {
+      "surface": "בה",
+      "gloss": "њу"
+    }
+  ],
+  "timestamp": "2026-09-05T16:00:37.688446017Z",
+  "model": "glm-5.3"
+}

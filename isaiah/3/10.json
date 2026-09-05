@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 3:10",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Реците праведнику да ⟨је⟩ добро: јер плод дела својих јешће.",
+  "tokens": [
+    {
+      "surface": "אמרו",
+      "gloss": "реците"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "праведнику"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "плод"
+    },
+    {
+      "surface": "מעלליהם",
+      "gloss": "дела својих"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "јешће"
+    }
+  ],
+  "timestamp": "2026-09-05T12:00:46.950847266Z",
+  "model": "glm-5.3"
+}

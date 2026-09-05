@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 12:6",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "док се не покида канап сребрни и не разбије чинија златна, и не разбије крчаг на извору и не смрска се точак на бунару.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "док"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ירחק",
+      "gloss": "пукине"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "канап"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "сребрни"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "и разбије се"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "чинија"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "златна"
+    },
+    {
+      "surface": "ותשבר",
+      "gloss": "и разбије се"
+    },
+    {
+      "surface": "כד",
+      "gloss": "крчаг"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "המבוע",
+      "gloss": "извору"
+    },
+    {
+      "surface": "ונרץ",
+      "gloss": "и смрска се"
+    },
+    {
+      "surface": "הגלгל",
+      "gloss": "точак"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "бунару"
+    }
+  ],
+  "timestamp": "2026-09-05T14:14:49.663908310Z",
+  "model": "glm-5.3"
+}

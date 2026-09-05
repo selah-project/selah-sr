@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 10:17",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "Скупи из земље пакету своју, ти што седиш ⟨у⟩ опсади.",
+  "tokens": [
+    {
+      "surface": "אספי",
+      "gloss": "Скупи"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "из земље"
+    },
+    {
+      "surface": "כנעתך",
+      "gloss": "пакету своју"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "ти што седиш"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "⟨у⟩ опсади"
+    }
+  ],
+  "timestamp": "2026-09-05T15:38:43.487082823Z",
+  "model": "glm-5.3"
+}

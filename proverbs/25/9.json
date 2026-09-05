@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 25,
+  "translation": "Спор свој изведи са пријатељем својим, а тајну другога не откривај.",
+  "tokens": [
+    {
+      "surface": "ריבך",
+      "gloss": "спор свој"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "изведи"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "пријатеља свог"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "пријатеља свог"
+    },
+    {
+      "surface": "וסוד",
+      "gloss": "а тајну"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "другога"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "откривај"
+    }
+  ],
+  "timestamp": "2026-09-05T13:52:05.970096850Z",
+  "model": "glm-5.3"
+}

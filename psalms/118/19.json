@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 118:19",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 118,
+  "translation": "Отворите ми врата правде, да уђем кроз њих, да славим Јаха.",
+  "tokens": [
+    {
+      "surface": "פתחו",
+      "gloss": "отворите"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "врата"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "правде"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "да уђем"
+    },
+    {
+      "surface": "בם",
+      "gloss": "кроз њих"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "да славим"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Јаха"
+    }
+  ],
+  "timestamp": "2026-09-05T13:39:38.863988120Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 4:26",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "И пусти га; тада рече ⟨она⟩: женик крви, ради обрезања.",
+  "tokens": [
+    {
+      "surface": "וירף",
+      "gloss": "И пусти"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "га"
+    },
+    {
+      "surface": "אז",
+      "gloss": "тада"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "рече"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "женик"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "крви"
+    },
+    {
+      "surface": "למולת",
+      "gloss": "ради обрезања"
+    }
+  ],
+  "timestamp": "2026-09-05T10:00:51.559827055Z",
+  "model": "glm-5.3"
+}

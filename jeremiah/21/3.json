@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 21:3",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "И рече Јермијаху (Јеремија) њима: тако кажите Цидкијаху (Седекији):",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Јермијаху"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "њима"
+    },
+    {
+      "surface": "כה",
+      "gloss": "тако"
+    },
+    {
+      "surface": "תאמרן",
+      "gloss": "кажите"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Цидкијаху"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "(Седекији)"
+    }
+  ],
+  "timestamp": "2026-09-05T17:05:11.082856974Z",
+  "model": "glm-5.3"
+}

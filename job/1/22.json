@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 1:22",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "У свему томе не сагреши Ијов (Јов), нити даде лудост Елохиму.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "У свему"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "томе"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "сагреши"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ијов (Јов)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "нити"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "даде"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "лудост"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Елохиму"
+    }
+  ],
+  "timestamp": "2026-09-05T13:54:16.216725339Z",
+  "model": "glm-5.3"
+}

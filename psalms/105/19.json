@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 105:19",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 105,
+  "translation": "Док не дође време речи његове — реч Јахвеова искуша га.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "док"
+    },
+    {
+      "surface": "עת",
+      "gloss": "време"
+    },
+    {
+      "surface": "בא",
+      "gloss": "дође"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "речи његове"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "реч"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеова"
+    },
+    {
+      "surface": "צרפתהו",
+      "gloss": "искуша га"
+    }
+  ],
+  "timestamp": "2026-09-05T13:37:56.694291031Z",
+  "model": "glm-5.3"
+}

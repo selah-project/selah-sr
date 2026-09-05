@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "1-samuel 17:56",
+  "book": "1-samuel",
+  "lang": "sr",
+  "chapter": 17,
+  "translation": "И рече краљ: „Питај ти чији је син овај младић.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "краљ"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "Питај"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "מי",
+      "gloss": "чији"
+    },
+    {
+      "surface": "זה",
+      "gloss": "овај"
+    },
+    {
+      "surface": "העלם",
+      "gloss": "младић"
+    }
+  ],
+  "timestamp": "2026-09-05T11:21:40.888956444Z",
+  "model": "glm-5.3"
+}

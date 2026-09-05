@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 15:10",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 15,
+  "translation": "И седи и веома стари међу нама ⟨има⟩ — већи данима од оца твога.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "שב",
+      "gloss": "седи"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "ישיש",
+      "gloss": "веома стари"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "међу нама"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "већи"
+    },
+    {
+      "surface": "מאביך",
+      "gloss": "од оца твога"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "данима"
+    }
+  ],
+  "timestamp": "2026-09-05T13:58:30.074828074Z",
+  "model": "glm-5.3"
+}

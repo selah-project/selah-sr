@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 10:18",
+  "book": "nehemiah",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "Атер, Хизкија (Језекија), Азор,",
+  "tokens": [
+    {
+      "surface": "אטר",
+      "gloss": "Атер"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "Хизкија (Језекија)"
+    },
+    {
+      "surface": "עזור",
+      "gloss": "Азор"
+    }
+  ],
+  "timestamp": "2026-09-05T14:31:58.780628330Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 40:26",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 40,
+  "translation": "И постави ⟨את⟩ златни олтар у шатору састанка, пред завесом.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "постави"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "златни олтар"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "олтар"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "златни"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "у шатору"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "састанка"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "завесом"
+    }
+  ],
+  "timestamp": "2026-09-05T10:15:02.939008779Z",
+  "model": "glm-5.3"
+}

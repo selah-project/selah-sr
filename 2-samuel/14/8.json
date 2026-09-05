@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 14:8",
+  "book": "2-samuel",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "И рече краљ жени: „Иди кући својој, а ја ћу заповедити о теби.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "краљ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "жени"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "жени"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "иди"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "кући својој"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "а ја"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "ћу заповедити"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "о теби"
+    }
+  ],
+  "timestamp": "2026-09-05T11:32:30.015100519Z",
+  "model": "glm-5.3"
+}

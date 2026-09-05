@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 15:4",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 15,
+  "translation": "Језик који лечи ⟨је⟩ дрво живота, а кривудавост у њему — лом у духу.",
+  "tokens": [
+    {
+      "surface": "מרפא",
+      "gloss": "који лечи"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "језик"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "дрво"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "живота"
+    },
+    {
+      "surface": "וסלף",
+      "gloss": "а кривудавост"
+    },
+    {
+      "surface": "בה",
+      "gloss": "у њему"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "лом"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "у духу"
+    }
+  ],
+  "timestamp": "2026-09-05T13:49:58.936079928Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 22:9",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "Људи клевете бише у теби да крв проливају, и на горама једоше у теби; гнусобу чињаху усред тебе.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "људи"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "клевете"
+    },
+    {
+      "surface": "היו",
+      "gloss": "бише"
+    },
+    {
+      "surface": "בך",
+      "gloss": "у теби"
+    },
+    {
+      "surface": "למען",
+      "gloss": "да"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "проливају"
+    },
+    {
+      "surface": "דם",
+      "gloss": "крв"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "горама"
+    },
+    {
+      "surface": "אכלו",
+      "gloss": "једоше"
+    },
+    {
+      "surface": "בך",
+      "gloss": "у теби"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "гнусобу"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "чињаху"
+    },
+    {
+      "surface": "בתוכך",
+      "gloss": "усред тебе"
+    }
+  ],
+  "timestamp": "2026-09-05T12:49:35.854400310Z",
+  "model": "glm-5.3"
+}

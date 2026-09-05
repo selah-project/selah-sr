@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "jeremiah 51:40",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 51,
+  "translation": "Свеши ћу их као јагњад на коље, као овнове са јарцима.",
+  "tokens": [
+    {
+      "surface": "אורידם",
+      "gloss": "Свеши ћу их"
+    },
+    {
+      "surface": "ככרים",
+      "gloss": "као јагњад"
+    },
+    {
+      "surface": "לטבוח",
+      "gloss": "на коље"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "као овнове"
+    },
+    {
+      "surface": "עם",
+      "gloss": "са"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "јарцима"
+    }
+  ],
+  "timestamp": "2026-09-05T12:40:45.195942836Z",
+  "model": "glm-5.3"
+}

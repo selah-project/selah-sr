@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 28:16",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "Клет ћеш бити у граду, и клет ћеш бити у пољу.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Клет"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ћеш бити"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "у граду"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "и клет"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ћеш бити"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "у пољу"
+    }
+  ],
+  "timestamp": "2026-09-05T15:15:06.846150419Z",
+  "model": "glm-5.3"
+}

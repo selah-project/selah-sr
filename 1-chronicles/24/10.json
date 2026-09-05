@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 24:10",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "Седми Хакоцу, осми Авији.",
+  "tokens": [
+    {
+      "surface": "להקוץ",
+      "gloss": "Хакоцу"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "Седми"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "Авији"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "осми"
+    }
+  ],
+  "timestamp": "2026-09-05T14:41:38.755939176Z",
+  "model": "glm-5.3"
+}

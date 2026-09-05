@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 29:6",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 29,
+  "translation": "И рече им: да ли ⟨му је⟩ шалом? А они рекоше: шалом; и ено, Рахеља, кћи његова, долази са стадом.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "да ли шалом"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "а рекоше"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "шалом"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и ено"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Рахеља"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "кћи његова"
+    },
+    {
+      "surface": "באה",
+      "gloss": "долази"
+    },
+    {
+      "surface": "עם",
+      "gloss": "са"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "стадом"
+    }
+  ],
+  "timestamp": "2026-09-05T09:48:12.539997670Z",
+  "model": "glm-5.3"
+}

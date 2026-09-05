@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 14:23",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "ако од конца па до ремена обуће шта узмем од свега што је твоје — да не би рекао: ја обогатих ⟨את⟩ Аврама!",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "מחוט",
+      "gloss": "од конца"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "па до"
+    },
+    {
+      "surface": "שרוך",
+      "gloss": "ремена"
+    },
+    {
+      "surface": "נעל",
+      "gloss": "обуће"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "и ако"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "узмем"
+    },
+    {
+      "surface": "мכל",
+      "gloss": "од свега"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "לך",
+      "gloss": "је твоје"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "да не"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "би рекао"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "העשרתי",
+      "gloss": "обогатих"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Аврама"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Аврама"
+    }
+  ],
+  "timestamp": "2026-09-05T09:42:53.522299892Z",
+  "model": "glm-5.3"
+}

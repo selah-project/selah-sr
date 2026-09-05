@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 43:15",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 43,
+  "translation": "Ја ⟨сам⟩ Јахве, Свети ваш, Створитељ Израиљев, Цар ваш.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ја"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "קדושכם",
+      "gloss": "Свети ваш"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "Створитељ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљев"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "Цар ваш"
+    }
+  ],
+  "timestamp": "2026-09-05T12:13:26.182279900Z",
+  "model": "glm-5.3"
+}

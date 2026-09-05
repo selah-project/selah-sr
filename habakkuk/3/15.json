@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "habakkuk 3:15",
+  "book": "habakkuk",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Ступио си морем коњи своји, у бучним таласима многих вода.",
+  "tokens": [
+    {
+      "surface": "דרכת",
+      "gloss": "Ступио си"
+    },
+    {
+      "surface": "בים",
+      "gloss": "морем"
+    },
+    {
+      "surface": "סוסיך",
+      "gloss": "коњи твоји"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "у бучним таласима"
+    },
+    {
+      "surface": "מים",
+      "gloss": "вода"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "многих"
+    }
+  ],
+  "timestamp": "2026-09-05T13:10:57.292738243Z",
+  "model": "glm-5.3"
+}

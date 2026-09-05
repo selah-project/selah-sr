@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "У свако време нека буду хаљине твоје беле, и уље на глави твојој нека не недостаје.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "у сваком"
+    },
+    {
+      "surface": "עת",
+      "gloss": "времену"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "нека буду"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "хаљине твоје"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "беле"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "и уље"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "глави твојој"
+    },
+    {
+      "surface": "אל",
+      "gloss": "нека не"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "недостаје"
+    }
+  ],
+  "timestamp": "2026-09-05T16:45:09.666406866Z",
+  "model": "glm-5.3"
+}

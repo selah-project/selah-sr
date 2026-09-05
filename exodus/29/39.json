@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "exodus 29:39",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 29,
+  "translation": "⟨את⟩ јагње једно приреди у јутру, и ⟨את⟩ јагње друго приреди између вечери.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "јагње"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "јагње"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "једно"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "приреди"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "у јутру"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "јагње"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "јагње"
+    },
+    {
+      "surface": "השני",
+      "gloss": "друго"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "приреди"
+    },
+    {
+      "surface": "בין",
+      "gloss": "између"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "вечери"
+    }
+  ],
+  "timestamp": "2026-09-05T15:05:01.148743069Z",
+  "model": "glm-5.3"
+}

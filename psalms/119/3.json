@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 119:3",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 119,
+  "translation": "Да, не чинише неправду — путевима његовим ходише.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Да"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "чинише"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "неправду"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "путевима његовим"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ходише"
+    }
+  ],
+  "timestamp": "2026-09-05T15:59:28.140861749Z",
+  "model": "glm-5.3"
+}

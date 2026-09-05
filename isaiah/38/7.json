@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 38:7",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 38,
+  "translation": "И ово теби ⟨је⟩ знак од ⟨את⟩ Јахвеа, да ће Јахве учинити ⟨את⟩ реч ову коју рече.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "и ово"
+    },
+    {
+      "surface": "לך",
+      "gloss": "теби"
+    },
+    {
+      "surface": "האות",
+      "gloss": "знак"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "од ⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "да"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "учиниће"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "реч ову"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "реч"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ову"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "коју"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "рече"
+    }
+  ],
+  "timestamp": "2026-09-05T12:11:35.292043007Z",
+  "model": "glm-5.3"
+}

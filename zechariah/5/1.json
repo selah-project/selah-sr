@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 5:1",
+  "book": "zechariah",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "И вратих се, и подигох очи своје, и видех, и гле — свитак лети.",
+  "tokens": [
+    {
+      "surface": "ואשוב",
+      "gloss": "И вратих се"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "и подигох"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "очи своје"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "и видех"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и гле"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "свитак"
+    },
+    {
+      "surface": "עפה",
+      "gloss": "лети"
+    }
+  ],
+  "timestamp": "2026-09-05T13:13:40.020035054Z",
+  "model": "glm-5.3"
+}

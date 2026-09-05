@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 21:13",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "А и сина робиње ⟨את⟩ за народ ћу га учинити, јер твоје је потомство он.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "А и"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сина"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "робиње"
+    },
+    {
+      "surface": "לגוי",
+      "gloss": "за народ"
+    },
+    {
+      "surface": "אשימנו",
+      "gloss": "ћу га учинити"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "твоје потомство"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    }
+  ],
+  "timestamp": "2026-09-05T09:45:43.255279785Z",
+  "model": "glm-5.3"
+}

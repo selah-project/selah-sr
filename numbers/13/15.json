@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 13:15",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "За племе Гадово: Геуел, син Махијев.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "за племе"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гадово"
+    },
+    {
+      "surface": "גאואל",
+      "gloss": "Геуел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "מכי",
+      "gloss": "Махијев"
+    }
+  ],
+  "timestamp": "2026-09-05T10:32:51.849078450Z",
+  "model": "glm-5.3"
+}

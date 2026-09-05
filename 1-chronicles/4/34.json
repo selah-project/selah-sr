@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 4:34",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "и Мешовав, и Јамлех, и Јоша, син Аматсијин (Амасија).",
+  "tokens": [
+    {
+      "surface": "ומשובב",
+      "gloss": "и Мешовав"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "и Јамлех"
+    },
+    {
+      "surface": "ויושה",
+      "gloss": "и Јоша"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "Аматсијин (Амасија)"
+    }
+  ],
+  "timestamp": "2026-09-05T14:35:03.673448829Z",
+  "model": "glm-5.3"
+}

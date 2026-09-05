@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 6:30",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "син Хашавјин, син Амцјин, син Хилкијин.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "Хашавјин"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "Амцјин"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Хилкијин"
+    }
+  ],
+  "timestamp": "2026-09-05T14:36:05.853527316Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-kings 22:48",
+  "book": "1-kings",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "И краља немаше у Едому ⟨јер⟩ намесник ⟨бејаше⟩ краљ.",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "И краља"
+    },
+    {
+      "surface": "אין",
+      "gloss": "немаше"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "у Едому"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "намесник"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "краљ"
+    }
+  ],
+  "timestamp": "2026-09-05T11:49:43.313642364Z",
+  "model": "glm-5.3"
+}

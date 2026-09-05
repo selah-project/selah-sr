@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 74:13",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 74,
+  "translation": "Ти разби силом својом море, сломи главе танинима над водама.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "פוררת",
+      "gloss": "разби"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "силом својом"
+    },
+    {
+      "surface": "ים",
+      "gloss": "море"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "сломи"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "главе"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "танинима"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "המים",
+      "gloss": "водама"
+    }
+  ],
+  "timestamp": "2026-09-05T13:31:41.345657506Z",
+  "model": "glm-5.3"
+}

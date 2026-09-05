@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 20:23",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 20,
+  "translation": "Не чините ⟨את⟩ уз мене богове сребрене и богове златне, не чините себи.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "чините"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ уз мене"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "богове"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "сребрене"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "и богове"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "златне"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "чините"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "себи"
+    }
+  ],
+  "timestamp": "2026-09-05T10:06:32.404007171Z",
+  "model": "glm-5.3"
+}

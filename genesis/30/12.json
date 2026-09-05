@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 30:12",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 30,
+  "translation": "И роди Зилпа, слушкиња Леина, Јаакову другог сина.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "и роди"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Зилпа"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "слушкиња"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Леина"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "שני",
+      "gloss": "другог"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "Јаакову"
+    }
+  ],
+  "timestamp": "2026-09-05T09:48:10.508747558Z",
+  "model": "glm-5.3"
+}

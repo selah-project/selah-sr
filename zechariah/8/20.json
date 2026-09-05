@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "zechariah 8:20",
+  "book": "zechariah",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "Овако рече Јахве Цеваот: још ⟨ће бити⟩ да ће доћи народи и становници градова многих.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "овако"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "עד",
+      "gloss": "још"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨да⟩"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "дођу"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "народи"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "и становници"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "градова"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "многих"
+    }
+  ],
+  "timestamp": "2026-09-05T13:13:31.472489240Z",
+  "model": "glm-5.3"
+}

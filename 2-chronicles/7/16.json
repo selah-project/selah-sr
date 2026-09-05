@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 7:16",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "И сада изабрах и посветих ⟨את⟩ дом овај да буде име моје тамо довека; и очи моје и срце моје биће тамо све дане.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "и сада"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "изабрах"
+    },
+    {
+      "surface": "והקדשתי",
+      "gloss": "и посветих"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дом овај"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овај"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "да буде"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "име моје"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тамо"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "века"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "и биће"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "очи моје"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "и срце моје"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тамо"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "дане"
+    }
+  ],
+  "timestamp": "2026-09-05T14:48:01.154394839Z",
+  "model": "glm-5.3"
+}

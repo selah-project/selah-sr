@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 32:18",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 32,
+  "translation": "А он рече: није глас вике јуначке, није глас вике слабости — глас певања чујем ја.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "а рече"
+    },
+    {
+      "surface": "אין",
+      "gloss": "није"
+    },
+    {
+      "surface": "קול",
+      "gloss": "глас"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "вике"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "јуначке"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "није"
+    },
+    {
+      "surface": "קול",
+      "gloss": "глас"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "вике"
+    },
+    {
+      "surface": "חלושה",
+      "gloss": "слабости"
+    },
+    {
+      "surface": "קול",
+      "gloss": "глас"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "певања"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ја"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "чујем"
+    }
+  ],
+  "timestamp": "2026-09-05T10:12:50.651853463Z",
+  "model": "glm-5.3"
+}

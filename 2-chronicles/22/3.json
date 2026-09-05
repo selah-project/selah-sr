@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 22:3",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "И он ходи путевима дома Ахавова (Ахав), јер мати му беше саветница његова ⟨да чини⟩ зло.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "И"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ходи"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "путевима"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "אחאב",
+      "gloss": "Ахавова (Ахав)"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "мати му"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "беше"
+    },
+    {
+      "surface": "יועצתו",
+      "gloss": "саветница његова"
+    },
+    {
+      "surface": "להרשיע",
+      "gloss": "⟨да чини⟩ зло"
+    }
+  ],
+  "timestamp": "2026-09-05T14:52:04.629161563Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 7:8",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Боље је свршетак ствари него њен почетак; боље стрпљив дух него надмен дух.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "боље је"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "свршетак"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ствари"
+    },
+    {
+      "surface": "מראשיתו",
+      "gloss": "него њен почетак"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "боље"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "стрпљив"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "дух"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "него надмен"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "дух"
+    }
+  ],
+  "timestamp": "2026-09-05T14:12:24.873936123Z",
+  "model": "glm-5.3"
+}

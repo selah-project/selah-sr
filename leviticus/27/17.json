@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 27:17",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 27,
+  "translation": "Ако од године јовела посвети поље своје, према оцени твојој стоји⟨ће⟩.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ако"
+    },
+    {
+      "surface": "משנת",
+      "gloss": "од године"
+    },
+    {
+      "surface": "היבל",
+      "gloss": "јовела"
+    },
+    {
+      "surface": "יקדיש",
+      "gloss": "посвети"
+    },
+    {
+      "surface": "שדהו",
+      "gloss": "поље своје"
+    },
+    {
+      "surface": "כערכך",
+      "gloss": "према оцени твојој"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "стоји"
+    }
+  ],
+  "timestamp": "2026-09-05T10:27:34.296586720Z",
+  "model": "glm-5.3"
+}

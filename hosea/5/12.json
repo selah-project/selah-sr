@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "hosea 5:12",
+  "book": "hosea",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "А ја сам као мољац Ефрајиму и као трулеж дому Јудином.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "а ја"
+    },
+    {
+      "surface": "כעש",
+      "gloss": "као мољац"
+    },
+    {
+      "surface": "לאפרים",
+      "gloss": "Ефрајиму"
+    },
+    {
+      "surface": "וכרקב",
+      "gloss": "и као трулеж"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "дому"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јудином"
+    }
+  ],
+  "timestamp": "2026-09-05T13:00:00.096646249Z",
+  "model": "glm-5.3"
+}

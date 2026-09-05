@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 22:22",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "Ако тлачећи потлачиш ⟨את⟩ њега — ако завапивши завапи мени, чујући ћу чути вапај његов.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "тлачећи"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "потлачиш"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "њега"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "צעק",
+      "gloss": "завапивши"
+    },
+    {
+      "surface": "יצעעק",
+      "gloss": "завапи"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мени"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "чујући"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "ћу чути"
+    },
+    {
+      "surface": "צעקתו",
+      "gloss": "вапај његов"
+    }
+  ],
+  "timestamp": "2026-09-05T16:32:57.695470147Z",
+  "model": "glm-5.3"
+}

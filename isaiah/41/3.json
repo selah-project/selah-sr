@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 41:3",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 41,
+  "translation": "Гони их, прође у миру, путем који ногама својим не крочи.",
+  "tokens": [
+    {
+      "surface": "ירדפם",
+      "gloss": "гони их"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "прође"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "у миру"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "путем"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "ногама својим"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "крочи"
+    }
+  ],
+  "timestamp": "2026-09-05T12:13:57.137388777Z",
+  "model": "glm-5.3"
+}

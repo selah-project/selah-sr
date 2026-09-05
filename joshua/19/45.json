@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "joshua 19:45",
+  "book": "joshua",
+  "lang": "sr",
+  "chapter": 19,
+  "translation": "и Јехуд, и Бене-Варак, и Гат Римон.",
+  "tokens": [
+    {
+      "surface": "ויהד",
+      "gloss": "и Јехуд"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "и Бене"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Варак"
+    },
+    {
+      "surface": "וגת",
+      "gloss": "и Гат"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Римон"
+    }
+  ],
+  "timestamp": "2026-09-05T15:17:14.037754067Z",
+  "model": "glm-5.3"
+}

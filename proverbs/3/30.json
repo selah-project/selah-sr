@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 3:30",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Не парби се са човеком без разлога, ако ти није узвратио зло.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תרוב",
+      "gloss": "парби се"
+    },
+    {
+      "surface": "עם",
+      "gloss": "са"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човеком"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "без разлога"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "לא",
+      "gloss": "није"
+    },
+    {
+      "surface": "גמלך",
+      "gloss": "узвратио ти"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зло"
+    }
+  ],
+  "timestamp": "2026-09-05T16:00:14.152062133Z",
+  "model": "glm-5.3"
+}

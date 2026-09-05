@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 15:32",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 15,
+  "translation": "Ко одбацује поуку, презире душу своју, а ко слуша прекор, стиче срце.",
+  "tokens": [
+    {
+      "surface": "פורע",
+      "gloss": "Ко одбацује"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "поуку"
+    },
+    {
+      "surface": "מואס",
+      "gloss": "презире"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "душу своју"
+    },
+    {
+      "surface": "ושומע",
+      "gloss": "а ко слуша"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "прекор"
+    },
+    {
+      "surface": "קונה",
+      "gloss": "стиче"
+    },
+    {
+      "surface": "לב",
+      "gloss": "срце"
+    }
+  ],
+  "timestamp": "2026-09-05T13:50:02.149651760Z",
+  "model": "glm-5.3"
+}

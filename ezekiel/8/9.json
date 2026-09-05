@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 8:9",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "И рече ми: уђи и види ⟨את⟩ гадости зле које они чине овде.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "בא",
+      "gloss": "уђи"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "и види"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "гадости"
+    },
+    {
+      "surface": "התועבות",
+      "gloss": "гадости"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "зле"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "које"
+    },
+    {
+      "surface": "הם",
+      "gloss": "они"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "чине"
+    },
+    {
+      "surface": "פה",
+      "gloss": "овде"
+    }
+  ],
+  "timestamp": "2026-09-05T12:44:11.675525337Z",
+  "model": "glm-5.3"
+}

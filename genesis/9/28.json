@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 9:28",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "И поживе Ноах после потопа тристо година и педесет година.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "И поживе"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ноах"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "после"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "потопа"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "три"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сто"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "година"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "и педесет"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "година"
+    }
+  ],
+  "timestamp": "2026-09-05T09:40:20.495509956Z",
+  "model": "glm-5.3"
+}

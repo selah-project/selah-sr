@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 4:17",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "Јер једу хлеб раше, и вино насилника пију.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "једу"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хлеб"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "раше"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "и вино"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "насилника"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "пију"
+    }
+  ],
+  "timestamp": "2026-09-05T13:46:31.699505464Z",
+  "model": "glm-5.3"
+}

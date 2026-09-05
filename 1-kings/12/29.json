@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-kings 12:29",
+  "book": "1-kings",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "И постави ⟨את⟩ једнога у Бет-Ел, а ⟨את⟩ једнога даде у Дан.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "И постави"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "једнога"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "једнога"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "у"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Бет-Ел"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "а ⟨את⟩",
+      "marks": "једнога"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "једнога"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "даде"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "у Дан"
+    }
+  ],
+  "timestamp": "2026-09-05T11:45:26.239777126Z",
+  "model": "glm-5.3"
+}

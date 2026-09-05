@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 41:9",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 41,
+  "translation": "Реч безакоња изли се на њега, и онај што лежи — неће додати ⟨да⟩ устане.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Реч"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "безакоња"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "изли се"
+    },
+    {
+      "surface": "בו",
+      "gloss": "на њега"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "и онај што"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "лежи"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "ће додати"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "⟨да⟩ устане"
+    }
+  ],
+  "timestamp": "2026-09-05T15:54:47.614572900Z",
+  "model": "glm-5.3"
+}

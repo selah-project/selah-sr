@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 118:17",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 118,
+  "translation": "Нећу умрети, него ћу живети и причати дела Јахова.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "нећу"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "умрети"
+    },
+    {
+      "surface": "כי",
+      "gloss": "него"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "ћу живети"
+    },
+    {
+      "surface": "ואספר",
+      "gloss": "и причати"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "дела"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Јахова"
+    }
+  ],
+  "timestamp": "2026-09-05T13:39:38.863627848Z",
+  "model": "glm-5.3"
+}

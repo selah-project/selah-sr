@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 35:20",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 35,
+  "translation": "И изађе сав збор синова Израиљевих испред Мошета (Мојсија).",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "И изађе"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сав"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "збор"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синова"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљевих"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "испред"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошета (Мојсија)"
+    }
+  ],
+  "timestamp": "2026-09-05T15:05:21.020669922Z",
+  "model": "glm-5.3"
+}

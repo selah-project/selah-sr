@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 41:1",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 41,
+  "translation": "И би на крају две године данâ, и Фараон (сну) сан — и ено га стоји на реци.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И би"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "на крају"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "две године"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "данâ"
+    },
+    {
+      "surface": "ופרעה",
+      "gloss": "и Фараон"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "сну сан"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и ено"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "стоји"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "реци"
+    }
+  ],
+  "timestamp": "2026-09-05T09:54:57.842031402Z",
+  "model": "glm-5.3"
+}

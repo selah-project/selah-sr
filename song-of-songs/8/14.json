@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 8:14",
+  "book": "song-of-songs",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "Бежи, драги мој, и буди ⟨као⟩ срна или млади јелен на горама мирисним.",
+  "tokens": [
+    {
+      "surface": "ברח",
+      "gloss": "Бежи"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "драги мој"
+    },
+    {
+      "surface": "ודמה",
+      "gloss": "и буди"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨као⟩"
+    },
+    {
+      "surface": "לצבי",
+      "gloss": "срна"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "млади"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "јелен"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "горама"
+    },
+    {
+      "surface": "בשמим",
+      "gloss": "мирисним"
+    }
+  ],
+  "timestamp": "2026-09-05T14:07:29.276324390Z",
+  "model": "glm-5.3"
+}

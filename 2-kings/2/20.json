@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 2:20",
+  "book": "2-kings",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "И рече: Узмите ми нову зделу и метните тамо со; и узеше ⟨је⟩ к њему.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "Узмите"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "צלחית",
+      "gloss": "зделу"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "нову"
+    },
+    {
+      "surface": "ושימו",
+      "gloss": "метните"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тамо"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "со"
+    },
+    {
+      "surface": "ויקחו",
+      "gloss": "узеше"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "к њему"
+    }
+  ],
+  "timestamp": "2026-09-05T11:50:02.222852792Z",
+  "model": "glm-5.3"
+}

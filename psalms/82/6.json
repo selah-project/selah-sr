@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 82:6",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 82,
+  "translation": "Ја рекох: „богови сте, и синови Елиона (Вишњега) — сви ви.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ја"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "рекох"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "богови"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "сте"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "и синови"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Елиона (Вишњега)"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "сви ви"
+    }
+  ],
+  "timestamp": "2026-09-05T13:32:58.502059199Z",
+  "model": "glm-5.3"
+}

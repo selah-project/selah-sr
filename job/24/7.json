@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 24:7",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "гоно ноће без одела, и нема покривача у студени.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "гоно"
+    },
+    {
+      "surface": "ילינו",
+      "gloss": "ноће"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "без"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "одела"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и нема"
+    },
+    {
+      "surface": "כסות",
+      "gloss": "покривача"
+    },
+    {
+      "surface": "בקרה",
+      "gloss": "у студени"
+    }
+  ],
+  "timestamp": "2026-09-05T14:00:57.091103360Z",
+  "model": "glm-5.3"
+}

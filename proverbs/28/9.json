@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 28:9",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "Ко одврати ухо своје од слушања Торе, и молитва његова ⟨јесте⟩ гадост.",
+  "tokens": [
+    {
+      "surface": "מסיר",
+      "gloss": "одврати"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "ухо своје"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "од слушања"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Торе"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "תפלתו",
+      "gloss": "молитва његова"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "гадост"
+    }
+  ],
+  "timestamp": "2026-09-05T13:52:58.159319359Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 1:9",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "Што би́ло јесте, то ће бити; и што је учињено јесте оно што ће се учинити; и нема ништа ново под сунцем.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "што"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "што би́ло"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "јесте"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "што ће бити"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "и што"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "што је учињено"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "јесте"
+    },
+    {
+      "surface": "שיעשה",
+      "gloss": "што ће се учинити"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и нема"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ништа"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ново"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "сунцем"
+    }
+  ],
+  "timestamp": "2026-09-05T16:08:33.319159902Z",
+  "model": "glm-5.3"
+}

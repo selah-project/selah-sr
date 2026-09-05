@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 13:14",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "А у дан показивања у њему меса живог — нечист ће бити.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "а у дан"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "показивања"
+    },
+    {
+      "surface": "בו",
+      "gloss": "у њему"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "месо"
+    },
+    {
+      "surface": "חי",
+      "gloss": "живо"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "нечист ће бити"
+    }
+  ],
+  "timestamp": "2026-09-05T10:20:13.513595337Z",
+  "model": "glm-5.3"
+}

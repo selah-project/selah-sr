@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 3:12",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Познах да нема добра у њима, осим да се радују и да чине добро у животу своме.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "познах"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добра"
+    },
+    {
+      "surface": "בם",
+      "gloss": "у њима"
+    },
+    {
+      "surface": "כי",
+      "gloss": "осим"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨искључујуће⟩"
+    },
+    {
+      "surface": "לשמוח",
+      "gloss": "да се радују"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "и да чине"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "у животу своме"
+    }
+  ],
+  "timestamp": "2026-09-05T14:11:18.745651555Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 9:14",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "а од Левита Шемаја син Хашува, син Азрикама, син Хашавје, од синова Мераријевих.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "а од"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "Левита"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Шемаја"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "חשוב",
+      "gloss": "Хашува"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עזריקם",
+      "gloss": "Азрикама"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "Хашавје"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синова"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Мераријевих"
+    }
+  ],
+  "timestamp": "2026-09-05T14:37:40.008308734Z",
+  "model": "glm-5.3"
+}

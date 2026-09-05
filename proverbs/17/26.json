@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 17:26",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 17,
+  "translation": "Такође казнити праведника — није добро, ⟨ни⟩ ударати племиће због правости.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "такође"
+    },
+    {
+      "surface": "ענוש",
+      "gloss": "казнити"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "праведника"
+    },
+    {
+      "surface": "לא",
+      "gloss": "није"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "ударати"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "племиће"
+    },
+    {
+      "surface": "על",
+      "gloss": "због"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "правости"
+    }
+  ],
+  "timestamp": "2026-09-05T13:50:12.211179442Z",
+  "model": "glm-5.3"
+}

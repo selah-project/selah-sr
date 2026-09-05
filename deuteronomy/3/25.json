@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 3:25",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Нека пређем, молим, и да видим ⟨את⟩ земљу добру која је с оне стране Јардена, гору ову добру и Ливан.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "нека пређем"
+    },
+    {
+      "surface": "נא",
+      "gloss": "молим"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "и да видим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "земљу"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земљу"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "добру"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "која"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "с оне стране"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Јардена"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "гору"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "добру"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ову"
+    },
+    {
+      "surface": "והלבנון",
+      "gloss": "и Ливан"
+    }
+  ],
+  "timestamp": "2026-09-05T10:44:49.351756792Z",
+  "model": "glm-5.3"
+}

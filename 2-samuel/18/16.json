@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 18:16",
+  "book": "2-samuel",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "И труби Јоав у рог, и врати се народ од гоњења за Израиљем, јер уздржа Јоав ⟨את⟩ народ.",
+  "tokens": [
+    {
+      "surface": "ויתקע",
+      "gloss": "И труби"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Јоав"
+    },
+    {
+      "surface": "בשפר",
+      "gloss": "у рог"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "и врати се"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "מרדף",
+      "gloss": "од гоњења"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "за"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљем"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "уздржа"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Јоав"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "народ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    }
+  ],
+  "timestamp": "2026-09-05T11:35:19.888124421Z",
+  "model": "glm-5.3"
+}

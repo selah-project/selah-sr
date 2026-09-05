@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "joshua 15:53",
+  "book": "joshua",
+  "lang": "sr",
+  "chapter": 15,
+  "translation": "и Јанум, и Веит-Тапуах (кућа јабуке), и Афека;",
+  "tokens": [
+    {
+      "surface": "וינים",
+      "gloss": "и Јанум"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "и Веит-"
+    },
+    {
+      "surface": "תפוח",
+      "gloss": "Тапуах"
+    },
+    {
+      "surface": "ואפקה",
+      "gloss": "и Афека"
+    }
+  ],
+  "timestamp": "2026-09-05T11:02:39.634698383Z",
+  "model": "glm-5.3"
+}

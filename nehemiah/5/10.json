@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 5:10",
+  "book": "nehemiah",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "И ја, браћо моја, и момци мои — њима зајмљујемо сребро и жито; оставимо, молим, ⟨את⟩ терет овај.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "И"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "браћо моја"
+    },
+    {
+      "surface": "ונערי",
+      "gloss": "и момци мои"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "зајмљујемо"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "њима"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "сребро"
+    },
+    {
+      "surface": "ודגן",
+      "gloss": "и жито"
+    },
+    {
+      "surface": "נעזבה",
+      "gloss": "оставимо"
+    },
+    {
+      "surface": "נא",
+      "gloss": "молим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "терет овај"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "терет"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "овај"
+    }
+  ],
+  "timestamp": "2026-09-05T14:30:03.102349603Z",
+  "model": "glm-5.3"
+}

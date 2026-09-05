@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 24:22",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "јер нагло ће настати пропаст њихова, а ⟨и⟩ лом оба њих — ко зна?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "нагло"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ће настати"
+    },
+    {
+      "surface": "אידם",
+      "gloss": "пропаст њихова"
+    },
+    {
+      "surface": "ופיד",
+      "gloss": "и лом"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "оба њих"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ко"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "зна"
+    }
+  ],
+  "timestamp": "2026-09-05T16:01:21.024423413Z",
+  "model": "glm-5.3"
+}

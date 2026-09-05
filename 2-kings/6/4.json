@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 6:4",
+  "book": "2-kings",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "И пође ⟨את⟩ њих, и дођоше до Јардена, и посекоше дрва.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "и пође"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "њих"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "и дођоше"
+    },
+    {
+      "surface": "הירדנה",
+      "gloss": "до Јардена"
+    },
+    {
+      "surface": "ויגזרו",
+      "gloss": "и посекоше"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "дрва"
+    }
+  ],
+  "timestamp": "2026-09-05T11:51:54.986206400Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 7:14",
+  "book": "nehemiah",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Синови Закајеви, седам стотина и шездесет.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "זכי",
+      "gloss": "Закаја"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "седам"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "стотина"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "и шездесет"
+    }
+  ],
+  "timestamp": "2026-09-05T14:30:43.703159731Z",
+  "model": "glm-5.3"
+}

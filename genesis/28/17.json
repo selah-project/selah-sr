@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 28:17",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "И побоја се, и рече: како је страшно ово место! није ово ништа друго до дом Елохима, и ово ⟨је⟩ капија небеса.",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "и побоја се"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "מה",
+      "gloss": "како"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "страшно"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "место"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ово"
+    },
+    {
+      "surface": "אין",
+      "gloss": "није"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ово"
+    },
+    {
+      "surface": "כי",
+      "gloss": "…"
+    },
+    {
+      "surface": "אם",
+      "gloss": "него"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохима"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "и ово"
+    },
+    {
+      "surface": "שער",
+      "gloss": "капија"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небеса"
+    }
+  ],
+  "timestamp": "2026-09-05T09:49:25.551079838Z",
+  "model": "glm-5.3"
+}

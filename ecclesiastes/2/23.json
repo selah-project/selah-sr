@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ecclesiastes 2:23",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Јер су сви дани његови болови, и јад ⟨је⟩ посао његов; и ноћу не почива срце његово; и ово ⟨је⟩ испразност — оно.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сви"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "дани његови"
+    },
+    {
+      "surface": "מכאבים",
+      "gloss": "болови"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "и јад"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "посао његов"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ноћу"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "почива"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "срце његово"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ово"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "испразност"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "оно"
+    }
+  ],
+  "timestamp": "2026-09-05T14:11:40.392164945Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Свачему је време, и тренутак сваком хтењу под небесима.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "Свачему"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "је време"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "и тренутак"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "сваком"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "хтењу"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небесима"
+    }
+  ],
+  "timestamp": "2026-09-05T14:11:27.685117371Z",
+  "model": "glm-5.3"
+}

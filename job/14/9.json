@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 14:9",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "Од мириса воде процвета и учини жетву као садница.",
+  "tokens": [
+    {
+      "surface": "מריח",
+      "gloss": "од мириса"
+    },
+    {
+      "surface": "מים",
+      "gloss": "воде"
+    },
+    {
+      "surface": "יפרח",
+      "gloss": "процвета"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "и учини"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "жетву"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "као"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "садница"
+    }
+  ],
+  "timestamp": "2026-09-05T13:58:00.225449334Z",
+  "model": "glm-5.3"
+}

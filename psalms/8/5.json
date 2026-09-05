@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 8:5",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 8,
+  "translation": "Шта ⟨је⟩ смртник, да га помниш, и син човечји, да га посећујеш?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "шта"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "смртник"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "תזכרנו",
+      "gloss": "помниш га"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "и син"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човечји"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "תפקדנו",
+      "gloss": "посећујеш га"
+    }
+  ],
+  "timestamp": "2026-09-05T13:17:52.814219307Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 4:16",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "да не бисте покварили ⟨се⟩ и начинили себи идола, слику каквог лика, облик мушки или женски:",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "да не"
+    },
+    {
+      "surface": "תשחתון",
+      "gloss": "покварили"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "и начинили"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "себи"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "идола"
+    },
+    {
+      "surface": "תמונת",
+      "gloss": "слику"
+    },
+    {
+      "surface": "כל",
+      "gloss": "каквог"
+    },
+    {
+      "surface": "סמל",
+      "gloss": "лика"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "облик"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "мушки"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "женски"
+    }
+  ],
+  "timestamp": "2026-09-05T10:45:13.746398561Z",
+  "model": "glm-5.3"
+}

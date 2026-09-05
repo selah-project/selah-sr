@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 18:8",
+  "book": "1-kings",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "И рече му: Ја сам; иди, реци господару своме: Гле, Елијаху.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Ја сам"
+    },
+    {
+      "surface": "לך",
+      "gloss": "иди"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "реци"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "господару своме"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Гле"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Елијаху"
+    }
+  ],
+  "timestamp": "2026-09-05T11:47:09.825314463Z",
+  "model": "glm-5.3"
+}

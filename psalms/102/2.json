@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 102:2",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 102,
+  "translation": "Јахве, чуј молитву моју, и вапај мој к теби нека дође.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "чуј"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "молитву моју"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "и вапај мој"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "к теби"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "нека дође"
+    }
+  ],
+  "timestamp": "2026-09-05T13:36:44.639453482Z",
+  "model": "glm-5.3"
+}

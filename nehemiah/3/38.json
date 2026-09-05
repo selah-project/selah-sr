@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "nehemiah 3:38",
+  "book": "nehemiah",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "И сазидасмо ⟨את⟩ зид, и све се сâ зид повеза до половине њене, и би срце народу да ради.",
+  "tokens": [
+    {
+      "surface": "ונבנה",
+      "gloss": "и сазидасмо"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "зид"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "зид"
+    },
+    {
+      "surface": "ותקשר",
+      "gloss": "и повеза се"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сав"
+    },
+    {
+      "surface": "החומה",
+      "gloss": "зид"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "חציה",
+      "gloss": "половине њене"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и би"
+    },
+    {
+      "surface": "לב",
+      "gloss": "срце"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "народу"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "да ради"
+    }
+  ],
+  "timestamp": "2026-09-05T16:45:26.941607206Z",
+  "model": "glm-5.3"
+}

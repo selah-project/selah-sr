@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 21:14",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "И даде Јахве пошаст у Израиљу, и падоше од Израиља седамдесет хиљада људи.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "И даде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "пошаст"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "у Израиљу"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "и падоше"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "од Израиља"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "седамдесет"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "хиљада"
+    },
+    {
+      "surface": "איש",
+      "gloss": "људи"
+    }
+  ],
+  "timestamp": "2026-09-05T14:41:44.583366261Z",
+  "model": "glm-5.3"
+}

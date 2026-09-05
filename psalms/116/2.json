@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 116:2",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 116,
+  "translation": "јер прихили ухо своје мени, и у данима својим зваћу ⟨га⟩.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "הטה",
+      "gloss": "прихили"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "ухо своје"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мени"
+    },
+    {
+      "surface": "ובימי",
+      "gloss": "и у данима својим"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "зваћу"
+    }
+  ],
+  "timestamp": "2026-09-05T13:39:48.694210193Z",
+  "model": "glm-5.3"
+}

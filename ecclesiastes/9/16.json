@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 9:16",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "и рекох ја: боља је мудрост од јунаштва, а мудрост сиромаха презирна је, и речи му се не чују.",
+  "tokens": [
+    {
+      "surface": "ואמרתי",
+      "gloss": "и рекох"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "боља"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мудрост"
+    },
+    {
+      "surface": "מגבורה",
+      "gloss": "од јунаштва"
+    },
+    {
+      "surface": "וחכמת",
+      "gloss": "а мудрост"
+    },
+    {
+      "surface": "המסכן",
+      "gloss": "сиромаха"
+    },
+    {
+      "surface": "בזויה",
+      "gloss": "презирна"
+    },
+    {
+      "surface": "ודבריו",
+      "gloss": "и речи"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "не"
+    },
+    {
+      "surface": "נשמעים",
+      "gloss": "чују"
+    }
+  ],
+  "timestamp": "2026-09-05T14:13:05.992986691Z",
+  "model": "glm-5.3"
+}

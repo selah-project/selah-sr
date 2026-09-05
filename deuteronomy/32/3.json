@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 32:3",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 32,
+  "translation": "Јер Јахвево име зовем: дајте величину Елохиму нашем!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "שם",
+      "gloss": "име"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвево"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "зовем"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "дајте"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "величину"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "Елохиму нашем"
+    }
+  ],
+  "timestamp": "2026-09-05T10:56:18.415292062Z",
+  "model": "glm-5.3"
+}

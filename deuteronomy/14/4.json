@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 14,
+  "translation": "Ово ⟨је⟩ стока коју јести можете: во, јагње овчје и јаре козје",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Ово"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "стока"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "коју"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "јести можете"
+    },
+    {
+      "surface": "שור",
+      "gloss": "во"
+    },
+    {
+      "surface": "שה",
+      "gloss": "јагње"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "овчје"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "и јаре"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "козје"
+    }
+  ],
+  "timestamp": "2026-09-05T10:48:27.816252487Z",
+  "model": "glm-5.3"
+}

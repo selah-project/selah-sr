@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 33:9",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 33,
+  "translation": "„Чист сам ја, без побуне; невиње сам ја, и нема безакоња ⟨у⟩ мени.“",
+  "tokens": [
+    {
+      "surface": "זך",
+      "gloss": "чист"
+    },
+    {
+      "surface": "אני",
+      "gloss": "сам ја"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "без"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "побуне"
+    },
+    {
+      "surface": "חף",
+      "gloss": "невиње сам"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ја"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и нема"
+    },
+    {
+      "surface": "עון",
+      "gloss": "безакоња"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨у⟩ мени"
+    }
+  ],
+  "timestamp": "2026-09-05T16:05:04.271398582Z",
+  "model": "glm-5.3"
+}

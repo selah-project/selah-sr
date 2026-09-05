@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 2:14",
+  "book": "nehemiah",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "И пређох к капији извора, и к краљевом језеру, и не бејаше места звери да пређе пода мном.",
+  "tokens": [
+    {
+      "surface": "ואעבר",
+      "gloss": "И пређох"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "שער",
+      "gloss": "капији"
+    },
+    {
+      "surface": "העין",
+      "gloss": "извора"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и к"
+    },
+    {
+      "surface": "ברכת",
+      "gloss": "језеру"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "краљевом"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и не бејаше"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "места"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "звери"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "да пређе"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "пода мном"
+    }
+  ],
+  "timestamp": "2026-09-05T14:29:46.507569297Z",
+  "model": "glm-5.3"
+}

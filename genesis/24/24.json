@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 24:24",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 24,
+  "translation": "И рече њему: Кћи Бетуела ја сам, сина Милке, којега она роди Нахору.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "њему"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Кћи"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "Бетуела"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ја сам"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "Милке"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "којега"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "она роди"
+    },
+    {
+      "surface": "לנחור",
+      "gloss": "Нахору"
+    }
+  ],
+  "timestamp": "2026-09-05T09:47:14.863188433Z",
+  "model": "glm-5.3"
+}

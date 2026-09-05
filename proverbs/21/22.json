@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 21:22",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "У град јунака узђе мудрац и обори снагу поуздања ⟨његовог⟩.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "град"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "јунака"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "узђе"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мудрац"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "и обори"
+    },
+    {
+      "surface": "עז",
+      "gloss": "снагу"
+    },
+    {
+      "surface": "מבטחה",
+      "gloss": "поуздања"
+    }
+  ],
+  "timestamp": "2026-09-05T16:01:53.909354102Z",
+  "model": "glm-5.3"
+}

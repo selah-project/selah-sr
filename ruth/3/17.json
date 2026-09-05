@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ruth 3:17",
+  "book": "ruth",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "И рече: Ових шест мера јечма даде ми, јер рече: Не иди празна к свекрви својој.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "שש",
+      "gloss": "шест"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "мера јечма"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ових"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "даде"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תבואי",
+      "gloss": "иди"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "празна"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "חמותך",
+      "gloss": "свекрви својој"
+    }
+  ],
+  "timestamp": "2026-09-05T14:07:34.815494879Z",
+  "model": "glm-5.3"
+}

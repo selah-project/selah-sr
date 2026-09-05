@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 10:11",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "Ако змија уједе без молитве-шапата, нема предности за господара језика.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "уједе"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "змија"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "без"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "молитве-шапата"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "предности"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "за господара"
+    },
+    {
+      "surface": "הלשון",
+      "gloss": "језика"
+    }
+  ],
+  "timestamp": "2026-09-05T14:12:15.285919212Z",
+  "model": "glm-5.3"
+}

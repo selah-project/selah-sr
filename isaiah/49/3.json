@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 49:3",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 49,
+  "translation": "И рече ми: слуга мој јеси ти, Израиљу, у теби се прослављам.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "слуга мој"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљу"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨у коме⟩"
+    },
+    {
+      "surface": "בך",
+      "gloss": "у теби"
+    },
+    {
+      "surface": "אתפאר",
+      "gloss": "прослављам се"
+    }
+  ],
+  "timestamp": "2026-09-05T12:15:40.498146661Z",
+  "model": "glm-5.3"
+}

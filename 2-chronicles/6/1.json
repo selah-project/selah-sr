@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 6:1",
+  "book": "2-chronicles",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "Тада рече Шломо (Соломон): Јахве рече ⟨да⟩ уседни у тмини.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Тада"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шломо"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "לשכון",
+      "gloss": "да уседни"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "у тмини"
+    }
+  ],
+  "timestamp": "2026-09-05T14:46:04.532685379Z",
+  "model": "glm-5.3"
+}

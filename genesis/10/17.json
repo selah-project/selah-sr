@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "и ⟨את⟩ Хивеја и ⟨את⟩ Аркеја и ⟨את⟩ Синеја",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Хивеја"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "Хивеја"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Аркеја"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "Аркеја"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Синеја"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "Синеја"
+    }
+  ],
+  "timestamp": "2026-09-05T09:41:50.271773865Z",
+  "model": "glm-5.3"
+}

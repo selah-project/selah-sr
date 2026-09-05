@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 34:3",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 34,
+  "translation": "У Јахвеу хвали се душа моја; чује ⟨то⟩ смирени и радују се.",
+  "tokens": [
+    {
+      "surface": "ביהוה",
+      "gloss": "У Јахвеу"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "хвали се"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душа моја"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "чује"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "смирени"
+    },
+    {
+      "surface": "וישמחו",
+      "gloss": "и радују се"
+    }
+  ],
+  "timestamp": "2026-09-05T15:54:54.042250527Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 27:7",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 27,
+  "translation": "Душа сита гази мед ⟨са саћа⟩, а души гладној све горко ⟨је⟩ слатко.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "душа"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "сита"
+    },
+    {
+      "surface": "תבוס",
+      "gloss": "гази"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "мед"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "а души"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "гладној"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "מר",
+      "gloss": "горко"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "слатко"
+    }
+  ],
+  "timestamp": "2026-09-05T16:02:24.310320794Z",
+  "model": "glm-5.3"
+}

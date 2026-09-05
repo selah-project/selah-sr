@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 18:1",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "Реч која би Јермији (Јеремији) од ⟨את⟩ Јахвеа, говорећи:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "Реч"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "која"
+    },
+    {
+      "surface": "היה",
+      "gloss": "би"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Јермији"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "(Јеремији)"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "од Јахвеа"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорећи"
+    }
+  ],
+  "timestamp": "2026-09-05T12:28:32.606590930Z",
+  "model": "glm-5.3"
+}

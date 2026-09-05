@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 3:12",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Амацја син његов, Азарија син његов, Јотам син његов.",
+  "tokens": [
+    {
+      "surface": "אמציהו",
+      "gloss": "Амацја"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син његов"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Азарија"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син његов"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Јотам"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "син његов"
+    }
+  ],
+  "timestamp": "2026-09-05T14:34:49.041080728Z",
+  "model": "glm-5.3"
+}

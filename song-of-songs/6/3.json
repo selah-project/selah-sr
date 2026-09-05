@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 6:3",
+  "book": "song-of-songs",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "Ја ⟨сам⟩ свога драгога, а драги мој ⟨је⟩ мој, ⟨он⟩ пасе међу љиљанима.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Ја"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "свога драгога"
+    },
+    {
+      "surface": "ודודי",
+      "gloss": "а драги мој"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мој"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "пасе"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "међу љиљанима"
+    }
+  ],
+  "timestamp": "2026-09-05T17:13:02.149319025Z",
+  "model": "glm-5.3"
+}

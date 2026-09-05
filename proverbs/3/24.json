@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 3:24",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Ако легнеш, нећеш се уплашити; и легнеш, и слатак ⟨биће⟩ сан твој.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ако"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "легнеш"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нећеш"
+    },
+    {
+      "surface": "תפחד",
+      "gloss": "се уплашити"
+    },
+    {
+      "surface": "ושכבת",
+      "gloss": "и легнеш"
+    },
+    {
+      "surface": "וערבה",
+      "gloss": "и слатак ⟨биће⟩"
+    },
+    {
+      "surface": "שנתך",
+      "gloss": "сан твој"
+    }
+  ],
+  "timestamp": "2026-09-05T17:10:56.563836993Z",
+  "model": "glm-5.3"
+}

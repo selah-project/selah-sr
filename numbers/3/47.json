@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "numbers 3:47",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "и узећеш пет сикла по глави — по сиклу светиње узећеш; двадесет гера ⟨је⟩ сикла.",
+  "tokens": [
+    {
+      "surface": "ולקחת",
+      "gloss": "и узећеш"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "пет"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "по"
+    },
+    {
+      "surface": "שקלים",
+      "gloss": "сикла"
+    },
+    {
+      "surface": "לגלגלת",
+      "gloss": "по глави"
+    },
+    {
+      "surface": "בשקל",
+      "gloss": "по сиклу"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "светиње"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "узећеш"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двадесет"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "гера"
+    },
+    {
+      "surface": "השקל",
+      "gloss": "сикла"
+    }
+  ],
+  "timestamp": "2026-09-05T10:28:11.832814719Z",
+  "model": "glm-5.3"
+}

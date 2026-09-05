@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 21:9",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "И рече Јахве Гаду (Гад), видевцу Давидовим (Давид), говорећи:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Гаду"
+    },
+    {
+      "surface": "גד",
+      "gloss": "(Гад)"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "видевцу"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давидовим"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "говорећи"
+    }
+  ],
+  "timestamp": "2026-09-05T16:46:36.215262902Z",
+  "model": "glm-5.3"
+}

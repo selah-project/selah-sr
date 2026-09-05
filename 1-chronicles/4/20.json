@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 4:20",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "И синови Шимона: Амнон, и Рина, Бен-Ханан, и Тилон; и синови Јишија: Зохет и Бен-Зохет.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "и синови"
+    },
+    {
+      "surface": "שימון",
+      "gloss": "Шимона"
+    },
+    {
+      "surface": "אמנון",
+      "gloss": "Амнон"
+    },
+    {
+      "surface": "ורנה",
+      "gloss": "и Рина"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Бен-"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "Ханан"
+    },
+    {
+      "surface": "ותולון",
+      "gloss": "и Тилон"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "и синови"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "Јишија"
+    },
+    {
+      "surface": "זוחת",
+      "gloss": "Зохет"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "и Бен-"
+    },
+    {
+      "surface": "זוחת",
+      "gloss": "Зохет"
+    }
+  ],
+  "timestamp": "2026-09-05T14:35:30.229528807Z",
+  "model": "glm-5.3"
+}

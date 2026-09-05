@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "numbers 7:52",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Један јарац коšѫa за жртву за грех.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "јарац"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "коšѫa"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "један"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "за жртву за грех"
+    }
+  ],
+  "timestamp": "2026-09-05T10:30:23.685332579Z",
+  "model": "glm-5.3"
+}

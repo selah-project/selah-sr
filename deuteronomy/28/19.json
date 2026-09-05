@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 28:19",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "Проклет био при уласку свом, и проклет био при изласку свом.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "проклет"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "био ти"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "при уласку свом"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "и проклет"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "био ти"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "при изласку свом"
+    }
+  ],
+  "timestamp": "2026-09-05T16:57:56.544831213Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 44:15",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 44,
+  "translation": "И рече им Јосеф: „Шта је ово дело које учинисте? Зар не знате да човек као што сам ја гата гатањем гата?“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Јосеф"
+    },
+    {
+      "surface": "מה",
+      "gloss": "шта"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "је ово дело"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ово"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "које"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "учинисте"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "зар не"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "знате"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "гатањем"
+    },
+    {
+      "surface": "ינחש",
+      "gloss": "гата"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "као што"
+    },
+    {
+      "surface": "כמני",
+      "gloss": "сам ја"
+    }
+  ],
+  "timestamp": "2026-09-05T09:57:01.292469165Z",
+  "model": "glm-5.3"
+}

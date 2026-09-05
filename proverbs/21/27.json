@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 21:27",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "Жртва безбожника — гадост ⟨је⟩, камоли кад је у злом науму принесе.",
+  "tokens": [
+    {
+      "surface": "זבח",
+      "gloss": "Жртва"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "безбожника"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "гадост"
+    },
+    {
+      "surface": "אף",
+      "gloss": "камоли"
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "בזמה",
+      "gloss": "у злом науму"
+    },
+    {
+      "surface": "יביאנו",
+      "gloss": "принесе је"
+    }
+  ],
+  "timestamp": "2026-09-05T13:51:08.271088490Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 20:43",
+  "book": "1-kings",
+  "lang": "sr",
+  "chapter": 20,
+  "translation": "И отиде цар Израиљев к дому своме мркова и љутит, и дође у Шомрон.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "и отиде"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљев"
+    },
+    {
+      "surface": "על",
+      "gloss": "к"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "дому своме"
+    },
+    {
+      "surface": "סר",
+      "gloss": "мркова"
+    },
+    {
+      "surface": "וזעף",
+      "gloss": "и љутит"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "и дође"
+    },
+    {
+      "surface": "שמרונה",
+      "gloss": "у Шомрон"
+    }
+  ],
+  "timestamp": "2026-09-05T11:47:35.651392035Z",
+  "model": "glm-5.3"
+}

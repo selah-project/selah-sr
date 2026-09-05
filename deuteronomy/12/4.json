@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 12:4",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 12,
+  "translation": "Не чините тако Јахвеу, Елохиму својем.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "чините"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тако"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Јахвеу"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Елохиму својем"
+    }
+  ],
+  "timestamp": "2026-09-05T10:49:15.512160150Z",
+  "model": "glm-5.3"
+}

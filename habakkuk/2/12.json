@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "habakkuk 2:12",
+  "book": "habakkuk",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Тешко ономе што гради град крвљу и утврђује насеље у неправди!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Тешко"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "што гради"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "град"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "крвљу"
+    },
+    {
+      "surface": "וכונן",
+      "gloss": "и утврђује"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "насеље"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "у неправди"
+    }
+  ],
+  "timestamp": "2026-09-05T13:08:55.366329744Z",
+  "model": "glm-5.3"
+}

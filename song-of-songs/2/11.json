@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 2:11",
+  "book": "song-of-songs",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Јер ено, зима је прошла, дажд је минуо, отишао је себи.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ено"
+    },
+    {
+      "surface": "הסתו",
+      "gloss": "зима"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "је прошла"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "дажд"
+    },
+    {
+      "surface": "חלף",
+      "gloss": "је минуо"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "отишао је"
+    },
+    {
+      "surface": "לו",
+      "gloss": "себи"
+    }
+  ],
+  "timestamp": "2026-09-05T14:06:11.315942407Z",
+  "model": "glm-5.3"
+}

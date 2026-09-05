@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 46:23",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 46,
+  "translation": "А синови Данови: Хушим.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "А синови"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Данови"
+    },
+    {
+      "surface": "חשים",
+      "gloss": "Хушим"
+    }
+  ],
+  "timestamp": "2026-09-05T09:56:41.889328520Z",
+  "model": "glm-5.3"
+}

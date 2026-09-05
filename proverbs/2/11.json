@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 2:11",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Оштроумност ће те чувати, разборитост ће те бранити,",
+  "tokens": [
+    {
+      "surface": "מזמה",
+      "gloss": "Оштроумност"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "ће те чувати"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "над тобом"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "разборитост"
+    },
+    {
+      "surface": "תנצרכה",
+      "gloss": "ће те бранити"
+    }
+  ],
+  "timestamp": "2026-09-05T13:45:40.746607282Z",
+  "model": "glm-5.3"
+}

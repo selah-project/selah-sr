@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 28:10",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "И видеће сви народи земље да се Име Јахвеово назива над тобом, и бојаће се тебе.",
+  "tokens": [
+    {
+      "surface": "וראו",
+      "gloss": "И видеће"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сви"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "народи"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земље"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Име"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеово"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "назива се"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "над тобом"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "и бојаће се"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "тебе"
+    }
+  ],
+  "timestamp": "2026-09-05T10:54:09.365508804Z",
+  "model": "glm-5.3"
+}

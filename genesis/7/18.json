@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 7:18",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "И преовладаше воде, и размножише се веома на земљи, и иђаше ковчег по лицу вода.",
+  "tokens": [
+    {
+      "surface": "ויגברו",
+      "gloss": "И преовладаше"
+    },
+    {
+      "surface": "המים",
+      "gloss": "воде"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "и размножише се"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "веома"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земљи"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "и иђаше"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ковчег"
+    },
+    {
+      "surface": "על",
+      "gloss": "по"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицу"
+    },
+    {
+      "surface": "המים",
+      "gloss": "вода"
+    }
+  ],
+  "timestamp": "2026-09-05T09:41:03.952728948Z",
+  "model": "glm-5.3"
+}

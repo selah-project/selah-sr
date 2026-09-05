@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 7:24",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "И превладаше воде над земљом сто и педесет дана.",
+  "tokens": [
+    {
+      "surface": "ויגברו",
+      "gloss": "и превладаше"
+    },
+    {
+      "surface": "המים",
+      "gloss": "воде"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земљом"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "педесет"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "и сто"
+    },
+    {
+      "surface": "יום",
+      "gloss": "дана"
+    }
+  ],
+  "timestamp": "2026-09-05T09:40:44.311206840Z",
+  "model": "glm-5.3"
+}

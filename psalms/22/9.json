@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 22:9",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "„Превали ⟨га⟩ на Јахвеа — извуче га ⟨он⟩, избави га, јер жељан му је!“",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "Превали"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "יפלטהו",
+      "gloss": "извуче га"
+    },
+    {
+      "surface": "יצילהו",
+      "gloss": "избави га"
+    },
+    {
+      "surface": "кי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "жељан"
+    },
+    {
+      "surface": "בו",
+      "gloss": "му"
+    }
+  ],
+  "timestamp": "2026-09-05T13:19:37.256612357Z",
+  "model": "glm-5.3"
+}

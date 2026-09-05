@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 16:8",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 16,
+  "translation": "И рече Моше (Мојсије) Кораху: чујте, молим вас, синови Левијеви —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше (Мојсије)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Кораху"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "⟨према⟩"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "чујте"
+    },
+    {
+      "surface": "נא",
+      "gloss": "молим вас"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Левијеви"
+    }
+  ],
+  "timestamp": "2026-09-05T15:10:01.187043396Z",
+  "model": "glm-5.3"
+}

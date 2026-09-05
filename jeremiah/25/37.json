@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "jeremiah 25:37",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 25,
+  "translation": "И умукоше пасишта мира ⟨испред⟩ жара гнева Јахвеа.",
+  "tokens": [
+    {
+      "surface": "ונדמו",
+      "gloss": "и умукоше"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "пасишта"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "мира"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "⟨испред⟩"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "жара"
+    },
+    {
+      "surface": "אף",
+      "gloss": "гнева"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    }
+  ],
+  "timestamp": "2026-09-05T15:40:43.397687653Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 3:2",
+  "book": "joshua",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "И би после три дана, и пређоше старешине кроз средину логора.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И би"
+    },
+    {
+      "surface": "мקצה",
+      "gloss": "после"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "три"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дана"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "и пређоше"
+    },
+    {
+      "surface": "השטרים",
+      "gloss": "старешине"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "кроз средину"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "логора"
+    }
+  ],
+  "timestamp": "2026-09-05T10:58:01.662313755Z",
+  "model": "glm-5.3"
+}

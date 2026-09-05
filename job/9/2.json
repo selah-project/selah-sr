@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 9:2",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "Заиста, знам да је тако; а како ће се човек оправдати пред Елом?",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Заиста"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "знам"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тако"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "а како"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "ће се оправдати"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "עם",
+      "gloss": "пред ⟨Елом⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    }
+  ],
+  "timestamp": "2026-09-05T13:56:52.240361608Z",
+  "model": "glm-5.3"
+}

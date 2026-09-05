@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 4:9",
+  "book": "jonah",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "И рече Елохим Јони: хејтев ли жариш се ти због биљке? А он рече: жарим се ја до смрти.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Јони"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "⟨Јони⟩"
+    },
+    {
+      "surface": "ההיטב",
+      "gloss": "хејтев ли"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "жариш се"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "על",
+      "gloss": "због"
+    },
+    {
+      "surface": "הקיקיון",
+      "gloss": "биљке"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "А он рече"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "жарим се"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "⟨жарим⟩"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ја"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "מות",
+      "gloss": "смрти"
+    }
+  ],
+  "timestamp": "2026-09-05T16:42:05.268217897Z",
+  "model": "glm-5.3"
+}

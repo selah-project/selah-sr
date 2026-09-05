@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 10:12",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "Мржња буди раздоре, а љубав покрива сва преступљења.",
+  "tokens": [
+    {
+      "surface": "שנאה",
+      "gloss": "мржња"
+    },
+    {
+      "surface": "תעורר",
+      "gloss": "буди"
+    },
+    {
+      "surface": "מדנים",
+      "gloss": "раздоре"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "а над"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сва"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "преступе"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "покрива"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "љубав"
+    }
+  ],
+  "timestamp": "2026-09-05T13:47:53.546226888Z",
+  "model": "glm-5.3"
+}

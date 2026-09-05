@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 25:6",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 25,
+  "translation": "Не величај се пред краљем, и на месту великих не стој.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תתהדר",
+      "gloss": "величај се"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "краљем"
+    },
+    {
+      "surface": "ובמקום",
+      "gloss": "и на месту"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "великих"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "стој"
+    }
+  ],
+  "timestamp": "2026-09-05T13:52:35.940535402Z",
+  "model": "glm-5.3"
+}

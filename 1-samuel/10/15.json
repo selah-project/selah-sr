@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 10:15",
+  "book": "1-samuel",
+  "lang": "sr",
+  "chapter": 10,
+  "translation": "И рече ујак Шаулов: „Кажи ми, молим те, шта вам је рекао Шмуел (Самуило).”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ујак"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаулов"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "Кажи"
+    },
+    {
+      "surface": "נא",
+      "gloss": "молим те"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "מה",
+      "gloss": "шта"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "је рекао"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шмуел (Самуило)"
+    }
+  ],
+  "timestamp": "2026-09-05T15:20:59.979924138Z",
+  "model": "glm-5.3"
+}

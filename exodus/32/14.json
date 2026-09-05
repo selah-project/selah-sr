@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 32:14",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 32,
+  "translation": "И кајаше се Јахве ⟨ због ⟩ зла које рече да учини народу својем.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "и кајаше се"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨ због ⟩"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "зла"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "које"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "да учини"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "народу својем"
+    }
+  ],
+  "timestamp": "2026-09-05T10:12:17.243351696Z",
+  "model": "glm-5.3"
+}

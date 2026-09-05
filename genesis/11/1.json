@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "И би сва земља усна једна, и речи једне.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И би"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сва"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земља"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "усна"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "једна"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "и речи"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "једне"
+    }
+  ],
+  "timestamp": "2026-09-05T09:42:32.008462740Z",
+  "model": "glm-5.3"
+}

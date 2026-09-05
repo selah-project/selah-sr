@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 15:12",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 15,
+  "translation": "И земљани суд који додирне зев разбиће се, а сваки дрвени суд испраће се у води.",
+  "tokens": [
+    {
+      "surface": "וכלי",
+      "gloss": "и суд"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "земљани"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "додирне"
+    },
+    {
+      "surface": "בו",
+      "gloss": "га"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "зев"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "разбиће се"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "а сваки"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "суд"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "дрвени"
+    },
+    {
+      "surface": "ישטף",
+      "gloss": "испраће се"
+    },
+    {
+      "surface": "במים",
+      "gloss": "у води"
+    }
+  ],
+  "timestamp": "2026-09-05T10:22:05.077208056Z",
+  "model": "glm-5.3"
+}

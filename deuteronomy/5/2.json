@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 5:2",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Јахве, Елохим наш, закључи ⟨са⟩ нама завет на Хореву.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Елохим наш"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "закључи"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "са нама"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "завет"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "на Хореву"
+    }
+  ],
+  "timestamp": "2026-09-05T10:44:50.884503305Z",
+  "model": "glm-5.3"
+}

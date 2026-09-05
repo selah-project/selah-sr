@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 4:5",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "Купи мудрост, купи разум; не заборави, и не отклањај се од речи мојих уста.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "Купи"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мудрост"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "купи"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "разум"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "заборави"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תט",
+      "gloss": "отклањај се"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "од речи"
+    },
+    {
+      "surface": "פי",
+      "gloss": "мојих уста"
+    }
+  ],
+  "timestamp": "2026-09-05T13:46:20.168611017Z",
+  "model": "glm-5.3"
+}

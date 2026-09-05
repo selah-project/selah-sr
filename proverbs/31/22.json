@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 31:22",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 31,
+  "translation": "Покриваче начини себи; од шеса и аргамана одело је њено.",
+  "tokens": [
+    {
+      "surface": "מרבדים",
+      "gloss": "покриваче"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "начини"
+    },
+    {
+      "surface": "לה",
+      "gloss": "себи"
+    },
+    {
+      "surface": "שש",
+      "gloss": "од шеса"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "и аргамана"
+    },
+    {
+      "surface": "לבושה",
+      "gloss": "одело је њено"
+    }
+  ],
+  "timestamp": "2026-09-05T13:53:57.443133753Z",
+  "model": "glm-5.3"
+}

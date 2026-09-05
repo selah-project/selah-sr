@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 5:11",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Јер су ме веома издајнички превариле дом Израиљев и дом Јудин, рече Јахве.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "בגוד",
+      "gloss": "веома издајнички"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "превариле"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ме"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљев"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "и дом"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јудин"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-09-05T17:04:23.664938181Z",
+  "model": "glm-5.3"
+}

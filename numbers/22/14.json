@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 22:14",
+  "book": "numbers",
+  "lang": "sr",
+  "chapter": 22,
+  "translation": "И усташе кнезови Моава и дођоше к Балаку, и рекоше: не хте Билам да ходи с нама.",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "И усташе"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "кнезови"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моава"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "и дођоше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Балаку"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "и рекоше"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "не хте"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Билам"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "да ходи"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "с нама"
+    }
+  ],
+  "timestamp": "2026-09-05T10:37:04.421737157Z",
+  "model": "glm-5.3"
+}

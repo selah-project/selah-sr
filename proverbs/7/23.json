@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 7:23",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Док стрела не прободи његову џигерицу, као што птица жури у замку, а не зна да ⟨је⟩ то за његову душу.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "док"
+    },
+    {
+      "surface": "יפלח",
+      "gloss": "не прободи"
+    },
+    {
+      "surface": "חץ",
+      "gloss": "стрела"
+    },
+    {
+      "surface": "כבדו",
+      "gloss": "његову џигерицу"
+    },
+    {
+      "surface": "כמהר",
+      "gloss": "жури"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "птица"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "פח",
+      "gloss": "замку"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "а не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "зна"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "за његову душу"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "то ⟨је⟩"
+    }
+  ],
+  "timestamp": "2026-09-05T16:00:23.020087536Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 92:16",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 92,
+  "translation": "Да објаве да је прав Јахве, стена моја, и ⟨нема⟩ неправде у њему.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "да објаве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "прав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "стена моја"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и ⟨нема⟩"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "неправде"
+    },
+    {
+      "surface": "בו",
+      "gloss": "у њему"
+    }
+  ],
+  "timestamp": "2026-09-05T13:35:18.435253219Z",
+  "model": "glm-5.3"
+}

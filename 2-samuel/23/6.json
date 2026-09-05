@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 23:6",
+  "book": "2-samuel",
+  "lang": "sr",
+  "chapter": 23,
+  "translation": "А ништавници су као трње одбачено — сви они, јер не руком се узимају.",
+  "tokens": [
+    {
+      "surface": "ובליעל",
+      "gloss": "а ништавници"
+    },
+    {
+      "surface": "כקוץ",
+      "gloss": "као трње"
+    },
+    {
+      "surface": "מנד",
+      "gloss": "одбачено"
+    },
+    {
+      "surface": "כלהם",
+      "gloss": "сви они"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "руком"
+    },
+    {
+      "surface": "יקחו",
+      "gloss": "се узимају"
+    }
+  ],
+  "timestamp": "2026-09-05T11:37:31.543911658Z",
+  "model": "glm-5.3"
+}

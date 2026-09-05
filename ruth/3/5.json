@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 3:5",
+  "book": "ruth",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "И рече она њој: све што кажеш учинићу.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "њој"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "תאמרי",
+      "gloss": "кажеш"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "учинићу"
+    }
+  ],
+  "timestamp": "2026-09-05T14:07:55.660531661Z",
+  "model": "glm-5.3"
+}

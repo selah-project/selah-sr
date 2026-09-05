@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 7:19",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "Мудрост даје снагу мудрачу, више од десет владара што бише у граду.",
+  "tokens": [
+    {
+      "surface": "החכמה",
+      "gloss": "Мудрост"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "даје снагу"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "мудрачу"
+    },
+    {
+      "surface": "מעשרה",
+      "gloss": "од десет"
+    },
+    {
+      "surface": "שליטים",
+      "gloss": "владара"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "היו",
+      "gloss": "бише"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "у граду"
+    }
+  ],
+  "timestamp": "2026-09-05T16:08:56.439850126Z",
+  "model": "glm-5.3"
+}

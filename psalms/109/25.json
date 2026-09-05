@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 109:25",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 109,
+  "translation": "А ја постадох срамота њима: виде ме — машу главом својом.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "А ја"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "постадох"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "срамота"
+    },
+    {
+      "surface": "להם",
+      "gloss": "њима"
+    },
+    {
+      "surface": "יראוני",
+      "gloss": "виде ме"
+    },
+    {
+      "surface": "יניעון",
+      "gloss": "машу"
+    },
+    {
+      "surface": "ראשם",
+      "gloss": "главом својом"
+    }
+  ],
+  "timestamp": "2026-09-05T13:38:39.562583974Z",
+  "model": "glm-5.3"
+}

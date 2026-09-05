@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 18:13",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 18,
+  "translation": "Савршен буди са Јахвеом, Елохимом твојим.",
+  "tokens": [
+    {
+      "surface": "תמים",
+      "gloss": "Савршен"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "буди"
+    },
+    {
+      "surface": "עם",
+      "gloss": "са"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеом"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Елохимом твојим"
+    }
+  ],
+  "timestamp": "2026-09-05T10:51:04.029960572Z",
+  "model": "glm-5.3"
+}

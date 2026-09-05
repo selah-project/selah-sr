@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 27:1",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 27,
+  "translation": "И рече Јахве Мошеу (Мојсију), говорећи:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "к"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Мошеу"
+    },
+    {
+      "surface": "לאмר",
+      "gloss": "говорећи"
+    }
+  ],
+  "timestamp": "2026-09-05T15:08:00.804508335Z",
+  "model": "glm-5.3"
+}

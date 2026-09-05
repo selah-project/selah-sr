@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-kings 4:23",
+  "book": "2-kings",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "И рече: „Зашто ⟨ти⟩ идеш к њему данас? Нити је младина, ни шабат.“ А она рече: „Мир.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨ти⟩"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "идеш"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "к њему"
+    },
+    {
+      "surface": "היום",
+      "gloss": "данас"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нити"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "младина"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ни"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "шабат"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Мир"
+    }
+  ],
+  "timestamp": "2026-09-05T11:51:25.807523051Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 26:1",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 26,
+  "translation": "За одреде чувара капија: од Корахића Мешелемјаху син Кореов, од синова Асафа.",
+  "tokens": [
+    {
+      "surface": "למחלקות",
+      "gloss": "за одреде"
+    },
+    {
+      "surface": "לשערים",
+      "gloss": "чувара капија"
+    },
+    {
+      "surface": "לקרחים",
+      "gloss": "од Корахића"
+    },
+    {
+      "surface": "משלמיהו",
+      "gloss": "Мешелемјаху"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Коре"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синова"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Асаф"
+    }
+  ],
+  "timestamp": "2026-09-05T14:42:47.784750231Z",
+  "model": "glm-5.3"
+}

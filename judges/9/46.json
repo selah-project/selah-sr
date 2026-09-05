@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "judges 9:46",
+  "book": "judges",
+  "lang": "sr",
+  "chapter": 9,
+  "translation": "И чуше сви господари куле Шекем (Сихем), и уђоше у тврђаву дома Ел-Берита.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "И чуше"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сви"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "господари"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "куле"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Шекем"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "и уђоше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "у"
+    },
+    {
+      "surface": "צריח",
+      "gloss": "тврђаву"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "Берит"
+    }
+  ],
+  "timestamp": "2026-09-05T11:10:16.390864727Z",
+  "model": "glm-5.3"
+}

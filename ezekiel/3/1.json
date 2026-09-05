@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 3:1",
+  "book": "ezekiel",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "И рече ми: сине човечји, ⟨את⟩ што нађеш — једи; једи ⟨את⟩ свитак овај, и иди, говори дому Израиљевом.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сине"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човечји"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "што нађеш"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "нађеш"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "једи"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "једи"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "свитак овај"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "свитак"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "овај"
+    },
+    {
+      "surface": "ו לך",
+      "gloss": "и иди"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говори"
+    },
+    {
+      "surface": "אל",
+      "gloss": "према"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дому"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиљевом"
+    }
+  ],
+  "timestamp": "2026-09-05T12:43:35.624492813Z",
+  "model": "glm-5.3"
+}

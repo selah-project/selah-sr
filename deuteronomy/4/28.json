@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 4:28",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "И служићете тамо боговима, делу руку човечјих, дрвету и камену, који не виде, ни не чују, ни не једу, ни не миришу.",
+  "tokens": [
+    {
+      "surface": "ועבדתם",
+      "gloss": "и служићете"
+    },
+    {
+      "surface": "שם",
+      "gloss": "тамо"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "боговима"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "делу"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "рука"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човечјих"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "дрвету"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "и камену"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "који"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יראון",
+      "gloss": "виде"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ни не"
+    },
+    {
+      "surface": "ישמעון",
+      "gloss": "чују"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ни не"
+    },
+    {
+      "surface": "יאכלון",
+      "gloss": "једу"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ни не"
+    },
+    {
+      "surface": "יריחן",
+      "gloss": "миришу"
+    }
+  ],
+  "timestamp": "2026-09-05T10:45:36.189331317Z",
+  "model": "glm-5.3"
+}

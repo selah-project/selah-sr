@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 2:15",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "и на сваку високу кулу и на сваки утврђени зид,",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сваку"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "кулу"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "високу"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сваки"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "зид"
+    },
+    {
+      "surface": "בצורה",
+      "gloss": "утврђени"
+    }
+  ],
+  "timestamp": "2026-09-05T12:00:17.516925326Z",
+  "model": "glm-5.3"
+}

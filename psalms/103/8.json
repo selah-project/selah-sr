@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 103:8",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 103,
+  "translation": "Милосрдан и милостив Јахве, спороу ​на гњев и богат хеседом.",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "милосрдан"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "и милостив"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "спороу"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "на гњев"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "и богат"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "хеседом"
+    }
+  ],
+  "timestamp": "2026-09-05T13:36:09.320050957Z",
+  "model": "glm-5.3"
+}

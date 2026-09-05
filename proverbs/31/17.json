@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 31:17",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 31,
+  "translation": "Препаса снагом бедра своја, и ојачи мишице своје.",
+  "tokens": [
+    {
+      "surface": "חגרה",
+      "gloss": "препаса"
+    },
+    {
+      "surface": "בעוז",
+      "gloss": "снагом"
+    },
+    {
+      "surface": "מתניה",
+      "gloss": "бедра своја"
+    },
+    {
+      "surface": "ותאמץ",
+      "gloss": "и ојачи"
+    },
+    {
+      "surface": "זרעותיה",
+      "gloss": "мишице своје"
+    }
+  ],
+  "timestamp": "2026-09-05T13:54:30.284444923Z",
+  "model": "glm-5.3"
+}

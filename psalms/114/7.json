@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 114:7",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 114,
+  "translation": "Од лица Адона дрхти, земљо, од лица Елоах Јаакова!",
+  "tokens": [
+    {
+      "surface": "מלפני",
+      "gloss": "Од лица"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "Адона"
+    },
+    {
+      "surface": "חולי",
+      "gloss": "дрхти"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земљо"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "Од лица"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Елоах"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Јаакова"
+    }
+  ],
+  "timestamp": "2026-09-05T13:38:44.569298301Z",
+  "model": "glm-5.3"
+}

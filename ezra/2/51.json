@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "ezra 2:51",
+  "book": "ezra",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Синови Бакбука, синови Хакупе, синови Хархура.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "בקבוק",
+      "gloss": "Бакбука"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "חקופא",
+      "gloss": "Хакупе"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синови"
+    },
+    {
+      "surface": "חרחור",
+      "gloss": "Хархура"
+    }
+  ],
+  "timestamp": "2026-09-05T14:25:07.971042175Z",
+  "model": "glm-5.3"
+}

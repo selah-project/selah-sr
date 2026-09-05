@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 13:26",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "А ако је види коен, и гле — нема у мрљи косе беле, и није нижа од коже, него је тамна — тада ће га затворити коен седам дана.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "а ако"
+    },
+    {
+      "surface": "יראנה",
+      "gloss": "види"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коен"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и гле"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нема"
+    },
+    {
+      "surface": "בבהרת",
+      "gloss": "у мрљи"
+    },
+    {
+      "surface": "שער",
+      "gloss": "косе"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "беле"
+    },
+    {
+      "surface": "ושפלה",
+      "gloss": "нижа"
+    },
+    {
+      "surface": "איננה",
+      "gloss": "није"
+    },
+    {
+      "surface": "מן",
+      "gloss": "од"
+    },
+    {
+      "surface": "העור",
+      "gloss": "коже"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "него"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "тамна"
+    },
+    {
+      "surface": "והסגירו",
+      "gloss": "затвориће"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "коен"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "седам"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дана"
+    }
+  ],
+  "timestamp": "2026-09-05T10:21:13.753752090Z",
+  "model": "glm-5.3"
+}

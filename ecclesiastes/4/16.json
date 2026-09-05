@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 4:16",
+  "book": "ecclesiastes",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "Нема краја свему народу, свима што беше пред њима; а и последњи неће се радовати њиме — јер и ово ⟨је⟩ дах и гоњење ветра.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Нема"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "краја"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "свему"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народу"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "свима"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "што"
+    },
+    {
+      "surface": "היה",
+      "gloss": "беше"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "пред њима"
+    },
+    {
+      "surface": "גם",
+      "gloss": "а и"
+    },
+    {
+      "surface": "האחרונים",
+      "gloss": "последњи"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישמחו",
+      "gloss": "ће се радовати"
+    },
+    {
+      "surface": "בו",
+      "gloss": "њиме"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ово"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "дах"
+    },
+    {
+      "surface": "ורעיון",
+      "gloss": "и гоњење"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ветра"
+    }
+  ],
+  "timestamp": "2026-09-05T14:11:36.122817918Z",
+  "model": "glm-5.3"
+}

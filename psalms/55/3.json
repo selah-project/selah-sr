@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 55:3",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 55,
+  "translation": "Приони на ме и одговори ме; лутам у јаду свом и стењем.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "Приони"
+    },
+    {
+      "surface": "לי",
+      "gloss": "на ме"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "и одговори ме"
+    },
+    {
+      "surface": "אריד",
+      "gloss": "лутам"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "у јаду свом"
+    },
+    {
+      "surface": "ואהימה",
+      "gloss": "и стењем"
+    }
+  ],
+  "timestamp": "2026-09-05T13:28:07.653689223Z",
+  "model": "glm-5.3"
+}

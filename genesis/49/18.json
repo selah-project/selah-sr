@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 49:18",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 49,
+  "translation": "За спасење Твоје чеках, Јахве.",
+  "tokens": [
+    {
+      "surface": "לישועתך",
+      "gloss": "За спасење Твоје"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "чеках"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    }
+  ],
+  "timestamp": "2026-09-05T09:58:44.591813260Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 49:21",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 49,
+  "translation": "Нафтали ⟨је⟩ срна пуштена, ⟨она⟩ што даје речи лепоте.",
+  "tokens": [
+    {
+      "surface": "נפתלי",
+      "gloss": "Нафтали"
+    },
+    {
+      "surface": "אילה",
+      "gloss": "срна"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "пуштена"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "што даје"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "речи"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "лепоте"
+    }
+  ],
+  "timestamp": "2026-09-05T09:58:41.127990300Z",
+  "model": "glm-5.3"
+}

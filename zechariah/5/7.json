@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 5:7",
+  "book": "zechariah",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "И гле, талант олова подигнут — а ово је једна жена што седи усред ефе.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "И гле"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "талант"
+    },
+    {
+      "surface": "עפרת",
+      "gloss": "олова"
+    },
+    {
+      "surface": "נשאת",
+      "gloss": "подигнут"
+    },
+    {
+      "surface": "וזאת",
+      "gloss": "а ово"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "жена"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "једна"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "што седи"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "усред"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "ефе"
+    }
+  ],
+  "timestamp": "2026-09-05T13:13:11.305791769Z",
+  "model": "glm-5.3"
+}

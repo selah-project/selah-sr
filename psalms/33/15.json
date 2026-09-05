@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 33:15",
+  "book": "psalms",
+  "lang": "sr",
+  "chapter": 33,
+  "translation": "Обликује једнако срца њихова; разумева сва дела њихова.",
+  "tokens": [
+    {
+      "surface": "היצר",
+      "gloss": "Обликује"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "једнако"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "срца њихова"
+    },
+    {
+      "surface": "המבין",
+      "gloss": "разумева"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "כל",
+      "gloss": "сва"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "дела њихова"
+    }
+  ],
+  "timestamp": "2026-09-05T13:22:21.790109051Z",
+  "model": "glm-5.3"
+}

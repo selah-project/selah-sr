@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 21:9",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "А ако заручи њу своме сину — према праву кћери поступиће с њом.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "а ако"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "своме сину"
+    },
+    {
+      "surface": "ייעדנה",
+      "gloss": "заручи њу"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "према праву"
+    },
+    {
+      "surface": "הבנות",
+      "gloss": "кћери"
+    },
+    {
+      "surface": "יעשׂה",
+      "gloss": "поступиће"
+    },
+    {
+      "surface": "לה",
+      "gloss": "с њом"
+    }
+  ],
+  "timestamp": "2026-09-05T10:07:17.500934126Z",
+  "model": "glm-5.3"
+}

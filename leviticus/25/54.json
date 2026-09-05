@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "leviticus 25:54",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 25,
+  "translation": "А ако се не откупи овим ⟨средствима⟩, изаћи ће у години јовела он и синови његови с њим.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "а ако"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "откупи се"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "овим"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "изаћи ће"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "у години"
+    },
+    {
+      "surface": "היבל",
+      "gloss": "јовела"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "и синови његови"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "с њим"
+    }
+  ],
+  "timestamp": "2026-09-05T10:26:04.241486961Z",
+  "model": "glm-5.3"
+}

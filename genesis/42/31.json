@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 42:31",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 42,
+  "translation": "и рекосмо му: поштени смо, нисмо извидници.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "и рекосмо"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "њему"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "поштени"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ми (смо)"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "бисмо"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "извидници"
+    }
+  ],
+  "timestamp": "2026-09-05T09:56:35.194799745Z",
+  "model": "glm-5.3"
+}

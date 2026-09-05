@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 1:5",
+  "book": "hosea",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "И биће у дан онај: сломићу ⟨את⟩ лук Израиља у долини Јизреел.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "и биће"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "у дан"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "онај"
+    },
+    {
+      "surface": "ושברתי",
+      "gloss": "сломићу"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "лук"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "лук"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиља"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "у долини"
+    },
+    {
+      "surface": "יזרעאל",
+      "gloss": "Јизреел"
+    }
+  ],
+  "timestamp": "2026-09-05T13:01:01.506334122Z",
+  "model": "glm-5.3"
+}

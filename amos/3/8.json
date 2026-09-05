@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "amos 3:8",
+  "book": "amos",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Лав је зарикао — ко да се не побоји? Адонај Јахве говорио је — ко да не прорекује?",
+  "tokens": [
+    {
+      "surface": "אריה",
+      "gloss": "Лав"
+    },
+    {
+      "surface": "שאג",
+      "gloss": "зарикао"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ко"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "побоји"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говорио"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ко"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ינבא",
+      "gloss": "прорекује"
+    }
+  ],
+  "timestamp": "2026-09-05T15:49:41.793157224Z",
+  "model": "glm-5.3"
+}

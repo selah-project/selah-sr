@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 17:17",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 17,
+  "translation": "И да не умножи себи жена, и да не скре срце његово, и сребро и злато да не умножи себи ⟨превише⟩.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "и да не"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "умножи"
+    },
+    {
+      "surface": "לו",
+      "gloss": "себи"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "жена"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и да не"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "скре"
+    },
+    {
+      "surface": "לבבו",
+      "gloss": "срце његово"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "и сребро"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "и злато"
+    },
+    {
+      "surface": "לא",
+      "gloss": "да не"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "умножи"
+    },
+    {
+      "surface": "לו",
+      "gloss": "себи"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "превише"
+    }
+  ],
+  "timestamp": "2026-09-05T10:51:10.304275463Z",
+  "model": "glm-5.3"
+}

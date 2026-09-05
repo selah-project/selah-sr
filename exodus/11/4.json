@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 11:4",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "И рече Моше: овако рече Јахве: о поноћи изаћи ћу усред Мицрајима.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "כה",
+      "gloss": "овако"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "כחצת",
+      "gloss": "о поноћи"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ноћи"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ја"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "изађох"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "усред"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицрајима"
+    }
+  ],
+  "timestamp": "2026-09-05T10:02:19.338688224Z",
+  "model": "glm-5.3"
+}

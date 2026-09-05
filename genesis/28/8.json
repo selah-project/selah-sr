@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 28:8",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "И виде Есав да су кћери Кенаана зле у очима Ицхака, оца његовог.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "и виде"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Есав"
+    },
+    {
+      "surface": "כי",
+      "gloss": "да"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "зле"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "кћери"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Кенаана"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "у очима"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Ицхака"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "оца његовог"
+    }
+  ],
+  "timestamp": "2026-09-05T09:48:32.710062634Z",
+  "model": "glm-5.3"
+}

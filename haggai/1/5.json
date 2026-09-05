@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "haggai 1:5",
+  "book": "haggai",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "И сада овако рече Јахве Цеваот: поставите срца своја на путеве своје.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "И сада"
+    },
+    {
+      "surface": "כה",
+      "gloss": "овако"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "поставите"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "срца своја"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "путеве своје"
+    }
+  ],
+  "timestamp": "2026-09-05T15:51:52.837518339Z",
+  "model": "glm-5.3"
+}

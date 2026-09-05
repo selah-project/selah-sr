@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 1:8",
+  "book": "hosea",
+  "lang": "sr",
+  "chapter": 1,
+  "translation": "И оддоји ⟨את⟩ Ло-Рухаму, и заче, и роди сина.",
+  "tokens": [
+    {
+      "surface": "ותגמל",
+      "gloss": "и оддоји"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ло-Рухаму"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "милована (=Ло-Рухама)"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "и заче"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "и роди"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    }
+  ],
+  "timestamp": "2026-09-05T13:01:01.506917904Z",
+  "model": "glm-5.3"
+}

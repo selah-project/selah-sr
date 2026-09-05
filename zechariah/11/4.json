@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 11:4",
+  "book": "zechariah",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "Овако рече Јахве, Елохим мој: Паси ⟨את⟩ стоку ⟨ону⟩ заклану.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "овако"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим мој"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "паси"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "стоку"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "стоку"
+    },
+    {
+      "surface": "ההרגה",
+      "gloss": "заклану"
+    }
+  ],
+  "timestamp": "2026-09-05T13:14:31.557015610Z",
+  "model": "glm-5.3"
+}

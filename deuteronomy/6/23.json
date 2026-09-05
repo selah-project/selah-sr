@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 6:23",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "А нас изведе оданде, да нас уведе, да би нам дао ⟨את⟩ земљу коју се заклео оцима нашим.",
+  "tokens": [
+    {
+      "surface": "ואותנו",
+      "gloss": "⟨את⟩ нас",
+      "marks": "нас"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "изведе"
+    },
+    {
+      "surface": "משם",
+      "gloss": "оданде"
+    },
+    {
+      "surface": "למען",
+      "gloss": "да би"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "уведе"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ нас",
+      "marks": "нас"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "дао"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "нам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "земљу"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земљу"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "коју"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "се заклео"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "оцима нашим"
+    }
+  ],
+  "timestamp": "2026-09-05T10:44:50.784086380Z",
+  "model": "glm-5.3"
+}

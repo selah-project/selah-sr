@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 4:9",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "Даће глави твојој венац благости, венце лепоте усређиће те.",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "Даће"
+    },
+    {
+      "surface": "לראשך",
+      "gloss": "глави твојој"
+    },
+    {
+      "surface": "לוית",
+      "gloss": "венац"
+    },
+    {
+      "surface": "חן",
+      "gloss": "благости"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "венце"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "лепоте"
+    },
+    {
+      "surface": "תמגנך",
+      "gloss": "усређиће те"
+    }
+  ],
+  "timestamp": "2026-09-05T13:46:00.142881465Z",
+  "model": "glm-5.3"
+}

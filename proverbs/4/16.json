@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 4:16",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "Јер не спавају ако не учине зло, и одузет им је сан ако некога не оборе.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישנו",
+      "gloss": "спавају"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ירעו",
+      "gloss": "учине зло"
+    },
+    {
+      "surface": "ונגזלה",
+      "gloss": "и одузет им је"
+    },
+    {
+      "surface": "שנתם",
+      "gloss": "сан"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יכשולו",
+      "gloss": "оборe некога"
+    }
+  ],
+  "timestamp": "2026-09-05T13:46:15.452129852Z",
+  "model": "glm-5.3"
+}

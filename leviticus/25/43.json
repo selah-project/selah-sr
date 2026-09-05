@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 25:43",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 25,
+  "translation": "Не владај над њим с тврдошћу, и бој се Елохима својега.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תרדה",
+      "gloss": "владај"
+    },
+    {
+      "surface": "בו",
+      "gloss": "над њим"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "с тврдошћу"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "и бој се"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "Елохима својега"
+    }
+  ],
+  "timestamp": "2026-09-05T10:25:43.041345572Z",
+  "model": "glm-5.3"
+}

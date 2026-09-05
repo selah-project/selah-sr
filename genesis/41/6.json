@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 41:6",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 41,
+  "translation": "И ево: седам класева таних и опржених источњаком ничу за њима.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "И ево"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "седам"
+    },
+    {
+      "surface": "שבלים",
+      "gloss": "класева"
+    },
+    {
+      "surface": "דקות",
+      "gloss": "таних"
+    },
+    {
+      "surface": "ושדופת",
+      "gloss": "и опржених"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "источњаком"
+    },
+    {
+      "surface": "צמחות",
+      "gloss": "ничу"
+    },
+    {
+      "surface": "אחריהן",
+      "gloss": "за њима"
+    }
+  ],
+  "timestamp": "2026-09-05T09:54:42.626218962Z",
+  "model": "glm-5.3"
+}

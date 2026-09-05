@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "zechariah 2:17",
+  "book": "zechariah",
+  "lang": "sr",
+  "chapter": 2,
+  "translation": "Утихни, свако тело, пред лицем Јахве, јер се пробуди ⟨из⟩ станова свете своје!",
+  "tokens": [
+    {
+      "surface": "הס",
+      "gloss": "Утихни"
+    },
+    {
+      "surface": "כל",
+      "gloss": "сво"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "тело"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "пред лицем"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "נעור",
+      "gloss": "пробуди се"
+    },
+    {
+      "surface": "ממעון",
+      "gloss": "из стана"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "светиње своје"
+    }
+  ],
+  "timestamp": "2026-09-05T17:09:01.166520326Z",
+  "model": "glm-5.3"
+}

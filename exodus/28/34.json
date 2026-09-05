@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 28:34",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "Звоно златно и нар, звоно златно и нар, на ободу огртача унаоколо.",
+  "tokens": [
+    {
+      "surface": "פעמן",
+      "gloss": "Звоно"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "златно"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "и нар"
+    },
+    {
+      "surface": "פעמן",
+      "gloss": "звоно"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "златно"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "и нар"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "שולי",
+      "gloss": "ободу"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "огртача"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "унаоколо"
+    }
+  ],
+  "timestamp": "2026-09-05T10:10:10.865865441Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 5:39",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "И Шалум роди ⟨את⟩ Хилкију, и Хилкија роди ⟨את⟩ Азарију.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "И Шалум"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Хилкију"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Хилкију"
+    },
+    {
+      "surface": "וחלקיה",
+      "gloss": "и Хилкија"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Азарију"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Азарију"
+    }
+  ],
+  "timestamp": "2026-09-05T14:34:48.121636041Z",
+  "model": "glm-5.3"
+}

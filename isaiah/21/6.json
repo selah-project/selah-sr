@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 21:6",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "Јер овако рече мени Адонај: иди, постави осматрача, шта види нека јави.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Јер"
+    },
+    {
+      "surface": "כה",
+      "gloss": "овако"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мени"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонај"
+    },
+    {
+      "surface": "לך",
+      "gloss": "иди"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "постави"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "осматрача"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "шта"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "види"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "нека јави"
+    }
+  ],
+  "timestamp": "2026-09-05T12:06:15.647613271Z",
+  "model": "glm-5.3"
+}

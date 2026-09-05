@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 4:10",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 4,
+  "translation": "Руке жена милосрдних скуваше децу своју — беху ⟨им⟩ за храну у слому кћери народа мога.",
+  "tokens": [
+    {
+      "surface": "ידי",
+      "gloss": "руке"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "жена"
+    },
+    {
+      "surface": "רחמניות",
+      "gloss": "милосрдних"
+    },
+    {
+      "surface": "בשלו",
+      "gloss": "скуваше"
+    },
+    {
+      "surface": "ילדיהן",
+      "gloss": "децу своју"
+    },
+    {
+      "surface": "היו",
+      "gloss": "беху"
+    },
+    {
+      "surface": "לברות",
+      "gloss": "за храну"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨им⟩"
+    },
+    {
+      "surface": "בשבר",
+      "gloss": "у слому"
+    },
+    {
+      "surface": "בת",
+      "gloss": "кћери"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "народа мога"
+    }
+  ],
+  "timestamp": "2026-09-05T14:09:39.802164479Z",
+  "model": "glm-5.3"
+}

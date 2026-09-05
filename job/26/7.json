@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 26:7",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 26,
+  "translation": "шири север над празнином, обесио ⟨је⟩ земљу над ничим.",
+  "tokens": [
+    {
+      "surface": "נטה",
+      "gloss": "шери"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "север"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "празнином"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "обесио"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земљу"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "без"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ни због чега"
+    }
+  ],
+  "timestamp": "2026-09-05T14:01:34.284310901Z",
+  "model": "glm-5.3"
+}

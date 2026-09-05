@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 7:31",
+  "book": "1-chronicles",
+  "lang": "sr",
+  "chapter": 7,
+  "translation": "И синови Берије: Хевер и Малкиел — он ⟨је⟩ отац Бирзота.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "И синови"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "Берије"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "Хевер"
+    },
+    {
+      "surface": "ומלכיאל",
+      "gloss": "и Малкиел"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "он"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "отац"
+    },
+    {
+      "surface": "ברזות",
+      "gloss": "Бирзота"
+    }
+  ],
+  "timestamp": "2026-09-05T16:15:38.461744462Z",
+  "model": "glm-5.3"
+}

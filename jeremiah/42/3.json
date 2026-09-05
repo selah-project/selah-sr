@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 42:3",
+  "book": "jeremiah",
+  "lang": "sr",
+  "chapter": 42,
+  "translation": "и нека нам објави Јахве, Елохим твој, ⟨את⟩ пут којим да ходимо њиме, и ⟨את⟩ реч коју да учинимо.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "и нека објави"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "нам"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Елохим твој"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "пут"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "пут"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "којим"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "ходимо"
+    },
+    {
+      "surface": "בה",
+      "gloss": "њиме"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "реч"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "реч"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "коју"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "учинимо"
+    }
+  ],
+  "timestamp": "2026-09-05T12:36:32.019431297Z",
+  "model": "glm-5.3"
+}

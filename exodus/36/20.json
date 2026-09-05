@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 36:20",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 36,
+  "translation": "И начини ⟨את⟩ даске за Шатих од дрвета шита, стојећи.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "и начини"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "даске"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "даске"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "за Шатих"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "од дрвета"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "шита"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "стојећи"
+    }
+  ],
+  "timestamp": "2026-09-05T10:14:27.472814736Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 3:16",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "И самлео је шаке каменчићима зубе моје, погазио ме у пепелу.",
+  "tokens": [
+    {
+      "surface": "ויגרס",
+      "gloss": "И самлео је"
+    },
+    {
+      "surface": "בחצץ",
+      "gloss": "шаке каменчићима"
+    },
+    {
+      "surface": "שני",
+      "gloss": "зубе моје"
+    },
+    {
+      "surface": "הכפישני",
+      "gloss": "погазио ме"
+    },
+    {
+      "surface": "באפר",
+      "gloss": "у пепелу"
+    }
+  ],
+  "timestamp": "2026-09-05T14:09:16.512773605Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 25:32",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 25,
+  "translation": "И рече Исав: Ено, идем на смрт, па чему мени ⟨долази⟩ право првородства?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Исав"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ено"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ја"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "идем"
+    },
+    {
+      "surface": "למות",
+      "gloss": "на смрт"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "па чему"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ово"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мени"
+    },
+    {
+      "surface": "בכרה",
+      "gloss": "право првородства"
+    }
+  ],
+  "timestamp": "2026-09-05T09:46:42.515475705Z",
+  "model": "glm-5.3"
+}

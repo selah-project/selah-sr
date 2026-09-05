@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 6:3",
+  "book": "amos",
+  "lang": "sr",
+  "chapter": 6,
+  "translation": "Који одгурнуће дан зла, а приближите престо насиља —",
+  "tokens": [
+    {
+      "surface": "המנדים",
+      "gloss": "који одгурнују"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "дан"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зла"
+    },
+    {
+      "surface": "ותגישון",
+      "gloss": "а приближите"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "престол"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "насиља"
+    }
+  ],
+  "timestamp": "2026-09-05T15:49:10.468088261Z",
+  "model": "glm-5.3"
+}

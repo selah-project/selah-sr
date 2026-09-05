@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "sr",
+  "chapter": 21,
+  "translation": "опекотину за опекотину, рану за рану, модрицу за модрицу.",
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "опекотину"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "за"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "опекотину"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "рану"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "за"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "рану"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "модрицу"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "за"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "модрицу"
+    }
+  ],
+  "timestamp": "2026-09-05T10:07:35.279330517Z",
+  "model": "glm-5.3"
+}

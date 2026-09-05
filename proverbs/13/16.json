@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 13:16",
+  "book": "proverbs",
+  "lang": "sr",
+  "chapter": 13,
+  "translation": "Сваки опрезан ради са знањем, а глупак разлеже глупост.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "сваки"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "опрезан"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ради"
+    },
+    {
+      "surface": "בדעת",
+      "gloss": "са знањем"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "а глупак"
+    },
+    {
+      "surface": "יפרש",
+      "gloss": "разлаже"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "глупост"
+    }
+  ],
+  "timestamp": "2026-09-05T13:48:48.731574597Z",
+  "model": "glm-5.3"
+}

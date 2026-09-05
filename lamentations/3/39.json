@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "lamentations 3:39",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "Зашто да тужи човек жив, јунак, због греха свога?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Зашто"
+    },
+    {
+      "surface": "יתאונן",
+      "gloss": "да тужи"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човек"
+    },
+    {
+      "surface": "חי",
+      "gloss": "жив"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "јунак"
+    },
+    {
+      "surface": "על",
+      "gloss": "због"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "греха свога"
+    }
+  ],
+  "timestamp": "2026-09-05T14:09:35.117500479Z",
+  "model": "glm-5.3"
+}

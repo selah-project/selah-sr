@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 28:2",
+  "book": "deuteronomy",
+  "lang": "sr",
+  "chapter": 28,
+  "translation": "И доћи ће на тебе све благослови ови, и стићи ће те, јер слушаш глас Јахвеа, Елохима твог:",
+  "tokens": [
+    {
+      "surface": "ובאו",
+      "gloss": "и доћи ће"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "на тебе"
+    },
+    {
+      "surface": "כל",
+      "gloss": "све"
+    },
+    {
+      "surface": "הברכות",
+      "gloss": "благослови"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ови"
+    },
+    {
+      "surface": "והשיגך",
+      "gloss": "и стићи ће те"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "слушаш"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "глас"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Јахвеа"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Елохима твог"
+    }
+  ],
+  "timestamp": "2026-09-05T15:15:11.340434161Z",
+  "model": "glm-5.3"
+}

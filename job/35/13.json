@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 35:13",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 35,
+  "translation": "Сигурно узалудност не чује Ел, и Шадај неће да је види.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "сигурно"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "узалудност"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "чује"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "ושדי",
+      "gloss": "и Шадај"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישורנה",
+      "gloss": "да је види"
+    }
+  ],
+  "timestamp": "2026-09-05T14:04:01.035927222Z",
+  "model": "glm-5.3"
+}

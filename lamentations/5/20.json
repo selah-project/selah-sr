@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 5:20",
+  "book": "lamentations",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Зашто нас заборављаш довека, напушташ нас ⟨на⟩ дуге дане?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "зашто"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "довека"
+    },
+    {
+      "surface": "תשכחנו",
+      "gloss": "нас заборављаш"
+    },
+    {
+      "surface": "תעזבנу",
+      "gloss": "нас напушташ"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "⟨на⟩ дуге"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дане"
+    }
+  ],
+  "timestamp": "2026-09-05T14:10:50.561661454Z",
+  "model": "glm-5.3"
+}

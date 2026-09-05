@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 37:12",
+  "book": "genesis",
+  "lang": "sr",
+  "chapter": 37,
+  "translation": "И отидоше браћа његова да пасу ⟨את⟩ стоку оца свог у Шхему.",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "отидоше"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "браћа његова"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "да пасу"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "стоку"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "стоку"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "оца свог"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "у Шхему"
+    }
+  ],
+  "timestamp": "2026-09-05T16:32:26.398664589Z",
+  "model": "glm-5.3"
+}

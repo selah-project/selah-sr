@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 11:6",
+  "book": "leviticus",
+  "lang": "sr",
+  "chapter": 11,
+  "translation": "И ⟨את⟩ зец, јер избацује ⟨она⟩ жвакање а копито не раздвоји — нечиста је она вама.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "зец"
+    },
+    {
+      "surface": "הארנבת",
+      "gloss": "зец"
+    },
+    {
+      "surface": "כי",
+      "gloss": "јер"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "избацује"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "жвакање"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨она⟩"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "а копито"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "הפריסה",
+      "gloss": "раздвоји"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "нечиста"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "је она"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вама"
+    }
+  ],
+  "timestamp": "2026-09-05T10:18:47.892557189Z",
+  "model": "glm-5.3"
+}

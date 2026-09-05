@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 3:19",
+  "book": "isaiah",
+  "lang": "sr",
+  "chapter": 3,
+  "translation": "висуљака, и наруквица, и копуља;",
+  "tokens": [
+    {
+      "surface": "הנטיפות",
+      "gloss": "висуљака"
+    },
+    {
+      "surface": "והשירות",
+      "gloss": "и наруквица"
+    },
+    {
+      "surface": "והרעלות",
+      "gloss": "и копуља"
+    }
+  ],
+  "timestamp": "2026-09-05T12:02:13.131431460Z",
+  "model": "glm-5.3"
+}

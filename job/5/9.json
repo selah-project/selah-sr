@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 5:9",
+  "book": "job",
+  "lang": "sr",
+  "chapter": 5,
+  "translation": "Који чини велика дела без истраживања, чудеса до без броја.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "чињаше"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "велика дела"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и нема"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "истраживања"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "чудеса"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "אין",
+      "gloss": "без"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "броја"
+    }
+  ],
+  "timestamp": "2026-09-05T13:56:05.170644930Z",
+  "model": "glm-5.3"
+}
