@@ -110,7 +110,7 @@
 
 ## Подржи Селах
 
-<https://selahproject.org>
+<https://selahproject.com>
 
 ---
 
