@@ -8,31 +8,31 @@
   "translation": "Мудар краљ веје зле, и врати ⟨на њих⟩ точак.",
   "tokens": [
     {
-      "surface": "мезарех",
+      "surface": "מזרה",
       "gloss": "веје"
     },
     {
-      "surface": "решаим",
+      "surface": "רשעים",
       "gloss": "зле"
     },
     {
-      "surface": "мелек",
+      "surface": "מלך",
       "gloss": "краљ"
     },
     {
-      "surface": "хакам",
+      "surface": "חכם",
       "gloss": "мудар"
     },
     {
-      "surface": "вајашев",
+      "surface": "וישב",
       "gloss": "и врати"
     },
     {
-      "surface": "алејхем",
+      "surface": "עליהם",
       "gloss": "на њих"
     },
     {
-      "surface": "офан",
+      "surface": "אופן",
       "gloss": "точак"
     }
   ],
